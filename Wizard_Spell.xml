@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+- phpMyAdmin XML Dump
+- version 4.5.2
+- https://www.phpmyadmin.net
+-
+- Host: localhost
+- Generation Time: Jan 05, 2016 at 09:57 AM
+- Server version: 5.6.27
+- PHP Version: 5.6.16
+-->
+
+<pma_xml_export version="1.0" xmlns:pma="http://www.phpmyadmin.net/some_doc_url/">
+    <!--
+    - Structure schemas
+    -->
+    <pma:structure_schemas>
+        <pma:database name="ADnD2nd" collation="latin1_swedish_ci" charset="latin1">
+            <pma:table name="Wizard_Spell">
+                CREATE TABLE `Wizard_Spell` (
+                  `id` int(11) NOT NULL AUTO_INCREMENT,
+                  `name` varchar(50) DEFAULT NULL,
+                  `school` varchar(50) DEFAULT NULL,
+                  `level` int(1) DEFAULT NULL,
+                  `ranged` varchar(50) DEFAULT NULL,
+                  `components` varchar(10) DEFAULT NULL,
+                  `duration` varchar(25) DEFAULT NULL,
+                  `casting_time` varchar(25) DEFAULT NULL,
+                  `area_of_effect` varchar(25) DEFAULT NULL,
+                  `saving_throw` varchar(15) DEFAULT NULL,
+                  `description` text,
+                  PRIMARY KEY (`id`)
+                ) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=latin1;
+            </pma:table>
+        </pma:database>
+    </pma:structure_schemas>
+
+    <!--
+    - Database: 'ADnD2nd'
+    -->
+    <database name="ADnD2nd">
+        <!-- Table Wizard_Spell -->
+        <table name="Wizard_Spell">
+            <column name="id">1</column>
+            <column name="name">Affect Normal Fires</column>
+            <column name="school">Alteration</column>
+            <column name="level">1</column>
+            <column name="ranged">5 yards/level</column>
+            <column name="components">V, S</column>
+            <column name="duration">2 Rounds/level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">10-foot radius</column>
+            <column name="saving_throw">None</column>
+            <column name="description">This spell enables the wizard to cause nonmagical fires-from as small as a torch or lantern to as large as the area of effect-to reduce in size and brightness to become mere coals or increase in light to become as bright as full daylight and increase the illumination to double the normal radius. Note that this does not affect either fuel consumption or damage caused by the fire. The caster can affect any or all fires in the spell's area. He can alter their intensities with a single gesture as long as the spell is in effect. The spell lasts until the caster cancels it, all fuel is burned, or the duration expires. The caster can also extinguish all flames in the area, which expends the spell  immediately. The spell does not affect fire elementals or similar creatures.</column>
+        </table>
+        <table name="Wizard_Spell">
+            <column name="id">2</column>
+            <column name="name">Alarm</column>
+            <column name="school">Abjuration, Evocation</column>
+            <column name="level">1</column>
+            <column name="ranged">10 yards</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">4 hours + 1/2 hour/level</column>
+            <column name="casting_time">1 round</column>
+            <column name="area_of_effect">Up to a 20-foot cube</column>
+            <column name="saving_throw">None</column>
+            <column name="description">When an &lt;i&gt;alarm&lt;/i&gt; spell is cast, the wizard causes a selected area to react to the presence of any creature larger than a normal rat-anything larger than about one-half cubic foot in volume or more than about three pounds in weight. The area of effect can be a portal, a section of floor, stairs, etc. As soon as any creature enters the warded area, touches it, or otherwise contacts it without speaking a password established by the caster, the &lt;i&gt;alarm&lt;/i&gt; spell lets out a loud ringing that can be heard clearly within a 60-foot radius. (Reduce the radius by 10 feet for each interposing door and by 20 feet for each substantial interposing wall.) The sound lasts for one round and then ceases. Ethereal or astrally projected creatures do not trigger an alarm, but flying or levitating creatures, invisible creatures, or incorporeal or gaseous creatures do. The caster can dismiss the alarm with a single word.
+The material components of this spell are a tiny bell and a piece of very fine silver wire.</column>
+        </table>
+    </database>
+</pma_xml_export>
