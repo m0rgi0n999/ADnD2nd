@@ -134,52 +134,106 @@
             <column name="name">Change Self</column>
             <column name="school">Illusion/Phantasm</column>
             <column name="level">1</column>
-            <column name="ranged"></column>
-            <column name="components"></column>
-            <column name="duration"></column>
-            <column name="casting_time"></column>
-            <column name="area_of_effect"></column>
-            <column name="saving_throw"></column>
-            <column name="description"></column>
+            <column name="ranged">0</column>
+            <column name="components">V, S</column>
+            <column name="duration">2d6 rounds + 2 rounds/level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">The caster</column>
+            <column name="saving_throw">None</column>
+            <column name="description">This spell enables the wizard to alter the rance of his form-including clothing and equipment-to appear one foot shorter or taller; thin, fat, or in between; human, humanoid, or any other generally manshaped bipedal creature. The caster cannot duplicate a specific individual. The spell does not provide the abilities or mannerisms of the chosen form. The duration of the spell is 2d6 rounds plus two additional rounds per level of experience of the spellcaster. The DM may allow a saving throw for disbelief under certain circumstances: for example, if the caster acts in a manner obviously inconsistent with his chosen role. The spell does not alter the perceived tactile (i.e., touch) properties of the caster or his equipment, and the ruse can be discoverd in this way.
+            </column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">8</column>
             <column name="name">Charm Person</column>
-            <column name="school"></column>
+            <column name="school">Enchantment/Charm</column>
             <column name="level">1</column>
-            <column name="ranged"></column>
-            <column name="components"></column>
-            <column name="duration"></column>
-            <column name="casting_time"></column>
-            <column name="area_of_effect"></column>
-            <column name="saving_throw"></column>
-            <column name="description"></column>
+            <column name="ranged">120 yards</column>
+            <column name="components">V, S</column>
+            <column name="duration">Special</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">1 person</column>
+            <column name="saving_throw">Neg.</column>
+            <column name="description">This spell affects any single person it is cast upon. The term <i>person</i> includes any bipedal human, demihuman, or humanoid of man-size or smaller, such as brownies, dryads, dwarves, elves, gnolls, gnomes, goblins, half-elves, halflings, half-orcs, hobgoblins, humans, kobolds, lizard men, nixies, orcs, pixies, sprites, troglodytes, and others. Thus, a 10th-level fighter could be charmed, but an ogre could not.
+	          The person receives a saving throw vs. spell to avoid the effect, 	with any adjustment due to Wisdom (see Table 5). If the person receives damage from the caster group in the same round the <i>charm</i> is cas an additional bonus of +1 per hit point c damage received is added to the victim saving throw.
+	          If the spell recipient fails his savin throw, he regards the caster as a truste friend and ally to be heeded and protected. The spell does not enable the caster to con trol the charmed creature as if it were a automaton, but any word or action of th caster is viewed in the most favorable wa) Thus, a charmed person would not obey suicide command, but he might believe th caster if assured that the only chance to save the caster‘s life is for the person to hold bacl an onrushing red dragon for “just a round o two.” Note also that the spell does no endow the caster with linguistic capabilitie: beyond those he normally possesses (i.e., hc must speak the victim’s language to commu nicate his commands).
+	          The duration of the spell is a function of the charmed person’s Intelligence and is tiec to the saving throw. The spell may be  broken if a successful saving throw is rolled, and this saving throw is checked on a periodic basis, according to the creature’s Intelligence (see the following table). If the caster harms, or attempts to harm, the charmed person by some overt action, or if a dispel magic spell is successfully cast upon the charmed person, the charm spell is broken.
+	          If two or more <i>charm</i> effects simultaneously affect a creature, the result is decided by the DM. This could range from one effect being clearly dominant, to the subject being tom by conflicting desires, to new saving throws that could negate both spells.
+	          Note that the subject has full memory of the events that took place while he was harmed.
+            <table>
+              <tr>
+                <th align=center>Intelligence Score</th>
+		            <th align=center>Time Between Checks</th>
+	            </tr>
+              <tr>
+		            <td align=center>3 or less</td>
+		            <td align=center>3 months</td>
+	            </tr>
+              <tr>
+                <td align=center>4 to 6</td>
+                <td align=center>2 months</td>
+            	</tr>
+              <tr>
+                <td align=center>7 to 9</td>
+                <td align=center>1 month</td>
+              </tr>
+              <tr>
+                <td align=center>10 to 12</td>
+                <td align=center>3 weeks</td>
+              </tr>
+              <tr>
+                <td align=center>13 to 14</td>
+                <td align=center>2 weeks</td>
+              </tr>
+              <tr>
+                <td align=center>15 to 16</td>
+                <td align=center>1 week</td>
+              </tr>
+              <tr>
+                <td align=center>17</td>
+                <td align=center>3 days</td>
+              </tr>
+              <tr>
+                <td align=center>18</td>
+                <td align=center>2 days</td>
+              </tr>
+              <tr>
+                <td align=center>19 or more</td>
+                <td align=center>1 day</td>
+              </tr>
+              </table>
+              <b>Note:</b> The period between checks is the [me period during which the check occurs. Vhen to roll the check during this time is etermined (randomly or by selection) by le DM. The roll is made secretly.
+            </column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">9</column>
             <column name="name">Chill Touch</column>
-            <column name="school"></column>
+            <column name="school">Necromancy</column>
             <column name="level">1</column>
-            <column name="ranged"></column>
-            <column name="components"></column>
-            <column name="duration"></column>
-            <column name="casting_time"></column>
-            <column name="area_of_effect"></column>
-            <column name="saving_throw"></column>
-            <column name="description"></column>
+            <column name="ranged">0</column>
+            <column name="components">V, S</column>
+            <column name="duration">3 rounds + 1 round/level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">The caster</column>
+            <column name="saving_throw">Neg.</column>
+            <column name="description">When the caster completes this spell, a blue glow encompasses his hand. This energy attacks the life force of any living creature upon which the wizard makes a successful melee attack. The touched mature must roll a successful saving throw vs. spell or suffer ld4 points of damage and lose 1 point of Strength. If the save is successful, the creature remains unharmed. Creatures not rated for Strength suffer a -1 penalty to their attack rolls for every other successful touch. Lost Strength returns at the rate of 1 point per hour. Damage must be cured magically or healed naturally.
+            This spell has a special effect on undead creatures. Undead touched by the caster suffer no damage or Strength loss, but they must successfully save vs. spell or flee for 1d4 rounds + 1 round per level of the caster.
+            </column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">10</column>
             <column name="name">Color Spray</column>
-            <column name="school"></column>
+            <column name="school">Alteration</column>
             <column name="level">1</column>
-            <column name="ranged"></column>
-            <column name="components"></column>
-            <column name="duration"></column>
-            <column name="casting_time"></column>
-            <column name="area_of_effect"></column>
-            <column name="saving_throw"></column>
-            <column name="description"></column>
+            <column name="ranged">0</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">Instantaneous</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">5’ x 20’ x 20’ wedge</column>
+            <column name="saving_throw">Special</column>
+            <column name="description">Upon casting this spell, the wizard causes a vivid, fan-shaped spray of clashing colors o spring forth from his hand. From one to six creatures (1d6) within the area are affected in order of increasing distance from the wizard. All creatures above the level of the pellcaster and all those of 6th level or 6 Hit Dice or more are entitled to a saving throw ‘s. spell. Blind or unseeing creatures are not affected by the spell.
+	          Creatures not allowed or failing saving hrows, and whose Hit Dice or levels are less han or equal to the spellcaster’s level, are struck unconscious for 2d4 rounds; those with Hit Dice or levels 1 or 2 greater than be wizard’s level are blinded for ld4 mnds; those with Hit Dice or levels 3 or more greater than that of the spellcaster are stunned (reeling and unable to think or act coherently) for one round. The material components of this spell are a pinch each of powder or sand that is colored red, yellow, and blue.
+            </column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">11</column>
