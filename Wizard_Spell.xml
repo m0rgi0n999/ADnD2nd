@@ -24,7 +24,7 @@
                   `level` int(1) DEFAULT NULL,
                   `ranged` varchar(50) DEFAULT NULL,
                   `components` varchar(10) DEFAULT NULL,
-                  `duration` varchar(25) DEFAULT NULL,
+                  `duration` varchar(50) DEFAULT NULL,
                   `casting_time` varchar(25) DEFAULT NULL,
                   `area_of_effect` varchar(25) DEFAULT NULL,
                   `saving_throw` varchar(15) DEFAULT NULL,
