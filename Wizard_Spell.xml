@@ -5,7 +5,7 @@
 - https://www.phpmyadmin.net
 -
 - Host: localhost
-- Generation Time: Jan 05, 2016 at 09:57 AM
+- Generation Time: Jan 07, 2016 at 04:38 PM
 - Server version: 5.6.27
 - PHP Version: 5.6.16
 -->
@@ -29,8 +29,9 @@
                   `area_of_effect` varchar(25) DEFAULT NULL,
                   `saving_throw` varchar(15) DEFAULT NULL,
                   `description` text,
+                  `Reversible` tinyint(1) NOT NULL,
                   PRIMARY KEY (`id`)
-                ) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=latin1;
+                ) ENGINE=InnoDB AUTO_INCREMENT=46 DEFAULT CHARSET=latin1;
             </pma:table>
         </pma:database>
     </pma:structure_schemas>
@@ -53,6 +54,7 @@
             <column name="saving_throw">None</column>
             <column name="description">This spell enables the wizard to cause nonmagical fires-from as small as a torch or lantern to as large as the area of effect-to reduce in size and brightness to become mere coals or increase in light to become as bright as full daylight and increase the illumination to double the normal radius. Note that this does not affect either fuel consumption or damage caused by the fire. The caster can affect any or all fires in the spell's area. He can alter their intensities with a single gesture as long as the spell is in effect. The spell lasts until the caster cancels it, all fuel is burned, or the duration expires. The caster can also extinguish all flames in the area, which expends the spell  immediately. The spell does not affect fire elementals or similar creatures.
             </column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">2</column>
@@ -65,9 +67,10 @@
             <column name="casting_time">1 round</column>
             <column name="area_of_effect">Up to a 20-foot cube</column>
             <column name="saving_throw">None</column>
-            <column name="description">When an <i>alarm</i> spell is cast, the wizard causes a selected area to react to the presence of any creature larger than a normal rat-anything larger than about one-half cubic foot in volume or more than about three pounds in weight. The area of effect can be a portal, a section of floor, stairs, etc. As soon as any creature enters the warded area, touches it, or otherwise contacts it without speaking a password established by the caster, the <i>alarm</i> spell lets out a loud ringing that can be heard clearly within a 60-foot radius. (Reduce the radius by 10 feet for each interposing door and by 20 feet for each substantial interposing wall.) The sound lasts for one round and then ceases. Ethereal or astrally projected creatures do not trigger an alarm, but flying or levitating creatures, invisible creatures, or incorporeal or gaseous creatures do. The caster can dismiss the alarm with a single word.
+            <column name="description">When an  spell is cast, the wizard causes a selected area to react to the presence of any creature larger than a normal rat-anything larger than about one-half cubic foot in volume or more than about three pounds in weight. The area of effect can be a portal, a section of floor, stairs, etc. As soon as any creature enters the warded area, touches it, or otherwise contacts it without speaking a password established by the caster, the  spell lets out a loud ringing that can be heard clearly within a 60-foot radius. (Reduce the radius by 10 feet for each interposing door and by 20 feet for each substantial interposing wall.) The sound lasts for one round and then ceases. Ethereal or astrally projected creatures do not trigger an alarm, but flying or levitating creatures, invisible creatures, or incorporeal or gaseous creatures do. The caster can dismiss the alarm with a single word.
             The material components of this spell are a tiny bell and a piece of very fine silver wire.
             </column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">3</column>
@@ -80,9 +83,10 @@
             <column name="casting_time">1 round</column>
             <column name="area_of_effect">1 creature</column>
             <column name="saving_throw">None</column>
-            <column name="description">By means of this spell, the wizards creates a magical field of force that servers as aif it were scale mail armor (AC 6). The spell has no effect on a person already armored or a creature with Armor Class 6 or better. It is not cumulative with the <i>shield</i> spell, but it is cumulative with Dexterity and, in the case of fighter/mages, with the shield bonus. The <i>armor</i> spell does not hinder movement, adds no weight or encumbrance, nor does it prevent spellcasting. It lasts until successfully dispelled or until the wearer sustains cumulative damage totaling greater than 8 point +1 per level of the caster. (It is important to note that the armor does <i>not</i> absorb this damage. The armor merely grants an AC of 6; the wearer still suffers full damage from any successfull attacks.) Thus, the wearer might suffer 8 points from an attack, then several minutes later sustain an additional 1 point of damage. Unless the spell were cast by a wizard of 2nd level or higher, it would be dispelled at this time. Until it is dispelled, the <i>armor</i> spellgrants the wearer full benefits of the Armor Class gained.
+            <column name="description">By means of this spell, the wizards creates a magical field of force that servers as aif it were scale mail armor (AC 6). The spell has no effect on a person already armored or a creature with Armor Class 6 or better. It is not cumulative with the  spell, but it is cumulative with Dexterity and, in the case of fighter/mages, with the shield bonus. The  spell does not hinder movement, adds no weight or encumbrance, nor does it prevent spellcasting. It lasts until successfully dispelled or until the wearer sustains cumulative damage totaling greater than 8 point +1 per level of the caster. (It is important to note that the armor does  absorb this damage. The armor merely grants an AC of 6; the wearer still suffers full damage from any successfull attacks.) Thus, the wearer might suffer 8 points from an attack, then several minutes later sustain an additional 1 point of damage. Unless the spell were cast by a wizard of 2nd level or higher, it would be dispelled at this time. Until it is dispelled, the  spellgrants the wearer full benefits of the Armor Class gained.
             The material component is a piece of finely cured leather that has been blessed by a priest.
             </column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">4</column>
@@ -95,10 +99,11 @@
             <column name="casting_time">1</column>
             <column name="area_of_effect">Hearing range</column>
             <column name="saving_throw">Special</column>
-            <column name="description">When the <i>audible glamer</i> spell is cast, wizard causes a volume of sound to arise, at whatever distance he desires (within range), and seem to recede, approach, or remain at a fixed place as desired. The volume of sound created, however, is directly related to the level of the spellcaster. The volume is based upon the lowest level at which the spell can be cast, 1st level. The noise of the <i>audible glamer</i> at this level is that of four men, maximum. Each additional experience level of the wizard adds a like volume, so that at 2nd level the wizard can have the spell cause sound equal to that of eight men. Thus, talking, singing, shouting, walking, marching, or running sounds can be created. The auditory illusion created by an <i>audible glamer</i> spell can be virtually any type of sound, but the relative volume must be commensurate with the level of the wizard casting the spell. A horde of rats running and squeaking is about the same volume as eight men running and shouting. A roaring lion is equal to the noise volume of 16 men, while a roaring dragon is equal to the noise volume of no fewer than 24 men.
-            A character stating that he does not believe the sound receives a saving throw, and if it succeeds, the character then hears a faint and obviously false sound, emanating from the caster's direction. Note that this spell can enhance the effectiveness of the <i>phantasmal force</i> spell.
+            <column name="description">When the  spell is cast, wizard causes a volume of sound to arise, at whatever distance he desires (within range), and seem to recede, approach, or remain at a fixed place as desired. The volume of sound created, however, is directly related to the level of the spellcaster. The volume is based upon the lowest level at which the spell can be cast, 1st level. The noise of the  at this level is that of four men, maximum. Each additional experience level of the wizard adds a like volume, so that at 2nd level the wizard can have the spell cause sound equal to that of eight men. Thus, talking, singing, shouting, walking, marching, or running sounds can be created. The auditory illusion created by an  spell can be virtually any type of sound, but the relative volume must be commensurate with the level of the wizard casting the spell. A horde of rats running and squeaking is about the same volume as eight men running and shouting. A roaring lion is equal to the noise volume of 16 men, while a roaring dragon is equal to the noise volume of no fewer than 24 men.
+            A character stating that he does not believe the sound receives a saving throw, and if it succeeds, the character then hears a faint and obviously false sound, emanating from the caster's direction. Note that this spell can enhance the effectiveness of the  spell.
             The material component of the spell is a bit of wool or a small lump of wax.
             </column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">5</column>
@@ -113,6 +118,7 @@
             <column name="saving_throw">1/2</column>
             <column name="description">When the wizard casts this spell, a jet of searing flame shoots from his fingertips. His hands must be held so as to send forth a fan-like sheet of flames: the wizard's thumbs must touch each other abd the fingers must be spread. The burning hands send out flame jets of five-foot length in a horizontal arc of about 120 degrees in front of the wizard. Any creature in the area of the flames suffer 1d3 hit points of damage, plus 2 points for each level of experience of the spell-caster, to a maximum of 1s3 + 20 points of fire damage. Those successfully saving vs. spell receive half damage. Flammable materials touched by the fire burn (e.g., cloth, paper, parchment, thin wood, etc.). Such materials can be extinguished in the next round if no other action is taken.
             </column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">6</column>
@@ -125,9 +131,10 @@
             <column name="casting_time">1</column>
             <column name="area_of_effect">Special</column>
             <column name="saving_throw">None</column>
-            <column name="description">Cantrips are minor spells studied by wizards during their apprenticeship, regardless of school. The <i>cantrip</i> spell is a practice method for the apprentice, teaching him how to tap minute amounts of magical energy. Once cast, the <i>cantrip</i> spell enables the caster to create minor magical effects for the duration of the spell. So minor are these effects that they have severe limitations. They are completely unable to cause a loss of hit points, cannot affect the concentration of spellcasters, and can only create small, obviously magical materials. Furthermore, materials created by a cantrip are extremely fragile and cannot be used as tools of any sort. Lastly, a cantrip lacks the power to duplicate any other spell effects.
-            Whatever manifestation the cantrip takes, it remains in effect only as long as the wizard concentrates. Wizards typically us cantrips to impress common folk, amuse children, and brighten dreary lives. Common tricks with cantrips include tinklings of ethereal music, brightening faded flowers, glowing balls that float over the caster’s hand, puffs of wind to flicker candles, spicing up aromas and flavors of bland food, and little whirlwinds to sweep dust under rugs. Combined with the <i>unseen servant</i> spell, these are the tools to make housekeeping and entertaining simpler for the wizard.
+            <column name="description">Cantrips are minor spells studied by wizards during their apprenticeship, regardless of school. The  spell is a practice method for the apprentice, teaching him how to tap minute amounts of magical energy. Once cast, the  spell enables the caster to create minor magical effects for the duration of the spell. So minor are these effects that they have severe limitations. They are completely unable to cause a loss of hit points, cannot affect the concentration of spellcasters, and can only create small, obviously magical materials. Furthermore, materials created by a cantrip are extremely fragile and cannot be used as tools of any sort. Lastly, a cantrip lacks the power to duplicate any other spell effects.
+            Whatever manifestation the cantrip takes, it remains in effect only as long as the wizard concentrates. Wizards typically us cantrips to impress common folk, amuse children, and brighten dreary lives. Common tricks with cantrips include tinklings of ethereal music, brightening faded flowers, glowing balls that float over the caster’s hand, puffs of wind to flicker candles, spicing up aromas and flavors of bland food, and little whirlwinds to sweep dust under rugs. Combined with the  spell, these are the tools to make housekeeping and entertaining simpler for the wizard.
             </column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">7</column>
@@ -140,8 +147,9 @@
             <column name="casting_time">1</column>
             <column name="area_of_effect">The caster</column>
             <column name="saving_throw">None</column>
-            <column name="description">This spell enables the wizard to alter the rance of his form-including clothing and equipment-to appear one foot shorter or taller; thin, fat, or in between; human, humanoid, or any other generally manshaped bipedal creature. The caster cannot duplicate a specific individual. The spell does not provide the abilities or mannerisms of the chosen form. The duration of the spell is 2d6 rounds plus two additional rounds per level of experience of the spellcaster. The DM may allow a saving throw for disbelief under certain circumstances: for example, if the caster acts in a manner obviously inconsistent with his chosen role. The spell does not alter the perceived tactile (i.e., touch) properties of the caster or his equipment, and the ruse can be discoverd in this way.
+            <column name="description">This spell enables the wizard to alter the apearance of his form-including clothing and equipment-to appear one foot shorter or taller; thin, fat, or in between; human, humanoid, or any other generally manshaped bipedal creature. The caster cannot duplicate a specific individual. The spell does not provide the abilities or mannerisms of the chosen form. The duration of the spell is 2d6 rounds plus two additional rounds per level of experience of the spellcaster. The DM may allow a saving throw for disbelief under certain circumstances: for example, if the caster acts in a manner obviously inconsistent with his chosen role. The spell does not alter the perceived tactile (i.e., touch) properties of the caster or his equipment, and the ruse can be discoverd in this way.
             </column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">8</column>
@@ -154,16 +162,59 @@
             <column name="casting_time">1</column>
             <column name="area_of_effect">1 person</column>
             <column name="saving_throw">Neg.</column>
-            <column name="description">This spell affects any single person it is cast upon. The term <i>person</i> includes any bipedal human, demihuman, or humanoid of man-size or smaller, such as brownies, dryads, dwarves, elves, gnolls, gnomes, goblins, half-elves, halflings, half-orcs, hobgoblins, humans, kobolds, lizard men, nixies, orcs, pixies, sprites, troglodytes, and others. Thus, a 10th-level fighter could be charmed, but an ogre could not.
-	          The person receives a saving throw vs. spell to avoid the effect, 	with any adjustment due to Wisdom (see Table 5). If the person receives damage from the caster group in the same round the <i>charm</i> is cas an additional bonus of +1 per hit point c damage received is added to the victim saving throw.
-	          If the spell recipient fails his savin throw, he regards the caster as a truste friend and ally to be heeded and protected. The spell does not enable the caster to con trol the charmed creature as if it were a automaton, but any word or action of th caster is viewed in the most favorable wa) Thus, a charmed person would not obey suicide command, but he might believe th caster if assured that the only chance to save the caster‘s life is for the person to hold bacl an onrushing red dragon for “just a round o two.” Note also that the spell does no endow the caster with linguistic capabilitie: beyond those he normally possesses (i.e., hc must speak the victim’s language to commu nicate his commands).
-	          The duration of the spell is a function of the charmed person’s Intelligence and is tiec to the saving throw. The spell may be  broken if a successful saving throw is rolled, and this saving throw is checked on a periodic basis, according to the creature’s Intelligence (see the following table). If the caster harms, or attempts to harm, the charmed person by some overt action, or if a dispel magic spell is successfully cast upon the charmed person, the charm spell is broken.
-	          If two or more <i>charm</i> effects simultaneously affect a creature, the result is decided by the DM. This could range from one effect being clearly dominant, to the subject being tom by conflicting desires, to new saving throws that could negate both spells.
-	          Note that the subject has full memory of the events that took place while he was harmed.
+            <column name="description">This spell affects any single person it is cast upon. The term  includes any bipedal human, demi-human, or humanoid of man-size or smaller, such as brownies, dryads, dwarves, elves, gnolls, gnomes, goblins, half-elves, halflings, half-orcs, hobgoblins, humans, kobolds, lizard men, nixies, orcs, pixies, sprites, troglodytes, and others. Thus, a 10th-level fighter could be charmed, but an ogre could not.
+The person receives a saving throw vs. spell to avoid the effect, with any adjustment due to Wisdom (see Table 5). If the person receives damage from the caster group in the same round the  is case an additional bonus of +1 per hit point c damage received is added to the victim saving throw.
+If the spell recipient fails his saving throw, he regards the caster as a trusted friend and ally to be heeded and protected. The spell does not enable the caster to control the charmed creature as if it were a automaton, but any word or action of the caster is viewed in the most favorable way. Thus, a charmed person would not obey suicide command, but he might believe the caster if assured that the only chance to save the caster‘s life is for the person to hold back an onrushing red dragon for “just a round o two.” Note also that the spell does no endow the caster with linguistic capabilities beyond those he normally possesses (i.e., he must speak the victim’s language to communicate his commands).
+The duration of the spell is a function of the charmed person’s Intelligence and is tied to the saving throw. The spell may be  broken if a successful saving throw is rolled, and this saving throw is checked on a periodic basis, according to the creature’s Intelligence (see the following table). If the caster harms, or attempts to harm, the charmed person by some overt action, or if a dispel magic spell is successfully cast upon the charmed person, the charm spell is broken.
+If two or more  effects simultaneously affect a creature, the result is decided by the DM. This could range from one effect being clearly dominant, to the subject being tom by conflicting desires, to new saving throws that could negate both spells.
+Note that the subject has full memory of the events that took place while he was harmed.
 
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th align=center&gt;Intelligence Score&lt;/th&gt;
+	&lt;th align=center&gt;Time Between Checks&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+	&lt;td align=center&gt;3 or less&lt;/td&gt;
+	&lt;td align=center&gt;3 months&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td align=center&gt;4 to 6&lt;/td&gt;
+        &lt;td align=center&gt;2 months&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td align=center&gt;7 to 9&lt;/td&gt;
+        &lt;td align=center&gt;1 month&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td align=center&gt;10 to 12&lt;/td&gt;
+        &lt;td align=center&gt;3 weeks&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td align=center&gt;13 to 14&lt;/td&gt;
+        &lt;td align=center&gt;2 weeks&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td align=center&gt;15 to 16&lt;/td&gt;
+        &lt;td align=center&gt;1 week&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td align=center&gt;17&lt;/td&gt;
+        &lt;td align=center&gt;3 days&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td align=center&gt;18&lt;/td&gt;
+        &lt;td align=center&gt;2 days&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td align=center&gt;19 or more&lt;/td&gt;
+        &lt;td align=center&gt;1 day&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
 
-            <b>Note:</b> The period between checks is the [me period during which the check occurs. Vhen to roll the check during this time is etermined (randomly or by selection) by le DM. The roll is made secretly.
+The period between checks is the [me period during which the check occurs. When to roll the check during this time is determined (randomly or by selection) by the DM. The roll is made secretly.
             </column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">9</column>
@@ -179,6 +230,7 @@
             <column name="description">When the caster completes this spell, a blue glow encompasses his hand. This energy attacks the life force of any living creature upon which the wizard makes a successful melee attack. The touched mature must roll a successful saving throw vs. spell or suffer ld4 points of damage and lose 1 point of Strength. If the save is successful, the creature remains unharmed. Creatures not rated for Strength suffer a -1 penalty to their attack rolls for every other successful touch. Lost Strength returns at the rate of 1 point per hour. Damage must be cured magically or healed naturally.
             This spell has a special effect on undead creatures. Undead touched by the caster suffer no damage or Strength loss, but they must successfully save vs. spell or flee for 1d4 rounds + 1 round per level of the caster.
             </column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">10</column>
@@ -194,10 +246,11 @@
             <column name="description">Upon casting this spell, the wizard causes a vivid, fan-shaped spray of clashing colors o spring forth from his hand. From one to six creatures (1d6) within the area are affected in order of increasing distance from the wizard. All creatures above the level of the pellcaster and all those of 6th level or 6 Hit Dice or more are entitled to a saving throw ‘s. spell. Blind or unseeing creatures are not affected by the spell.
 	          Creatures not allowed or failing saving hrows, and whose Hit Dice or levels are less han or equal to the spellcaster’s level, are struck unconscious for 2d4 rounds; those with Hit Dice or levels 1 or 2 greater than be wizard’s level are blinded for ld4 mnds; those with Hit Dice or levels 3 or more greater than that of the spellcaster are stunned (reeling and unable to think or act coherently) for one round. The material components of this spell are a pinch each of powder or sand that is colored red, yellow, and blue.
             </column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">11</column>
-            <column name="name"><i>Comprehend Languages</i></column>
+            <column name="name">Comprehend Languages</column>
             <column name="school">NULL</column>
             <column name="level">1</column>
             <column name="ranged">NULL</column>
@@ -207,6 +260,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">1</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">12</column>
@@ -220,6 +274,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">13</column>
@@ -233,6 +288,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">14</column>
@@ -246,10 +302,11 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">15</column>
-            <column name="name"><i>Enlarge</i></column>
+            <column name="name">Enlarge</column>
             <column name="school">NULL</column>
             <column name="level">1</column>
             <column name="ranged">NULL</column>
@@ -259,6 +316,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">1</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">16</column>
@@ -272,6 +330,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">17</column>
@@ -285,6 +344,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">18</column>
@@ -298,6 +358,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">19</column>
@@ -311,6 +372,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">20</column>
@@ -324,6 +386,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">21</column>
@@ -337,6 +400,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">22</column>
@@ -350,6 +414,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">23</column>
@@ -363,6 +428,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">24</column>
@@ -376,6 +442,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">25</column>
@@ -389,6 +456,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">26</column>
@@ -402,6 +470,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">27</column>
@@ -415,6 +484,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">28</column>
@@ -428,6 +498,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">29</column>
@@ -441,6 +512,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">30</column>
@@ -454,6 +526,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">31</column>
@@ -467,6 +540,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">32</column>
@@ -480,10 +554,11 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">33</column>
-            <column name="name"><i>Protection From Evil</i></column>
+            <column name="name">Protection From Evil</column>
             <column name="school">NULL</column>
             <column name="level">1</column>
             <column name="ranged">NULL</column>
@@ -493,6 +568,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">1</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">34</column>
@@ -506,6 +582,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">35</column>
@@ -519,6 +596,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">36</column>
@@ -532,6 +610,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">37</column>
@@ -545,6 +624,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">38</column>
@@ -558,6 +638,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">39</column>
@@ -571,6 +652,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">40</column>
@@ -584,6 +666,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">41</column>
@@ -597,6 +680,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">42</column>
@@ -610,6 +694,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">43</column>
@@ -623,6 +708,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">44</column>
@@ -636,6 +722,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">45</column>
@@ -649,21 +736,7 @@
             <column name="area_of_effect">NULL</column>
             <column name="saving_throw">NULL</column>
             <column name="description">NULL</column>
+            <column name="Reversible">0</column>
         </table>
     </database>
 </pma_xml_export>
-<!--
-        <table name="Wizard_Spell">
-            <column name="id">NULL</column>
-            <column name="name">NULL</column>
-            <column name="school">NULL</column>
-            <column name="level">NULL</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
-        </table>
--->
