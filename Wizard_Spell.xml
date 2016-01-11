@@ -427,29 +427,32 @@ The period between checks is the [me period during which the check occurs. When 
         <table name="Wizard_Spell">
             <column name="id">19</column>
             <column name="name">Friends</column>
-            <column name="school">NULL</column>
+            <column name="school">Enchantment/Charm</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">0</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">1d4 rounds + 1 round/level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">60-foot radius</column>
+            <column name="saving_throw">Special</column>
+            <column name="description">A friends spell causes the wizard to temporarily gain 2d4 points of Charisma. Intelligent creatures within the area of effect at the time the spell is cast must make immediate reaction checks based on the character’s new Charisma. Those with favorable reactions tend to be very impressed with the spellcaster and make an effort to be his friends and help him, as appropriate to the situation. Officious bureaucrats might decide to become helpful; surly gate guards might wax informative; attacking orcs might spare the caster’s life, taking him captive instead. When the spell wears off, the creatures realize that they have been influenced, and their reactions are determined by he DM.
+			The components for this spell are chalk (or white flour), lampblack (or soot), and vermilion applied to the face before casting the spell
+			</column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">20</column>
             <column name="name">Gaze Reflection</column>
-            <column name="school">NULL</column>
+            <column name="school">Alteration</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">0</column>
+            <column name="components">V, S</column>
+            <column name="duration">2 rounds + 1 round/level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">Special</column>
+            <column name="saving_throw">None</column>
+            <column name="description">The &lt;i&gt;gaze reflection&lt;/i&gt; spell creates a shimmering, mirror-like area of air before the wizard that moves with the caster. Any gaze attack, such as that of a basilisk, &lt;i&gt;eyes of charming&lt;/i&gt;, a vampire's gaze, the 6th-level &lt;i&gt;eyebite&lt;/i&gt; spell, and so on, is reflected back upon the gazer if the gazer tries to make eye contact with the spellcaster (the spellcaster suffers no effects from the gaze attack). Such creatures receive a saving throw vs. their own gaze effect. The spell does not affect vision or lighting and is not effective against creatures whose effect comes from being gazed upon (such as a medusa). Only active gaze attacks are blocked by this spell.
+			</column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
