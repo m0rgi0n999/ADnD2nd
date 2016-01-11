@@ -458,15 +458,17 @@ The period between checks is the [me period during which the check occurs. When 
         <table name="Wizard_Spell">
             <column name="id">21</column>
             <column name="name">Grease</column>
-            <column name="school">NULL</column>
+            <column name="school">Conjuration</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">10 yards</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">3 rounds + 1 round/level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">10' x 10' square area</column>
+            <column name="saving_throw">Special</column>
+            <column name="description">A &lt;i&gt;grease&lt;/i&gt; spell covers a material surface with a slippery layer of a fatty, greasy nature. Any creature entering the area or caught in it when the spell is cast must save vs. spell or slip, skid, and fall. Those who successfully save can reach the nearest non-&lt;i&gt;grease&lt;/i&gt; surface by the end of the round. Those who remain in the area are allowed a saving throw each round until they escape the area. The DM should adjust saving throws by circumstance; for example, a creature charging down an incline that is suddenly &lt;i&gt;greased&lt;/i&gt; has little chance to avoid the effect, but its ability to exit the affected area is almost assured! The spell can also be used to create a greasy coating on an item-a rope, ladder rungs, weapon handle, etc. Material objects not in use are always affected by this spell, while creatures wielding or employing items receive a saving throw vs. spell to avoid the effect. If the initial saveing throw is failed, the creature immediately drops the item. A saving must be made each round the creature attemps to use the &lt;i&gt;greased&lt;/i&gt; item. The caster can end the effect with a single utterance; otherwise it lasts for three rounds plus one round per level.
+            The material component of the spell is a bit of pork rind or butter.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
