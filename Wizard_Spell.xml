@@ -67,7 +67,7 @@
             <column name="casting_time">1 round</column>
             <column name="area_of_effect">Up to a 20-foot cube</column>
             <column name="saving_throw">None</column>
-            <column name="description">When an  spell is cast, the wizard causes a selected area to react to the presence of any creature larger than a normal rat-anything larger than about one-half cubic foot in volume or more than about three pounds in weight. The area of effect can be a portal, a section of floor, stairs, etc. As soon as any creature enters the warded area, touches it, or otherwise contacts it without speaking a password established by the caster, the  spell lets out a loud ringing that can be heard clearly within a 60-foot radius. (Reduce the radius by 10 feet for each interposing door and by 20 feet for each substantial interposing wall.) The sound lasts for one round and then ceases. Ethereal or astrally projected creatures do not trigger an alarm, but flying or levitating creatures, invisible creatures, or incorporeal or gaseous creatures do. The caster can dismiss the alarm with a single word.
+            <column name="description">When an &lt;i&gt;alarm&lt;/i&gt; spell is cast, the wizard causes a selected area to react to the presence of any creature larger than a normal rat-anything larger than about one-half cubic foot in volume or more than about three pounds in weight. The area of effect can be a portal, a section of floor, stairs, etc. As soon as any creature enters the warded area, touches it, or otherwise contacts it without speaking a password established by the caster, the &lt;i&gt;alarm&lt;/i&gt; spell lets out a loud ringing that can be heard clearly within a 60-foot radius. (Reduce the radius by 10 feet for each interposing door and by 20 feet for each substantial interposing wall.) The sound lasts for one round and then ceases. Ethereal or astrally projected creatures do not trigger an alarm, but flying or levitating creatures, invisible creatures, or incorporeal or gaseous creatures do. The caster can dismiss the alarm with a single word.
             The material components of this spell are a tiny bell and a piece of very fine silver wire.
             </column>
             <column name="Reversible">0</column>
@@ -83,7 +83,7 @@
             <column name="casting_time">1 round</column>
             <column name="area_of_effect">1 creature</column>
             <column name="saving_throw">None</column>
-            <column name="description">By means of this spell, the wizards creates a magical field of force that servers as aif it were scale mail armor (AC 6). The spell has no effect on a person already armored or a creature with Armor Class 6 or better. It is not cumulative with the  spell, but it is cumulative with Dexterity and, in the case of fighter/mages, with the shield bonus. The  spell does not hinder movement, adds no weight or encumbrance, nor does it prevent spellcasting. It lasts until successfully dispelled or until the wearer sustains cumulative damage totaling greater than 8 point +1 per level of the caster. (It is important to note that the armor does  absorb this damage. The armor merely grants an AC of 6; the wearer still suffers full damage from any successfull attacks.) Thus, the wearer might suffer 8 points from an attack, then several minutes later sustain an additional 1 point of damage. Unless the spell were cast by a wizard of 2nd level or higher, it would be dispelled at this time. Until it is dispelled, the  spellgrants the wearer full benefits of the Armor Class gained.
+            <column name="description">By means of this spell, the wizards creates a magical field of force that servers as if it were scale mail armor (AC 6). The spell has no effect on a person already armored or a creature with Armor Class 6 or better. It is not cumulative with the &lt;i&gt;shield&lt;/i&gt; spell, but it is cumulative with Dexterity and, in the case of fighter/mages, with the shield bonus. The &lt;i&gt;armor&lt;/i&gt; spell does not hinder movement, adds no weight or encumbrance, nor does it prevent spellcasting. It lasts until successfully dispelled or until the wearer sustains cumulative damage totaling greater than 8 point +1 per level of the caster. (It is important to note that the armor does  absorb this damage. The armor merely grants an AC of 6; the wearer still suffers full damage from any successfull attacks.) Thus, the wearer might suffer 8 points from an attack, then several minutes later sustain an additional 1 point of damage. Unless the spell were cast by a wizard of 2nd level or higher, it would be dispelled at this time. Until it is dispelled, the &lt;i&gt;armor&lt;/i&gt; spell grants the wearer full benefits of the Armor Class gained.
             The material component is a piece of finely cured leather that has been blessed by a priest.
             </column>
             <column name="Reversible">0</column>
@@ -99,8 +99,8 @@
             <column name="casting_time">1</column>
             <column name="area_of_effect">Hearing range</column>
             <column name="saving_throw">Special</column>
-            <column name="description">When the  spell is cast, wizard causes a volume of sound to arise, at whatever distance he desires (within range), and seem to recede, approach, or remain at a fixed place as desired. The volume of sound created, however, is directly related to the level of the spellcaster. The volume is based upon the lowest level at which the spell can be cast, 1st level. The noise of the  at this level is that of four men, maximum. Each additional experience level of the wizard adds a like volume, so that at 2nd level the wizard can have the spell cause sound equal to that of eight men. Thus, talking, singing, shouting, walking, marching, or running sounds can be created. The auditory illusion created by an  spell can be virtually any type of sound, but the relative volume must be commensurate with the level of the wizard casting the spell. A horde of rats running and squeaking is about the same volume as eight men running and shouting. A roaring lion is equal to the noise volume of 16 men, while a roaring dragon is equal to the noise volume of no fewer than 24 men.
-            A character stating that he does not believe the sound receives a saving throw, and if it succeeds, the character then hears a faint and obviously false sound, emanating from the caster's direction. Note that this spell can enhance the effectiveness of the  spell.
+            <column name="description">When the &lt;i&gt;audible glamer&lt;/i&gt; spell is cast, wizard causes a volume of sound to arise, at whatever distance he desires (within range), and seem to recede, approach, or remain at a fixed place as desired. The volume of sound created, however, is directly related to the level of the spellcaster. The volume is based upon the lowest level at which the spell can be cast, 1st level. The noise of the &lt;i&gt;audible glamer&lt;/i&gt; at this level is that of four men, maximum. Each additional experience level of the wizard adds a like volume, so that at 2nd level the wizard can have the spell cause sound equal to that of eight men. Thus, talking, singing, shouting, walking, marching, or running sounds can be created. The auditory illusion created by an &lt;i&gt;audible glamer&lt;/i&gt; spell can be virtually any type of sound, but the relative volume must be commensurate with the level of the wizard casting the spell. A horde of rats running and squeaking is about the same volume as eight men running and shouting. A roaring lion is equal to the noise volume of 16 men, while a roaring dragon is equal to the noise volume of no fewer than 24 men.
+            A character stating that he does not believe the sound receives a saving throw, and if it succeeds, the character then hears a faint and obviously false sound, emanating from the caster's direction. Note that this spell can enhance the effectiveness of the &lt;i&gt;phantasmal force&lt;/i&gt; spell.
             The material component of the spell is a bit of wool or a small lump of wax.
             </column>
             <column name="Reversible">0</column>
@@ -131,7 +131,7 @@
             <column name="casting_time">1</column>
             <column name="area_of_effect">Special</column>
             <column name="saving_throw">None</column>
-            <column name="description">Cantrips are minor spells studied by wizards during their apprenticeship, regardless of school. The  spell is a practice method for the apprentice, teaching him how to tap minute amounts of magical energy. Once cast, the  spell enables the caster to create minor magical effects for the duration of the spell. So minor are these effects that they have severe limitations. They are completely unable to cause a loss of hit points, cannot affect the concentration of spellcasters, and can only create small, obviously magical materials. Furthermore, materials created by a cantrip are extremely fragile and cannot be used as tools of any sort. Lastly, a cantrip lacks the power to duplicate any other spell effects.
+            <column name="description">Cantrips are minor spells studied by wizards during their apprenticeship, regardless of school. The &lt;i&gt;cantrip&lt;/i&gt; spell is a practice method for the apprentice, teaching him how to tap minute amounts of magical energy. Once cast, the &lt;i&gt;cantrip&lt;/i&gt; spell enables the caster to create minor magical effects for the duration of the spell. So minor are these effects that they have severe limitations. They are completely unable to cause a loss of hit points, cannot affect the concentration of spellcasters, and can only create small, obviously magical materials. Furthermore, materials created by a cantrip are extremely fragile and cannot be used as tools of any sort. Lastly, a cantrip lacks the power to duplicate any other spell effects.
             Whatever manifestation the cantrip takes, it remains in effect only as long as the wizard concentrates. Wizards typically us cantrips to impress common folk, amuse children, and brighten dreary lives. Common tricks with cantrips include tinklings of ethereal music, brightening faded flowers, glowing balls that float over the caster’s hand, puffs of wind to flicker candles, spicing up aromas and flavors of bland food, and little whirlwinds to sweep dust under rugs. Combined with the  spell, these are the tools to make housekeeping and entertaining simpler for the wizard.
             </column>
             <column name="Reversible">0</column>
@@ -162,11 +162,11 @@
             <column name="casting_time">1</column>
             <column name="area_of_effect">1 person</column>
             <column name="saving_throw">Neg.</column>
-            <column name="description">This spell affects any single person it is cast upon. The term  includes any bipedal human, demi-human, or humanoid of man-size or smaller, such as brownies, dryads, dwarves, elves, gnolls, gnomes, goblins, half-elves, halflings, half-orcs, hobgoblins, humans, kobolds, lizard men, nixies, orcs, pixies, sprites, troglodytes, and others. Thus, a 10th-level fighter could be charmed, but an ogre could not.
-The person receives a saving throw vs. spell to avoid the effect, with any adjustment due to Wisdom (see Table 5). If the person receives damage from the caster group in the same round the  is case an additional bonus of +1 per hit point c damage received is added to the victim saving throw.
+            <column name="description">This spell affects any single person it is cast upon. The term &lt;i&gt;person&lt;/i&gt; includes any bipedal human, demi-human, or humanoid of man-size or smaller, such as brownies, dryads, dwarves, elves, gnolls, gnomes, goblins, half-elves, halflings, half-orcs, hobgoblins, humans, kobolds, lizard men, nixies, orcs, pixies, sprites, troglodytes, and others. Thus, a 10th-level fighter could be charmed, but an ogre could not.
+The person receives a saving throw vs. spell to avoid the effect, with any adjustment due to Wisdom (see Table 5). If the person receives damage from the caster group in the same round the &lt;i&gt;charm&lt;/i&gt; is case an additional bonus of +1 per hit point c damage received is added to the victim saving throw.
 If the spell recipient fails his saving throw, he regards the caster as a trusted friend and ally to be heeded and protected. The spell does not enable the caster to control the charmed creature as if it were a automaton, but any word or action of the caster is viewed in the most favorable way. Thus, a charmed person would not obey suicide command, but he might believe the caster if assured that the only chance to save the caster‘s life is for the person to hold back an onrushing red dragon for “just a round o two.” Note also that the spell does no endow the caster with linguistic capabilities beyond those he normally possesses (i.e., he must speak the victim’s language to communicate his commands).
-The duration of the spell is a function of the charmed person’s Intelligence and is tied to the saving throw. The spell may be  broken if a successful saving throw is rolled, and this saving throw is checked on a periodic basis, according to the creature’s Intelligence (see the following table). If the caster harms, or attempts to harm, the charmed person by some overt action, or if a dispel magic spell is successfully cast upon the charmed person, the charm spell is broken.
-If two or more  effects simultaneously affect a creature, the result is decided by the DM. This could range from one effect being clearly dominant, to the subject being tom by conflicting desires, to new saving throws that could negate both spells.
+The duration of the spell is a function of the charmed person’s Intelligence and is tied to the saving throw. The spell may be  broken if a successful saving throw is rolled, and this saving throw is checked on a periodic basis, according to the creature’s Intelligence (see the following table). If the caster harms, or attempts to harm, the charmed person by some overt action, or if a dispel magic spell is successfully cast upon the charmed person, the &lt;i&gt;charm&lt;/i&gt; spell is broken.
+If two or more &lt;i&gt;charm&lt;/i&gt; effects simultaneously affect a creature, the result is decided by the DM. This could range from one effect being clearly dominant, to the subject being tom by conflicting desires, to new saving throws that could negate both spells.
 Note that the subject has full memory of the events that took place while he was harmed.
 
 &lt;table&gt;
@@ -251,113 +251,177 @@ The period between checks is the [me period during which the check occurs. When 
         <table name="Wizard_Spell">
             <column name="id">11</column>
             <column name="name">Comprehend Languages</column>
-            <column name="school">NULL</column>
+            <column name="school">Alteration</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">Touch</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">5 rounds/level</column>
+            <column name="casting_time">1 round</column>
+            <column name="area_of_effect">1 speaking creature or written object</column>
+            <column name="saving_throw">None</column>
+            <column name="description">When this spell is cast, the wizard is able to understand the spoken words of a creature or read an otherwise incomprehensible written message (such as writing in another language). In either case, the wizard must touch the creature or the writing. Note that the ability to read does not necessarily impart understanding of the material, nor does the spell enable the caster to speak or write an unknown language. Written material can be read at the rate of one page or equivalent per round. Magical writing cannot be read, other than to know it is magical, but the spell is often useful when deciphering treasure maps. This spell can be foiled by certain warding magics (the 3rd-level &lt;i&gt;secret page&lt;/i&gt; and &lt;i&gt;illusionary script&lt;/i&gt; spells) and does not reveal messages concealed in otherwise normal text.
+            The material components of this spell are a pinch of soot and a few grains of salt.
+            The reverse of this spell, &lt;i&gt;confuse languages&lt;/i&gt; cancels a &lt;i&gt;comprehend languages&lt;/i&gt; spell or renders a writing or creature's speach incomprehensible, for the same duration as above.
+            </column>
             <column name="Reversible">1</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">12</column>
             <column name="name">Dancing Lights</column>
-            <column name="school">NULL</column>
+            <column name="school">Alteration</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">40 yards + 10 yards/level</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">2 rounds/level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">Special</column>
+            <column name="saving_throw">None</column>
+            <column name="description">When a &lt;i&gt;dancing lights&lt;/i&gt; spell is cast, the wizards creates, at his option, from one to four lights that resemble either torches or lanterns (and cast that amount of light), glowing spheres of light (such as evidenced by will-o-wisps), or one faintly glowing, vaguely man-like shape, somewhat similar to that of a creature from the elemental plane of fire. The dancing lights move as the spellcaster desires, forward or back, straight or turning corners, without concentration upon such movement by the wizard. The spell cannot be used to cause blindness (see 1st-level &lt;i&gt;light&lt;/i&gt; spell), and it winks out if the range or duration is exceeded.
+            The material component of this spell is either a bit of phosphorus or wychwood, or a glowworm.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">13</column>
             <column name="name">Detect Magic</column>
-            <column name="school">NULL</column>
+            <column name="school">Divination</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">0</column>
+            <column name="components">V, S</column>
+            <column name="duration">2 rounds/level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">10' path, 60' long</column>
+            <column name="saving_throw">None</column>
+            <column name="description">When the &lt;i&gt;detect magic&lt;/i&gt; spell is cast, the wizard detects magical radiations in a path 10 feet wide and up to 60 feet long, in the direction he is facing. The intensity of the magic can be determined (dim, faint, moderate, strong, overwhelming), and the wizard has a 10% chance per level to recognize if a certain type of magic (alteration, conjuration, etc.) is present. The caster can turn, scanning a 60-degree arc per round. Astone wall of one foot or more in thichness, solid metal of one inch thickness, or a yard or more of solid wood blocks the spell. Magical areas, multiple types of magic, strong local magical emanations may confuse or conceal weaker radiations. Note that this spell does not reveal the presence of good or evil, or reveal alignment. Other-planar creatures are not necessarily magical.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">14</column>
             <column name="name">Detect Undead</column>
-            <column name="school">NULL</column>
+            <column name="school">Divination/Necromancy</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">0</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">3 turns</column>
+            <column name="casting_time">1 round</column>
+            <column name="area_of_effect">60' + 10'/level</column>
+            <column name="saving_throw">None</column>
+            <column name="description">This spell enables the caster to detect all undead creatures out to the range of the spell. The area of effect extends in a path 10 feet wide and 60 feet long (plus 10 feet longer per level of the wizard), in the direction the caster is facing. Scanning a direction requires one round, and the caster must be motionless. While the spell indicates direction, it does not give specific location or distance. It detects undead through walls and obstacles but is blocked by one foot of solid stone, one yard of wood or loose earth, or a thin coating of metal. The spell does not indicate the type of undead detected, only that undead are present.
+            The material component for this spell is a bit earth frtom a grave.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">15</column>
             <column name="name">Enlarge</column>
-            <column name="school">NULL</column>
+            <column name="school">Alteration</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">5 yards/level</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">5 rounds/level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">1 creature or object</column>
+            <column name="saving_throw">Neg.</column>
+            <column name="description">This spell causes instant growth of a creature or object, increasing both size and weight. It can be cast only upon a single creature (or a symbiotic or community entity) or upon a single object that does not exceed ten cubic feet in volume per caster level. The object or creature must be seen to be affected. It grows by up to 10% per level of experience of the wizard, increasing this ammount in height, width, and weight.
+            All equipment worn or caried by a creature is enlarged by the spell. Unwilling victims are entitled to a saving throw vs. spell. A successful saving throw means the spell fails. If insufficient room is available for the desired growth, the creature or object attains the maximum possible size, bursting weak enclosures in the process, but it is constrained without harm by stronger materials-the spell cannot be used to crush a creature by growth.
+            Magical properties are not increased by this spell-a huge &lt;i&gt;sword +1&lt;/i&gt; is still only +1, a staff-sized wand is still only capable of its normal functions, a giant-sized potion merely requires a greater fluid intake to make its magical effects operate, etc. Weight, mass, and strength are affected, though. Thus a table blocking a door would be heavier and more effective, a hurled stone would have more mass (and cause more damage), chains would be more massive, doors thicker, a thin line turned into a sizeable, longer rope, and so on. A creature's hit points, Armor Class, and attack rolls do not change, but damage rolls increase proportionately with size. For example, a fighter at 160% normal size hits with his long sword and rolls a 6 for damage. The adjusted damage roll is 10 (that is, 6 x 1.6 = 9.6, rounded up). Bonuses due to Strength, class, and magic are not altered.
+            The reverse spell, &lt;i&gt;reduce&lt;/i&gt;, negates the &lt;i&gt;enlarge&lt;/i&gt; spell or makes creatures or objects smaller. The creature or object loses 10% of its original size for every level of the caster, to a minimum of 10% of the original size. Thereafter, the size shrinks by one-foot increments to less than one foot, by one-inch increments to one inch, and by 1/10-inch increments to a minimum of 1/10 of an inch-the recipient cannot dwindle away to nothingness. For example, a 16-foot-tall giant reduced by a 15th-level wizard (15 steps) would be reduced to 1.6 feet (in nine steps), then to 6/10 of a foot or 7.2 inches (in one step), and finally to 2.2 inches (in the last five steps). A shrinking object may damage weaker materials affixed to it, but an object will shrink only as long as the object itself is not damaged. Unwilling creatures are allowed a saving throw vs. spell.
+            The material component of this spell is a pinch of powdered iron.
+            </column>
             <column name="Reversible">1</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">16</column>
             <column name="name">Erase</column>
-            <column name="school">NULL</column>
+            <column name="school">Alteration</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">30 yards</column>
+            <column name="components">V, S</column>
+            <column name="duration">Permanent</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">1 scroll or 2 pages</column>
+            <column name="saving_throw">Special</column>
+            <column name="description">The &lt;i&gt;erase&lt;/i&gt; spell removes writings of either magical or mundane nature from a scroll or from one to two pages of paper, parchment, or similar surfaces. It removes &lt;i&gt;explosive runes, glyphs of warding, sepia snake sigils,&lt;/i&gt;, and &lt;i&gt;wizard marks&lt;/i&gt;, but it does not remove &lt;i&gt;illudionary script&lt;/i&gt; or &lt;i&gt;symbols&lt;/i&gt; (see these spells). Nonmagical writings are automatically erased if the caster is touching them, otherwise the chance of success is 90%. Magical writings must be touched, and are only 30% likely to be erased, plus 5% per caster level, to a maximum of 90% (e.g., 35% for a 1st-level caster, 40% for a 2nd-level caster, etc.).
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">17</column>
             <column name="name">Feather Fall</column>
-            <column name="school">NULL</column>
+            <column name="school">Alteration</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">10 yards/level</column>
+            <column name="components">V</column>
+            <column name="duration">1 round/level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">Special</column>
+            <column name="saving_throw">None</column>
+            <column name="description">When this spell is cast, the creature(s) or object(s) affected immediately assumes the mass of a piece of down. Rate of alling is instantly changed to a mere two feet per second (120 feet per round), and no damage is incurred upon landing while the spell is in effect. However, when the spell duration ceases, normal rate of fall occurs. The spell can be cast upon the wizard or some other creature or object up to the maximum range and lasts for one round for each level of the wizard. The &lt;i&gt;feather fall&lt;/i&gt; affects one or more objects or creatures in a 10-foot cube, as long as the maximum weight of the creatures or object does not exceed a combined total of 200 pounds plus 200 pounds per level of the spellcaster.
+              For example, a 2nd-level wizard has a range of 20 yards, a duration of two rounds, and a weight limit of 600 pounds when casting this spell. The spell works only upon free-falling, flying, or propelled objects (such as missiles). It does not affect a sword blow or a charging creature. Note that the spell can be effectively combined with a &lt;i&gt;gust of wind&lt;/i&gt; and similar spells.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">18</column>
             <column name="name">Find Familiar</column>
-            <column name="school">NULL</column>
+            <column name="school">Conjuration/Summoning</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">1 mile/level</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">Special</column>
+            <column name="casting_time">2d12 hours</column>
+            <column name="area_of_effect">1 familiar</column>
+            <column name="saving_throw">Special</column>
+            <column name="description">This spell enables the caster to attempt to summon a familiar to act as his aide and companion. Familiars are typically small creatures, such as cats, frogs, ferrets, crows, hawks, snakes, owls, ravens, toads, weasels, or even mice. A creature acting as a familiar can benefit a wizard, conveying its sensory powers to its master, conversing with him, and serving as a guard/scout/spy as well. A wizard can have only one familiar at a time, however, and he has no control over what sort of creature answers the summoning, if any at all come.
+            The creature is always more intelligent than others of its type (typically 2 or 3 Int points), and its bond with the wizard confers upon it an exceptionally long life. The wizard receives the heightened senses of his familiar, which grants the wizard a +1 bonus to all surprise die rolls. Normal familiars have 2-4 hit points plus 1 hit point per caster level, and an Armor Class of 7 (due to size, speed, etc.).
+            The wizard has an empathic link with the familiar and can issue it mental commands at a distance of up to one mile. Note that empathic responses from the familiar are generally fairly basic-while able to communicate simple thoughts, these are often overwhelmed by instinctual responses. Thus a ferret familiar spying on a band of orcs in the woods might lose its train of thought upon sighting a mouse. Certainly its communications to its master would be tinged with fear of the “big ones” it was spying on! The caster cannot see through the familiar’s eyes.
+            If separated from the caster, the familiar loses 1 hit point each day, and dies if reduced to 0 hit points. When the familiar is in physical contact with its wizard, it gains the wizards saving throws against special attacks. If a special attack would normally cause damage, the familiar suffers no damage if the saving throw is successful and half damage if the saving throw is failed. If the familiar dies, the wizard must successfully roll an immediate system shock check or die. Even if he survives this check, the wizard loses 1 point from his Constitution when the familiar dies.
+            The power of the conjuration is such that it can be attempted but once per year. When the wizard decides to find a familiar, he must load a brass brazier with charcoal. When this is burning well, he adds 1,000 gp worth of incense and herbs. The spell incanation is then begun and must be continued until the familiar comes or the casting time is finished. The DM secretly determines all results. Note that most familiars are not inherently magical, nor does a dispel magic spell send them away.
+            Deliberate mistreatment, failure to feed and care for the familiar, or continuous unreasonable demands have adverse effects on the familiar’s relationship with its master. Purposely arranging the death of one‘s own familiar incurs great disfavor from certain powerful entities, with dire results.
+            &lt;table&gt;
+              &lt;tr&gt;
+                &lt;th&gt;D20 Roll&lt;/th&gt;
+                &lt;th&gt;Familiar *&lt;/th&gt;
+                &lt;th&gt;Sensory Powers&lt;/th&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;td&gt;1-5&lt;/td&gt;
+                &lt;td&gt;Cat, black&lt;/td&gt;
+                &lt;td&gt;Excellent night vision &amp; superior hearing&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;td&gt;6-7&lt;/td&gt;
+                &lt;td&gt;Crow&lt;/td&gt;
+                &lt;td&gt;Excelent vision&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;td&gt;8-9&lt;/td&gt;
+                &lt;td&gt;Hawk&lt;/td&gt;
+                &lt;td&gt;Very superior distance vision&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;td&gt;10-11&lt;/td&gt;
+                &lt;td&gt;Owl&lt;/td&gt;
+                &lt;td&gt;Night vision equals human daylight vision, superior hearing&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;td&gt;12-13&lt;/td&gt;
+                &lt;td&gt;Toad&lt;/td&gt;
+                &lt;td&gt;Wide-angle vision&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;td&gt;14-15&lt;/td&gt;
+                &lt;td&gt;Weasel&lt;/td&gt;
+                &lt;td&gt;Superior hearing &amp; very superior olfactory power&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;tr&gt;
+                &lt;td&gt;16-20&lt;/td&gt;
+                &lt;td&gt;No familiar&lt;/td&gt;
+                &lt;td&gt;available in spell range&lt;/td&gt;
+              &lt;/tr&gt;
+              * The referee can substitute other small animals suitable to the area.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
