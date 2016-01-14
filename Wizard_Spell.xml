@@ -523,29 +523,35 @@ The period between checks is the [me period during which the check occurs. When 
         <table name="Wizard_Spell">
             <column name="id">25</column>
             <column name="name">Jump</column>
-            <column name="school">NULL</column>
+            <column name="school">Alteration</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">Touch</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">1d3 rounds + 1 round/level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">Creature touched</column>
+            <column name="saving_throw">None</column>
+            <column name="description">The individual touched when this spell is cast is empowered to leap once per round for the duration of the spell. Leaps can be up to 30 feet forward or straight upward or 10 feet backward. Horizontal leaps forward or backward have only a slight arc-about two feet per 10 feet of distance traveled. The jump spell does not ensure safety in landing or grasping at the end of the leap.
+            The material component of this spell is a grasshopper’s hind leg, to be broken by the caster when the spell is cast.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">26</column>
             <column name="name">Light</column>
-            <column name="school">NULL</column>
+            <column name="school">Alteration</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">60 yards</column>
+            <column name="components">V, M</column>
+            <column name="duration">1 turn/level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">20-foot-radius globe</column>
+            <column name="saving_throw">Special</column>
+            <column name="description">This spell creates a luminous glow, equal to torchlight, within a fixed radius of the spell’s center. Objects in darkness beyond this sphere can be seen, at best, as vague and shadowy shapes. The spell is centered on a point selected by the caster, and he must have a line of sight and unobstructed path for the spell when it is cast. &lt;i&gt;Light&lt;/i&gt; can spring from air, rock, metal, wood, or almost any similar substance.
+            The effect is immobile unless it is specifically centered on a moveable object or mobile creature. If this spell is cast upon a creature, the applicable magic resistance and saving throw rolls must be made. Successful resistance negates the spell, while a successful saving throw indicates that the spell is centered immediately behind the creature, rather than upon the creature itself. &lt;i&gt;Light&lt;/i&gt; taken into an area of magical darkness does not function, but if cast directly against magical darkness negates it (but only for the duration of the &lt;i&gt;light&lt;/i&gt; spell, if the darkness effect is continual).
+            &lt;i&gt;Light&lt;/i&gt; centered on the visual organs of a creature blinds it, reducing its attack rolls and saving throws by 4 and worsening its Armor Class by 4. The caster can end the spell at any time by uttering a single word.
+            The material component is a firefly or a piece of phosphorescent moss.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
