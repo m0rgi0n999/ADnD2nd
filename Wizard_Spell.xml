@@ -474,43 +474,50 @@ The period between checks is the [me period during which the check occurs. When 
         <table name="Wizard_Spell">
             <column name="id">22</column>
             <column name="name">Hold Portal</column>
-            <column name="school">NULL</column>
+            <column name="school">Alteration</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">20 yards/level</column>
+            <column name="components">V</column>
+            <column name="duration">1 round/level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">20 square feet/level</column>
+            <column name="saving_throw">None</column>
+            <column name="description">This spell magically bars a door, gate, or valve of wood, metal, or stone. The magical closure holds the portal fast, just as if it were securly closed and locked. Any extraplanar creature (djinn, elemental, etc.) with 4 or more Hit Dice can shatter the spell and burst open the portal. A wizard of 4 or more experiance levels higher than the spellcaster can open the held portal at will. a &lt;i&gt;knock&lt;/i&gt; spell or a successful &lt;i&gt;dispell magic&lt;/i&gt; spell can negate the &lt;i&gt;hold portal&lt;/i&gt;. Held portals can be broken or physically battered down.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">23</column>
             <column name="name">Hypnotism</column>
-            <column name="school">NULL</column>
+            <column name="school">Enchantment/Charm</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">5 yards</column>
+            <column name="components">V, S</column>
+            <column name="duration">1 round + 1 round/level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">30-foot cube</column>
+            <column name="saving_throw">Neg.</column>
+            <column name="description">The gestures of the wizard, along with his droning incantation, cause 1d6 creatures within the area to become suspectible to a suggestion-a brief and reasonable-sounding request (see the 3rd-level wizard &lt;i&gt;suggestion&lt;/i&gt; spell). The request must be given after the &lt;i&gt;hypnotism&lt;/i&gt; spell is cast. Until that time the success of the spell is unknown. Note that the subsequent suggestion is not a spell, but simply a vocalized urging (the caster must speak a language the creature understands for this spell to work). Creatures that successfully roll their saving throws are not under hypnotic influence. Those who are exceptionally wary or hostile save with +1 to +3 bonusses. If the spell is cast at an individual creature that meets the caster's gaze, the saving throw is made with a penalty of -2. A creature that fails its saving throw does not remember that the caster enspelled it.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">24</column>
             <column name="name">Identify</column>
-            <column name="school">NULL</column>
+            <column name="school">Divination</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">0</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">1 round/level</column>
+            <column name="casting_time">Special</column>
+            <column name="area_of_effect">1 item/level</column>
+            <column name="saving_throw">None</column>
+            <column name="description">When an &lt;i&gt;identify&lt;/i&gt; spell is cast, magical items subsequently touched by the wizard can be identified. The eight hours immediately preceding the casting of the spell must be spent purifying the items and removing influences that would corrupt and blur their magical auras. If this period is interrupted, it must be begun again. When the spell is cast, each itme must be handled in turn by the wizard. Any consequences of this handling fall fully upon the wizard and may end the spell, although the wizard is allowed any applicable saving throw.
+            The chance of learning a piece of information about an item is equal to 10% per level of the caster, to a maximum of 90%, rolled by the DM. Any roll of 96-00 indicates a false reading (91-95 reveals nothing). Only one function of a multi-function item is discovered per handling (i.e., a 5th-level wizard could attempt to determine the nature of five different items, five different functions of a single item, or a combination of the two). If any attempt at reading fails, the caster cannot learn any more about that item until he advances a level. Note that some items such as special magical tomes, cannot be identified with this spell.
+            The item never reveals its exact attack or damage bonuses, although the fact that it has a few or many bonuses can be determined. If it has charges, only a general indication of the number of charges remaining is learned: powerful (81-100% of the total possible charges), strong (61-80%), moderate (41-60%), weak (6-40%), or faint (five charges or less). The faint result takes precedence, so a fully charged &lt;i&gt;ring of three wishes&lt;/i&gt; always appears to be only faintly charged.
+            After casting the spell and determining what can be learned from it, the wizard loses 8 points of Constitution. He must rest for one hour to recover each point of Constitution. If the 8-point loss drops the spellcaster below a Constitution of 1, he falls unconscious. Consciousness is not regained until full Constitution is restored, which takes 24 hours (one point per three hours for an unconscious character).
+            The material components of this spell are a pearl (of at least 100 gp value) and an owl feather steeped with wine, with the infusion drunk prior to spellcasting. If a &lt;i&gt;luckstone&lt;/i&gt; is powdered and added to the infusion, the divination becomes much more potent: exact bonuses or charges can be determined, and the functions of a multi-functional item can be learned from a single reading. At the DM's option, certain properties of an artifact or relic might also be learned.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
