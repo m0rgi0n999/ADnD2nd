@@ -557,15 +557,17 @@ The period between checks is the [me period during which the check occurs. When 
         <table name="Wizard_Spell">
             <column name="id">27</column>
             <column name="name">Magic Missile</column>
-            <column name="school">NULL</column>
+            <column name="school">Evocation</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">60 yards + 10 yards/level</column>
+            <column name="components">V, S</column>
+            <column name="duration">Instantaneous</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">1 or more creatures in a 10-foot cube</column>
+            <column name="saving_throw">None</column>
+            <column name="description">Use of the &lt;i&gt;magic missile&lt;/i&gt; spell creates up to five missiles of magical energy that dart forth from the wizard's fingertips and unerringly strike their target. This includes enemy creatures in a melee. The target creature must be seen or otherwise detected to be hit, however, so near-total concealment, such as that offered by arrow slits, can render the spell ineffective. Likewise, the caster must be able to identify the target. He cannot direct a magic missile to "Strike the commander of the legion," unless he can single out the commander from the rest of the soldiers. Specific parts of a creature cannot be singled out. Inanimate objects (locks, etc.) cannot be damaged by the spell, and any attempt to do so wastes the missiles to no effect. Aginast creatures, each missile inflicts 1d4 + 1 points of damage.
+            For every two extra levels of experience, the wizards gains an additional missile-he has two at 3rd level, three at 5th level, four at 7th level, etc., up to a total of five missiles at 9th level. If the wizard has multiple missile capability, he can have them strike a single target creature or several creatures, as desired.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
