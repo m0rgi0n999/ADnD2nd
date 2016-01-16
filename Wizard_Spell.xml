@@ -573,43 +573,78 @@ The period between checks is the [me period during which the check occurs. When 
         <table name="Wizard_Spell">
             <column name="id">28</column>
             <column name="name">Mending</column>
-            <column name="school">NULL</column>
+            <column name="school">Alteration</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">30 yards</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">Permanent</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">1 object</column>
+            <column name="saving_throw">None</column>
+            <column name="description">This spell repairs small breaks or tears in objects. It will weld a broken ring, chain link, medallion, or slender dagger, providing but one break exists. Ceramic or wooden objects with multiple breaks can be invisibly rejoined to be as strong as new. A hole in a leather sack or wineskin is completely healed over by a &lt;i&gt;mending&lt;/i&gt; spell. This spell does not, by itself, repair magical items of any type. One turn after the spell is cast, the magic of the joining fades, and the effect cannot be magically dispelled. The maximum volume of material the caster can mend is one cubic foot per level.
+            The material components of this spell are two small magnets of any type (lodestone in all likelihood) or two burrs.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">29</column>
             <column name="name">Message</column>
-            <column name="school">NULL</column>
+            <column name="school">Alteration</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">0</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">5 rounds/level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">Special</column>
+            <column name="saving_throw">None</column>
+            <column name="description">When this spell is cast, the wizard can whisper messages and receive replies with little chance of being overheard. When the spell is cast, the wizard secretly or openly points his finger at each creature to be included in the spell effect. Up to one creature per level can be included. When the wizard whispers, the whispered message travels in a straight line and is audible to all of the involved creatures within 30 feet, plus 10 feet per level of the caster. The creatures who receive the message can whisper a reply that is heard by the spellcaster. Note that there must be an unobstructed path between the spellcaster and the recipients of the spell. The message must be in a language the caster speaks; this spell does not by itself confer understanding upon the recipients. This spell is most often used to conduct quick and private conferences when the caster does not wish to be overheard.
+            The material component of the spell is a short piece of copper drawn fine.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">30</column>
             <column name="name">Mount</column>
-            <column name="school">NULL</column>
+            <column name="school">Conjuration/Summoning</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">10 yards</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">2 hours + 1 hour/level</column>
+            <column name="casting_time">1 turn</column>
+            <column name="area_of_effect">1 mount</column>
+            <column name="saving_throw">None</column>
+            <column name="description">By means of this spell, the caster conjures a normal animal to serve him as a mount. The animal serves willingly and well, but at the expiration of the spell duration it disappears, returning to its own place. The type of mount gained by this spell depends on the level of the caster; of course, a caster can choose a lesser mount if desired. Available mounts include the following:
+
+            &lt;table&gt;
+            &lt;tr&gt;
+            &lt;th&gt;Caster Level&lt;/th&gt;
+            &lt;th&gt;Mount&lt;/th&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+            &lt;td&gt;1st-3rd level&lt;/td&gt;
+            &lt;td&gt;Mule or light horse&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+            &lt;td&gt;4th-7th level&lt;/td&gt;
+            &lt;td&gt;Draft horse or war horse&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+            &lt;td&gt;8th-12th level&lt;/td&gt;
+            &lt;td&gt;Camel&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+            &lt;td&gt;13th-14th level&lt;/td&gt;
+            &lt;td&gt;Elephant (and howdah at 18th level)&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+            &lt;td&gt;15th level &amp; up&lt;/td&gt;
+            &lt;td&gt;Griffon (and saddle at 18th level)&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;/table&gt;
+
+            The mount does not come with any riding gear, unless it is of a class lower than the caster would normally be entitled to; thus a 4th-level wizard can gain a war horse without saddle and harness, or a light horse with saddle and harness. The statistics of the animal gained are typical of all creatures of the same class. The mount disappears when slain.
+            The material component of the spell is a bit of hair from the type of animal to be conjured.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
