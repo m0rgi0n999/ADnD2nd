@@ -683,43 +683,55 @@ The period between checks is the [me period during which the check occurs. When 
         <table name="Wizard_Spell">
             <column name="id">33</column>
             <column name="name">Protection From Evil</column>
-            <column name="school">NULL</column>
+            <column name="school">Abjuration</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">Touch</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">2 rounds/level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">Creature touched</column>
+            <column name="saving_throw">None</column>
+            <column name="description">When this spell is cast, it creates a magical barrier around the recipient at a distance of one foot. The barrier moves with the recipient and has three major effects:
+
+            First, all attacks made by evil (or evilly enchanted) creatures against the protected creature suffer -2 penalties to attack rolls; any saving throws caused by such attacks are made with +2 bonuses.
+            Second, any attempt to possess (as by a &lt;i&gt;magic jar&lt;/i&gt; attack) or to exercise mental control over (as by a vampires charm ability) the protected creature is blocked by this spell. Note that the protection does not prevent a vampire's &lt;i&gt;charm&lt;/i&gt; itself, but it does prevent the exercise of mental control through the barrier. Likewise, a possessing life force is merely kept out. It would not be expelled if in place before the protection is cast.
+            Third, the spell prevents bodily contact by creatures of an extraplanar or conjured nature (such as aerial servants, elementals, imps, invisible stalkers, salamanders, water weirds, xom, and others). This causes the natural (body) weapon attacks of such creatures to fail and the creatures to recoil, if such attacks require touching the protected being. Animals or monsters summoned or conjured by spells or similar magic are likewise hedged from the character.
+
+            This protection ends if the protected character makes a melee attack against or tries to force the barrier against the blocked creature.
+            To complete this spell, the wizard must trace a three-foot-diameter circle on the floor (or ground) with powdered silver.
+            This spell can be reversed to become &lt;i&gt;protection from good&lt;/i&gt;; the second and third benefits remaining unchanged. The material component for the reverse is a circle of powdered iron.
+            </column>
             <column name="Reversible">1</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">34</column>
             <column name="name">Read Magic</column>
-            <column name="school">NULL</column>
+            <column name="school">Divination</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">0</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">2 rounds/level</column>
+            <column name="casting_time">1 round</column>
+            <column name="area_of_effect">Special</column>
+            <column name="saving_throw">None</column>
+            <column name="description">By means of a read magic spell, the wizard is able to read magical inscriptions on objects—books, scrolls, weapons, and the like—that would otherwise be totally unintelligible. (The personal books of the wizard, and works already magically read, are intelligible.) This deciphering does not normally invoke the magic contained in the writing, although it may do so in the case of a cursed scroll. Furthermore, once the spell is cast and the wizard has read the magical inscription, he is thereafter able to read that particular writing without recourse to the use of the read magic spell. The duration of the spell is two rounds per level of experience of the spellcaster; the wizard can read one page or its equivalent per round.
+            The wizard must have a clear crystal or mineral prism, which is not expended, to cast the spell.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">35</column>
             <column name="name">Shield</column>
-            <column name="school">NULL</column>
+            <column name="school">Evocation</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">0</column>
+            <column name="components">V, S</column>
+            <column name="duration">5 rounds/level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">Special</column>
+            <column name="saving_throw">None</column>
+            <column name="description">When this spell is cast, an invisible barrier comes into being in front of the wizard. This shield totally negates magic missile attacks. It provides the equivalent protection of AC 2 against hand-hurled missiles (axes, darts, javelins, spears, etc.), AC 3 against small device-propelled missiles (arrows, bolts, bullets, manticore spikes, sling stones, etc.), and AC 4 against all other forms of attack. The shield also adds a +1 bonus to the wizard's saving throws against attacks that are basically frontal. Note that these benefits apply only if the attacks originate from in front of the wizard, where the shield can move to interpose itself.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
