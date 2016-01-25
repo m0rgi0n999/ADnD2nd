@@ -326,7 +326,7 @@
             <column name="area_of_effect">Special</column>
             <column name="saving_throw">None</column>
             <column name="description">When this spell is cast, the creature(s) or object(s) affected immediately assumes the mass of a piece of down. Rate of alling is instantly changed to a mere two feet per second (120 feet per round), and no damage is incurred upon landing while the spell is in effect. However, when the spell duration ceases, normal rate of fall occurs. The spell can be cast upon the wizard or some other creature or object up to the maximum range and lasts for one round for each level of the wizard. The feather fall affects one or more objects or creatures in a 10-foot cube, as long as the maximum weight of the creatures or object does not exceed a combined total of 200 pounds plus 200 pounds per level of the spellcaster.
-              For example, a 2nd-level wizard has a range of 20 yards, a duration of two rounds, and a weight limit of 600 pounds when casting this spell. The spell works only upon free-falling, flying, or propelled objects (such as missiles). It does not affect a sword blow or a charging creature. Note that the spell can be effectively combined with a gust of wind and similar spells.
+            For example, a 2nd-level wizard has a range of 20 yards, a duration of two rounds, and a weight limit of 600 pounds when casting this spell. The spell works only upon free-falling, flying, or propelled objects (such as missiles). It does not affect a sword blow or a charging creature. Note that the spell can be effectively combined with a gust of wind and similar spells.
             </column>
             <column name="Reversible">0</column>
         </table>
@@ -347,48 +347,16 @@
             If separated from the caster, the familiar loses 1 hit point each day, and dies if reduced to 0 hit points. When the familiar is in physical contact with its wizard, it gains the wizards saving throws against special attacks. If a special attack would normally cause damage, the familiar suffers no damage if the saving throw is successful and half damage if the saving throw is failed. If the familiar dies, the wizard must successfully roll an immediate system shock check or die. Even if he survives this check, the wizard loses 1 point from his Constitution when the familiar dies.
             The power of the conjuration is such that it can be attempted but once per year. When the wizard decides to find a familiar, he must load a brass brazier with charcoal. When this is burning well, he adds 1,000 gp worth of incense and herbs. The spell incanation is then begun and must be continued until the familiar comes or the casting time is finished. The DM secretly determines all results. Note that most familiars are not inherently magical, nor does a dispel magic spell send them away.
             Deliberate mistreatment, failure to feed and care for the familiar, or continuous unreasonable demands have adverse effects on the familiar’s relationship with its master. Purposely arranging the death of one‘s own familiar incurs great disfavor from certain powerful entities, with dire results.
-            &lt;table&gt;
-              &lt;tr&gt;
-                &lt;th&gt;D20 Roll&lt;/th&gt;
-                &lt;th&gt;Familiar *&lt;/th&gt;
-                &lt;th&gt;Sensory Powers&lt;/th&gt;
-              &lt;/tr&gt;
-              &lt;tr&gt;
-                &lt;td&gt;1-5&lt;/td&gt;
-                &lt;td&gt;Cat, black&lt;/td&gt;
-                &lt;td&gt;Excellent night vision &amp; superior hearing&lt;/td&gt;
-              &lt;/tr&gt;
-              &lt;tr&gt;
-                &lt;td&gt;6-7&lt;/td&gt;
-                &lt;td&gt;Crow&lt;/td&gt;
-                &lt;td&gt;Excelent vision&lt;/td&gt;
-              &lt;/tr&gt;
-              &lt;tr&gt;
-                &lt;td&gt;8-9&lt;/td&gt;
-                &lt;td&gt;Hawk&lt;/td&gt;
-                &lt;td&gt;Very superior distance vision&lt;/td&gt;
-              &lt;/tr&gt;
-              &lt;tr&gt;
-                &lt;td&gt;10-11&lt;/td&gt;
-                &lt;td&gt;Owl&lt;/td&gt;
-                &lt;td&gt;Night vision equals human daylight vision, superior hearing&lt;/td&gt;
-              &lt;/tr&gt;
-              &lt;tr&gt;
-                &lt;td&gt;12-13&lt;/td&gt;
-                &lt;td&gt;Toad&lt;/td&gt;
-                &lt;td&gt;Wide-angle vision&lt;/td&gt;
-              &lt;/tr&gt;
-              &lt;tr&gt;
-                &lt;td&gt;14-15&lt;/td&gt;
-                &lt;td&gt;Weasel&lt;/td&gt;
-                &lt;td&gt;Superior hearing &amp; very superior olfactory power&lt;/td&gt;
-              &lt;/tr&gt;
-              &lt;tr&gt;
-                &lt;td&gt;16-20&lt;/td&gt;
-                &lt;td&gt;No familiar&lt;/td&gt;
-                &lt;td&gt;available in spell range&lt;/td&gt;
-              &lt;/tr&gt;
-              * The referee can substitute other small animals suitable to the area.
+
+                D20 Roll      Familiar *      Sensory Powers
+                  1-5           Cat, black      Excellent night vision &amp; superior hearing
+                  6-7           Crow            Excelent vision
+                  8-9           Hawk            Very superior distance vision
+                  10-11         Owl             Night vision equals human daylight vision, superior hearing
+                  12-13         Toad            Wide-angle vision
+                  14-15         Weasel          Superior hearing &amp; very superior olfactory power
+                  16-20         No familiar available in spell range
+                * The referee can substitute other small animals suitable to the area.
             </column>
             <column name="Reversible">0</column>
         </table>
@@ -404,8 +372,8 @@
             <column name="area_of_effect">60-foot radius</column>
             <column name="saving_throw">Special</column>
             <column name="description">A friends spell causes the wizard to temporarily gain 2d4 points of Charisma. Intelligent creatures within the area of effect at the time the spell is cast must make immediate reaction checks based on the character’s new Charisma. Those with favorable reactions tend to be very impressed with the spellcaster and make an effort to be his friends and help him, as appropriate to the situation. Officious bureaucrats might decide to become helpful; surly gate guards might wax informative; attacking orcs might spare the caster’s life, taking him captive instead. When the spell wears off, the creatures realize that they have been influenced, and their reactions are determined by he DM.
-			The components for this spell are chalk (or white flour), lampblack (or soot), and vermilion applied to the face before casting the spell
-			</column>
+			      The components for this spell are chalk (or white flour), lampblack (or soot), and vermilion applied to the face before casting the spell
+			      </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
@@ -420,7 +388,7 @@
             <column name="area_of_effect">Special</column>
             <column name="saving_throw">None</column>
             <column name="description">The gaze reflection spell creates a shimmering, mirror-like area of air before the wizard that moves with the caster. Any gaze attack, such as that of a basilisk, eyes of charming, a vampire's gaze, the 6th-level eyebite spell, and so on, is reflected back upon the gazer if the gazer tries to make eye contact with the spellcaster (the spellcaster suffers no effects from the gaze attack). Such creatures receive a saving throw vs. their own gaze effect. The spell does not affect vision or lighting and is not effective against creatures whose effect comes from being gazed upon (such as a medusa). Only active gaze attacks are blocked by this spell.
-			</column>
+			      </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
@@ -583,32 +551,12 @@
             <column name="saving_throw">None</column>
             <column name="description">By means of this spell, the caster conjures a normal animal to serve him as a mount. The animal serves willingly and well, but at the expiration of the spell duration it disappears, returning to its own place. The type of mount gained by this spell depends on the level of the caster; of course, a caster can choose a lesser mount if desired. Available mounts include the following:
 
-            &lt;table&gt;
-            &lt;tr&gt;
-            &lt;th&gt;Caster Level&lt;/th&gt;
-            &lt;th&gt;Mount&lt;/th&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-            &lt;td&gt;1st-3rd level&lt;/td&gt;
-            &lt;td&gt;Mule or light horse&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-            &lt;td&gt;4th-7th level&lt;/td&gt;
-            &lt;td&gt;Draft horse or war horse&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-            &lt;td&gt;8th-12th level&lt;/td&gt;
-            &lt;td&gt;Camel&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-            &lt;td&gt;13th-14th level&lt;/td&gt;
-            &lt;td&gt;Elephant (and howdah at 18th level)&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-            &lt;td&gt;15th level &amp; up&lt;/td&gt;
-            &lt;td&gt;Griffon (and saddle at 18th level)&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;/table&gt;
+              Caster Level          Mount
+                1st-3rd level         Mule or light horse
+                4th-7th level         Draft horse or war horse
+                8th-12th level        Camel
+                13th-14th level       Elephant (and howdah at 18th level)
+                15th level &amp; up   Griffon (and saddle at 18th level)
 
             The mount does not come with any riding gear, unless it is of a class lower than the caster would normally be entitled to; thus a 4th-level wizard can gain a war horse without saddle and harness, or a light horse with saddle and harness. The statistics of the animal gained are typical of all creatures of the same class. The mount disappears when slain.
             The material component of the spell is a bit of hair from the type of animal to be conjured.
@@ -664,7 +612,6 @@
             First, all attacks made by evil (or evilly enchanted) creatures against the protected creature suffer -2 penalties to attack rolls; any saving throws caused by such attacks are made with +2 bonuses.
             Second, any attempt to possess (as by a magic jar attack) or to exercise mental control over (as by a vampires charm ability) the protected creature is blocked by this spell. Note that the protection does not prevent a vampire's charm itself, but it does prevent the exercise of mental control through the barrier. Likewise, a possessing life force is merely kept out. It would not be expelled if in place before the protection is cast.
             Third, the spell prevents bodily contact by creatures of an extraplanar or conjured nature (such as aerial servants, elementals, imps, invisible stalkers, salamanders, water weirds, xom, and others). This causes the natural (body) weapon attacks of such creatures to fail and the creatures to recoil, if such attacks require touching the protected being. Animals or monsters summoned or conjured by spells or similar magic are likewise hedged from the character.
-
             This protection ends if the protected character makes a melee attack against or tries to force the barrier against the blocked creature.
             To complete this spell, the wizard must trace a three-foot-diameter circle on the floor (or ground) with powdered silver.
             This spell can be reversed to become protection from good; the second and third benefits remaining unchanged. The material component for the reverse is a circle of powdered iron.
@@ -754,99 +701,112 @@
         <table name="Wizard_Spell">
             <column name="id">39</column>
             <column name="name">Spook</column>
-            <column name="school">NULL</column>
+            <column name="school">Illusion/Phantasm</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">0</column>
+            <column name="components">V, S</column>
+            <column name="duration">Special</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">Creature touched</column>
+            <column name="saving_throw">Neg.</column>
+            <column name="description">A spook spell enables the wizard to play upon natural fears to cause the target creature to perceive the spellcaster as someone or something inimical. Without actually knowing what this is, the wizard merely advances threateningly upon the creature. If a successful saving throw vs. spell is not made, the creature turns and flees at maximum speed as far from the wizard as possible, though items carried are not dropped. The creature has a saving throw penalty of -1 for every two experience levels of the the caster, to a maximum of —6 at 12th level. Note that a natural (unmodified) roll of 20 automatically succeeds, regardless of saving throw penalties. Although the caster does not actually pursue the fleeing creature, a phantasm from its own mind does. Each round after the initial casting, the creature receives another saving throw, without penalty, until it successfully saves and the spell is broken. In any event, the spell functions only against creatures with Intelligences of 2 or more, and undead are not affected at all.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">40</column>
             <column name="name">Taunt</column>
-            <column name="school">NULL</column>
+            <column name="school">Enchantment</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">60 yards</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">1 round</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">30-foot radius</column>
+            <column name="saving_throw">Neg.</column>
+            <column name="description">A taunt spell enables the caster to jape and jeer effectively at a single type of creature with an Intelligence of 2 or greater. The caster need not speak the language of the creatures. His words and sounds have real meaning for the subject creature or creatures: challenging, insulting, and generally irritating and angering the listeners. Those failing to save vs. spell rush forth in fury to do battle with the spellcaster. All affected creatures attack the spellcaster in melee if physically capable of doing so, seeking to use body or hand-held weapons rather than missile weapons or spells. Separation of the caster from the victim by an impenetrable or uncrossable boundary (a wall of fire, a deep chasm, a formation of set pikemen) causes the spell to break. If the caster taunts a mixed group, he must choose the type of creature to be affected. Creatures commanded by a strong leader (i.e., with a Charisma bonus, with higher Hit Dice, etc.) might gain a saving throw bonus of +1 to + 4, at the DM's discretion. If used in conjunction with a ventriloquism spell, the creatures may attack the apparent source, depending upon their Intelligence, a leader's presence, and so on.
+            The material component is a slug, which is hurled at the creatures to be taunted.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">41</column>
             <column name="name">Tenser's Floating Disc</column>
-            <column name="school">NULL</column>
+            <column name="school">Evocation</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
+            <column name="ranged">20 yards</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">3 turns + 1 turn/level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">Special</column>
             <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="description">With this spell, the caster creates the slightly concave, circular plane of force known as Tenser's floating disc (after the famed wizard whose greed and ability to locate treasure are well known). The disc is three feet in diameter and holds 100 pounds of weight per level of the wizard casting the spell. The disc floats at approximately three feet above the ground at all times and remains level. It floats along horizontally within its range of 20 yards at the command of the caster, and will accompany him at a movement rate of no more than 6. If unguided, it maintains a constant interval of six feet between itself and the wizard. If the spellcaster moves beyond range (by moving faster, or by such means as a teleport spell, or by trying to take it more than three feet from the surface beneath it), or if the spell duration expires, the floating disc winks out of existence and whatever it was supporting crashes to the surface beneath it.
+            The material component of the spell is a drop of mercury.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">42</column>
             <column name="name">Unseen Servant</column>
-            <column name="school">NULL</column>
+            <column name="school">Conjuration/Summoning</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">0</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">1 hour + 1 turn/level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">30-foot radius</column>
+            <column name="saving_throw">None</column>
+            <column name="description">The unseen servant is a non-visible, mindless, and shapeless force, used to step and fetch, open unstuck doors, and hold chairs, as well as to clean and mend. It is not strong, but unfailingly obeys the command of the wizard. It can carry out only one activity at a time and can move only lightweight items—carry a maximum of 20 pounds or push or pull 40 pounds across a  smooth surface. It can open only normal doors, drawers, lids, etc. The unseen servant cannot fight, nor can it be killed, as it is a force rather than a creature. It can be magically dispelled, or eliminated after receiving 6 points of damage from area-effect spells, breath weapons, or similar attacks. If the caster attempts to send it beyond the allowed radius, the spell ends immediately.
+            The material components of the spell are a piece of string and a bit of wood.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">43</column>
             <column name="name">Ventriloquism</column>
-            <column name="school">NULL</column>
+            <column name="school">Illusion/Phantasm</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">10 yards/level, maximum 90 yards</column>
+            <column name="components">V, M</column>
+            <column name="duration">4 rounds + 1 round/level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">1 creature or object</column>
+            <column name="saving_throw">Special</column>
+            <column name="description">This spell enables the wizard to make his voice—or someone else's voice—or a similar sound seem to issue from someplace else, such as from another creature, a statue, from behind a door, down a passage, etc. The spellcaster can speak in any language that he knows, or make any sound that he can normally make. With respect to such voices and sounds, anyone rolling a successful saving throw vs. spell with a -2 penalty detects the ruse. If cast in conjunction with other illusions, the DM may rule greater penalties or disallow an independent saving throw against this spell in consideration of its contribution to the total effect of the combined illusion.
+            The material component of this spell is a parchment rolled up into a small cone.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">44</column>
             <column name="name">Wall of Fog</column>
-            <column name="school">NULL</column>
+            <column name="school">Evocation</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">30 yards</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">2d4 rounds + 1 round/level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">20' cube + 10' cube/level</column>
+            <column name="saving_throw">None</column>
+            <column name="description">By casting this spell, the wizard creates a billowing wall of misty vapors in any area within the spell range. The wall of fog obscures all sight, normal and infravision, beyond two feet. The caster may create less vapor if he wishes. The wall must be a roughly cubic or rectangular mass, at least ten feet wide in its smallest dimension. The misty vapors persist for three or more rounds. Their duration can be halved by a moderate wind, and they can be blown away by a strong wind.
+            The material component is a pinch of split dried peas.
+            </column>
             <column name="Reversible">0</column>
         </table>
         <table name="Wizard_Spell">
             <column name="id">45</column>
             <column name="name">Wizard Mark</column>
-            <column name="school">NULL</column>
+            <column name="school">Alteration</column>
             <column name="level">1</column>
-            <column name="ranged">NULL</column>
-            <column name="components">NULL</column>
-            <column name="duration">NULL</column>
-            <column name="casting_time">NULL</column>
-            <column name="area_of_effect">NULL</column>
-            <column name="saving_throw">NULL</column>
-            <column name="description">NULL</column>
+            <column name="ranged">Touch</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">Permanent</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">Up to 1 square foot</column>
+            <column name="saving_throw">None</column>
+            <column name="description">When this spell is cast, the wizard is able to inscribe, visibly or invisibly, his personal rune or mark, as well as up to six additional characters of smaller size. A wizard mark spell enables the caster to etch the nine upon stone, metal, or any softer substance without harm to the material upon which the mark is placed. If an invisible mark is made, a detect magic spell will cause it to glow and be visible (though not necessarily understandable). Detect invisibility, true seeing, a gem of seeing, or a robe of eyes will likewise expose an invisible wizard mark. A read magic spell will reveal the maker's words, if any. The mark cannot be dispelled, but it can be removed by the caster or by an erase spell. If cast on a living being, normal wear gradually causes the mark to fade.
+            The material components for this spell are a pinch of diamond dust (about 100 gp worth) and a pigment or pigments for the coloration of the mark. If the mark is to be invisible, the pigments are still used, but the caster uses a stylus of some sort rather than his finger.
+            </column>
             <column name="Reversible">0</column>
         </table>
     </database>
