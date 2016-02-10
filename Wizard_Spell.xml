@@ -809,5 +809,55 @@
             </column>
             <column name="Reversible">0</column>
         </table>
+        <table name="Wizard_Spell">
+            <column name="id">46</column>
+            <column name="name">Alter Self</column>
+            <column name="school">Alteration</column>
+            <column name="level">2</column>
+            <column name="ranged">0</column>
+            <column name="components">V, S</column>
+            <column name="duration">3d4 rounds + 2rounds/level</column>
+            <column name="casting_time">2</column>
+            <column name="area_of_effect">The caster</column>
+            <column name="saving_throw">None</column>
+            <column name="description">
+            When this spell is cast, the wizard can alter his appearance and form-including clothing and equipment-to appear taller or shorter; thin, fat, or in between; human, humanoid, or any other generally manshaped bipedal creature. The caster's body can undergo a limited physical alteration of and his size can be changed up to 50%. If the form selected has wings, the wizard can actually fly, but only ⅓ the speed of a true creature of that type, and with a loss of two maneuverability classes (to a minimum of E). If the form has gills, the caster can breathe underwater as long as the spell lasts. However, any multiple attack routines or additional damage allowed to an assumed form are not gained by the caster.
+            The caster's attack rolls, Armor Class, and saving throws do not change. The spell does not confer special abilities, attack forms, or defenses. Once the new form is chosen, it remains for the duration of the spell. The caster can change back into his own form at will; this ends the spell immediately. A caster who is slain automatically returns to his normal form.
+            </column>
+            <column name="Reversible">0</column>
+        </table>
+        <table name="Wizard_Spell">
+            <column name="id">47</column>
+            <column name="name">Bind</column>
+            <column name="school">Enchantment</column>
+            <column name="level">2</column>
+            <column name="ranged">30 yards</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">1 round/level</column>
+            <column name="casting_time">2</column>
+            <column name="area_of_effect">Special</column>
+            <column name="saving_throw">None</column>
+            <column name="description">
+            When this spell is employed, the wizard can command any non-living ropelike object, including string, yarn, cord, line, rope, or even a cable. The spell affects 50 feet of normal rope (one-inch diameter), plus 5 feet per caster level. This length is reduced by 50% for every additional inch of thickness and increased by 50% for each ½ inch less. The possible commands are Coil (form a neat, coiled stack), Coil &amp; Knot, Loop, Loop &amp; Knot, Tie &amp; Knot, and the reverses of all of the above (Uncoil, etc.). One command can be given each round.
+            The rope can only enwrap a creature or object within one foot of it-it does not snake outward-so it must be thrown or hurled near the intended target. Note that the rope itself, and any knots tied in it, are not magical. A typical rope might be AC 6 and take 4 points of slashing damage before breaking. The rope does not inflict damage of any type, but can be used as a trip line or to entangle a single opponent who fails a saving throw vs. spell.
+            </column>
+            <column name="Reversible">0</column>
+        </table>
     </database>
 </pma_xml_export>
+<!--
+<table name="Wizard_Spell">
+    <column name="id"></column>
+    <column name="name"></column>
+    <column name="school"></column>
+    <column name="level"></column>
+    <column name="ranged"></column>
+    <column name="components"></column>
+    <column name="duration"></column>
+    <column name="casting_time"></column>
+    <column name="area_of_effect"></column>
+    <column name="saving_throw"></column>
+    <column name="description"></column>
+    <column name="Reversible"></column>
+</table>
+-->
