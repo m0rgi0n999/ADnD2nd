@@ -843,6 +843,56 @@
             </column>
             <column name="Reversible">0</column>
         </table>
+        <table name="Wizard_Spell">
+            <column name="id">48</column>
+            <column name="name">Blindness</column>
+            <column name="school">Illusion/Phantasm</column>
+            <column name="level">2</column>
+            <column name="ranged">30 yards + 10 yards/level</column>
+            <column name="components">V</column>
+            <column name="duration">Special</column>
+            <column name="casting_time">2</column>
+            <column name="area_of_effect">1 creature</column>
+            <column name="saving_throw">Neg.</column>
+            <column name="description">
+            The blindness spell causes the victim to become blind, able to see only a grayness before its eyes. Variuos cure spells will not remove this effect, and only a dispell magic or the spellcaster can do away with blindness if the creature fails its initial saving throw vs. spell. A blinded creature suffers a -4 penalty to its attack rolls, and its opponents gain a +4 bonus to their attack rols.
+            </column>
+            <column name="Reversible">0</column>
+        </table>
+        <table name="Wizard_Spell">
+            <column name="id">49</column>
+            <column name="name">Blur</column>
+            <column name="school">Illusion/Phantasm</column>
+            <column name="level">2</column>
+            <column name="ranged">0</column>
+            <column name="components">V, S</column>
+            <column name="duration">3 rounds + 1 round/level</column>
+            <column name="casting_time">2</column>
+            <column name="area_of_effect">The caster</column>
+            <column name="saving_throw">None</column>
+            <column name="description">
+            When a blur spell is cast, the wizard causes the outline of his form to become blurred, shifting and wavering. This distortion causes all missile and melee combat attacks against the caster to be made with -4 penalties on the first attempt and -2 penalties on all successive attacks. It also grants the wizard a +1 bonus to his saving throw for any direct magic attack. A detect invisibility spell will not counter this effect, but the 5th-level clerical spell true seeing and similar magic will.
+            </column>
+            <column name="Reversible">0</column>
+        </table>
+        <table name="Wizard_Spell">
+            <column name="id">50</column>
+            <column name="name">Continual Light</column>
+            <column name="school">Alteration</column>
+            <column name="level">2</column>
+            <column name="ranged">60 yards</column>
+            <column name="components">V, S</column>
+            <column name="duration">Permanent</column>
+            <column name="casting_time">2</column>
+            <column name="area_of_effect">60-foot radius</column>
+            <column name="saving_throw">Special</column>
+            <column name="description">
+            This spell is similar to a light spell, except that it is as bright as full daylight and lasts until negated by magical darkness or by a dispel magic spell. Creatures who suffer penalties in bright light suffer them in this spell's area of effect. As with the light spell, it can be cast into the air, onto an object, or at a creature. In the third case, the spell affects the space about one foot behind a creature that successfully rolls its saving throw vs. spell. Note that this spell can also blind a creature if it is successfully cast upon the creature's attack rolls, saving throws, and Armor Class by 4. If the spell is cast on a small object that is then placed in a lightproof covering, the spell's effects are blocked until the covering is removed.
+            A continual light brought into an area of magical darkness (or vice versa) is temporarily negated so that the otherwise prevailing light conditions exist in the overlapping areas of effect. A direct casting of continual light against a similar or weaker magical darkness cancels both.
+            This spell eventually consumes the material it is cast upon, but the process takes far longer than the time in the typical campaign. Extremely hard and expensive materials can last hundreds or even thousands of years.
+            </column>
+            <column name="Reversible">1</column>
+        </table>
     </database>
 </pma_xml_export>
 <!--
