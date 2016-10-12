@@ -893,6 +893,173 @@
             </column>
             <column name="Reversible">1</column>
         </table>
+        <table name="Wizard_Spell">
+            <column name="id">51</column>
+            <column name="name">Darkness, 15' Radius</column>
+            <column name="school">Alteration</column>
+            <column name="level">2</column>
+            <column name="ranged">10 yds./level</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">1 turn + 1 rd./level</column>
+            <column name="casting_time">2</column>
+            <column name="area_of_effect">15-ft. radius</column>
+            <column name="saving_throw">None</column>
+            <column name="description">
+            This spell causes total, impenetrable darkness in the area of effect. Infravision is useless. Neither normal nor magical light works unless a light or continual light spell is used. In the former event, the darkness spell is negated by the light spell, and vice versa.
+            The material components of this spell are a bit of bat fur and either a drop of pitch or a piece of coal.
+            </column>
+            <column name="Reversible">0</column>
+        </table>
+        <table name="Wizard_Spell">
+            <column name="id">52</column>
+            <column name="name">Deafness</column>
+            <column name="school">Illusion/Phantasm</column>
+            <column name="level">2</column>
+            <column name="ranged">60 yds.</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">Special</column>
+            <column name="casting_time">2</column>
+            <column name="area_of_effect">1 crature</column>
+            <column name="saving_throw">Neg.</column>
+            <column name="description">
+            The deafness spell causes the recipient to become totally deaf and unable to hear any sounds. The victim is allowed a saving throw vs. spell. An affected creature has a -1 penalty to its surprise rolls unless its other senses are unusually keen. Deafened spellcasters have a 20% chance to miscast any spell with a verbal component. This deafness can be done away with only by means of a dispel magic spell or by the spellcaster.
+            The material component of this spell is beeswax.
+            </column>
+            <column name="Reversible">0</column>
+        </table>
+        <table name="Wizard_Spell">
+            <column name="id">53</column>
+            <column name="name">Deeppockets</column>
+            <column name="school">Alteration, Enchantment</column>
+            <column name="level">2</column>
+            <column name="ranged">Touch</column>
+            <column name="components">V, S, M</column>
+            <column name="duration">12 hrs. + 1 hr./level</column>
+            <column name="casting_time">1</column>
+            <column name="area_of_effect">1 garment</column>
+            <column name="saving_throw">none</column>
+            <column name="description">
+            This spell enables the wizard to specially prepare a garment so as to hold far more than it normally could. A finely sewn gown or robe of high-quality material (at least 50 gp value) is fashioned so as to contain numerous hand-sized pockets. One dozen is the minimum number. The deeppockets spell then enables these pockets to hold a total of 100 pounds (5 cubic feet in volume) as if it were only 10 pounds of weight. Furthermore, there are no discernible bulges where the special pockets are. At the time of casting, the caster can instead choose to have 10 pockets each holding 10 pounds (½ cubic foot volume each). If the robe or like garment is sewn with 100 or more pockets (200 gp minimum cost), 100 pockets can be created to contain one pound of weight and 1/6 cubic foot volume each. Each special pocket is actually an extradimensional holding space.
+            If the spell duration expires while there is material within the enchanted pockets, or if a successful dispel magic is cast upon the enchanted garment, all the material suddenly appears around the wearer and immediately falls to the ground. The caster can also cause all the pockets to empty with a single command.
+            In addition to the garment, which is reusable, the material components of this spell are a tiny golden needle and a strip of fine cloth given a half-twist and fastened at the ends.
+            </column>
+            <column name="Reversible">0</column>
+        </table>
+        <table name="Wizard_Spell">
+            <column name="id">54</column>
+            <column name="name">Detect Evil</column>
+            <column name="school">Divination</column>
+            <column name="level">2</column>
+            <column name="ranged">0</column>
+            <column name="components">V, S</column>
+            <column name="duration">5 rds./level</column>
+            <column name="casting_time">2</column>
+            <column name="area_of_effect">10 x 180 ft.</column>
+            <column name="saving_throw">None</column>
+            <column name="description">
+            This spell discovers emanations of evil (or of good in the case of the reverse spell) from any creature, object, or area. Character alignment is not revealed under most circumstances: Characters who are strongly aligned, do not stray from their faith, and who are at least 9th level might radiate good or evil if they are intent upon appropriate actions. Powerful monsters, such as ki-rin, send forth emanations of evil or good, even if polymorphed. Aligned undead radiate evil, for it is this power and negative force that enables them to continue existing. An evilly cursed object or unholy water radiates evil, but a hidden trap or an unintelligent viper does not. The degree of evil (faint, moderate, strong, overwhelming) can be noted. Note that priests have a more powerful version of this spell.
+            The spell has a path of detection 10 feet wide and 60 yards long in the direction in which the wizard is facing. The wizard must concentrate--stop, have quiet, and intently seek to detect the aura--for at least one round to receive a reading.
+            </column>
+            <column name="Reversible">1</column>
+        </table>
+        <table name="Wizard_Spell">
+            <column name="id"></column>
+            <column name="name"></column>
+            <column name="school"></column>
+            <column name="level"></column>
+            <column name="ranged"></column>
+            <column name="components"></column>
+            <column name="duration"></column>
+            <column name="casting_time"></column>
+            <column name="area_of_effect"></column>
+            <column name="saving_throw"></column>
+            <column name="description"></column>
+            <column name="Reversible"></column>
+        </table>
+        <table name="Wizard_Spell">
+            <column name="id"></column>
+            <column name="name"></column>
+            <column name="school"></column>
+            <column name="level"></column>
+            <column name="ranged"></column>
+            <column name="components"></column>
+            <column name="duration"></column>
+            <column name="casting_time"></column>
+            <column name="area_of_effect"></column>
+            <column name="saving_throw"></column>
+            <column name="description"></column>
+            <column name="Reversible"></column>
+        </table>
+        <table name="Wizard_Spell">
+            <column name="id"></column>
+            <column name="name"></column>
+            <column name="school"></column>
+            <column name="level"></column>
+            <column name="ranged"></column>
+            <column name="components"></column>
+            <column name="duration"></column>
+            <column name="casting_time"></column>
+            <column name="area_of_effect"></column>
+            <column name="saving_throw"></column>
+            <column name="description"></column>
+            <column name="Reversible"></column>
+        </table>
+        <table name="Wizard_Spell">
+            <column name="id"></column>
+            <column name="name"></column>
+            <column name="school"></column>
+            <column name="level"></column>
+            <column name="ranged"></column>
+            <column name="components"></column>
+            <column name="duration"></column>
+            <column name="casting_time"></column>
+            <column name="area_of_effect"></column>
+            <column name="saving_throw"></column>
+            <column name="description"></column>
+            <column name="Reversible"></column>
+        </table>
+        <table name="Wizard_Spell">
+            <column name="id"></column>
+            <column name="name"></column>
+            <column name="school"></column>
+            <column name="level"></column>
+            <column name="ranged"></column>
+            <column name="components"></column>
+            <column name="duration"></column>
+            <column name="casting_time"></column>
+            <column name="area_of_effect"></column>
+            <column name="saving_throw"></column>
+            <column name="description"></column>
+            <column name="Reversible"></column>
+        </table>
+        <table name="Wizard_Spell">
+            <column name="id"></column>
+            <column name="name"></column>
+            <column name="school"></column>
+            <column name="level"></column>
+            <column name="ranged"></column>
+            <column name="components"></column>
+            <column name="duration"></column>
+            <column name="casting_time"></column>
+            <column name="area_of_effect"></column>
+            <column name="saving_throw"></column>
+            <column name="description"></column>
+            <column name="Reversible"></column>
+        </table>
+        <table name="Wizard_Spell">
+            <column name="id"></column>
+            <column name="name"></column>
+            <column name="school"></column>
+            <column name="level"></column>
+            <column name="ranged"></column>
+            <column name="components"></column>
+            <column name="duration"></column>
+            <column name="casting_time"></column>
+            <column name="area_of_effect"></column>
+            <column name="saving_throw"></column>
+            <column name="description"></column>
+            <column name="Reversible"></column>
+        </table>
     </database>
 </pma_xml_export>
 <!--
