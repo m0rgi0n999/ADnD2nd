@@ -35,12 +35,12 @@ CREATE TABLE `mdb` (
   `pdef` varchar(255),
   `pscore` varchar(255),
   `psp` varchar(255),
-  `pdesc` longtext(255),
-  `description` longtext(255),
-  `combat` longtext(255),
-  `habitat` longtext(255),
-  `ecology` longtext(255),
-  `full_text` longtext(255),
+  `pdesc` longtext,
+  `description` longtext,
+  `combat` longtext,
+  `habitat` longtext,
+  `ecology` longtext,
+  `full_text` longtext,
   `source` varchar(255),
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
