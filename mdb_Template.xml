@@ -24,15 +24,7 @@
         <size></size>
         <morale></morale>
         <xp></xp>
-        <plvl></plvl>
-        <pdis></pdis>
-        <psci></psci>
-        <pdev></pdev>
-        <patt></patt>
-        <pdef></pdef>
-        <pscore></pscore>
-        <psp></psp>
-        <pdesc></pdesc>
+        <psi></psi>
         <description></description>
         <combat></combat>
         <habitat></habitat>
