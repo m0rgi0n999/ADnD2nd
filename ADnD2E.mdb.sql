@@ -1,7 +1,7 @@
 -- ADnD2E.mdb definition
 -- Drop database if exists.
-DROP DATABASE IF EXISTS;
---
+DROP TABLE IF EXISTS `mdb`;
+
 CREATE TABLE `mdb` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `name` varchar(255),
