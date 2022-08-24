@@ -3,7 +3,7 @@
 DROP TABLE IF EXISTS `mdb`;
 
 CREATE TABLE `mdb` (
-  `id` int(11),
+  `id` int(11) NOT NULL AUTO_INCREMENT,
   `name` varchar(255),
   `climate` varchar(255),
   `terrain` varchar(255),
