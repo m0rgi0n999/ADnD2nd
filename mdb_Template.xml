@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdb>
+    <mon>
+        <name></name>
+        <climate></climate>
+        <terrain></terrain>
+        <frequency></frequency>
+        <organization></organization>
+        <activity_cycle></activity_cycle>
+        <diet></diet>
+        <intelligence></intelligence>
+        <treasure></treasure>
+        <alignment></alignment>
+        <no_appearing></no_appearing>
+        <ac></ac>
+        <move></move>
+        <hd></hd>
+        <thac0></thac0>
+        <no_att></no_att>
+        <dmg></dmg>
+        <sa></sa>
+        <sd></sd>
+        <mr></mr>
+        <size></size>
+        <morale></morale>
+        <xp></xp>
+        <description></description>
+        <combat></combat>
+        <habitat></habitat>
+        <ecology></ecology>
+        <full_text></full_text>
+        <source></source>
+    </mon>
+</mdb>

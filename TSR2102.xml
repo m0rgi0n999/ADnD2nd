@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdb>
+    <mon>
+        <name>Aerial Servant</name>
+        <climate_terrain>Plane of elemental air, astral plane, and ethereal plane</climate_terrain>
+        <frequency>Very rare</frequency>
+        <organization>Solitary</organization>
+        <activity_cycle>Any</activity_cycle>
+        <diet>See below</diet>
+        <intelligence>Semi- (2-4)</intelligence>
+        <treasure>Nil</treasure>
+        <alignment>Neutral</alignment>
+        <no_appearing>1</no_appearing>
+        <ac>3</ac>
+        <move>Fl 24 (A)</move>
+        <hd>16</hd>
+        <thac0>5</thac0>
+        <no_att>1</no_att>
+        <dmg>8-32</dmg>
+        <sa>Surprise</sa>
+        <sd>+1 or better weapon to hit</sd>
+        <mr>Nil</mr>
+        <size>L (18' tall)</size>
+        <morale>Elite (14)</morale>
+        <xp>10.000</xp>
+        <description><![CDATA[<p>The aerial servant is a semi-intelligent form of an air elemental native to the elemental plane of air, the ethereal plane, and the astral plane. An encounter with an aerial servant in the prime material plane is usually the result of a conjuration by a cleric.</p><p>When encountered in the material plane, aerial servants normally are invisible. They are dimly visible in their native planes, resembling legless humanoids made of sparkling blue smoke. They have empty eye sockets, a thin slash for a mouth, and two long arms with large hands and four thick fingers.</p>]]></description>
+        <combat><![CDATA[<p>An aerial servant generally avoids combat in its native planes. However, if attacked or threatened, it responds by attempting to grab and strangle its opponent. The aerial servant's first successful roll to hit means it has grabbed its victim; in each successive round that it holds its victim, the aerial servant, if it desires, automatically inflicts 8-32 hp of damage. An aerial servant is very strong and can easily carry weights in excess of 10,000 gold pieces. A character must have a Strength of 18 to have any chance of breaking free. For each percentage point score the character has, there is a like chance to break free of the aerial servant's grasp; for instance, a character with an 18/50% Strength has a 50% chance of breaking free, while a character with a 00% or 19 automatically breaks free. (If the grasped creature has no Strength rating, roll the appropriate number of the creature's Hit Dice and 16 HD for the aerial servant; if the creature's total is higher, it breaks free.)</p><p>An aerial servant in the command of a cleric will not fight for him, but will complete any other assigned duty, usually finding and returning an object or victim. If assigned to return a victim, the aerial servant grabs the victim as described above. Additionally, those attacked by an aerial servant in the material plane have a -5 surprise modifier. If the summoning cleric does not protect himself by casting protection from evil or by standing inside a protective symbol, the aerial servant will attempt to crush and kill him. If the aerial servant is prevented from completing its assigned mission, it becomes insane, returns to the cleric, and attempts to kill him.</p>]]></combat>
+        <habitat><![CDATA[<p>Aerial servants are not organized into families, communities, or any other social units. They do not collect treasure. Aerial servants pass the time by soaring on the elemental, astral, and ethereal winds, exploring the infinite mysteries of their native planes. As they have no permanent lairs, aerial servants have a virtually limitless range and are not tied to any specific territory. They are particularly drawn to areas of extreme weather, such as the ether cyclones of the ethereal plane (sinuous, serpentine columns of force), the psychic wind storms of the astral plane (hurricane-like areas of darkness), and the aerial maelstroms of the plane of elemental air (doughnut-shaped tornadoes). Generally, aerial servants are able to avoid the dangers of these phenomena. However, if a careless aerial servant is caught up in one of these storms, there is a 5% chance it will be blown in two, with each half becoming a separate aerial servant. This is the only way aerial servants reproduce, an extremely painful process the aerial servants strive to avoid.</p><p>Aerial servants will not voluntarily leave their home plane and have no interest in material plane affairs. They resent being summoned by clerics to the prime material plane and will attempt to complete their missions as soon as possible in order to return home.</p>]]></habitat>
+        <ecology><![CDATA[<p>erial servants do not consume food for nourishment. Instead, they are refreshed and energized by being buffeted in the planar winds. Long periods of calm weather cause aerial servants to grow listless and weak. If an aerial servant is not exposed to a planar wind in excess of 30 miles per hour for 30 consecutive days, it risks suffering damage; beginning on day 31, it has a 10% chance per day of losing 1d8 hp of damage. Aerial servants recover lost hit points at the rate of 1d8 per hour of being buffeted by planar winds in excess of 30 miles per hour. They are unaffected by winds of the prime material plane.</p><p>Aerial servants have no natural enemies. They rarely associate with other creatures, although they do have an affinity for air elementals, occasionally tagging along after them. However, air elementals avoid and discourage contact with aerial servants, considering them an inferior species.</p>]]></ecology>
+        <full_text><![CDATA[]]></full_text>
+        <source>TSR 2102 - MC1</source>
+    </mon>
+</mdb>
