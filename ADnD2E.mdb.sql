@@ -3,10 +3,10 @@
 DROP TABLE IF EXISTS `mdb`;
 
 CREATE TABLE `mdb` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `id` int(11),
   `name` varchar(255),
   `climate` varchar(255),
-  `terrain` varchar(255)
+  `terrain` varchar(255),
   `frequency` varchar(255),
   `organization` varchar(255),
   `activity_cycle` varchar(255),
