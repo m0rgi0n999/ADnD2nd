@@ -44,67 +44,29 @@ Aerial servants have no natural enemies. They rarely associate with other creatu
 
 Animal, Herd
 
-                        Camel       Cattle
+                        Camel       Cattle      Buffalo     antelope        Sheep
 CLIMATE/TERRAIN:
 FREQUENCY:
 ORGANIZATION:
 ACTIVITY CYCLE:
-
-Camel
-
- 
-
-  
- 
-
-  
-
-Herbivore
-
- 
-
-DIET: Herbivore
-INTELLIGENCE: Animal to semi- (1-4) Semi- (2-4)
-TREASURE: Nil Nil
-ALIGNMENT: Nil Neutral
-
-Buffalo Antelope Sheep
-
-  
-   
-
-Herbivore
-
-Herbivore Herbivore
-Semi- (2-4) Animal (1) Animal (1)
-Nil Nil Nil
-Nil Nil Nil
-
- 
-
-  
-
-   
-
-Stampede
-
-SPECIAL ATTACKS: Spitting
-
-_ SPECIAL DEFENSES: Nil Nil
-MAGIC RESISTANCE: Nil Nil
-SIZE: L (8’ tall) L (8' long)
-MORALE: Unreliable (3) Unreliable (4)
-XP VALUE: 65 15-120
-
- 
-
- 
-
- 
-
- 
-
- 
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
 Herd animals live in all climates and terrain, from freezing tundra
 (bactrian camel) to temperate hills (wild cattle) to tropical plains
@@ -122,22 +84,6 @@ Combat: Most herd animals attack by biting. Buffalo defend
 themselves with their horns, usually attacking if approached too
 closely (6' or less); if charging from a distance of at least 40’, a
 buffalo does 3-18 hp of impaling damage plus 1-4 hp of trampling
-
- 
-
-| Charge
-
-    
-
-      
-
-Stampede Charge
-Head is AC 3 Nil Nil
-Nil Nil Nil
-L (5’ at shoulder) M (5’ tall) M (5' long)
-Average (10) Unreliable (3) Unreliable (3)
-175 35 35
-
 damage. Nasty-tempered camels have a 50% chance of spitting at
 persons attempting to ride them or use them for pack animals; the
 victim of a spit attack has a 25% chance of being blinded for 1-3
@@ -173,41 +119,29 @@ Dried droppings of herd animals can be burned for fuel.
 Bat
 
  
-
-} SS Ps Ss a ee 8 ee i eS ee Sa ae eS ee
-Large (giant)
-
-Common Huge (mobat)
-
-    
-
-        
-  
-
- 
-
-DIET: Omnivore Omnivore Omnivore
-INTELLIGENCE: Animal (1) Animal (1) Low (5- 7)
-TREASURE: Nil Nil Cc
-ALIGNMENT: Nil Nil Neutral evil
-
- 
-
-   
-
-SPECIAL ATTACKS: See below Nil See below
-
-SPECIAL DEFENSES: Nil See below See below
-
-MAGIC RESISTANCE: Nil Nil Nil
-
-SIZE: T (1’) M (5'-6’) H (12'- 16')
-
-MORALE: Unreliable (2-4) Unsteady (5-7) Steady (11-12)
-
-XP VALUE: 15 35 420 (4 HD)
-650 (S HD)
-975 (6 HD)
+                Common          Large (giant)           Huge (mobat)
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
 Bats are common animals in many parts of the world. While ordi-
 nary bats are annoying but harmless, larger varieties are deadly.
@@ -245,7 +179,6 @@ clude small animals or fish in their diets. The rare vampire bat
 travels at night to drink the warm blood of living creatures, but
 its victims are never humans or demihumans, and care must be
 taken not to confuse the vampire bat with the true vampire in this
-
 regard,
 
 Giant Bat
@@ -282,63 +215,33 @@ effective in a 20-foot radius about the mobat. Note that mobile
 mobats have a normal Armor Class of 2. Under crowded flying
 conditions, however, their Armor Class suffers and is raised to 7.
 When not in flight, mobats are Armor Class 10.
-Bear
 
- 
 
-SS SE ES SE i a SS See,
-Black
+Bear
 
-Brown
-
-    
-
-Day Day
-DIET: Omnivore Omnivore
-INTELLIGENCE: Semi- (2-4) Semi- (2-4)
-TREASURE: Nil Nil
-ALIGNMENT: Neutral Neutral
-
- 
-
-Cave Polar
-
- 
-
-  
-
-Day Day
-Omnivore Omnivore
-Semi- (2- 4) Semi- (2-4)
-Nil Nil
-Neutral Neutral
-
- 
-
-      
-
- 
-
-DAMAGE/ATTACK: 1-3/1-3/1-6 1-6/1-6/1-8
-SPECIAL ATTACKS: Hug Hug
-
-SPECIAL DEFENSES: Nil Nil
-
-MAGIC RESISTANCE: _ Nil Nil
-
-SIZE: M (6’+ tall) L (9' + tall)
-MORALE: Average (8-10) Average (8-10)
-XP VALUE: 175 420
-
- 
-
- 
-
- 
-
- 
-
- 
+                Black       Brown       Cave        Polar
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
 A rather common omnivorous mammal, bears tend to avoid humans unless
 provoked. Exceptions to this rule can be a most unfortunate occurrence.
@@ -355,22 +258,6 @@ It is smaller than the brown bear and the most widespread species by far.
 Combat: Although black bears are usually not aggressive, they are able
 fighters when pressed. If a black bear scores a paw hit with an 18 or better
 it also hugs for 2-8 (2d4) points of additional damage.
-
- 
-
- 
-
- 
-
-1- 8/1-8/1-12 1-10/1-10/2-12
-
-Hug Hug
-Nil Nil
-Nil Nil
-
-H (12' + tall) H (14' + tall)
-Average (8-10) Average (8-10)
-650 2,000
 
 Habitat/Society: All bears have excellent senses of hearing and smell but
 rather poor eyesight. The size shown is an average for the variety and
@@ -419,35 +306,31 @@ or better indicates a “hug”, which inflicts 3-18 (3d6) points of additional
 damage. These aggressive animals will fight for 2-5 rounds after being
 brought to 0 to -12 hit points, but beyond that they will die instantly.
 
- 
- 
 
 Behir
 
- 
-
-    
-  
-
-DIET: Carnivore
-INTELLIGENCE: Low (5-7)
-TREASURE: See below
-ALIGNMENT: Neutral evil
-
- 
-
-      
-
-SPECIAL ATTACKS: Lightning bolt
-
-SPECIAL DEFENSES: Immune to electricity, poison
-MAGIC RESISTANCE: Nil
-
-SIZE: G (40' long)
-
-MORALE: Champion (15)
-
-XP VALUE: 10,000
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
 The behir is a snake-like reptilian monster whose dozen legs allow
 it to move with considerable speed and climb at fully half its nor-
