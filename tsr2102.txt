@@ -68,55 +68,20 @@ SIZE:
 MORALE:
 XP VALUE:
 
-Herd animals live in all climates and terrain, from freezing tundra
-(bactrian camel) to temperate hills (wild cattle) to tropical plains
-(antelope). Though normally passive, herd animals can be dan-
-gerous when angered or frightened.
+Herd animals live in all climates and terrain, from freezing tundra (bactrian camel) to temperate hills (wild cattle) to tropical plains (antelope). Though normally passive, herd animals can be dangerous when angered or frightened.
 
-Herd animals are four-legged hoofed mammals covered with
-hair—thick fur for buffalo, curly wool for sheep, and short,
-coarse hair for camels, antelope, and sheep. Male cattle, buffalo,
-antelope, and sheep have sharp horns. A camel's humps (one hum
-for dromedaries, two for bactrian) enable it to go without food or
-water for up to two weeks.
+Herd animals are four-legged hoofed mammals covered with hair—thick fur for buffalo, curly wool for sheep, and short, coarse hair for camels, antelope, and sheep. Male cattle, buffalo, antelope, and sheep have sharp horns. A camel's humps (one hum for dromedaries, two for bactrian) enable it to go without food or water for up to two weeks.
 
-Combat: Most herd animals attack by biting. Buffalo defend
-themselves with their horns, usually attacking if approached too
-closely (6' or less); if charging from a distance of at least 40’, a
-buffalo does 3-18 hp of impaling damage plus 1-4 hp of trampling
-damage. Nasty-tempered camels have a 50% chance of spitting at
-persons attempting to ride them or use them for pack animals; the
-victim of a spit attack has a 25% chance of being blinded for 1-3
-rounds. Cattle, antelope, and sheep generally flee from danger,
-but will attack if cornered or threatened. A male antelope or
-sheep defending his herd will charge, inflicting 1-4 hp of butting
-damage if charging from at least 40'. Male cattle are 75% likely to
-attack if intruders approach before the herd has a chance to es-
-cape.
+Combat: Most herd animals attack by biting. Buffalo defend themselves with their horns, usually attacking if approached too closely (6' or less); if charging from a distance of at least 40’, a buffalo does 3-18 hp of impaling damage plus 1-4 hp of trampling damage. Nasty-tempered camels have a 50% chance of spitting at persons attempting to ride them or use them for pack animals; the victim of a spit attack has a 25% chance of being blinded for 1-3 rounds. Cattle, antelope, and sheep generally flee from danger, but will attack if cornered or threatened. A male antelope or sheep defending his herd will charge, inflicting 1-4 hp of butting damage if charging from at least 40'. Male cattle are 75% likely to attack if intruders approach before the herd has a chance to escape.
 
-If frightened by intruders, there is a 25% that the entire herd
-will stampede. If a herd stampedes, roll 2d4 for each creature in
-the path of the stampede who does not take cover (such as by hid-
-ing in a tree or behind a rock pile or wall), This is the number of
-herd animals trampling the exposed creature. Trampling causes
-either 1-4 hp of damage (camel, cattle, antelope, and sheep) or 1-6
-hp of damage (buffalo) per herd animal trampling.
+If frightened by intruders, there is a 25% that the entire herd will stampede. If a herd stampedes, roll 2d4 for each creature in the path of the stampede who does not take cover (such as by hiding in a tree or behind a rock pile or wall), This is the number of herd animals trampling the exposed creature. Trampling causes either 1-4 hp of damage (camel, cattle, antelope, and sheep) or 1-6 hp of damage (buffalo) per herd animal trampling.
 
-Habitat/Society: Herd animals graze on open terrain, migrating
-to a new territory when the food supply of the old has been de-
-pleted. Herd size varies from a family of four buffalo to a com-
-mercial flock of 1,000 sheep. The largest and oldest male usually
-serves as the leader, directing the movement his herd and watch-
-ing for predators. Herd animals do not collect treasure.
+Habitat/Society: Herd animals graze on open terrain, migrating to a new territory when the food supply of the old has been depleted. Herd size varies from a family of four buffalo to a commercial flock of 1,000 sheep. The largest and oldest male usually serves as the leader, directing the movement his herd and watching for predators. Herd animals do not collect treasure.
 
-Ecology: Herd animals eat grass, grains, and shrubbery. They
-are the favored prey of carnivores, including lions, tigers, and
-dragons. Man often domesticates herd animals for their meat,
-milk, fur (blankets and clothing), and skin (shoes and tents).
-Dried droppings of herd animals can be burned for fuel.
+Ecology: Herd animals eat grass, grains, and shrubbery. They are the favored prey of carnivores, including lions, tigers, and dragons. Man often domesticates herd animals for their meat, milk, fur (blankets and clothing), and skin (shoes and tents). Dried droppings of herd animals can be burned for fuel.
 
  
-Bat
+Bat
 
  
                 Common          Large (giant)           Huge (mobat)
@@ -143,78 +108,29 @@ SIZE:
 MORALE:
 XP VALUE:
 
-Bats are common animals in many parts of the world. While ordi-
-nary bats are annoying but harmless, larger varieties are deadly.
+Bats are common animals in many parts of the world. While ordinary bats are annoying but harmless, larger varieties are deadly.
 
-With almost 2,000 different species of bats, one can find wing-
-spans from less than two inches across to 15 feet and more. The
-small body of the ordinary bat resembles a mouse, while the
-wings are formed from extra skin stretched across its forelimbs.
-The larger bats are scaled up but otherwise similar in appearance.
+With almost 2,000 different species of bats, one can find wingspans from less than two inches across to 15 feet and more. The small body of the ordinary bat resembles a mouse, while the wings are formed from extra skin stretched across its forelimbs. The larger bats are scaled up but otherwise similar in appearance.
 
-Despite the common belief that bats are blind, nearly all
-known species have rather good eyesight. In the dark, however,
-they do not rely on their visual acuity, but navigate instead by
-echo-location. Thus, by emitting a high-pitched squeal and listen-
-ing for it to bounce back to them, they detect their surroundings
-by a natural form of sonar.
+Despite the common belief that bats are blind, nearly all known species have rather good eyesight. In the dark, however, they do not rely on their visual acuity, but navigate instead by echo-location. Thus, by emitting a high-pitched squeal and listening for it to bounce back to them, they detect their surroundings by a natural form of sonar.
 
-Combat: Ordinary bats will attack only if cornered and left
-with no other option. If startled, bats tend to become frightened
-and confused. This causes them to begin swarming around and
-often fly into things. Thus, the typical bat swarm ends up putting
-out torches, confusing spell casting, and otherwise getting in the
-way. Under ideal flying conditions, a bat's Armor Class rating
-rises from 8 to 4.
+Combat: Ordinary bats will attack only if cornered and left with no other option. If startled, bats tend to become frightened and confused. This causes them to begin swarming around and often fly into things. Thus, the typical bat swarm ends up putting out torches, confusing spell casting, and otherwise getting in the way. Under ideal flying conditions, a bat's Armor Class rating rises from 8 to 4.
 
-Habitat/Society: While bats can be found almost anywhere,
-they prefer warmer climes. Some species hibernate during the
-cold season and a few are known to migrate. Bats live in caves or
-dark buildings, hanging by their feet during the day, and leaving
-at dusk to feed during the night. In certain large caverns there
-may be thousands of bats.
+Habitat/Society: While bats can be found almost anywhere, they prefer warmer climes. Some species hibernate during the cold season and a few are known to migrate. Bats live in caves or dark buildings, hanging by their feet during the day, and leaving at dusk to feed during the night. In certain large caverns there may be thousands of bats.
 
-Ecology: Most bats are fruit- or insect-eaters, though some in-
-clude small animals or fish in their diets. The rare vampire bat
-travels at night to drink the warm blood of living creatures, but
-its victims are never humans or demihumans, and care must be
-taken not to confuse the vampire bat with the true vampire in this
-regard,
+Ecology: Most bats are fruit- or insect-eaters, though some include small animals or fish in their diets. The rare vampire bat travels at night to drink the warm blood of living creatures, but its victims are never humans or demihumans, and care must be taken not to confuse the vampire bat with the true vampire in this regard,
 
 Giant Bat
 
-These creatures, which are giant versions of the carnivorous vari-
-ety of the ordinary bat, have bodies 3’ long and a wingspan of 5’-
-6’. They dwell in dark caverns, usually underground, and depend
-on their sonar in flight to compensate for their poor eyesight.
-Only 10% of giant bats are of the more powerful 1 hit die variety.
+These creatures, which are giant versions of the carnivorous variety of the ordinary bat, have bodies 3’ long and a wingspan of 5’- 6’. They dwell in dark caverns, usually underground, and depend on their sonar in flight to compensate for their poor eyesight. Only 10% of giant bats are of the more powerful 1 hit die variety.
 
-Giant bats are so highly maneuverable in flight that anyone *
-with a dexterity of less than 13 who fires a missile at a flying giant
-bat suffers a —3 penalty to their attack roll. The creature must
-land (usually on its victim) to attack with its bite. The typical ex-
-ample of this species inflicts 1-2 points of damage with its teeth
-while the larger does 1-4 points of damage. Anyone bitten by a gi-
-- bat has a 1% chance per point of damage done of contracting
-rabies.
+Giant bats are so highly maneuverable in flight that anyone * with a dexterity of less than 13 who fires a missile at a flying giant bat suffers a —3 penalty to their attack roll. The creature must land (usually on its victim) to attack with its bite. The typical example of this species inflicts 1-2 points of damage with its teeth while the larger does 1-4 points of damage. Anyone bitten by a giant bat has a 1% chance per point of damage done of contracting rabies.
 
 Mobat
 
-Mobats prefer warm-blooded prey which they bite to death with
-their fangs. They have a dim and evil intelligence which gives
-them a desire for shiny objects. Because the typical mobat has a
-wingspan of 12-16 feet they must have a large area in which to
-take off.
+Mobats prefer warm-blooded prey which they bite to death with their fangs. They have a dim and evil intelligence which gives them a desire for shiny objects. Because the typical mobat has a wingspan of 12-16 feet they must have a large area in which to take off.
 
-Because mobats' flight is so rapid and silent, their victims suffer
-a —3 on their surprise rolls. They can also give a piercing screech
-which will cause such pain to prey that the victims seek to cover
-their ears rather than fight unless a saving throw versus paralysis
-is successful. This screech is always used if their prey resists and is
-effective in a 20-foot radius about the mobat. Note that mobile
-mobats have a normal Armor Class of 2. Under crowded flying
-conditions, however, their Armor Class suffers and is raised to 7.
-When not in flight, mobats are Armor Class 10.
+Because mobats' flight is so rapid and silent, their victims suffer a —3 on their surprise rolls. They can also give a piercing screech which will cause such pain to prey that the victims seek to cover their ears rather than fight unless a saving throw versus paralysis is successful. This screech is always used if their prey resists and is effective in a 20-foot radius about the mobat. Note that mobile mobats have a normal Armor Class of 2. Under crowded flying conditions, however, their Armor Class suffers and is raised to 7. When not in flight, mobats are Armor Class 10.
 
 
 Bear
@@ -243,68 +159,37 @@ SIZE:
 MORALE:
 XP VALUE:
 
-A rather common omnivorous mammal, bears tend to avoid humans unless
-provoked. Exceptions to this rule can be a most unfortunate occurrence.
+A rather common omnivorous mammal, bears tend to avoid humans unless provoked. Exceptions to this rule can be a most unfortunate occurrence.
 
-Bears are, in general, large and powerful animals which are found
-throughout the world’s temperate and cooler climates. With dense fur
-protecting them from the elements and powerful claws protecting them
-from other animals, bears are the true rulers of the animal kingdom in the
-areas where they live.
+Bears are, in general, large and powerful animals which are found throughout the world’s temperate and cooler climates. With dense fur protecting them from the elements and powerful claws protecting them from other animals, bears are the true rulers of the animal kingdom in the areas where they live.
 
-The so-called black bear actually ranges in color from black to light brown.
-It is smaller than the brown bear and the most widespread species by far.
+The so-called black bear actually ranges in color from black to light brown. It is smaller than the brown bear and the most widespread species by far.
 
-Combat: Although black bears are usually not aggressive, they are able
-fighters when pressed. If a black bear scores a paw hit with an 18 or better
-it also hugs for 2-8 (2d4) points of additional damage.
+Combat: Although black bears are usually not aggressive, they are able fighters when pressed. If a black bear scores a paw hit with an 18 or better it also hugs for 2-8 (2d4) points of additional damage.
 
-Habitat/Society: All bears have excellent senses of hearing and smell but
-rather poor eyesight. The size shown is an average for the variety and
-larger individuals will, of course, be correspondingly more powerful.
+Habitat/Society: All bears have excellent senses of hearing and smell but rather poor eyesight. The size shown is an average for the variety and larger individuals will, of course, be correspondingly more powerful.
 
-One common misconception people hold about bears is that they hiber-
-nate during the winter. In fact, they sleep most of the time, but their me-
-tabolism does not slow down, and they often wake up and leave their lairs
-during warm spells.
+One common misconception people hold about bears is that they hibernate during the winter. In fact, they sleep most of the time, but their metabolism does not slow down, and they often wake up and leave their lairs during warm spells.
 
-Bears live in small family groups. Female bears are very protective of
-their young, and more than one individual has been badly injured when
-taunting or playing with seemingly harmless bear cubs.
+Bears live in small family groups. Female bears are very protective of their young, and more than one individual has been badly injured when taunting or playing with seemingly harmless bear cubs.
 
-Ecology: All of these ursoids are omnivorous, although the gigantic
-cave bear tends towards a diet of meat.
+Ecology: All of these ursoids are omnivorous, although the gigantic cave bear tends towards a diet of meat.
 
-Bears are fairly intelligent animals that can be trained to perform in a
-variety of ways, particularly if captured as cubs. Bears can thus be found
-dancing in circuses or accompanying “mountain men” in the wilderness.
+Bears are fairly intelligent animals that can be trained to perform in a variety of ways, particularly if captured as cubs. Bears can thus be found dancing in circuses or accompanying “mountain men” in the wilderness.
 
 Brown Bear
 
-The brown bear, of which the infamous grizzly is the most well known va-
-riety, is a bear of very aggressive disposition. Brown bears are more car-
-nivorous than their smaller cousins, the black bears. The grizzly in
-particular will often bring down large game such as deer and elk.
+The brown bear, of which the infamous grizzly is the most well known variety, is a bear of very aggressive disposition. Brown bears are more carnivorous than their smaller cousins, the black bears. The grizzly in particular will often bring down large game such as deer and elk.
 
-Brown bears are aggressive hunters. If a brown bear scores a paw hit with
-a roll of 18 or better it will also hug for 2-12 (2d6) points of additional dam-
-age. Brown bears will continue to fight for 1-4 melee rounds after reaching 0
-to -8 hit points. At -9 or fewer hit points, they are killed immediately,
+Brown bears are aggressive hunters. If a brown bear scores a paw hit with a roll of 18 or better it will also hug for 2-12 (2d6) points of additional damage. Brown bears will continue to fight for 1-4 melee rounds after reaching 0 to -8 hit points. At -9 or fewer hit points, they are killed immediately,
 
 Cave Bear
 
-Cave bears are quite aggressive, willing to attack well-armed parties with-
-out provocation. If a cave bear scores a paw hit with an 18 or better it also
-hugs for 2-16 (2d8) points of additional damage. Cave bears will continue
-to fight for 1-4 melee rounds after reaching 0 to -8 hit points. At -9 or
-fewer hit points, they are killed immediately.
+Cave bears are quite aggressive, willing to attack well-armed parties without provocation. If a cave bear scores a paw hit with an 18 or better it also hugs for 2-16 (2d8) points of additional damage. Cave bears will continue to fight for 1-4 melee rounds after reaching 0 to -8 hit points. At -9 or fewer hit points, they are killed immediately.
 
 Polar Bear
 
-These powerful swimmers feed mostly on marine animals. A paw hit of 18
-or better indicates a “hug”, which inflicts 3-18 (3d6) points of additional
-damage. These aggressive animals will fight for 2-5 rounds after being
-brought to 0 to -12 hit points, but beyond that they will die instantly.
+These powerful swimmers feed mostly on marine animals. A paw hit of 18 or better indicates a “hug”, which inflicts 3-18 (3d6) points of additional damage. These aggressive animals will fight for 2-5 rounds after being brought to 0 to -12 hit points, but beyond that they will die instantly.
 
 
 Behir
@@ -332,510 +217,217 @@ SIZE:
 MORALE:
 XP VALUE:
 
-The behir is a snake-like reptilian monster whose dozen legs allow
-it to move with considerable speed and climb at fully half its nor-
-mal movement rate. It can fold its limbs close to its long, narrow
-body and slither in snake-fashion if it desires. The head looks
-more crocodilian than snake-like, but has no difficulty in opening
-its mouth wide enough to swallow prey whole, the way a snake
-does.
+The behir is a snake-like reptilian monster whose dozen legs allow it to move with considerable speed and climb at fully half its normal movement rate. It can fold its limbs close to its long, narrow body and slither in snake-fashion if it desires. The head looks more crocodilian than snake-like, but has no difficulty in opening its mouth wide enough to swallow prey whole, the way a snake does.
 
-Behir have band-like scales of great hardness. Their color
-ranges from ultramarine to deep blue with bands of gray-brown.
-The belly is pale blue. The two large horns curving back over the
-head look dangerous enough but are actually used for preening
-the creature's scales and not for fighting.
+Behir have band-like scales of great hardness. Their color ranges from ultramarine to deep blue with bands of gray-brown. The belly is pale blue. The two large horns curving back over the head look dangerous enough but are actually used for preening the creature's scales and not for fighting.
 
-Combat: A behir will attack its prey by first biting and then
-looping its body around the victim and squeezing. If the latter at-
-tack succeeds, the victim is subject to six talon attacks next
-round.
+Combat: A behir will attack its prey by first biting and then looping its body around the victim and squeezing. If the latter at- tack succeeds, the victim is subject to six talon attacks next round.
 
-A behir can discharge a 20-foot long stroke of electrical energy
-once every 10 rounds, This lightning bolt will cause 24 points of
-damage unless a saving throw versus breath weapon is made. In
-the latter case, the target takes only half damage.
+A behir can discharge a 20-foot long stroke of electrical energy once every 10 rounds, This lightning bolt will cause 24 points of damage unless a saving throw versus breath weapon is made. In the latter case, the target takes only half damage.
 
-On a natural attack roll of 20 the behir swallows man-sized
-prey whole. Any creature swallowed will lose !/« of its starting hit
-points each round until it dies at the end of the sixth round. The
-behir will digest its meal in 12 turns, and at that time the victim is
-totally gone and cannot be raised from the dead, Note, however,
-that a creature swallowed can try to cut its way out of the behir's
-stomach. The inner armor class of the behir is 7, but each round
-the creature is in the behir it subtracts 1 from the damage each of
-its attacks does. This subtraction is cumulative, so on the second
-melee round there is a -2, on the third a -3, and so on.
+On a natural attack roll of 20 the behir swallows man-sized prey whole. Any creature swallowed will lose !/« of its starting hit points each round until it dies at the end of the sixth round. The behir will digest its meal in 12 turns, and at that time the victim is totally gone and cannot be raised from the dead, Note, however, that a creature swallowed can try to cut its way out of the behir's stomach. The inner armor class of the behir is 7, but each round the creature is in the behir it subtracts 1 from the damage each of its attacks does. This subtraction is cumulative, so on the second melee round there is a -2, on the third a -3, and so on.
 
-Habitat/Society: Behir are solitary creatures, meeting others of
-their kind only to mate and hatch a clutch of 1-4 eggs. The female
-guards these eggs for eight months while the male hunts for the
-pair. When the young hatch, they are immediately turned out of
-the nest to fend for themselves, and the adults separate.
+Habitat/Society: Behir are solitary creatures, meeting others of their kind only to mate and hatch a clutch of 1-4 eggs. The female guards these eggs for eight months while the male hunts for the pair. When the young hatch, they are immediately turned out of the nest to fend for themselves, and the adults separate.
 
-Newly hatched behir are about two feet long. Behir grow at a
-rate of eight feet per year until fully mature. Interestingly enough,
-newly hatched behir do not have all of their legs, having instead
-only six or eight. Additional pairs of legs grow slowly over time un-
-til the creature has its full complement when it reaches adulthood.
+Newly hatched behir are about two feet long. Behir grow at a rate of eight feet per year until fully mature. Interestingly enough, newly hatched behir do not have all of their legs, having instead only six or eight. Additional pairs of legs grow slowly over time until the creature has its full complement when it reaches adulthood.
 
- 
+Behir range over a territory of about 400 square miles, often living high up a cliff face in a cave.
 
- 
+Behir are never friendly with dragonkind, and will never be found coexisting in the same geographical area with any type of dragon. If a dragon should enter a behir’'s territory, the behir will do everything it can to drive the dragon out. If the behir fails in this task, it will move off to find a new home. A behir will never knowingly enter the territory of a dragon.
 
- 
+Ecology: Behir are useful to mages, priests, and alchemists for a number of concoctions. The horns of a behir can be used to brew the ink necessary to inscribe a lightning bolt scroll, and the sharp talons can likewise be used by a cleric to make the ink for a neutralize poison scroll. The heart of the behir is one of the more common ingredients for ink for a protection from poison scroll.
 
- 
+As behir sometimes swallow prey whole, there is a 10% chance that there will be some small items of value inside the monster. More often than not (60%) these will be gems (10 x Q). Otherwise, there is a 30% chance that there will be from 1-8 pieces of jewelry and a 10% chance that a single small magical object of an indegistible nature may be found. Such objects are never found in a behir's lair, because the creature expels this waste and buries it elsewhere.
 
- 
+The scales are valued for their hardness and color, and are worth up to 500 gp to an armorer who can use them to fashion a highly ornate set of scale mail armor.
 
-Behir range over a territory of about 400 square miles, often
-living high up a cliff face in a cave.
-
-Behir are never friendly with dragonkind, and will never be
-found coexisting in the same geographical area with any type of
-dragon. If a dragon should enter a behir’'s territory, the behir will
-do everything it can to drive the dragon out. If the behir fails in
-this task, it will move off to find a new home. A behir will never
-knowingly enter the territory of a dragon.
-
-Ecology: Behir are useful to mages, priests, and alchemists for a
-number of concoctions. The horns of a behir can be used to brew
-the ink necessary to inscribe a lightning bolt scroll, and the sharp
-talons can likewise be used by a cleric to make the ink for a neu-
-tralize poison scroll. The heart of the behir is one of the more
-common ingredients for ink for a protection from poison scroll.
-
-As behir sometimes swallow prey whole, there is a 10% chance
-that there will be some small items of value inside the monster.
-More often than not (60%) these will be gems (10 x Q). Other-
-wise, there is a 30% chance that there will be from 1-8 pieces of
-jewelry and a 10% chance that a single small magical object of an
-indegistible nature may be found. Such objects are never found in
-a behir's lair, because the creature expels this waste and buries it
-elsewhere.
-
-The scales are valued for their hardness and color, and are
-worth up to 500 gp to an armorer who can use them to fashion a
-highly ornate set of scale mail armor.
- 
 
 Beholder
 
- 
-
-  
-   
-
-Beholder
-
-    
-
-DIET: Omnivore
-
-INTELLIGENCE: Exceptional (15-16) Very (11-12)
-TREASURE: 18, T R
-ALIGNMENT: Lawful evil Lawful evil
-
-Eye of the Deep
-
-Omnivore
-
-  
-
- 
-
-  
-
- 
-
-  
-
-SPECIAL ATTACKS: Magic
-
-SPECIAL DEFENSES: Anti-magic ray Nil
-MAGIC RESISTANCE: Special Nil
-SIZE: M (4’-6' diameter)
-
-MORALE: Fanatic (18)
-
-XP VALUE: 14,000 4,000
-
-The beholder (also known as the eye tyrant or sphere of many eyes) is
-most frequently found underground, although it will lair in desolate
-wildernesses from time to time.
-
-The globular body of this monster is supported by levitation, al-
-lowing it to float slowly about as it wills. Atop the sphere are 10 eye-
-stalks, while in its central area are a great eleventh eye and a large
-mouth filled with pointed teeth.
-
-Beholders can speak their own language and will often know
-tongues of other lawful evil creatures.
-
-Combat: The body is protected by a hard chitinous covering with
-an Armor Class of 0. The creature's eyestalks and eyes are also pro-
-tected, although less well, having armor classes of 2 and 7 respec-
-tively.
-
-The various eyes of a beholder each have a different function. Typ-
-ically only the central eye, plus 1-4 of those on stalks, are able to func-
-tion considering that an attack usually comes from an arc 90 degrees
-before the monster. If attacks come from 180 degrees double the num-
-ber of eyestalks able to function, and for 270 degrees or 360 degrees
-triple or quadruple the number. Attacks from above enable all 10 eye-
-stalks to function, but the central eye cannot. Functions of the eyes
-are:
-
-Charm person
-Charm monster
-Sleep
-Telekinese 250 pound weight
-Flesh to stone ray (30 yard range)
-Disintegrate ray (20 yard range)
-Fear (as a wand)
-Slow
-Cause serious wounds (50 yard
-range)
-
-10 Death ray (40 yard range)
-Central eye Anti-magic ray (140 yard range)
-
-CeO NS Oo B® & Ne
-
-The anti-magic ray covers a 90° arc. All magic within the area
-ceases to function as long as it remains in the area. Spells cast from
-within the area or passing through it automatically fail.
-
-See below
-
- 
-
-S to M (3'-5’ diameter)
-Champion (15)
-
-   
-
- 
-
-Anti-Magic Ray
-
-  
-
- 
-
- 
-
- 
-
-Because of its particular nature the beholder is able to withstand the
-loss of its eyestalks, each taking from 8 to 12 hit points before being
-lost. These members are not computed as part of its hit point damage
-potential, and lost eyestalks will eventually grow back (one week per
-lost member). The body of the monster can withstand two-thirds of
-its total damage potential, while the great central eye can withstand
-one-third this total. Thus, a beholder with 45 hit points can withstand
-30 hit points of damage to its body before being killed and the elev-
-enth eye could withstand 15 points before ceasing to function. The
-body of a beholder represents 75% of potential hit area, the central
-eye and the eyestalks 10% each, and the 10 small eyes 5%.
-
-Habitat/Society: The beholder is hateful, aggressive, and avari-
-cious. It will usually attack immediately. If confronted by a particu-
-larly powerful party there is a50% chance it will listen to negotiations
-(either being bribed not to attack or paying a ransom to not be at-
-tacked, depending on the strength of the opposing party).
-
-Ecology: An eye froma stalk is an important ingredient in some po-
-tions of levitation, and as such can be sold to mages or alchemists for
-as much as 50 gp each.
-
-Eye of the Deep
-
-The evil eye of the deep dwells only at great depths, floating slowly
-about, and stalking prey.
-
-They have two crab-like pincers which inflict 2-8 (2d4) points of
-damage each and a wide mouth full of sharp teeth that does 1-6 points
-of damage.
-
-Its primary weapons, however, are its eyes. The creature's large
-central eye emits a cone of blinding light 5' wide at its start, 30' long,
-and 20’ wide at its base. Those in this cone must save versus poison or
-be stunned for 2-8 (2d4) rounds.
-
-The eye of the deep also has two smaller eyes on long stalks with
-which it is able to create an illusion. Acting independently, the small
-eyes are able to cast hold person and hold monster spells respectively.
-
-This monster has an Armor Class of 5 everywhere, including its
-eyes and eye stalks. If its eyestalks are severed they will grow back in
-about a week.
-
- 
-Boar
-
- 
-
-Wild
-
-   
-
-DIET: Omnivore
-
-INTELLIGENCE: Semi- (2-4)
-TREASURE: Nil
-ALIGNMENT: Neutral
-
-Giant (Elothere)
-
-Warthog
-
-Omnivore Omnivore
-
-Animal (1) Animal (1)
-Nil Nil
-Nil Nil
-
- 
-
-  
-
-SPECIAL ATTACKS: Nil
-SPECIAL DEFENSES: Nil
-MAGIC RESISTANCE: Nil
-SIZE: S (3’ at shoulder)
-
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
 MORALE:
 XP VALUE:
 
-Average (8-10)
-175
+The beholder (also known as the eye tyrant or sphere of many eyes) is most frequently found underground, although it will lair in desolate wildernesses from time to time.
+
+The globular body of this monster is supported by levitation, allowing it to float slowly about as it wills. Atop the sphere are 10 eyestalks, while in its central area are a great eleventh eye and a large mouth filled with pointed teeth.
+
+Beholders can speak their own language and will often know tongues of other lawful evil creatures.
+
+Combat: The body is protected by a hard chitinous covering with an Armor Class of 0. The creature's eyestalks and eyes are also protected, although less well, having armor classes of 2 and 7 respectively.
+
+The various eyes of a beholder each have a different function. Typically only the central eye, plus 1-4 of those on stalks, are able to function considering that an attack usually comes from an arc 90 degrees before the monster. If attacks come from 180 degrees double the number of eyestalks able to function, and for 270 degrees or 360 degrees triple or quadruple the number. Attacks from above enable all 10 eyestalks to function, but the central eye cannot. Functions of the eyes are:
+
+1 Charm person
+2 Charm monster
+3 Sleep
+4 Telekinese 250 pound weight
+5 Flesh to stone ray (30 yard range)
+6 Disintegrate ray (20 yard range)
+7 Fear (as a wand)
+8 Slow
+9 Cause serious wounds (50 yard range)
+10 Death ray (40 yard range)
+Central eye Anti-magic ray (140 yard range)
+
+The anti-magic ray covers a 90° arc. All magic within the area ceases to function as long as it remains in the area. Spells cast from within the area or passing through it automatically fail.
+
+Because of its particular nature the beholder is able to withstand the loss of its eyestalks, each taking from 8 to 12 hit points before being lost. These members are not computed as part of its hit point damage potential, and lost eyestalks will eventually grow back (one week per lost member). The body of the monster can withstand two-thirds of its total damage potential, while the great central eye can withstand one-third this total. Thus, a beholder with 45 hit points can withstand 30 hit points of damage to its body before being killed and the eleventh eye could withstand 15 points before ceasing to function. The body of a beholder represents 75% of potential hit area, the central eye and the eyestalks 10% each, and the 10 small eyes 5%.
+
+Habitat/Society: The beholder is hateful, aggressive, and avaricious. It will usually attack immediately. If confronted by a particularly powerful party there is a50% chance it will listen to negotiations (either being bribed not to attack or paying a ransom to not be attacked, depending on the strength of the opposing party).
+
+Ecology: An eye froma stalk is an important ingredient in some potions of levitation, and as such can be sold to mages or alchemists for as much as 50 gp each.
+
+Eye of the Deep
+
+The evil eye of the deep dwells only at great depths, floating slowly about, and stalking prey.
+
+They have two crab-like pincers which inflict 2-8 (2d4) points of damage each and a wide mouth full of sharp teeth that does 1-6 points of damage.
+
+Its primary weapons, however, are its eyes. The creature's large central eye emits a cone of blinding light 5' wide at its start, 30' long, and 20’ wide at its base. Those in this cone must save versus poison or be stunned for 2-8 (2d4) rounds.
+
+The eye of the deep also has two smaller eyes on long stalks with which it is able to create an illusion. Acting independently, the small eyes are able to cast hold person and hold monster spells respectively.
+
+This monster has an Armor Class of 5 everywhere, including its eyes and eye stalks. If its eyestalks are severed they will grow back in about a week.
 
  
+Boar
 
- 
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
- 
+Boars, a type of wild swine, are the ancestors of our domesticated hogs. Boars are, of course, more aggressive than the barnyard animal, and an unexpected encounter with a family of these creatures or one large individual can be fatal.
 
- 
+Boars look much like hogs, but have slightly shorter snouts, coarser and darker hair, and straighter tails. Some varieties have small] tusks at each side of the face.
 
- 
+Combat: Boars are dangerous foes when angered. They have a vicious bite and those with tusks can employ them to rip at unprotected flesh with great effectiveness.
 
-Boars, a type of wild swine, are the ancestors of our domesticated
-hogs. Boars are, of course, more aggressive than the barnyard an-
-imal, and an unexpected encounter with a family of these crea-
-tures or one large individual can be fatal.
+The boar will fight for 2-5 (1d4 +1) melee rounds after reaching 0 to -6 hit points but dies immediately at -7 or fewer hit points.
 
-Boars look much like hogs, but have slightly shorter snouts,
-coarser and darker hair, and straighter tails. Some varieties have
-small] tusks at each side of the face.
+Habitat/Society Boars live in family units as a rule. If more than one wild boar is encountered the others will be sows (3 hit dice, 2-8 (2d4) hit points damage/attack) or sounders, with a 1:4 (sows:sounders) ratio. Thus if 12 are encountered there will be 1 boar, 3 sows, and 8 young.
 
-Combat: Boars are dangerous foes when angered. They have a
-vicious bite and those with tusks can employ them to rip at un-
-protected flesh with great effectiveness.
+Ecology: Boars are true omnivores who will eat virtually anything. While eating a variety of foods is generally considered healthy, in the case of the wild boar this can lead to problems. A small roundworm, Trichinella spiralis, is a parasite that can inhabit a boar's body. This creates a problem when a human eats the boar without cooking it properly, as trichinosis, the disease caused by this parasite, is easily transmissible to humans. Once infected with the parasite, the host suffers fever, sweating, and sore muscles until a cure disease spell is cast.
 
-The boar will fight for 2-5 (1d4 +1) melee rounds after reaching
-0 to -6 hit points but dies immediately at -7 or fewer hit points.
-
- 
-
-Ni Nil
-Nil Nil
-Nil Nil
-
-M (5' at shoulder)
-Average (8-10)
-650
-
-S (22/2' at shoulder)
-Average (8-10)
-120
-
-Habitat/Society Boars live in family units as a rule. If more
-than one wild boar is encountered the others will be sows (3 hit
-dice, 2-8 (2d4) hit points damage/attack) or sounders, with a 1:4
-(sows:sounders) ratio. Thus if 12 are encountered there will be 1
-boar, 3 sows, and 8 young.
-
-Ecology: Boars are true omnivores who will eat virtually any-
-thing. While eating a variety of foods is generally considered
-healthy, in the case of the wild boar this can lead to problems. A
-small roundworm, Trichinella spiralis, is a parasite that can in-
-habit a boar's body. This creates a problem when a human eats
-the boar without cooking it properly, as trichinosis, the disease
-caused by this parasite, is easily transmissible to humans. Once
-infected with the parasite, the host suffers fever, sweating, and
-sore muscles until a cure disease spell is cast.
-
-Whether domesticated or not, the boar provides a number of
-products useful to man. All three varieties listed here are edible. Boar
-lard can be used interchangeably with domesticated swine lard.
-Leather from the wild species can be used for gloves and comfortable
-leather armor. The stiff bristles can be used for brushes.
+Whether domesticated or not, the boar provides a number of products useful to man. All three varieties listed here are edible. Boar lard can be used interchangeably with domesticated swine lard. Leather from the wild species can be used for gloves and comfortable leather armor. The stiff bristles can be used for brushes.
 
 Giant Boar
 
-This prehistoric forerunner of the wild boar is also very aggres-
-sive. If 3 or more are encountered there is only a 25% chance that
-there will be young (2-6 hit dice, 1-4/2-5 (1d4 + 1)/2-7 (1d6+1)/
-2-8 (2d4)/3-12 (3d4) points of damage/attack) numbering from 1-
-4 of the total herd. The boars and sows fight equally, and either
-will fight for 1-4 melee rounds after reaching 0 to -10 hit points
-but die immediately upon reaching -11 or fewer hit points.
+This prehistoric forerunner of the wild boar is also very aggressive. If 3 or more are encountered there is only a 25% chance that there will be young (2-6 hit dice, 1-4/2-5 (1d4 + 1)/2-7 (1d6+1)/2-8 (2d4)/3-12 (3d4) points of damage/attack) numbering from 1-4 of the total herd. The boars and sows fight equally, and either will fight for 1-4 melee rounds after reaching 0 to -10 hit points but die immediately upon reaching -11 or fewer hit points.
 
 Warthog
 
-These tropical beasts are aggressive only if their territory is
-threatened or if cornered. They make two slashing attacks with
-their large tusks. Male and female fight equally. If more than 2 are
-encountered the balance will be young (1-2 hit dice, 1-3/2-5
-(1d4 +1) points of damage/attack). The warthog will continue to
-fight for 1-2 melee rounds after reaching 0 to -5 hit points but at -6
-or fewer points it dies immediately.
-Bookworm
+These tropical beasts are aggressive only if their territory is threatened or if cornered. They make two slashing attacks with their large tusks. Male and female fight equally. If more than 2 are encountered the balance will be young (1-2 hit dice, 1-3/2-5 (1d4 +1) points of damage/attack). The warthog will continue to fight for 1-2 melee rounds after reaching 0 to -5 hit points but at -6 or fewer points it dies immediately.
+
+
+Bookworm
+
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
+
+This small worm, only one inch long, is greatly feared by mages because it is attracted to paper in all forms. It can smell scrolls, maps, arcane tomes, and spell books at a distance of 60 feet.
+
+Normally a dull gray color, a bookworm’s chameleon-like abilities enable it to instinctively blend into any background. Its high Armor Class is due to its speed and agility. If found motionless the bookworm is AC 9.
+
+Combat: The bookworm initially imposes a -7 on the surprise rolls of adventurers because of its color-changing ability. If the victim can see invisible things, the bookworm’s modifier is reduced to -4. Note that these chances apply even to creatures normally hard to surprise (like rangers and monks), because of its small size, speed (very great in proportion to its size), and inoffensive nature. If the bookworm does initially gain surprise, it may then be discovered (25%) on the outside of a victim's leg or pack. Otherwise, it will remain unnoticed unless the victim bearing paper hears the creature's noisy munching (base 50% chance per round). A feeding bookworm is motionless until attacked. After any attack it will flee (if possible) by first jumping 10 feet and then crawling back to its lair at top speed.
+
+A bookworm can burrow through dead wood or leather at a rate of 3 inches per round and through a leather scroll case or pack in one segment but cannot digest living matter of any type. It will destroy spell books and scrolls at the rate of one spell level per round (i.e., five rounds for a scroll of a single Sth-level spell).
+
+Habitat/Society: A bookworm lair is always a library or storeroom of some kind, whether in use or long-forgotten. When a bookworm is encountered, there may be undamaged paper items remaining (30% chance). In such cases, the surviving objects will be as follows: a map (60%), scroll (30%), or an arcane work of mage level 1-8 (10% ). If spell books are indicated, they should be appropriate for the level of the characters finding them but will be 0-90% (1d10-1) destroyed by the worms.
+
+A breeding pair of bookworms lays 80 eggs; about half of these hatch a month later. The larvae have less than an hour to find pa- per nourishment, or they die. When first hatched, the larvae are pure white, but they develop their dull gray color from ingesting the ink on the paper that makes up their diet. Unfortunately, the buildup of ink in their systems eventually kills them. The average lifespan of a bookworm is two or three years. A bookworm breeds only once in its lifetime, after which it dies.
+
+When an adventurer is careless enough to encounter a new brood of bookworm larvae, he can inflict incredible damage by carrying them unwittingly with him to other places. A handful of larvae hiding in a backpack traveling down a city street can find new homes readily, destroying the libraries of sages, temples, magic-users, and governments in the process.
+
+Ecology: A bookworm will always be attracted to the largest volume of paper in an area.
+
+Because of its unusual diet, the bookworm is a valuable ingredient in various alchemical preparations. Chief among these is the ink used to inscribe protection from magic scrolls. Because it is the residual ink in the bookworm’s body that is the "active ingredient" in this case, the darker the bookworm, the better it is for this purpose.
+
+The bookworm itself can be a useful tool under the right circumstances. Releasing a bookworm in a mage’s tower could exact revenge of a most lasting sort. There are a few cases on record, also, of criminals gaining release from prison when important documents turned up missing during their trials. Such use of a bookworm is both difficult and dangerous: difficult because it is hard to keep a bookworm alive under captivity, and dangerous because the bookworm, once released, may not leave its owner. Releasing a bookworm at an enemy's hideout and then having it follow you home is an unpleasant experience at best.
 
  
+Brownie
 
-   
-  
-
-  
-
-DIET: Special
-INTELLIGENCE: Non- (0)
-TREASURE: See below
-ALIGNMENT: Neutral
-
- 
-
- 
-
-See below
-
-SPECIAL ATTACKS:
-
-SPECIAL DEFENSES: See below
-MAGIC RESISTANCE: Nil
-
-SIZE: T (1 inch long)
-MORALE: Special
-
-XP VALUE: 15
-
-This small worm, only one inch long, is greatly feared by mages
-because it is attracted to paper in all forms. It can smell scrolls,
-maps, arcane tomes, and spell books at a distance of 60 feet.
-
-Normally a dull gray color, a bookworm’s chameleon-like abil-
-ities enable it to instinctively blend into any background. Its high
-Armor Class is due to its speed and agility. If found motionless the
-bookworm is AC 9.
-
-Combat: The bookworm initially imposes a -7 on the surprise
-rolls of adventurers because of its color-changing ability. If the
-victim can see invisible things, the bookworm’s modifier is re-
-duced to -4. Note that these chances apply even to creatures nor-
-mally hard to surprise (like rangers and monks), because of its
-small size, speed (very great in proportion to its size), and inof-
-fensive nature. If the bookworm does initially gain surprise, it
-may then be discovered (25%) on the outside of a victim's leg or
-pack. Otherwise, it will remain unnoticed unless the victim bear-
-ing paper hears the creature's noisy munching (base 50% chance
-per round). A feeding bookworm is motionless until attacked.
-After any attack it will flee (if possible) by first jumping 10 feet
-and then crawling back to its lair at top speed.
-
-A bookworm can burrow through dead wood or leather at a
-rate of 3 inches per round and through a leather scroll case or
-pack in one segment but cannot digest living matter of any type.
-It will destroy spell books and scrolls at the rate of one spell level
-per round (i.e., five rounds for a scroll of a single Sth-level spell).
-
-Habitat/Society: A bookworm lair is always a library or store-
-room of some kind, whether in use or long-forgotten. When a
-bookworm is encountered, there may be undamaged paper items
-remaining (30% chance). In such cases, the surviving objects will
-be as follows: a map (60%), scroll (30%), or an arcane work of
-mage level 1-8 (10% ). If spell books are indicated, they should be
-appropriate for the level of the characters finding them but will be
-0-90% (1d10-1) destroyed by the worms.
-
-A breeding pair of bookworms lays 80 eggs; about half of these
-hatch a month later. The larvae have less than an hour to find pa-
-per nourishment, or they die. When first hatched, the larvae are
-pure white, but they develop their dull gray color from ingesting
-the ink on the paper that makes up their diet. Unfortunately, the
-buildup of ink in their systems eventually kills them. The average
-lifespan of a bookworm is two or three years. A bookworm
-breeds only once in its lifetime, after which it dies.
-
- 
-
- 
-
- 
-
- 
-
- 
-
-When an adventurer is careless enough to encounter a new
-brood of bookworm larvae, he can inflict incredible damage by
-carrying them unwittingly with him to other places. A handful of
-larvae hiding in a backpack traveling down a city street can find
-new homes readily, destroying the libraries of sages, temples,
-magic-users, and governments in the process.
-
-Ecology: A bookworm will always be attracted to the largest
-volume of paper in an area.
-
-Because of its unusual diet, the bookworm is a valuable ingre-
-dient in various alchemical preparations. Chief among these is the
-ink used to inscribe protection from magic scrolls. Because it is
-the residual ink in the bookworm’s body that is the “active ingre-
-dient" in this case, the darker the bookworm, the better it is for
-this purpose.
-
-The bookworm itself can be a useful tool under the right cir-
-cumstances. Releasing a bookworm in a mage’s tower could exact
-revenge of a most lasting sort. There are a few cases on record,
-also, of criminals gaining release from prison when important
-documents turned up missing during their trials. Such use of a
-bookworm is both difficult and dangerous: difficult because it is
-hard to keep a bookworm alive under captivity, and dangerous
-because the bookworm, once released, may not leave its owner.
-Releasing a bookworm at an enemy's hideout and then having it
-follow you home is an unpleasant experience at best.
-
- 
-Brownie
-
- 
-
-     
-
-  
-
-DIET: Vegetarian
-INTELLIGENCE: High (13-14)
-TREASURE: O,PQ
-ALIGNMENT: Lawful good
-
- 
-
- 
-
-SPECIAL ATTACKS: Spells
-
-SPECIAL DEFENSES: Save as 9th level cleric
-MAGIC RESISTANCE: As above
-
-SIZE: Tiny (2')
-
-MORALE: Steady (11-12)
-
-XP VALUE: 175
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
 Brownies are small, benign humanoids who may be very dis-
 tantly related to halflings. Peaceful and friendly, brownies fre-
@@ -888,15 +480,6 @@ himself.
 
 Some brownies will go so far as to become house brownies. He
 will observe the families in a given area, and if one meets his high
-
- 
-
- 
-
- 
-
- 
-
 moral standards, the brownie will secretly enter the household.
 At night, while the residents are asleep, the brownie will perform
 a variety of helpful tasks. He will spin, sweep, bake bread, repair
@@ -933,36 +516,32 @@ comfortably on the byproducts of agricultural life. They make ef-
 ficient use of leftovers too small for humans to notice. When
 brownies glean from fields, they do so after harvest, gathering
 grains and fruits which might otherwise be wasted.
-Bugbear
 
- 
 
- 
+Bugbear
 
-      
-  
-
-DIET: Carnivorous
-INTELLIGENCE: Low to average (5-10)
-TREASURE: Individual: J, K, L, M, (B)
-ALIGNMENT: Chaotic evil
-
- 
-
-      
-
-SPECIAL ATTACKS: Surprise, +2 to damage
-SPECIAL DEFENSES: Nil
-MAGIC RESISTANCE: Nil
-SIZE: L (7' tall)
-MORALE: Steady to Elite (11-13)
-XP VALUE: 120
-
-Bugbear leader: 175
-
-Bugbear chief: 175
-
-Bugbear shaman: 175
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
 Bugbears are giant, hairy cousins of goblins who frequent the
 same areas as their smaller relatives.
@@ -1011,16 +590,6 @@ If a lair is uncovered and 12 or more bugbears are encountered
 they will have a leader. These individuals have between 22 and 25
 hit points, an Armor Class of 4, and attack as 4 hit die monsters.
 
- 
-
- 
-
- 
-
- 
-
- 
-
 Their great strength gives them a +3 to all damage inflicted in
 melee combat.
 
@@ -1062,28 +631,30 @@ on their toes when bugbears are present, for the weak or stupid
 quickly end up in the stewpot.
 
  
-Carrion Crawler
+Carrion Crawler
 
- 
-
-   
-
-DIET: Carnivorous
-INTELLIGENCE: Non- (0)
-TREASURE: B
-ALIGNMENT: Neutral
-
- 
-
- 
-
-SPECIAL ATTACKS: Paralysis
-SPECIAL DEFENSES: Nil
-MAGIC RESISTANCE: Nil
-
-SIZE: L (9' long)
-MORALE: Special
-XP VALUE: 270
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
 The carrion crawler is a scavenger of subterranean areas, feeding
 primarily upon carrion. When such food becomes scarce, how-
@@ -1133,17 +704,6 @@ monsters.
 Carrion crawlers will sometimes live with a mate or in a small
 group numbering no more than 6. This does not mean that they
 cooperate in hunting, but merely share the same space and com-
-
- 
-
- 
-
- 
-
- 
-
- 
-
 pete fiercely for the same food. If 2 crawlers have made a kill or
 discovered carrion, they will often fight over the food, sometimes
 killing one another in the process.
@@ -1179,39 +739,32 @@ crawler also works wonders in over crowded caverns, quickly
 eliminating population problems among the weaker monsters.
 Thus, the life cycle of the crawler is inextricably linked to those of
 its prey—when the prey flourishes so does the crawler.
- 
+ 
 
 Catoblepas
 
- 
-
- 
-
- 
-    
-
-DIET: = Oninivore
-
-INTELLIGENCE: Semi (2-4)
-TREASURE: (C)
-ALIGNMENT: Neutral
-
- 
-
- 
-
-Gaze causes death
-
-SPECIAL ATTACKS:
-
-SPECIAL DEFENSES: Nil
-
-MAGIC RESISTANCE: Nil
-
-SIZE: L (6’ tall at shoulder)
-MORALE: Steady (11-12)
-
-XP VALUE: 975
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
 The catoblepas is a bizarre, loathsome creature that inhabits dis-
 mal swamps and marshes. Its most terrifying features are its large
@@ -1262,17 +815,6 @@ adventurers,
 
 The lair of the catoblepas is usually some sort of sheltered place
 where the ground is firm. More often than not it is surrounded by
-
- 
-
- 
-
- 
-
- 
-
- 
-
 a tall stand of reeds or other marsh plants. The creature has little
 fear of being disturbed in its lair, since it is frequently the most
 feared carnivore in the swamp.
@@ -1309,49 +851,30 @@ provides it with more than adequate protection from even the
 fiercest of predators.
 
  
-Cats, Great
+Cats, Great
 
- 
-
- 
-
-Cheetah Jaguar Leopard Common Mountain Spotted Giant Lynx Wild Tiger Smilodon
-Lion Lion Lion
-
-  
-  
-
- 
-
-Carnivorous Carnivorous Carnivorous Carnivorous Carnivorous Carnivorous Carnivorous Carnivorous Carnivorous
-
-INTELLIGENCE: Animal (1) Semi-(2-4) Semi- (2-4) Semi(2-4) Semi(2-4) Semi (2-4) Very (11-12) Semi(2-4) Animal (1)
-TREASURE: Nil Nil Nil Nil Nil Nil Nil Nil Nil
-ALIGNMENT: Neutral Neutral Neutral Neutral Neutral Neutral Neutral Neutral Neutral
-
- 
-
-   
-
-SPECIAL ATTACKS Rearclaws Rearclaws Rearclaws Rearclaws Rearclaws Rearclaws Rearclaws Rearclaws Rear claws
-
-1-2 each 2-5 (1d4+1) 4 each 7(1d6+1) 4each 8 (2d4) each 1-3 each 8 (2d8) each 2-8 (2d4)
-each each
-
-SPECIAL DEFENSES: Surprised Surprised Surprised Surprised Surprised Surprised Seebelow Surprised Surprised
-onlyonal onlyonal onlyonal onlyonal onlyonal only onal onlyonal only onal
-
-MAGIC RESISTANCE: Nil Nil Nil Nil Nil Nil Nil Nil Nil
-
-SIZE: M (4'-41/2' —_L (5'-6' M (4'-41/2" M (4!/2'- M (4'-5' L (41/2'- M (4!/2' L (6'-9' L (8'-12'
-long) long) long) 6'/2' long) long) 6'/2' long) _ long) long) long)
-
-MORALE: Average Average Average Average Average Average Average Average Steady
-(8-10) (8-10) (8-10) (8-10) (8-10) (8-10) (8-10) (8-10) (8-10)
-
-XP VALUE: 175 270 175 420 175 420 270 650 650
-
- 
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
 A skilled hunter endowed with natural camouflage, victims of
 a cheetah attack suffer a -3 on their surprise roll. They are famed
@@ -1383,14 +906,6 @@ covered with dark spots.
 The jaguar will attack anything that it perceives as a threat. It
 relies on stealth to close with its prey, often pouncing from above.
 
- 
-
- 
-
- 
-
- 
-
 The great cats are among the most efficient of all predators. The jaguar can leap 30’ to attack. If both of its forepaws strike it
 will rake with its two rear claws for 2-5 (1d4 +1) points of damage
 
@@ -1399,8 +914,6 @@ Cheetah each.
 The cheetah is a medium-sized, lightly built cat. Its fur is sand The jaguar inhabits jungles, spending a great deal of time in tree
 
 colored and it is covered with dark spots. The cheetah is unique tops. It climbs, swims, and stalks superbly. Jaguars are solitary and
-Cats, Great
-
 chance there will be 1-3 cubs. Cubs do not fight effectively.
 Their strength and ferocity make jaguars one of the most feared
 predators of the jungle.
@@ -1543,31 +1056,30 @@ terrible wounds. Their powerful jaws and large teeth give them a
 found only during the Pleistocene epoch.
 
  
-Cave Fisher
+Cave Fisher
 
- 
-
-       
-
-  
-
-DIET: Carnivorous
-INTELLIGENCE: Semi- (2-4)
-TREASURE: Any
-ALIGNMENT: Neutral
-
- 
-
-   
-
-SPECIAL ATTACKS:
-
-Adhesive trapline
-SPECIAL DEFENSES: See below
-MAGIC RESISTANCE: Nil
-SIZE: M (7' long)
-MORALE: Steady (11-12)
-XP VALUE: 175
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
 The cave fisher is a large insectoid that has adapted to life below
 ground, It combines many of the characteristics of a spider and a
@@ -1615,15 +1127,6 @@ with its strand.
 Habitat/Society: Cave fishers prefer living on ledges and caves
 located above well-traveled paths, sharing their lairs with others
 of their kind. No more than four cave fishers will be found in one
-
- 
-
- 
-
- 
-
- 
-
 lair. Their filaments are always strung before their lair, and they
 attempt to kill anything they trap, often storing food for future
 use.
@@ -1664,36 +1167,32 @@ and then specially treated to dilute the adhesive. The resulting
 strands are made into ropes, while the diluted adhesive is turned
 into a special solution, which when applied to gloves and boots,
 greatly increases traction for climbing.
-Centaur, Sylvan
 
- 
 
- 
+Centaur, Sylvan
 
-  
-  
-
- 
-
-DIET: Omnivorous
-INTELLIGENCE: Low to average (5-10)
-TREASURE: M, Q (D, L, T)
-ALIGNMENT: Neutral or chaotic good
-
- 
-
- 
-
-SPECIAL ATTACKS: Nil
-SPECIAL DEFENSES: Nil
-MAGIC RESISTANCE: Nil
-SIZE: L(8’-9" tall)
-
-MORALE: Elite (13-14)
-
-XP VALUE: 175
-Centaur leader 270
-Centaur priest 420
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
 Centaurs are woodland beings who shun the company of men.
 They dwell in remote, secluded glades and pastures.
@@ -1741,17 +1240,6 @@ Each tribe will have a priest who is treated as a leader but has
 the spell abilities of a 3rd level druid.
 
 Centaurs survive through a mixture of hunting, foraging, fish-
-
- 
-
- 
-
- 
-
- 
-
- 
-
 ing, agriculture and trade. Though they shun dealings with hu-
 mans, centaurs have been known to trade with elves, especially
 for food and wine. The elves are paid from the group treasury,
@@ -1790,52 +1278,30 @@ over hunt or over fish an area as a human group might do, but
 choose their game with care, limiting the amount they eat.
 
  
-Centipede
+Centipede
 
-SS a ae Ree EA Se LESS IO RE A TP GO IE SIE OE
-Megalo-
-
-Giant
-
-  
-
-DIET: Carnivorous
-INTELLIGENCE: Non- (0)
-TREASURE: Nil
-ALIGNMENT: Neutral
-
-Huge
-
- 
-
-Carnivorous Carnivorous
-Non- (0) Animal (1)
-Nil Nil
-
-Neutral Neutral
-
- 
-
- 
-
-SPECIAL ATTACKS: Poison
-SPECIAL DEFENSES: Nil
-
-MAGIC RESISTANCE: Nil
-
-SIZE: Tiny (1')
-MORALE: Unsteady (5-7)
-XP VALUE: 35
-
- 
-
- 
-
- 
-
- 
-
- 
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
 Giant centipedes are loathsome, crawling arthropods that arouse almost
 universal disgust from all intelligent creatures (even other monsters).
@@ -1855,17 +1321,6 @@ Combat; When hunting, centipedes use their natural coloration to remain un-
 seen until they can drop on their prey from above or crawl out of hiding in pur-
 suit of food. They attack by biting their foe and injecting a paralytic poison.
 Their poison can paralyze a victim for 2-12 (2d6) hours, but is so weak that vic-
-
-Poison Poison
-
-Nil Nil
-
-Nil Nil
-
-Tiny (6") M (5 long)
-Unsteady (5-7) Average (8-10)
-35 175
-
 tims of a centipede bite are permitted a +4 bonus to their saving throw.
 
 Due to its own small size, the giant centipede is less likely to resist at-
@@ -1915,51 +1370,32 @@ with each other), In the wilderness the megalo-centipede will prey on ani-
 mals the size of deer. In the subterranean environment, it will attack man-
 sized or smaller creatures, including orcs, goblins, or humans. The
 megalo-centipede receives no penalties to its own saving throws.
-Chimera
 
- 
-
- 
 
 Chimera
 
-Gorgimera
-
-  
- 
-
- 
-
-  
-
- 
-
-Omnivore
-
-Omnivore
-
-INTELLIGENCE: Semi- (2-4) Semi- (2-4)
-TREASURE: F F
-ALIGNMENT: Chaotic evil Neutral
-
- 
-
-      
-
-Breath weapon Breath weapons z
-
-SPECIAL ATTACKS:
-
-SPECIAL DEFENSES: Nil Nil
-
-MAGIC RESISTANCE: Nil Nil
-
-SIZE: L (5’ tall at the L (5’ tall at the
-shoulder) shoulder)
-
-MORALE: Elite (13-14) Elite (13-14)
-
-XP VALUE: 5000 6000
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
 How chimerae were created is a dark mystery better left unex-
 plored. The chimera has the hindquarters of a large, black goat
@@ -2002,17 +1438,6 @@ small prides. Even if they mate, offspring are rare.
 The monster is an omnivore. The goat head will browse on the
 toughest plants and shrubs and will derive nutrition from the
 most barren vegetation while the lion and dragon heads can only
-
- 
-
- 
-
- 
-
- 
-
- 
-
 be satisfied with flesh. The chimera hunts once every 3 or 4 days,
 using its strength and limited intelligence to gain an advantage
 over those it preys on. Having a voracious appetite, it sometimes
@@ -2061,37 +1486,30 @@ Like its relative the chimera, the gorgimera can also speak a
 limited form of the language of red dragons.
 
  
- 
-
 Cockatrice
 
- 
-
- 
-
-Pyrolisk
-
-Cockatrice
-
-  
-
-DIET: Omnivorous Omnivorous
-INTELLIGENCE: Animal (1) Low (5)
-TREASURE: D D
-ALIGNMENT: Neutral Neutral evil
-
- 
-
- 
-
-SPECIAL ATTACKS:  Petrification Gaze
-
-SPECIAL DEFENSES: Nil Immune to fire
-MAGIC RESISTANCE: Nil Nil
-
-SIZE: S (3’ tall) S (3' tall)
-MORALE: Steady (11-12) Steady (11-12)
-XP VALUE: 650 1400
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
 The cockatrice is an eerie, repulsive hybrid of lizard, cock, and
 bat. It is infamous for its ability to turn flesh to stone.
@@ -2140,20 +1558,6 @@ nesting site by lining it with shining objects like coins and gems.
 
 Females lay 1 or 2 brownish red, rust speckled eggs per month.
 
- 
-
- 
-
-a
-
- 
-
- 
-
- 
-
- 
-
 There is only a 25% chance that any given egg will hatch. Those
 that are fertile will hatch in 11-19 days. The young reach maturity
 and full power within 6 months. Once they achieve adulthood,
@@ -2192,40 +1596,32 @@ tacks.
 
 The pyrolisk’s mortal enemy is the phoenix, although any crea-
 ture which the monster encounters is likely to be attacked.
-Couatl
 
- 
 
- 
+Couatl
 
-  
-  
-
-   
-
-arnivorous
-
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
 DIET:
-
-INTELLIGENCE: Genius (17-18)
-TREASURE: B, |
-ALIGNMENT: Lawful good
-
- 
-
- 
-
-Poison, magic use
-
-SPECIAL ATTACKS:
-
-SPECIAL DEFENSES: Etherealness
-MAGIC RESISTANCE: Nil
-
-SIZE: L (12’ long)
-
-MORALE: Elite (13-14)
-XP VALUE: 6000
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
 The couatl are feathered serpents of myth and lore. It is believed
 that they are distant relatives of dragons, although this remains
@@ -2276,17 +1672,6 @@ like regions but can also be found flying through the ether. Their
 intelligence and goodness has made them objects of reverence by
 the natives of the regions which they inhabit. Considered to be di-
 vine, there are many legends in which the couatl is the benefactor
-
- 
-
- 
-
- 
-
- 
-
- 
-
 of mankind and the bestower of such precious gifts as agriculture
 and medicine. There are even shrines in certain areas dedicated to
 the couatl, and any who attack or harm a couatl are automati-
@@ -2326,36 +1711,30 @@ Ecology: The couatl usually reigns supreme in its jungle, having
 little to fear from most other monsters.
 
  
-Displacer Beast
+Displacer Beast
 
- 
-
- 
-
-      
-  
-
-DIET: Carnivorous
-INTELLIGENCE: Semi- (2-4)
-TREASURE: (D)
-ALIGNMENT: Neutral
-
- 
-
- 
-
-SPECIAL ATTACKS: Nil
-
-SPECIAL DEFENSES: -2 on opponent's attack roll
-
-MAGIC RESISTANCE: Save as a 12th level fighter
-(+2)
-
-SIZE: L (8’- 12’ long)
-
-MORALE: Elite (13-14)
-
-XP VALUE: 975
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
 The displacer beast is a magical creature which resembles a puma
 with two powerful black tentacles growing from its shoulders.
@@ -2403,17 +1782,6 @@ sure. Fierce and vicious as they are, however, displacer beasts
 never fight among themselves. The pack is a well-run and highly
 efficient killing machine. When encountered en masse, displacer
 beasts are more than a match for many large creatures and have
-
- 
-
- 
-
- 
-
- 
-
- 
-
 been known to make a meal of orcs, goblins, and bands of men.
 Any being entering their terrain is viewed as potential prey.
 
@@ -2452,58 +1820,32 @@ magical preparations, and will offer generous rewards for them.
 The eyes of a displacer beast are a highly prized, if uncommon,
 good luck charm among thieves who believe that they will pro-
 tect the bearer from detection.
- 
 
-oS
-°
-GQ
-w
 
-Wild Dog
+Dogs
 
-War Dog
-
-  
-
- 
-
-Blink Dog
-
-Death Dog
-
-DIET: Omnivorous Omnivorous Omnivorous Carnivorous
-INTELLIGENCE: Semi- (2-4) Semi- (2-4) Average (8-10) Semi- (2-4)
-TREASURE: Nil Nil (C) Nil
-ALIGNMENT: Neutral Neutral Lawful good Neutral evil
-
- 
-
- 
-
-     
-
- 
-
- 
-
-SPECIAL ATTACKS: Nil Nil From the rear 75% of the time Disease
-SPECIAL DEFENSES: Nil Nil Teleportation Nil
-MAGIC RESISTANCE: Nil Nil Nil Nil
-SIZE: S (3’ long) M (4'-6' long) M (4’ long) M (6' long)
-MORALE: Unsteady (5-7) Average (8-10) Steady (11-12) Steady (11-12)
-XP VALUE: 35 65 270 120
-
-War Dogs
-
- 
-
- 
-
- 
-
- 
-
- 
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
 Smaller than wolves, the appearance of the wild dog varies from
 place to place. Most appear very wolf-like, while others seem to com-
@@ -2570,11 +1912,7 @@ to its feet again. There is an 85% chance that death dogs will attack
 humans on sight.
 
  
-Dragons
-
- 
-
- 
+Dragons
 
 Dragons are an ancient, winged reptilian race. They are known and
 feared for their size, physical prowess, and magical abilities. The 10 sub-
@@ -2664,16 +2002,6 @@ must be used to maintain balance).
 Bite: Because of a dragon's long neck, it can bite creatures to its front
 or to either side.
 
- 
-
- 
-
- 
-
- 
-
- 
-
 Snatch: Only young adult and older dragons can snatch. A flying
 dragon dives and attempts to grab a creature in one of its claws. A creature
 struck by this method will be taken into the air. There is a 50% chance that a
@@ -2723,10 +2051,6 @@ needs to concentrate for a second and its spell is cast.
 
 Dragon Defenses: A dragon's Armor Class improves as it gets older
 because the dragon's hide and general constitution becomes tougher. Old
-
- 
-Dragons
-
 or older dragons are immune to normal missiles; their gem-encrusted
 hides deflect arrows and other small projectiles. Large missiles (from cata-
 pults, giants, et.al.), and magical missiles affect them normally. Young
@@ -2857,54 +2181,32 @@ Wyrm 1,200 + +8 +12 50 yards “4
  
 
 —
-Dragon, Black
+Dragon, Black
 
- 
-
- 
-
-  
-
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
 DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
- 
 
- 
-
- 
-
-INTELLIGENCE: to (8-10)
-TREASURE: Special
-ALIGNMENT: Chaotic evil
-SPECIAL ATTACKS: Special
-SPECIAL DEFENSES: Variable
-MAGIC RESISTANCE: Variable
-
-SIZE: G (30' base)
-MORALE: Fanatic (16 base)
-XP VALUE: Variable
-
-Tail Lgt. (') AC Breath Weapon
-
-   
-
-8d4+4
-0d4 +5
-2d4 +6
-
-19-27 F
-27-35
-35-43
-
-: 24-33
-
-oe
-
- 
-
-78-87 64-73 Od4 +10
-87-96 73-80 2d4+11
-3 96-105 80-87 5 4d4 +12
 
 Black dragons are abusive, quick to anger, and resent intrusions of any
 kind. They like dismal surroundings, heavy vegetation, and prefer dark-
@@ -2939,39 +2241,6 @@ Sth level, plus its combat modifier.
 
 Black dragons are born with an innate water breathing ability and an
 immunity to acid. As they age, they gain the following additional powers:
-
-Spells Wizard/Priest MT
-
- 
-
-  
-
- 
-
- 
-
- 
-
- 
-
- 
-
-XP Value
-
-  
-
-      
-
-Nil 1 =o
-10%
-15%
-
-eo
-
-14,000
-ins ro 15,000
-45% Hx3 16,000
-
 Juvenile: darkness three times a day in a 10’ radius per age category of the
 dragon. Adult: corrupt water once a day. For every age category a dragon
 attains, it can stagnate 10 cubic feet of water, making it become still, foul,
@@ -3006,62 +2275,32 @@ but they like to “pickle” it by letting it lie in ponds within their lair fo
 before eating it.
 
  
+Dragon, Blue
 
- 
-Dragon, Blue
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
- 
 
-    
-
-DIET: Special
-
-  
-  
-
-INTELLIGENCE: Very (11-12)
-TREASURE: Special
-ALIGNMENT: Lawful evil
-
- 
-
- 
-
-SPECIAL ATTACKS: Special
-SPECIAL DEFENSES: Variable
-MAGIC RESISTANCE: Variable
-
-SIZE: G (42' base)
-MORALE: Fanatic (16 base)
-XP VALUE: Variable
-
-Base Let. (’) Tail Let. (') AC Breath Weapon
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Spells Wizard/Priest
-
- 
-
-10d8 +5
-12d8 +6
-
-34-43 -1
-43-52 -2
-
-  
-
-10 115-124 79-80 -6 20d8 + 10
-ll 124-133 80-89 -7 22d8 +11
-12 133-142 89-98 -8 24d8 +12
 
 Blue dragons are extremely territorial and voracious. They love to spend
 long hours preparing ambushes for herd animals and unwary travelers,
@@ -3097,26 +2336,6 @@ verely damaged, as they also view retreat as cowardly.
 Breath weapon/special abilities: 4 bJue dragon's breath weapon is a 5’
 wide bolt of lightning that streaks 100’ in a straight line from the dragon's
 mouth. All creatures caught in this stream must save vs. breath weapon
-
-2 20%
-3 29 90
-
-   
-
-45 %
-50%
-55 %
-
-331/1
-33 2/2
-33 3/3
-
-16,000
-17,000
-
-H, Sx3
-H, Sx3
-
 for half damage. Blue dragons cast spells and use their magical abilities at
 7th level, adjusted by their combat modifier.
 
@@ -3153,60 +2372,32 @@ as camels, and they will gorge themselves on caravans of the creatures
 which they have cooked with a lightning bolt.
 
  
-Dragon, Brass
+Dragon, Brass
 
- 
-
- 
-
- 
-
- 
-
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
 DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
-INTELLIGENCE: A ie 14)
-TREASURE: Special
 
-ALIGNMENT: Chaotic good (neutral)
-SPECIAL ATTACKS: Special
-
-SPECIAL DEFENSES: Variable
-
-MAGIC RESISTANCE: Variable
-
-SIZE: G (30' base)
-MORALE: Fanatic (17 base)
-
-XP VALUE: Variable
-
-Age Body Let. (') Tail Let. (') AC Breath Weapon
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Spells Wizard/Priest
-
- 
-
-22-31 8d4+4
-31-41 10d4 +5
-41-52 12d4 +6
-
-      
-
-      
-
-91-105 74-84 20d4 +10
-105-121 84-94 22d4+11
-a 121-138 94-104 3 24d4 +12
 
 Brass dragons are great talkers, but not particularly good conversational-
 ists. They are egotistical and often boorish. They often have useful infor-
@@ -3240,19 +2431,6 @@ ties at 6th level, plus its combat modifier.
 
 At birth, brass dragons can speak with animals freely, and are immune
 to fire and heat. As they age, they gain the following additional powers:
-
-43/21 40%
-44/22 45 % fe
-§ 4/32 50% Hx3
-
-20% ‘a, on
-
-     
-
-15,000
-16,000
-17,000
-
 Young: create or destroy water three times a day. Juvenile: dust devil once
 a day. Adult: suggestion once a day. Mature adult: control temperature 3
 times a day in a 10’ radius per age level. Old: control winds once a day.
@@ -3284,42 +2462,34 @@ anything if the need arises. In practice, however, they eat very little. They
 are able to get nourishment from morning dew, a rare commodity in their
 habitat, and have been seen carefully lifting it off plants with their long
 tongues.
-Dragon, Bronze
 
-    
 
-  
+Dragon, Bronze
 
-DIET: Special
-INTELLIGENCE: Exceptional (15-16)
-TREASURE: Special
-ALIGNMENT: Lawful good
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
- 
 
- 
-
-SPECIAL ATTACKS: Special
-SPECIAL DEFENSES: Variable
-MAGIC RESISTANCE: Variable
-
-SIZE: G (42' base)
-MORALE: Fanatic (17 base)
-XP VALUE: Variable
-
-Body Lgt. (') Tail Lgt. (') AC Breath Weapon
-
-4 8d8 +4
-5 42-52 37-44 -3 10d8 +5
-6 52-63 44-52 -4 12d8 +6
-
-80-90 20d8 +10
-90-100 -9 22d8 +11
-00-110 -10 24d8 +12
-
-96-108
-11 108-120
-12 120-134
 
 Bronze dragons are inquisitive and fond of humans and demi-humans.
 They enjoy polymorphing into small, friendly animals so they can unob-
@@ -3354,31 +2524,6 @@ themselves becalmed, fog bound, or with broken masts.
 
 Breath weapon/special abilities; A bronze dragon has two breath weap-
 ons: a stroke of lightning 100’ long and 5' wide or a cloud of repulsion gas
-
-2222/22 50%
-22221/221 55 %
-
- 
-
- 
-
- 
-
- 
-
-XP Value
-
- 
-
-T
-T 9,000
-. 10,000
-
- 
-
-18,000
-19,000
-H, S, Tx3 20,000
 20’ long, 30' wide, and 30’ high. Creatures caught in the gas must save vs.
 breath weapon or move away from the dragon for two minutes per age
 level of the dragon, plus 1-6 minutes. Creatures caught in the lightning
@@ -3412,80 +2557,32 @@ Evil, amphibious sea creatures (particularly sahuagin), who can invade
 their air filled lairs, are their greatest enemies.
 
  
-Dragon, Copper
+Dragon, Copper
 
- 
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
- 
 
-      
-  
-
-DIET: Special
-
-INTELLIGENCE: High (13-14)
-TREASURE; Special
-ALIGNMENT: Chaotic good
-
- 
-
-     
-
-SPECIAL ATTACKS: Special
-SPECIAL DEFENSES: Variable
-MAGIC RESISTANCE: Variable
-SIZE: G (36' base)
-MORALE: Elite (16 base)
-XP VALUE: Variable
-
-8d6 +4
-10d6 +5
-
-20-30 =I
-30-40 -2
-
- 
-
-5 38-50
-50-59
-
- 
-
-   
-
-  
-
-      
-
- 
-
- 
-
- 
-
- 
-
- 
-
-1/2HS
-HS
-HS
-
-1 Nil
-10%
-
-6,000
-2 9,000
-3
-
-          
-
- 
-
-6 40-50 = 12d6 +6 15% ae
-10 100-114 80-90 <7 20d6 +10 331/3 35% HSx2 16,000
-ll 114-130 90-100 =§ 22d6 +11 332/32 40% HSx3 17,000
-12 130-147 100-110 -9 24d6 +12 3321/33 45% HSx3 18,000
 
 Copper dragons are incorrigible pranksters, joke tellers, and riddlers.
 They are prideful and are not good losers, although they are reasonably
@@ -3557,66 +2654,32 @@ their wit). The dragon's digestive system can handle the venom safely, al-
 though injected venoms affect them normally.
 
  
-Dragon, Gold
+Dragon, Gold
 
- 
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
-      
 
-    
-
-  
-
-S
-
-DIET: pecial
-
-INTELLIGENCE: Genius (17-18)
-TREASURE: Special
-ALIGNMENT: Lawful good
-
- 
-
-SPECIAL ATTACKS: Special
-
-SPECIAL DEFENSES: Variable
-MAGIC RESISTANCE: Variable
-SIZE: G (54' base)
-MORALE: Fanatic (17-18)
-XP VALUE: Variable
-Age Body Lgt.(') Tail Lgt.(’) AC Breath Weapon
-
-   
-
-4 43-55 38-50 -4 8d12+4
-5 55-67 50-60 -5 10d12 +5
-6 67-80 60-70 -6 12d12 +6
-
- 
-
-Spells Wizard/Priest MR
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Treasure Type XP Value
-
-Nil 5, .R,.T 8,000
-35% H, RK, T 10,000
-40% Bye 13,000
-
- 
-
-10 120-134 108-120 - 10 20d12 +10
-ll 134-148 121-133 -11 22d12 +11
-12 148-162 133-146 -12 24d12 +12
 
 Gold dragons are wise, judicious, and benevolent. They often embark on self-
 appointed quests to promote goodness, and are not easily distracted from
@@ -3654,11 +2717,6 @@ useful spells.
 At birth, gold dragons have water breathing ability, can speak with ani-
 mals freely, and are immune to fire and gas. They can also polymorph self
 three times a day. Each change in form lasts until the dragon chooses a dif-
-
-22222 2/22 60% H, R, Tx2 18,000
-Z2Z22222/222 65 % H, R, Tx3 19,000
-22222221/2222 70% H, R, Tx3 20,000
-
 ferent form; reverting to the dragon's normal form does not count as a
 change. A gold dragon’s natural form has wings. However, they some-
 times choose a wingless form to facilitate swimming, gaining the higher
@@ -3695,78 +2753,32 @@ crass bribe. In the latter case, the dragon will accept the gift, but react cyn-
 ically to any requests the giver makes.
 
  
- 
-
 Dragon, Green
 
- 
+CLIMATE/TERRAIN:
+FREQUENCY:
+ORGANIZATION:
+ACTIVITY CYCLE:
+DIET:
+INTELLIGENCE:
+TREASURE:
+ALIGNMENT:
+----
+NO. APPEARING:
+ARMOR CLASS:
+MOVEMENT:
+HIT DICE:
+THAC0:
+NO. ATTACKS:
+DAMAGE/ATTACK:
+SPECIAL ATTACK:
+SPECIAL DEFENSES:
+MAGIC RESISTANCE:
+SIZE:
+MORALE:
+XP VALUE:
 
- 
 
-    
-
-DIET: Special
-INTELLIGENCE: Very (11-12)
-TREASURE: Special
-ALIGNMENT: Lawful evil
-
- 
-
-   
-
-SPECIAL ATTACKS:
-
- 
-
- 
-
-Special
-SPECIAL DEFENSES: Variable
-MAGIC RESISTANCE: Variable
-SIZE: G (36' base)
-MORALE: Elite (15-16)
-XP VALUE: Variable
-Age Body Lgt.(’) Tail Let. (') AC Breath Weapon
-
-   
-
-     
-
-4 35-44 31- 40 0 8d6 +4
-5 44-53 40-48 -i 10d6 +5
-6 53-62 48-56 -2 12d6 +6
-
-  
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Spells Wizard/Priest MR Treasure Type XP Value
-
-    
-
-      
-
- 
-
-  
-
-1 Nil W2H 6,000
-2 15% H 8,000
-3 20% H 9,000
-
- 
-
-10 89-98 80-86 -6 20d6 +10
-11 98-107 86-96 -7 22d6 +11
-12 107-116 96-104 -8 24d6 +12
 
 Green dragons are bad tempered, mean, cruel, and rude. They hate good-
 ness and good-aligned creatures. They love intrigue and seek to enslave
