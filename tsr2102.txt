@@ -59,9 +59,9 @@ Animal, Herd
 ^ MOVEMENT: | 21 | 15 | 15 | 24 | 12 |
 ^ HIT DICE: | 3 | 1-4 | 5 | 2 | 2 |
 ^ THAC0: | 16 | 16 | 16 | 16 | 16 |
-^ NO. ATTACKS: | 1 | 1 | 2 | 1 | 1 |
+^ NO. ATTACKS: |  1 | 1 | 2 | 1 | 1 |
 ^ DAMAGE/ATTACK: | 1-4 | 1-4 | 1-8/1-8 | 1-4 | 1-4 |
-^ SPECIAL ATTACK: | Spitting | Stampede | Charge | Stampede | Charge |
+^ SPECIAL ATTACK: |  Spitting | Stampede | Charge | Stampede | Charge |
 ^ SPECIAL DEFENSES: | Nil | Nil | Head is AC 3 | Nil | Nil |
 ^ MAGIC RESISTANCE: | Nil | Nil | Nil | Nil | Nil |
 ^ SIZE: | L (8' tall) | L (8' long) | L (5'at shoulder) | M (5'tall) | M (5' long) |
@@ -98,9 +98,9 @@ Bat
 ^ MOVEMENT: | 1, Fl 24 (B) | 3, Fl 18 (C) | 3, Fl 15 (C) |
 ^ HIT DICE: | 1-2 hp | 1-4 hp or 1 | 4-6 |
 ^ THAC0: | 20 | 20 or 19 | 17 (4HD) or 15 ( 5 ad 6 HD) |
-^ NO. ATTACKS: | 1 | 1 | 1 |
+^ NO. ATTACKS: |  1 | 1 | 1 |
 ^ DAMAGE/ATTACK: | 1 | 1-2 or 1-4 | 2-8 |
-^ SPECIAL ATTACK: | See below | Nil | See below |
+^ SPECIAL ATTACK: |  See below | Nil | See below |
 ^ SPECIAL DEFENSES: | Nil | See  below | See below |
 ^ MAGIC RESISTANCE: | Nil | Nil | Nil |
 ^ SIZE: | T (1') | M (5'-6') | H (12'-16') |
@@ -134,7 +134,7 @@ Because mobats' flight is so rapid and silent, their victims suffer a -3 on thei
 
 Bear
 
-                Black       Brown       Cave        Polar
+|       Black | Brown | Cave | Polar |
 ^ CLIMATE/TERRAIN: | 
 ^ FREQUENCY: | 
 ^ ORGANIZATION: | 
@@ -149,9 +149,9 @@ Bear
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -207,9 +207,9 @@ Behir
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -257,9 +257,9 @@ Beholder
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -325,9 +325,9 @@ Boar
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -373,9 +373,9 @@ Bookworm
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -419,9 +419,9 @@ Brownie
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -477,9 +477,9 @@ Bugbear
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -537,9 +537,9 @@ Carrion Crawler
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -587,9 +587,9 @@ Catoblepas
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -641,9 +641,9 @@ Cats, Great
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -734,9 +734,9 @@ Cave Fisher
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -782,9 +782,9 @@ Centaur, Sylvan
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -832,9 +832,9 @@ Centipede
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -880,9 +880,9 @@ Chimera
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -935,9 +935,9 @@ Cockatrice
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -992,9 +992,9 @@ Couatl
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -1048,9 +1048,9 @@ Displacer Beast
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -1094,9 +1094,9 @@ Dogs
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -1237,9 +1237,9 @@ Dragon, Black
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -1281,9 +1281,9 @@ Dragon, Blue
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -1331,9 +1331,9 @@ Dragon, Brass
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -1377,9 +1377,9 @@ Dragon, Bronze
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -1421,9 +1421,9 @@ Dragon, Copper
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -1469,9 +1469,9 @@ Dragon, Gold
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -1519,9 +1519,9 @@ Dragon, Green
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -1569,9 +1569,9 @@ Dragon, Red
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -1617,9 +1617,9 @@ Dragon, Silver
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -1663,9 +1663,9 @@ Dragon, White
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -1718,9 +1718,9 @@ Dragon Turtle
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -1766,9 +1766,9 @@ Dragonfish
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -1849,9 +1849,9 @@ Air/Earth Elementals
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -1895,9 +1895,9 @@ Fire/Water Elementals
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -1939,9 +1939,9 @@ Elephant
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -1985,9 +1985,9 @@ Elf
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -2066,9 +2066,9 @@ Genie
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -2152,9 +2152,9 @@ Ghost
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -2204,9 +2204,9 @@ Ghoul
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -2254,9 +2254,9 @@ Giant, Cloud
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -2304,9 +2304,9 @@ Giant, Fire
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -2356,9 +2356,9 @@ Giant, Frost
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -2406,9 +2406,9 @@ Giant, Hill
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -2458,9 +2458,9 @@ Giant, Stone
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -2510,9 +2510,9 @@ Giant, Storm
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -2564,9 +2564,9 @@ Ecology: Storm giants live off the land in the immediate vicinity of their lairs
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -2615,9 +2615,9 @@ Gnome
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -2668,9 +2668,9 @@ Goblin
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -2722,9 +2722,9 @@ Golem, General
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -2768,9 +2768,9 @@ Golems, Lesser
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -2815,9 +2815,9 @@ Golems, Greater
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -2861,9 +2861,9 @@ Halfling
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -2911,9 +2911,9 @@ Harpy
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -2971,9 +2971,9 @@ Hobgoblin
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -3032,9 +3032,9 @@ Homonculous
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -3082,9 +3082,9 @@ Hornet
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -3135,9 +3135,9 @@ Horse
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -3196,9 +3196,9 @@ Hydra
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -3254,9 +3254,9 @@ Hyena
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -3305,9 +3305,9 @@ Imp
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -3364,9 +3364,9 @@ Invisible Stalker
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -3416,9 +3416,9 @@ Jackal
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -3465,9 +3465,9 @@ Jackalwere
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -3517,9 +3517,9 @@ Kobold
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -3573,9 +3573,9 @@ Korred
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -3625,9 +3625,9 @@ Lich
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -3704,9 +3704,9 @@ Lizard
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -3748,9 +3748,9 @@ Lizard Man
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -3823,9 +3823,9 @@ Lycanthrope, Werebear
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -3871,9 +3871,9 @@ Lycanthrope, Wererat
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -3927,9 +3927,9 @@ Lycanthrope, Seawolf
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -3984,9 +3984,9 @@ Lycanthrope, Weretiger
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -4038,9 +4038,9 @@ Lycanthrope, Werewolf
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -4088,9 +4088,9 @@ Manticore
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -4132,9 +4132,9 @@ Medusa
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -4179,9 +4179,9 @@ Men
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -4362,9 +4362,9 @@ Mind Flayer
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -4408,9 +4408,9 @@ Minotaur
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -4454,9 +4454,9 @@ Mud-man
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -4504,9 +4504,9 @@ Mummy
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -4552,9 +4552,9 @@ Nixie
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -4596,9 +4596,9 @@ Nymph
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -4636,9 +4636,9 @@ Ogre
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -4716,9 +4716,9 @@ Oozes/Slimes/Jellies
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -4796,9 +4796,9 @@ Orc
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -4875,9 +4875,9 @@ Owl
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -4919,9 +4919,9 @@ Owlbear
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -4963,9 +4963,9 @@ Pegasus
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -5015,9 +5015,9 @@ Piercer
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -5061,9 +5061,9 @@ Pseudodragon
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -5109,9 +5109,9 @@ Puddings, Deadly
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -5161,9 +5161,9 @@ Rakshasa
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -5215,9 +5215,9 @@ Rat
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -5262,9 +5262,9 @@ Ray
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -5312,9 +5312,9 @@ Remorhaz
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -5356,9 +5356,9 @@ Satyr
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -5404,9 +5404,9 @@ Scorpion
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -5446,9 +5446,9 @@ Selkie
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -5494,9 +5494,9 @@ Shadow
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -5538,9 +5538,9 @@ Skeleton
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -5582,9 +5582,9 @@ Skunk
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -5627,9 +5627,9 @@ Snake
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -5675,9 +5675,9 @@ Spectre
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -5721,9 +5721,9 @@ Spider
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -5773,9 +5773,9 @@ Sprite
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -5821,9 +5821,9 @@ Toad, Giant
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -5873,9 +5873,9 @@ Treant
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -5921,9 +5921,9 @@ Troll
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -6003,9 +6003,9 @@ Umber Hulk
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -6053,9 +6053,9 @@ Unicorn
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -6099,9 +6099,9 @@ Vampire
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -6175,9 +6175,9 @@ Wight
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -6225,9 +6225,9 @@ Will o’ wisp
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -6273,9 +6273,9 @@ Wolf
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -6331,9 +6331,9 @@ Wolfwere
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -6385,9 +6385,9 @@ Wraith
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -6429,9 +6429,9 @@ Wyvern
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -6473,9 +6473,9 @@ Yeti
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -6517,9 +6517,9 @@ Yuan-ti
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
@@ -6565,9 +6565,9 @@ Zombie
 ^ MOVEMENT: | 
 ^ HIT DICE: | 
 ^ THAC0: | 
-^ NO. ATTACKS: |
+^ NO. ATTACKS: | 
 ^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: |
+^ SPECIAL ATTACK: | 
 ^ SPECIAL DEFENSES: | 
 ^ MAGIC RESISTANCE: | 
 ^ SIZE: | 
