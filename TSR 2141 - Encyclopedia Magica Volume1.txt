@@ -48857,27 +48857,7 @@ worn only in nonarctic climes.
 of Amazement
 XP Value: 1,000 GP Value: 9,000
 Rogue’s Gallery
-The dress of amazement can take on any form,
-style, or color the owner desires, but always
-retains an opulent appearance. When worn, the
-dress of amazement sparkles and reflects light in
-a pleasant manner. Charisma is raised to racial
-maximum (or 18). Anyone who looks at the dress
-must successfully save vs. spell or be subject to
-hypnotism (as the 8th-level spell). If no light
-source is near, the dress cannot work. The spell
-darkness negates any effect from the dress. Dis-
-pel magic renders the special effects of the dress
-non-operational for 1d4 rounds. The touch of the
-blind also inhibits the dress from operation for
-
-one turn, although no one is quite sure why.
-1,460
-
- 
-
-413
-Dress of Protection
+The dress of amazement can take on any form, style, or color the owner desires, but always retains an opulent appearance. When worn, the dress of amazement sparkles and reflects light in a pleasant manner. Charisma is raised to racial maximum (or 18). Anyone who looks at the dress must successfully save vs. spell or be subject to hypnotism (as the 8th-level spell). If no light source is near, the dress cannot work. The spell darkness negates any effect from the dress. Dispel magic renders the special effects of the dress non-operational for 1d4 rounds. The touch of the blind also inhibits the dress from operation for one turn, although no one is quite sure why.
 
 of Protection
 XP Value GP Value
@@ -48888,149 +48868,53 @@ Cursed ~1: — 1,800
 +3; 3,000 30,000
 +4: 4,000 40,000
 +5; 5,000 50,000
+
 Rogue's Gallery
 
-This garment appears as a small, black dress or
-tunic, lined with a series of magical, linked rings.
-When the dress is donned, it automatically adjusts
-to fit the wearer. Additionally it provides the
-wearer the same benefits as a cloak of protection.
-Each plus of the dress of protection betters Armor
-Class by one and adds one to saving throw die
-rolls. Each dress of protection is slightly different
-in design. To determine how powerful any partic-
-ular dress is, roll percentile dice and check the
-table below.
+This garment appears as a small, black dress or tunic, lined with a series of magical, linked rings. When the dress is donned, it automatically adjusts to fit the wearer. Additionally it provides the wearer the same benefits as a cloak of protection. Each plus of the dress of protection betters Armor Class by one and adds one to saving throw die rolls. Each dress of protection is slightly different in design. To determine how powerful any particular dress is, roll percentile dice and check the table below.
 
 Roll Power
-
 01-10 Cursed (—1 to AC and saves)
 11-20 Dress (+1 to saves but not AC)
 21-50 Dress +1
-
 51-70 Dress +2
-
 71-86 Dress +3
-
 87-94 Dress +4
-
 95-00 Dress +5
 
-Optional: The dress is vulnerable to blades
-that have more attack bonuses than the dress has
-of protection. If the dress is cut by a magical
-blade with more pluses—an equal or greater
-number—it ceases to function until magically
-repaired.
+Optional: The dress is vulnerable to blades that have more attack bonuses than the dress has of protection. If the dress is cut by a magical blade with more pluses—an equal or greater number—it ceases to function until magically repaired.
 
 Dunhill’s Spelljamming
 Apparatus of Kwalish
 XP Value: 10,000 GP Value: 40,000
 1992 Fantasy Collector Card 34
-This very special machine has all of the features of
-a standard apparatus of Kwalish: it contains numer-
-ous handles that allow it to operate in 900 feet of
-water for 1d4+1 hours (AC 0, 200 hp per bulk-
-head), It has also been fitted with a minor spelljam-
-ming helm, allowing it to fly out of the water and
-into wildspace. The inclusion of the helm means
-that only one person may use it at a time. Dunhill’s
-ship shares the basic statistics of a mosquito ship.
-
-"i eenienseeniniensensininenecainnenenesipennmmeeemmemceal
+This very special machine has all of the features of a standard apparatus of Kwalish: it contains numerous handles that allow it to operate in 900 feet of water for 1d4+1 hours (AC 0, 200 hp per bulkhead), It has also been fitted with a minor spelljamming helm, allowing it to fly out of the water and into wildspace. The inclusion of the helm means that only one person may use it at a time. Dunhill’s ship shares the basic statistics of a mosquito ship.
 
 Dust
 
-Magical dust is a dry, powdery substance. It is
-normally found in a metal, bone, or wooden tube,
-2 to 6 inches long. The user blows into one end of
-the tube, aiming at an intended victim or area,
-and the cloud of dust forms a cone 30 feet long
-and 10 feet wide at the far end. The 30-foot range
-applies only when the dust is blown from a tube.
-If not found in a tube, dust may be in any con-
-tainer, magical or otherwise, and may be thrown
-10 feet by hand, poured, or used in any conve-
-nient manner,
+Magical dust is a dry, powdery substance. It is normally found in a metal, bone, or wooden tube, 2 to 6 inches long. The user blows into one end of the tube, aiming at an intended victim or area, and the cloud of dust forms a cone 30 feet long and 10 feet wide at the far end. The 30-foot range applies only when the dust is blown from a tube. If not found in a tube, dust may be in any container, magical or otherwise, and may be thrown 10 feet by hand, poured, or used in any convenient manner.
 
 of Absorption
 XP Value: 250 GP Value: 750
 The Book of Marvelous Magic
-This dust can absorb up to 100 cubic feet of water
-or acid and turn it to mud.
+This dust can absorb up to 100 cubic feet of water or acid and turn it to mud.
 
 of Adhering
 XP Value: 200 GP Value: 1,000
 The Book of Marvelous Magic
-
-This dust adheres to any contact or surface poi-
-son, poisoned needles and darts, and other traps
-of this type in the area. It is useful to thieves, giv-
-ing automatic success when attempting to find
-traps and a +30% bonus to the remove traps
-attempt. It does not neutralize the poison, but
-gives any victim a +4 bonus to any saving throw
-subsequently required.
+This dust adheres to any contact or surface poison, poisoned needles and darts, and other traps of this type in the area. It is useful to thieves, giving automatic success when attempting to find traps and a +30% bonus to the remove traps attempt. It does not neutralize the poison, but gives any victim a +4 bonus to any saving throw subsequently required.
 
 Allergy
 XP Value: 100 GP Value: 500
 The Book of Marvelous Magic
-There are many types of this dust, each made of
-the powdered bone of some creature, mixed with
-rare herbs, and then enchanted. The dust is invis-
-ible; each victim in the area of effect must make a
-saving throw vs. spell or become allergic to the
-specified creature. The allergy might not be
-noticeable immediately. When a victim comes
-within 50 feet of the creature specified, the symp-
-toms begin-—the eyes water, the nose clogs, and
-there is a 50% chance that sneezing may occur
-(checked per round of exposure). The nasal prob-
-lems cause no penalties; watery eyes cause a —1
-penalty to all attack rolls but a +1 bonus to all
-saving throws against gaze attacks; a sneezing
-victim may not attack or cast spells. The symp-
-toms pass 1d6 rounds after the victim moves at
-
-least 50 feet away from the creature causing the
-1,465
-
- 
-
-414
-
-\
-allergy. The allergy is permanent until cure dis-
-ease is applied by a caster of 15th level or greater.
-Typical creatures used to make allergy dust are
-basilisks, dragons, giants, goblins, orcs, rats,
-trolls, DM’s choice.
+There are many types of this dust, each made of the powdered bone of some creature, mixed with rare herbs, and then enchanted. The dust is invisible; each victim in the area of effect must make a saving throw vs. spell or become allergic to the specified creature. The allergy might not be noticeable immediately. When a victim comes within 50 feet of the creature specified, the symptoms begin—the eyes water, the nose clogs, and there is a 50% chance that sneezing may occur (checked per round of exposure). The nasal problems cause no penalties; watery eyes cause a -1 penalty to all attack rolls but a +1 bonus to all saving throws against gaze attacks; a sneezing victim may not attack or cast spells. The symptoms pass 1d6 rounds after the victim moves at least 50 feet away from the creature causing the allergy. The allergy is permanent until cure disease is applied by a caster of 15th level or greater. Typical creatures used to make allergy dust are basilisks, dragons, giants, goblins, orcs, rats, trolls, DM’s choice.
 
 of Appearance
 XP Value: 1,000 GP Value: 5,000
 DUNGEON MASTER Guide, Ist Edition
-This fine powder appears like any other dust
-unless a careful examination is conducted. This
-reveals it to be a very fine, very light metallic
-dust. A single handful of this substance flung into
-the air coats all objects, making them visible even
-if they are invisible, out of phase, astral, or ethe-
-real. Note that the dust also reveals mirror images
+This fine powder appears like any other dust unless a careful examination is conducted. This reveals it to be a very fine, very light metallic dust. A single handful of this substance flung into the air coats all objects, making them visible even if they are invisible, out of phase, astral, or ethe- real. Note that the dust also reveals mirror images and projected images for what they are, and like- wise negates the effects of cloaks of displacement or elvenkind and robes of blending. The dust’s effect lasts for 2d10 turns.
 
-and projected images for what they are, and like-
-
-wise negates the effects of cloaks of displacement
-or elvenkind and robes of blending. The dust’s
-effect lasts for 2d10 turns.
-
-Dust of appearance is typically stored in
-small silk packets or hollow bone blow tubes. A
-packet can be shaken out to cover an area in a
-radius of 10 feet from the user. A tube can be
-blown in a cone shape, 1-foot wide at the start,
-15 feet at the end, and 20 feet long. As few as
-five or as many as 50 containers may be found
-in one place.
+Dust of appearance is typically stored in small silk packets or hollow bone blow tubes. A packet can be shaken out to cover an area in a radius of 10 feet from the user. A tube can be blown in a cone shape, 1-foot wide at the start, 15 feet at the end, and 20 feet long. As few as five or as many as 50 containers may be found in one place.
 
 of Blandness
 XP Value GP Value
@@ -49038,94 +48922,23 @@ Blandness: 20 100
 Piquantness: 20 100
 Prince of Lankhmar
 
-This item is the proud creation of an evil man.
-Often in the pay of the Thieves’ Guild, he creates
-and activates new and unusual spells and items to
-further the cause of chaos, evil, and pain. This is
-one such item that makes his job easier.
+This item is the proud creation of an evil man. Often in the pay of the Thieves’ Guild, he creates and activates new and unusual spells and items to further the cause of chaos, evil, and pain. This is one such item that makes his job easier.
 
-Instead of worrying that the poisons that he
-concocts are tasteless and void of their olfactory
-elements, he sprinkles the dust of blandness upon
-them. The item efficiently deadens the olfactory
-and taste qualifications of the poisonous creation,
-rendering them completely bland. The poisons
-are thus detectable only through detect poison or
-other divination spells with similar effects.
+Instead of worrying that the poisons that he concocts are tasteless and void of their olfactory elements, he sprinkles the dust of blandness upon them. The item efficiently deadens the olfactory and taste qualifications of the poisonous creation, rendering them completely bland. The poisons are thus detectable only through detect poison or other divination spells with similar effects.
 
-The dust of blandness may also be used to
-deter the taste and smell of rotted foods should
-someone wish to poison a character in that way.
-Then too, the taste of good food that has a dis-
-tinctive odor and taste, such as eggplant or liver,
+The dust of blandness may also be used to deter the taste and smell of rotted foods should someone wish to poison a character in that way. Then too, the taste of good food that has a distinctive odor and taste, such as eggplant or liver, can be counteracted with the use of this dust of blandness.
 
-Dust of Blending
+This item is not usually found for sale, but when it is, the cost is 100 gp per vial. Each vial has enough dust for use on six standard plates of food; a standard plate being the food the average person can consume at one sitting.
 
-aime iia lacie
+The dust of blandness has its opposite, which is the dust of piquantness. This item makes the flavor and odor of food unmistakable. It allows the aficionado of food and drink to fully enjoy the flavors and wafting odors of food. The dust also brings out the smell of poisons and causes the odors of burnt or ill-cooked food to be unmistakable.
 
-can be counteracted with the use of this dust of
-blandness.
-
-This item is not usually found for sale, but
-when it is, the cost is 100 gp per vial. Each vial
-has enough dust for use on six standard plates of
-food; a standard plate being the food the average
-person can consume at one sitting.
-
-The dust of blandness has its opposite, which
-is the dust of piquantness. This item makes the
-flavor and odor of food unmistakable. It allows
-the aficionado of food and drink to fully enjoy
-the flavors and wafting odors of food. The dust
-also brings out the smell of poisons and causes
-the odors of burnt or ill-cooked food to be
-unmistakable.
-
-The dust of piquantness is sold for the same
-price as the dust of blandness: a mere 100 gp per
-vial. The dust of piguantness is much more read-
-ily available than its counterpart.
+The dust of piquantness is sold for the same price as the dust of blandness: a mere 100 gp per vial. The dust of piguantness is much more readily available than its counterpart.
 
 of Blending
 XP Value: 1,250 GP Value: 5,000
 DUNGEON Magazine 17
-This magical dust is usually found in a small
-leather bag on which magical sigils in silver foil
-are drawn. Each of the 2d6 cakes of dust found in
-a bag resembles a crumbly chunk of yellow dirt
-about 3 inches in diameter.
+his magical dust is usually found in a small leather bag on which magical sigils in silver foil are drawn. Each of the 2d6 cakes of dust found in a bag resembles a crumbly chunk of yellow dirt about 3 inches in diameter.
 
-If thrown against a creature or inanimate
-object, a cake of dust of blending explodes in a
-harmless shower of yellow and red sparks and
-causes the immediate area to blend in with its sur-
-roundings so as to be 90% invisible, even to close
-inspection. Each cake can cover an area of 50
-cubic feet. The magic from the dust of blending
-lasts for 1d6+6 turns.
+If thrown against a creature or inanimate object, a cake of dust of blending explodes in a harmless shower of yellow and red sparks and causes the immediate area to blend in with its surroundings so as to be 90% invisible, even to close inspection. Each cake can cover an area of 50 cubic feet. The magic from the dust of blending lasts for 1d6+6 turns.
 
-The dust can be washed off, thus revealing the
-object or creature it was meant to conceal. It may
-also be blown off by winds in excess of 40 mpu. If
-a creature moves while coated, there is a 10%
-chance per turn of movement that the dust will be
-shed. This dust was used by the elves to conceal
-their scouts and positions within the forest while
-they lay in ambush for the goblin patrols.
-
- 
-
-415
-Notes
-
-416
-$25.00 U.S. $32.00 CAN £15.99 U.K.
-
-ISBN 1-56076-842-8
-52500>
-
-9°781560°768425
-
- 
-
-EIR EM (Ole e Xiah aD}
+The dust can be washed off, thus revealing the object or creature it was meant to conceal. It may also be blown off by winds in excess of 40 mpu. If a creature moves while coated, there is a 10% chance per turn of movement that the dust will be shed. This dust was used by the elves to conceal their scouts and positions within the forest while they lay in ambush for the goblin patrols.
