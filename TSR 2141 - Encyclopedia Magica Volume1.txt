@@ -523,7 +523,7 @@ Ch’ijen = 1 5 10 50 500 1 10 10 200 =©1000
 Ch’ao = 1/10 1/2 1 5 50 1/10 1 1 20 100
 Tael = 1/10 1/2 i 5 50 1/10 1 1 20 100
 Yuan = 1/200 1/40 1/20 1/4 4 1/200 1/20 1/20 1 5
-Fen = 1/1000 §=61/200 =1/100 = 1/20 1/2 1/1000 §=61/100)=—1/100~—Ss «1/5 1
+Fen = 1/1000 §=61/200 =1/100 = 1/20 1/2 1/1000 §=61/100)=-1/100~—Ss «1/5 1
 DRAGONLANCE Campaign
 Platinum = I 5 10 50 500 1 10 10 200 1000
 Steel = 1/5 1 2 10 100 1/5 5 5 100 §=©500
@@ -780,7 +780,7 @@ area of effect for two full turns
 
 that settles over the area of effect. Indi-
 viduals of good alignment are haunted by
-terrifying dreams and suffer —2 penalties
+terrifying dreams and suffer -2 penalties
 to THACO and saving throws while evil
 creatures gain +2 penalties to the same.
 
@@ -1022,7 +1022,7 @@ Roll Power
 of the user
 
 2 Reduce the user’s Charisma by 1d4 points
-3 Inflict a—1 penalty on the user’s saving
+3 Inflict a-1 penalty on the user’s saving
 throws vs. magic
 
  
@@ -1030,7 +1030,7 @@ throws vs. magic
 Me
       
 
-Inflict a —2 penalty on the user’s saving 20 Cause the user to become forgetful, start-
+Inflict a -2 penalty on the user’s saving 20 Cause the user to become forgetful, start-
 
 10
 
@@ -1143,7 +1143,7 @@ reveal intangibles—things that cannot and could
 not have been seen without the aid of the power.
 In most cases the artifact must be touched against
 
-who suffers a —1 penalty to all die rolls the desired target of the power.
+who suffers a -1 penalty to all die rolls the desired target of the power.
 
 while in daylight
 
@@ -1625,7 +1625,7 @@ relate to the goals of the artifact, if any
 
 20 ~— Cast suggestion (3/day)
 
-Table 1—12: Fate and Fortune
+Table 1-12: Fate and Fortune
 This table is a collection of powers that grant
 the user the benefits of good fortune. Some
 powers are straightforward, many are unusual,
@@ -1675,7 +1675,7 @@ Imbue the user with natural luck in com-
 bat, granting a +1 bonus to all surprise
 rolls
 
-Grant a —1 bonus on all of the user’s ini-
+Grant a -1 bonus on all of the user’s ini-
 tiative rolls
 
 Grant the user a change of luck. Once per
@@ -1936,7 +1936,7 @@ including all hold-based spells, and the
 results of web and entangle spells
 
 Create immunity to cold temperatures as
-low as —50°. Saving throws vs. magical
+low as -50°. Saving throws vs. magical
 cold gain a +2 bonus
 
 Bestows a 20% magic resistance or gives
@@ -2685,11 +2685,11 @@ undertake any task this day. If this advice
 is ignored, all characters suffer a -1 on
 attack rolls and saving throws for the rest
 of the day. Their chance for encounters
-are doubled and a —10% reaction modi-
+are doubled and a -10% reaction modi-
 fier is applied to all encounters.
 Great danger exists. The chance for
 encounters doubles for the day and a
-—10 reaction modifier applies to all
+-10 reaction modifier applies to all
 encounters. Adversaries have a +1
 applied to their attack rolls for that day.
 Neutral omen, no special modifiers
@@ -2805,8 +2805,8 @@ fot
 
 Aquatic*
 XP Value GP Value
-With free action: -25% —25%
-Without free action: -50% —50%
+With free action: -25% -25%
+Without free action: -50% -50%
 
 Dracon Magazine 181
 Ideal gear for the fledgling underwater adven-
@@ -3154,7 +3154,7 @@ effect.
 Item is powerful; it works 125% more
 effectively than a standard item of the
 same type, and any saving throw against
-its effects is made at —1.
+its effects is made at -1.
 
 Item is substandard and only works half
 as well as a standard item of the same
@@ -3162,7 +3162,7 @@ type.
 
 Item has a curse upon it. All saving
 throws attempted by its owner are made
-at —1 until the item has a remove curse
+at -1 until the item has a remove curse
 cast upon it.
 
 Item does not function underwater,
@@ -3178,7 +3178,7 @@ iN
 
 Neeser of
 works outside of a watery environ-
-ment—50% chance salt water, 50%
+ment-50% chance salt water, 50%
 chance fresh water.
 
 Item belongs to an extraplanar creature
@@ -3454,7 +3454,7 @@ the environment. The spores can live for 2d4 days.
 
 In a normal environment, the spores hinder the
 character’s normal respiration, causing all Consti-
-tution checks to be made with a —4 penalty. Fortu-
+tution checks to be made with a -4 penalty. Fortu-
 nately, 12 hours of breathing in a normal
 environment for each day the spores were used
 will clear the lungs of the colony.
@@ -3553,7 +3553,7 @@ strong aura of evil.
 
 The amulet enables the wearer to summon
 tanar’ri aid twice per day. At the wearer’s
-option, it may summon 1d6 manes or 1—2 dretch.
+option, it may summon 1d6 manes or 1-2 dretch.
 All summoning is done indirectly through
 Arzial, a baron serving under Graz’zt, and is
 subject to possible denial. If approved, the sum-
@@ -3647,7 +3647,7 @@ whole or in part. Arachnids are allowed a sav-
 ing throw if they have an Intelligence of three
 or better. Unlike the ring of arachnid control,
 all neogi (even the Great Old Masters) must
-make a saving throw vs. spell at a —2 penalty in
+make a saving throw vs. spell at a -2 penalty in
 order to avoid being magically compelled to
 obey the command of the amulet’s wearer. (If
 successful, the neogi can choose whether or not
@@ -3945,7 +3945,7 @@ This particular amulet is enchanted with a
 Amulet of Far Reaching
 
 powerful suggestion spell. Anyone touching it
-must save vs. spell at —5 to keep from putting the
+must save vs. spell at -5 to keep from putting the
 device about his or her neck. A save is required
 for every round a person is in contact with it.
 
@@ -4374,9 +4374,9 @@ Standard +2: 900 4,500
 Standard +3: 1,200 6,000
 Standard +4: 1,500 7,500
 Standard +5: 1,800 9,000
-Cursed —1: — 1,000
-Cursed —2: — 1,200
-Cursed —3: — 1,400
+Cursed -1: — 1,000
+Cursed -2: — 1,200
+Cursed -3: — 1,400
 
 Kara-Tur
 
@@ -4389,7 +4389,7 @@ amulet bestows it.
 Cursed hunting amulets exist as well; when
 borne, the carrier has reduced chances of hunting
 
-success (up to —5 percent),
+success (up to -5 percent),
 of Immunity to Charm
 
 XP Value: 4,000 GP Value: 20,000
@@ -4689,7 +4689,7 @@ ers as described below.
 
 Roll Amulet Power
 01-09 +1 bonus to attack rolls
-10-18 -—1 bonus to Armor Class
+10-18 --1 bonus to Armor Class
 19-27 +] bonus to damage
 28-36 +1 bonus to saving throws
 
@@ -4857,7 +4857,7 @@ transport instantly to or from any one of the clos-
 est levels of the Outer Planes. The journey is
 absolutely safe, if not absolutely sure, but until
 the individual learns the device, transport is ran-
-dom. Roll 1d6. On a 4—6, add 12 to the result of a
+dom. Roll 1d6. On a 4-6, add 12 to the result of a
 1d12 roll (for a result between | and 24). Ona
 1-3 do not add 12 to a 1d12 roll. Figure the total
 and consult the following table to determine
@@ -4919,7 +4919,7 @@ the caster may perform, and the range, duration,
 and power (dice, area, number affected, etc.) of
 those spells, is increased by 50%. An enchanter
 could, for example, do 643-1 spells on one day
-a week, rather than the usual 4—3-—2—1. (Always
+a week, rather than the usual 4-3--2-1. (Always
 round fractions down.) Due to the increase in
 spell capabilities, the target’s saving throw is aug-
 mented by +3.
@@ -5375,7 +5375,7 @@ Those of the Ist to 4th level must save vs. spell or
 immediately retreat out of the area of effect for
 1d8 turns. Those of the 5th to 7th level must save
 vs. spell or be stunned for one round. Those of
-higher level suffer a —1 on their attack rolls.
+higher level suffer a -1 on their attack rolls.
 
 of the Spirit
 XP Value: 1,000
@@ -6063,7 +6063,7 @@ Roll Creature
 02 Unicorn: AC 2; MV 24; HD 4+4; hp 28;
 THACO 15; #AT 3 (hooves and horn);
 Dmg 1d6/1d6/1d12; SA charge, +2 to hit
-when attacking with horn, —6 penalty to
+when attacking with horn, -6 penalty to
 opponents’ surprise rolls; SD teleport,
 immune to poison, charm, hold, and
 death spells; can sense approach of
@@ -6084,7 +6084,7 @@ AL N. This creature’s Intelligence is
 Bull: AC 7; MV 15; HD 4; hp 24;
 THACO 15; #AT 2 (horns); Dmg
 1d6/1d6; SA charge; ML 15; AL N. The
-bull has an Intelligence of 4—7 (1d4+3).
+bull has an Intelligence of 4-7 (1d4+3).
 Superheavy war horse: AC 6; MV 15;
 HD 4+4; hp 28; THACO 15; #AT 3
 (hooves and bite); Dmg 1d8/1d8/1d4;
@@ -6096,7 +6096,7 @@ horse has an Intelligence of 7-12
 Heavy war horse: AC 7; MV 15; HD
 4+4; hp 21; THACO 17; #AT 3 (hooves
 and bite); Dmg 1d8/1d8/1d4; ML 15;
-ALN. Intelligence is 5—8 (1d4+4).
+ALN. Intelligence is 5-8 (1d4+4).
 
 04-05
 
@@ -6999,7 +6999,7 @@ inside/close “eyes”
 The apparatus moves forward at a speed of
 three, backward at six. Two pincers extend for-
 ward 4 feet and snap for 2d6 points of damage
-each if they hit a creature—25% chance, no
+each if they hit a creature-25% chance, no
 reduction for armor, but Dexterity reduction
 applies (5% per bonus point). The device can
 operate in water up to 900 feet deep. It can hold
@@ -7544,7 +7544,7 @@ modifiers:
 
 LG, CG, NG: +0
 
-LN, CN, N: —3
+LN, CN, N: -3
 
 LE: 4
 
@@ -7552,7 +7552,7 @@ NE: -5
 
 CE: -6
 The candidate’s own corpse, if within range, is at
-~—10, and may have been dead for any length of
+~-10, and may have been dead for any length of
 time. The lichnee may attempt to enter its own
 corpse once per week until it succeeds. (A phy-
 lactery too well hidden might never offer the lich-
@@ -8211,11 +8211,11 @@ familiar with the armor gradation system:
 
 For each +1 bonus to armor, regardless of the
 type of armor, the wearer’s Armor Class moves
-down (AC 2 to 1, to 0, -1, —2, and so on). A nor-
+down (AC 2 to 1, to 0, -1, -2, and so on). A nor-
 mal shield improves the Armor Class by 1. A
 magical shield improves Armor Class like magi-
-cal armor—to —1, —2, etc. Note, however, that
-Armor Class can never be improved beyond —10.
+cal armor—to -1, -2, etc. Note, however, that
+Armor Class can never be improved beyond -10.
 
 Thus, chain mail +1/ is like ordinary chain mail
 (AC 5), but one category better (AC 4). A shield
@@ -8281,7 +8281,7 @@ Roll Armor 73 Platinum * 25
 
 22 Dwarven Plate blindness at one creature per round within 30 feet
 
-23 Elven Plate (save vs. spell at —6 to negate, —3 if looking
+23 Elven Plate (save vs. spell at -6 to negate, -3 if looking
 24-28 Field Plate away).
 
 29-33 Full Plate
@@ -8377,8 +8377,8 @@ loses all of its magical properties.
 
 Aquatic Armor*
 XP Value GP Value
-With free action: -25% —25%
-Without free action: —50% —50%
+With free action: -25% -25%
+Without free action: -50% -50%
 
 DRAGON Magazine 181
 Ideal gear for fledgling underwater adventurers,
@@ -8425,7 +8425,7 @@ nance.
 A suit of armor of the arcane can absorb
 1d20+12 points of damage before dissipating.
 Consider the contact of any spell to give the
-armor additional hit points—2 per spell level—
+armor additional hit points-2 per spell level—
 with a cantrip giving a single point, unless the
 spell is one that normally deals damage. In such
 cases, the damage the spell would have done is
@@ -8645,7 +8645,7 @@ mountain dwarves of the Crystalmist range. The
 armor can be loosely hung on a human-—sized
 character, though the character loses all dexterity
 bonuses to his or her Armor Class, and fights
-with a —2 attack penalty. Aside from the Armor
+with a -2 attack penalty. Aside from the Armor
 Class bonus, the wearer saves against electrical
 attacks for half damage or none.
 
@@ -8797,7 +8797,7 @@ back of the neck as well as the face.
 Dragonarmor is custom-fitted to its wearer,
 who suffers an encumbrance penalty when wear-
 ing it. Others may find a suit either too loose or
-too tight, suffering a —1 penalty on all attacks and
+too tight, suffering a -1 penalty on all attacks and
 all proficiency checks that depend on Dexterity.
 Dragonarmor was the invention of Sargonnas for
 his Dark Lady during the War of the Lance.
@@ -9130,7 +9130,7 @@ wearer of the armor gains +1 on all saving throws
 against the specified attack form; the wearer is
 unaffected by any attack of the specified type that
 does six points of damage or less in a round. In
-all cases, the wearer is entitled to a—1 modifier
+all cases, the wearer is entitled to a-1 modifier
 on each and every damage die rolled (with a min-
 imum of one point of damage per die). If the
 application of this modifier reduces damage
@@ -9369,9 +9369,9 @@ of Missile Attraction
 
 XP Value GP Value
 —]:— 1,500
-—2: — 3,000
+-2: — 3,000
 -3:— 4,500
-—4:— 6,000
+-4:— 6,000
 
 DUNGEON MASTER Guide, Ist Edition
 This armor appears to be a normal suit of magical
@@ -9462,7 +9462,7 @@ appearance of the armor, allowing the user to pass
 as another individual or create a disguise. The
 armor can duplicate any color and mon that the
 wearer imagines. In order to invoke this power, the
-wearer must make an Intelligence check at a —3
+wearer must make an Intelligence check at a -3
 penalty. The number of hours the armor holds the
 false image is equal to the wearer’s Intelligence
 minus the die roll, if successful.
@@ -9482,7 +9482,7 @@ first such suit, as did Huma, although he never
 became a Knight of the Rose. Currently such
 suits are scarce.
 
-This armor carries a +5 enchantment (AC —3).
+This armor carries a +5 enchantment (AC -3).
 Wearers must strictly follow the tenets of the law-
 ful good alignment or the armor loses its magical
 bonus. Neutral or evil characters suffer an addi-
@@ -9625,7 +9625,7 @@ weight and encumbrance.
 Armor is tight-fitting; if not oiled at
 least once every three days, the suit
 cramps the wearer’s fighting skills. Asa
-result, the wearer suffers a —1 penalty
+result, the wearer suffers a -1 penalty
 on all reaction, attack, and damage rolls
 until the armor is oiled.
 
@@ -9773,9 +9773,9 @@ DUNGEON MASTER Guide, Ist Edition
 This armor is identical in appearance to armor of
 command and functions as a suit of armor +/.
 However, when worn, the armor causes the char-
-acter to suffer a —3 penalty to all encounter
+acter to suffer a -3 penalty to all encounter
 checks. All friendly troops within 360 feet have
-their morale lowered by —2. The effect is not
+their morale lowered by -2. The effect is not
 noticeable to the wearer or those affected (charac-
 ters do not immediately notice that the armor is
 the cause of their problems).
@@ -9871,7 +9871,7 @@ descriptions). The item reflects up to three spells
 per day. In addition, when the user is in melee
 against a creature with a gaze attack, the chances
 of gaze reflection are the same as if a mirror were
-held, but without the —2 penalty to the user’s
+held, but without the -2 penalty to the user’s
 attack rolls (which represents the awkwardness of
 holding the mirror and attempting to attack at the
 same time).
@@ -9958,7 +9958,7 @@ DRAGON Magazine 181
 Armor of temperature control may be worn with-
 out any discomfort due to cold or heat, and
 enables its wearer to operate in the coldest or
-hottest of natural environments (—40 to 150° F).
+hottest of natural environments (-40 to 150° F).
 Note that the temperatures must be due to the
 weather and not to any attack by fire, cold, magic,
 or monstrous abilities; the armor does not give
@@ -10028,22 +10028,22 @@ This is armor +5, but it weighs just 3 pounds.
 of Vulnerability
 XP Value GP Value
 -1:— 1,500
-—2: — 3,000
-—3:— 4,500
+-2: — 3,000
+-3:— 4,500
 4: — 6,000
 GREYHAWK
 
 This armor seems to be genuine, magical armor
 with a protection factor of +1 to +4—but the fac-
-tor is actually —1 to -4. The vulnerability of such
+tor is actually -1 to -4. The vulnerability of such
 armor is not revealed until an enemy strikes a
 blow in anger at its wearer.
 
 of Vulnerability II
 XP Value GP Value
 -1:— 1,500
-—2:— 3,000
-—3: — 4,500
+-2:— 3,000
+-3: — 4,500
 
 DUNGEON MASTER Guide, 1st Edition
 This appears to every test to be magical plate
@@ -10053,7 +10053,7 @@ Armor Bath
 
 "cette
 
-armor —2, —3, or —4. The armor’s great vulnerabil-
+armor -2, -3, or -4. The armor’s great vulnerabil-
 ity is not apparent until an enemy successfully
 strikes a blow in anger with desire and intent to
 kill the wearer. The armor falls to pieces when-
@@ -10067,7 +10067,7 @@ DRAGON Magazine 181
 Armor of warmth may be worn without any dis-
 comfort due to cold, and enables its wearer to
 operate in the coldest of natural environments (20
-to —40° F) as well as in a temperate climate. Note
+to -40° F) as well as in a temperate climate. Note
 that the temperatures must be due to the weather
 and not to any attack by cold, magic, or monstrous
 abilities; the armor does not give frost resistance.
@@ -10086,7 +10086,7 @@ adult white dragon, they sold the hide to dwarven
 armorers who created this suit of scale mail +3.
 The dwarves created it for a human—sized wearer,
 but a dwarf or halfling can wear it at a penalty of
-—1l to Armor Class; the total AC modifier is +2.
+-1l to Armor Class; the total AC modifier is +2.
 The armor allows the user to save vs. cold-based
 attacks for half or no damage.
 
@@ -10331,7 +10331,7 @@ archer can call upon its
 deadly powers, causing the target to save vs.
 death magic or die immediately.
 
-Good-aligned characters save at —2. This power
+Good-aligned characters save at -2. This power
 must be summoned before the arrow is fired, and
 a miss wastes its magic for that day.
 
@@ -10426,7 +10426,7 @@ radius around him for one round. Creatures that
 are touching the target when the arrow strikes
 may make a saving throw vs. spell for half dam-
 age. All equipment on the victim must save vs.
-magical fire at —2. An arrow of burning may be
+magical fire at -2. An arrow of burning may be
 used to burn through an average-sized dungeon
 door in 1d4+1 rounds.
 
@@ -10895,7 +10895,7 @@ of Force
 XP Value: 80 GP Value: 480
 DRAGON Magazine 135
 This arrow causes the struck creature to make a
-saving throw vs. spell at —3. If the save is unsuc-
+saving throw vs. spell at -3. If the save is unsuc-
 
 cessful, the creature is encased in a forcecage for
 
@@ -10903,7 +10903,7 @@ need
 
 three turns (see the 7th-level wizard spell for
 details). Due to its high degree of power, the
-arrow of force provides a —3 penalty on attack
+arrow of force provides a -3 penalty on attack
 rolls. No damage is done to the victim.
 
 of Harm
@@ -10957,7 +10957,7 @@ The strike of an arrow of holding does only
 one point of damage, but these arrows pierce
 any armor. On striking, the arrow vanishes in a
 pulse of silvery radiance, and the target crea-
-ture must save vs. spell at —4 or suffer the
+ture must save vs. spell at -4 or suffer the
 effects of a hold person spell for 5+1d4 rounds.
 
 All types of creatures can be affected, and an
@@ -11258,7 +11258,7 @@ rings and cloaks of protection. Bracers of defense,
 however, are useless. Bonuses for cover and con-
 cealment are ignored unless the cover is made of
 living material. Creatures totally hidden from view
-are treated as invisible (—4 to hit them). Magical
+are treated as invisible (-4 to hit them). Magical
 protections and Armor Class adjustments for high
 Dexterity still apply. The Armor Class of creatures
 with natural armor remains unaffected.
@@ -11268,7 +11268,7 @@ XP Value: 50 GP Value: 300
 DRAGON Magazine 135
 Once shot, this arrow goes after its target regard-
 less of range, as long as the target is within view.
-The arrow, however, gains a cumulative —1 to
+The arrow, however, gains a cumulative -1 to
 
 Arrow of Polymorphing
 
@@ -11276,7 +11276,7 @@ Arrow of Polymorphing
 
 attack for every 100 yards beyond its maximum
 range that it travels. Once the arrow gains a total
-of a —10 penalty to attack, it vanishes. The arrow
+of a -10 penalty to attack, it vanishes. The arrow
 has a +2 bonus to damage.
 
 of Piercing
@@ -11518,7 +11518,7 @@ Roll Bonus
 3 +3
 4 +4
 5 +5
-6 cursed, —1
+6 cursed, -1
 of Refilling
 XP Value: 100 GP Value: 400
 
@@ -11711,7 +11711,7 @@ arrow. Closer examination reveals the arrowhead
 to be made of bone and carved to resemble the
 head of a serpent. An arrow of Set is +1 to attack
 and damage. Anyone hit by one of these arrows
-must save vs. poison at —1 or die within 1d4
+must save vs. poison at -1 or die within 1d4
 rounds. A character whose saving throw is suc-
 cessful takes 2d6 hit points damage from the
 venom in addition to the damage taken when hit.
@@ -11878,7 +11878,7 @@ GP Value: 2,500
 DRAGON Magazine 35
 Ineffective against “wild and crazy” comedians,
 even when struck in the head. In game terms, this
-arrow is —2 to attacks against bards.
+arrow is -2 to attacks against bards.
 
 XP Value: 250
 
@@ -12089,7 +12089,7 @@ armor.
 Those wearing metal armor are considered to
 be AC 10 against this arrow. Magical protection
 still applies; thus, plate mail +4, although nor-
-mally AC —1, would instead be AC 6 against the
+mally AC -1, would instead be AC 6 against the
 wooden arrow.
 
 These arrows are never found in bunches. If
@@ -13105,7 +13105,7 @@ from immediate, direct vengeance.
 ¢ Trap a genie within the active prison. This
 function can only be used on a single genie
 within 30 feet of the astrolabe. The victim is
-entitled to a save vs. spell at a —6 penalty. If it
+entitled to a save vs. spell at a -6 penalty. If it
 fails, the genie is imprisoned and any genie
 previously trapped in the active prison is auto-
 matically released, with the consequences
@@ -13158,7 +13158,7 @@ powers). This being’s actions are determined by
 rolling 1d6, using the chart below after applying
 the following adjustments. If the user is magically
 cursed when the awl is used (however minor the
-curse), or is Carrying a cursed item, a—1 penalty
+curse), or is Carrying a cursed item, a-1 penalty
 applies to the roll. Ifa wish is cast before the awl is
 used, wishing for good fortune, a +1 bonus applies.
 After the awl is used, there is no way to alter what
@@ -13600,7 +13600,7 @@ ered arm. Those who approach within reach of it
 feel cold chills running up and down their spines.
 
 The battle axe detects as magical. The axe is a
-+2 weapon, —2 vs. chaotic evil creatures. The
++2 weapon, -2 vs. chaotic evil creatures. The
 weapon acts like a cursed sword—once handled
 by a character, he or she may never be rid of it, it
 always teleports into the possessor’s hand and
@@ -13715,7 +13715,7 @@ Invoked Powers: The axe can summon one 16
 HD earth elemental (1/week).
 
 Random Powers: Three from Artifact Table
-1—10: Elemental Earth.
+1-10: Elemental Earth.
 
 Curse: Nondwarf characters permanently lose
 1 point of Charisma when first they touch the
@@ -13911,7 +13911,7 @@ and damage rolls increases to +5.
 Invoked Powers: The axe is a powerful symbol
 of rulership and might. As such, it has powers
 equal to a ring of human influence and is particu-
-larly effective against ogres and ogre-kin (—2
+larly effective against ogres and ogre-kin (-2
 penalty to all saving throw rolls). This power can
 be commanded at will. The axe can also produce
 the effects of a cause fear spell to all within 120
@@ -14319,7 +14319,7 @@ looking. It has no magical effect on nonelven
 characters, but in the hands of a person of lawful
 evil alignment it functions as a +2 weapon, +3
 against elves. When the owner is fighting an elf,
-he or she must save vs. spell at —5 or go into a
+he or she must save vs. spell at -5 or go into a
 berserker rage (attacking 2 times per round, with
 +2 to attack and damage). This weapon is thought
 to be in the hands of an evil warlord who leads
@@ -14723,7 +14723,7 @@ eaten, they:
 
 01-50 Are poisonous, requiring a save vs. poi-
 
-son at —2 to avoid death,
+son at -2 to avoid death,
 Act as goodberries, as the 2nd-level
 priest spell. The toadstools vanish after
 
@@ -14812,7 +14812,7 @@ per drink. 15 A pair of huge, disembodied magical
 
 08 Several powerful zombies (#AP 3d8; hands appear. One is a Bigby s grasping
 AC 4; MV 12; HD 2; hp 16; #AT 2; hand and the other a Bigby'’s clenched
-Dmg |—8/1-8; THACO 19) crawl forth fist. Each attacks or holds immobilized
+Dmg |-8/1-8; THACO 19) crawl forth fist. Each attacks or holds immobilized
 and attack all living things. The zom- a random target within 90 feet of the
 bies cannot be turned and move fast— bean for 12 rounds.
 they always strike first in a melee round. 16 Fast-growing roots reach up from the
@@ -15254,7 +15254,7 @@ surround the bean planter. The demonic
 laughter prevents any sleep or spellcast-
 ing requiring verbal components. For
 each day of sleeplessness, the planter
-takes a —1 penalty on attacks, defenses,
+takes a -1 penalty on attacks, defenses,
 and saving throws, The skulls cannot be
 attacked by any means except one, cho-
 sen by the DM (this method may be
@@ -16024,9 +16024,9 @@ tial intrusions, but any time it senses living human
 flesh within, it is 60% likely to close and attempt to
 draw the whole victim in—base 75% chance for suc-
 cess less Strength bonus for “damage,” each +1 =
-—5% on base chance. Thus, an 18 Strength character
+-5% on base chance. Thus, an 18 Strength character
 (with +2 damage) is only 65% likely to be drawn
-into the bag, while a 5 Strength character (with —1
+into the bag, while a 5 Strength character (with -1
 damage) is 80% likely to be drawn in.
 
 The bag radiates magic. It can hold up to 30
@@ -17301,7 +17301,7 @@ When the word of command is spoken, the
 figurine becomes a real warrior that serves the
 owner for up to three turns once each day. The
 bronze warrior has the following statistics:
-AC -—2, 40 hit points, 6th-level fighter,
+AC --2, 40 hit points, 6th-level fighter,
 Strength 18/01, Dexterity 18. The warrior uses
 a composite short bow +1, twenty arrows +1,
 a long sword +1, and a javelin of piercing.
@@ -17541,7 +17541,7 @@ without error, to the place pictured.
 A card with a picture of fate holding a balance
 scale. The DM rolls secretly and determines
 whether the card holder (including the pouch
-owner) will be +4 or —4 on saving throws for
+owner) will be +4 or -4 on saving throws for
 as long as the card is held (equal chances for
 either). If the result is negative, the effects per-
 sist until a wish spell is used to negate the
@@ -17563,7 +17563,7 @@ on a huge pile of treasure. Writing at the bot-
 tom of the card says, “Wish you were here.
 Love, Gorgo.”
 
-A card with a spell (level 2—7, of the appropri-
+A card with a spell (level 2-7, of the appropri-
 ate class) written on it, usable by the viewer as
 if it were a scroll spell. If the pouch owner is a
 nonspellcaster, the card is blank until it is
@@ -17655,7 +17655,7 @@ magic of the box is activated.
 When the red spot is pressed a field of force
 goes up—troll |d6:
 
-1—2: keeps out living matter
+1-2: keeps out living matter
 
 3-4: keeps out nonliving matter
 
@@ -17721,7 +17721,7 @@ feet, half that amount to all others within 30
 feet, and causing structural damage equal to
 twice that caused by a horn of blasting. Crea-
 tures who make their saving throw vs. magic
-at —4 take half damage. The cube can be
+at -4 take half damage. The cube can be
 thrown, by hand or with a sling, but will not
 explode prematurely no matter what happens.
 This Pandora’ box releases 4d4 hostile mon-
@@ -17734,7 +17734,7 @@ of 6, roll again using 1d8.
 
 When the red spot is pushed, all nonhostile
 creatures within 60 feet must save vs. magic at
-—4 or flee in panic for 3d4 rounds. This
+-4 or flee in panic for 3d4 rounds. This
 includes the box holder as well.
 
 Table L: Wands (Roll 1d8)
@@ -18612,7 +18612,7 @@ checks while in a unit bearing such a banner
 * They are hard to steal or capture. Any hostile
 soldier who manages to seize such a banner
 finds it twice as heavy as it should be and has a
-—2 penalty to all saving throws while carrying it.
+-2 penalty to all saving throws while carrying it.
 
 * Their powers wane and wax, depending
 upon whether they are being used for legiti-
@@ -18658,7 +18658,7 @@ Dice, the banner apparently says, “Enter Here.”
 All monsters and NPCs affected have a 66%
 chance of wanting to investigate the area and may
 be surprised when entering any door within 30
-feet of the banner (—2 to surprise rolls).
+feet of the banner (-2 to surprise rolls).
 
 of Bravery
 XP Value: 4,500 GP Value: 7,500
@@ -18848,7 +18848,7 @@ ately. If the banner is raised within one turn, the
 effect returns. If the banner is not raised within one
 turn, the inspired troops become filled with dread,
 feeling that the battle has clearly gone against their
-cause. The same troops now suffer a —2 morale
+cause. The same troops now suffer a -2 morale
 penalty for the duration of the battle. The standard
 may be raised any number of times, but it only
 improves or impairs morale once per day.
@@ -18879,7 +18879,7 @@ XP Value: 2,000 GP Value: 10,000
 DRAGON Magazine 72
 By waving this mystical flag and yelling “Go,
 team, go!” a jock can cause all friendly viewers to
-fly into a berserk rage (+20% to morale, —2 to the
+fly into a berserk rage (+20% to morale, -2 to the
 attack, but +2 to damage).
 
 of Privacy
@@ -18983,9 +18983,9 @@ XP Value: 4,000 GP Value: 20,000
 DraGOn Magazine 178
 Enemies within 80 feet of this dreaded flag must
 make an immediate morale check. All subsequent
-morale checks in the zone of influence suffer a —1
+morale checks in the zone of influence suffer a -1
 penalty per 20 feet of distance as they continue to
-close in on the flag, to a maximum of —4.
+close in on the flag, to a maximum of -4.
 
 Zen’s
 XP Value: 5,000 GP Value: 25,000
@@ -19219,7 +19219,7 @@ mental design woven into the links. The barding
 is unusually light, weighing about 45 pounds.
 When the command word is spoken, the barding
 sizes itself to fit any horse, from a pony toa
-heavy war horse. The barding gives the horse a —5
+heavy war horse. The barding gives the horse a -5
 Armor Class against missile attacks and a saving
 throw vs. spell against magic missiles. Against
 nonmissile attacks, the barding confers an AC of
@@ -19871,7 +19871,7 @@ Each facet of this bead has a power that sup-
 presses, erases, or discourages recall of dark sor-
 ceries, worships, and necromancy. Those who
 pass within 12 miles of this device make a save
-vs. spell at a —20 penalty (forcing all but the most
+vs. spell at a -20 penalty (forcing all but the most
 powerful or magically-equipped to fail) or all
 dark knowledge is forgotten.
 
@@ -20057,7 +20057,7 @@ the body attempts to purge it. Symptoms include
 extreme nausea and vomiting, distended stomach,
 diarrhea, and body aches. Such a character could be
 transported in a wagon, but would not be strong
-enough to ride a horse. The character suffers a —4
+enough to ride a horse. The character suffers a -4
 penalty to all attack rolls and Strength and Constitu-
 tion scores are reduced by 3 points for the duration
 of the illness. Effects are cumulative with each bean
@@ -20350,7 +20350,7 @@ Black Belts: Black wampari attest to the health
 and vigor of the wearer. Thus, their owners gain a
 +1 bonus to Constitution (up to a maximum of 18)
 while the belt is in place. If the belt is donned by
-another, a—1 Constitution penalty is imposed.
+another, a-1 Constitution penalty is imposed.
 
 Blue Belts: Wampari of this type are symbols
 of the understanding found in a truly wise person.
@@ -20363,7 +20363,7 @@ wampum that have a golden tint. When such
 beads are made into belts and enchanted by
 shamani, they increase the Charisma of their
 owner by +1 point (up to a maximum of 18).
-Others wearers suffer a —1 point penalty.
+Others wearers suffer a -1 point penalty.
 
 Green Belts: Green wampari are symbols of
 sure-footedness and agility. They bestow upon
@@ -20377,7 +20377,7 @@ mally given to warriors and have the effect of
 increasing the wearer’s Strength by +1 point (up
 to a maximum of 18) when worn. If someone
 other than the belt’s owner puts on the wampari,
-the thief loses —1 point of Strength.
+the thief loses -1 point of Strength.
 
 White Belts: Wampari set with white beads
 are symbols of open-mindedness and clear think-
@@ -20902,7 +20902,7 @@ soft light. (The implication is that the spirit of
 the one touching had an existence that predated
 his or her physical body.) This experience is so
 profound that the toucher is distracted for the
-next hour, making all attack rolls at —1.
+next hour, making all attack rolls at -1.
 
 * Baking Bread: This is the delicious aroma of
 freshly baked bread, triggering vague memo-
@@ -21336,7 +21336,7 @@ playing situations.
 Boat
 
 Most magical boats are identical in size to river
-boats—20 to 30 feet long with a 10-foot beam
+boats-20 to 30 feet long with a 10-foot beam
 and a 3,000-pound cargo capacity (for larger ves-
 sels, see Ship). Though normal river boats require
 a crew of eight rowers, all magical boats start,
@@ -22658,7 +22658,7 @@ nent for the spells personal reading, telethau-
 maturgy, and addition. If it is used in this manner,
 the casting time for the spell is halved, and any
 saving throw that the subject of a spell may be
-entitled to suffers a —2 penalty.
+entitled to suffers a -2 penalty.
 
 of the Planes
 
@@ -23176,8 +23176,8 @@ shuffle, heel and toe, or “shuffle off to Buffalo,”
 [eee oe
 
 making the wearer behave like a recipient of
-Otto's irresistible dance spell (—4 penalty to
-Armor Class rating, saving throws at —6, and no
+Otto's irresistible dance spell (-4 penalty to
+Armor Class rating, saving throws at -6, and no
 attacks possible). Only a remove curse spell
 enables the boots to be removed once their true
 nature is revealed.
@@ -23261,7 +23261,7 @@ XP Value: 1,000 GP Value: 6,000
 POLYHEDRON Newszine 56
 These boots allow the wearer to engage in fancy
 footwork, so as to appear to be dancing. This adds
-—2 to Armor Class. Alternately, the wearer may
+-2 to Armor Class. Alternately, the wearer may
 do a flip over the head of a small- or medium-
 sized opponent while engaged in melee. This
 function adds -4 to AC and is performed in lieu
@@ -23373,11 +23373,11 @@ at half normal movement rate across the most
 slippery ice (horizontal surfaces only, not vertical
 or sharply slanted ones) without falling or slip-
 ping. Boots of the north warm the wearer, so that
-even in a temperature as low as —50° F is com-
+even in a temperature as low as -50° F is com-
 fortable with only scant clothing—a loin cloth
 and cloak, for instance. If the wearer of the boots
 is fully dressed in cold-weather clothing, temper-
-atures as low as —100° F have no effect.
+atures as low as -100° F have no effect.
 
 In a DRAGONLANCE Campaign: On Ansalon,
 of course, boots of the north are called boots of
@@ -23435,7 +23435,7 @@ of Speed
 XP Value: 2,500 GP Value: 20,000
 DUNGEON Master Guide, Ist Edition
 These boots enable the wearer to run at the speed
-of a light horse—24 base movement. For every
+of a light horse-24 base movement. For every
 10 pounds of weight over 200 pounds, the wearer
 is slowed by 1 MV, so a 180-lb human with 60
 pounds of gear would move at 20 base MV.
@@ -23710,7 +23710,7 @@ and then ceases. All within 60 feet must make a
 
 X
 Morale check (if applicable), Those not affected
-by Morale suffer a —2 penalty to attack and dam-
+by Morale suffer a -2 penalty to attack and dam-
 age rolls for 6 turns (no saving throw). After three
 openings, the bottle disappears.
 
@@ -23731,7 +23731,7 @@ normal saving throws.
 
 The bottle may also be used to attempt to jug
 one of the following—a balor (+3), invisible
-stalker (+2), an air elemental (—1), a fire elemental
+stalker (+2), an air elemental (-1), a fire elemental
 (-2), or a minor fiend (+1). If forcibly compelled
 into the bottle, any of the above creatures (includ-
 ing the djinni and efreet) are in very foul moods
@@ -24269,7 +24269,7 @@ able or braced in some way, then the crossbow
 archer may actually be dragged to the target rather
 than the reverse. This can be exploited, of course,
 to pull a thief up to a ceiling or up a wall. The mag-
-ical cord is AC —2 and takes 15 points of damage
+ical cord is AC -2 and takes 15 points of damage
 (nonmagical weapons do no damage) to destroy.
 
 Crossbow of Distance
@@ -25253,7 +25253,7 @@ ever, when it is filled with water, the wizard must
 successfully save vs. spell or shrink to the size of
 a small ant and be plunged into the center of the
 bowl. If salt water is poured into the bowl, the
-saving throw suffers a —2 penalty.
+saving throw suffers a -2 penalty.
 
 The victim drowns in 1d6+2 rounds unless
 magic is used to save the character, the wizard can-
@@ -26072,7 +26072,7 @@ hold, and death spells; can sense
 approach of enemy at 240 yards dis-
 tance; makes all saving throws as | 1th-
 level wizard; ML 14; AL CG. The
-unicorn’s Intelligence is 8—10 (1d4+8).
+unicorn’s Intelligence is 8-10 (1d4+8).
 It can be ridden only by female charac-
 ters; if a male character rolls the uni-
 corn, use the ultraheavy war horse.
@@ -26080,7 +26080,7 @@ corn, use the ultraheavy war horse.
 03 Giant stag: AC 7; MV 21; HD 5; hp
 30; THACO 15; #AT 1 (antlers) or 2
 (hooves); Dmg 4d4 or 1d4/I1d4; ML 14;
-ALN. Intelligence 4—7 (1d4+3).
+ALN. Intelligence 4-7 (1d4+3).
 
 Bull: AC 7; MV 15; HD 4; hp 24;
 THACO 15; #AT 2 (horns); Dmg
@@ -26134,12 +26134,12 @@ a more mellow disposition than its
 
 meaner cousins. It has an Intelligence
 
-of 4—7 (1d4+3).
+of 4-7 (1d4+3).
 
 19 Water buffalo: AC 7; MV 15; HD 5;
 hp 30; THACO 15; #AT 2 (horns); Dmg
 1d8/1d8; ML 16; AL N. This water buf-
-falo has an Intelligence of 4—7 (1d4+3).
+falo has an Intelligence of 4-7 (1d4+3).
 
 20 Ultraheavy war horse: AC 5; MV 24;
 HD 5+5; hp 35; THACO 15; #AT 3
@@ -26351,7 +26351,7 @@ is impossible to successfully cast a spell that has
 a somatic component; any attempt to do so will
 simply result in the spell being wasted. Fighting
 can be done, but with some difficulty—the
-wearer suffers a —2 penalty on all attack and dam-
+wearer suffers a -2 penalty on all attack and dam-
 age rolls for as long as the bracers are stuck
 together.
 
@@ -26466,8 +26466,8 @@ expended from such an item, the bracers of bran-
 dishing alter the charge expenditure and the local
 balance of magical forces in a chaotic manner. The
 drain on the charged rod, staff, or wand is actually
-in the range of five charges to —4 (the item is
-recharged). The number of charges used is 1d10 —5
+in the range of five charges to -4 (the item is
+recharged). The number of charges used is 1d10 -5
 (with negative results indicating that charges are
 restored). If an item is reduced to fewer than zero
 charges by a drain, it crumbles into dust.
@@ -26542,7 +26542,7 @@ defense of the most powerful sort, affording the
 wearer an effective Armor Class of 2. In addition,
 if the wearer chooses to attempt to parry an oppo-
 nent’s attack, the bracers cause the opponent to
-take a —4 attack penalty, making a successful par-
+take a -4 attack penalty, making a successful par-
 rying attempt more likely. The wearer may only
 parry in this manner against one opponent in any
 round, and cannot attempt to parry unless the
@@ -26612,7 +26612,7 @@ claw of magic exchange so that the bracers appar-
 ently have a 60-foot, radial area of effect. Should
 Noj used a charged item (rod, wand, staff), the
 number of charges spent is chaotically altered by
-1d10—5, crumbling to dust any item whose charge
+1d10-5, crumbling to dust any item whose charge
 counts falls to zero or less, while actually recharg-
 ing others. But thanks to Noj 5 magical claw (and
 his generally double-edged life), anyone who uses
@@ -26636,7 +26636,7 @@ are extremely useful. They automatically protect
 the wearer against all attacks by all sorts of arach-
 nids and snakes (including other beings who have
 magically assumed such forms), forcing them to
-attack the wearer of these bracers at —3 on attack
+attack the wearer of these bracers at -3 on attack
 rolls, and allowing the wearer a +2 bonus on all
 saving throws vs. webs (of any sort—even webs
 and web monsters, which have nothing to do with
@@ -26653,7 +26653,7 @@ ing, and function unhampered. They may be worn
 around the thighs, biceps, or ankles, as well as
 wrists, and still function normally. If a single
 bracer, rather than a pair, is worn, the protection
-is reduced to —1 on spider, snake, and whip of
+is reduced to -1 on spider, snake, and whip of
 fangs attack rolls, and a +] bonus on saving
 throws vs. poison, webs, and secretions.
 
@@ -26676,7 +26676,7 @@ DRAGON Magazine 35
 The brassier of defense will not come off except by
 command of the wearer, granting the wearer an
 Armor Class 2 while in use. It lowers the morale of
-all males attacking the wearer by —1. This piece of
+all males attacking the wearer by -1. This piece of
 clothing cannot be worn by males, and automati-
 cally adjusts to fit the female wearing it.
 
@@ -27125,7 +27125,7 @@ of 4~7 (1d4+3).
 19 Water buffalo: AC 7; MV 15; HD 5; hp
 30; THACO 15; #AT 2 (horns); Dmg
 1d8/1d8; ML 16; AL N. This water buffalo
-has an Intelligence of 4—7 (1d4+3).
+has an Intelligence of 4-7 (1d4+3).
 
 04-05
 
@@ -27639,7 +27639,7 @@ gold or platinum) and may be decorated with
 Oh ceaestetemnneeissneeciieeiiieaeietieeseemmmanassantemaeemeemmamaamasmeiamateeal
 
 gems. If the owner does not know it is magical, it
-might be sold for 100—600 gp. If two or more
+might be sold for 100-600 gp. If two or more
 magical buckles are worn, none have any effect.
 
 of Armor
@@ -27663,13 +27663,13 @@ of Faulty Lockpicks
 XP Value GP Value
 ~5%: — 1,500
 -10%: — 2,000
-—15%: — 2,500
-—20%: — 3,000
+-15%: — 2,500
+-20%: — 3,000
 The Book of Marvelous Magic
 
 This buckle appears to be and functions as a
 buckle of lockpicks. However. the lockpicks car-
-ried within it bestow a—5% penalty, instead of a
+ried within it bestow a-5% penalty, instead of a
 +5% bonus, for lockpick owned. Even if other
 magical lockpicks are found and added to the set,
 they become reversed when contained in this
@@ -27845,7 +27845,7 @@ Discus
 XP Value: 800 GP Value: 4,000
 New Item
 These flat, circular silver buttons are usually
-found on paper cards—10 buttons to a card. They
+found on paper cards-10 buttons to a card. They
 may be sewn onto a vest or jacket, and detach
 when the command word is spoken. At a second
 command word they enlarge, becoming 8-inch
@@ -28275,7 +28275,7 @@ Roll Creature
 28; THACO 15; #AT 3 (hooves and
 horn); Dmg 1d6/1d6/1d12; SA
 charge, +2 to hit when attacking with
-horn, —6 penalty to opponents’ sur-
+horn, -6 penalty to opponents’ sur-
 prise rolis; SD teleport, immune to
 poison, charm, hold, and death spells;
 can sense approach of enemy 240
@@ -28296,7 +28296,7 @@ ALN. This creature’s Intelligence is
 Bull: AC 7; MV 15; HD 4; hp 24;
 THACO 15; #AT 2 (horns); Dmg
 1d6/1d6; SA charge; ML 15; AL N. The
-bull has an Intelligence of 4—7 (1d4+3).
+bull has an Intelligence of 4-7 (1d4+3).
 Superheavy war horse: AC 6; MV 15;
 HD 4+4; hp 28; THACO 15; #AT 3
 (hooves and bite); Dmg 1d8/1d8/1d4;
@@ -28414,7 +28414,7 @@ The Book of Marvelous Magic
 The water in this can is still and shiny. If it is
 sprinkled on a lycanthrope in humanoid form, it
 forces the creature to assume animal form and
-curses it with a —2 penalty to all attack rolls and
+curses it with a -2 penalty to all attack rolls and
 saving throws. Depending on the situation, a nor-
 mal attack roll may be needed to do the sprin-
 kling. Each can contains enough water for four
@@ -28458,7 +28458,7 @@ This item contains green leaves in a vile broth.
 The user must eat both leaves and broth to gain
 the effect; when consumed, the user must make a
 saving throw vs. poison or be nauseated, suffering
-a —4 penalty to attack rolls for three hours. If the
+a -4 penalty to attack rolls for three hours. If the
 saving throw is successful, the user gains 18
 Strength for three hours, with all bonuses applic-
 able.
@@ -29118,7 +29118,7 @@ regardless of whether or not the foe is within 50
 feet of the candle. Characters who venture out-
 side the area of effect lose the bonus. When the
 stated foe is within the area of effect, he or she
-suffers a —1 penalty to all attack rolls.
+suffers a -1 penalty to all attack rolls.
 
 There can be no interposing surfaces such as walls
 or doors between the candle of propitiousness and
@@ -29597,7 +29597,7 @@ GP Value: 1,200
 The Book of Marvelous Magic
 
 When this cane is touched, the creature moving it
-must make a saving throw vs. death magic with a—4
+must make a saving throw vs. death magic with a-4
 penalty to the roll or else age 20 years. This effect
 occurs each time the cane is touched. If the victim
 succeeds in the saving throw, however, the cane may
@@ -29652,7 +29652,7 @@ The Book of Marvelous Magic
 
 When this cane is touched or moved, the creature
 moving it must make a saving throw vs. spell with
-a —4 penalty to the roll. Failure causes the victim’s
+a -4 penalty to the roll. Failure causes the victim’s
 Dexterity score to drop to 3. The victim must keep
 the cane until a cure disease or remove curse is
 applied by a caster of 15th or higher level; this
@@ -29722,7 +29722,7 @@ round. A new saving throw may be made
 each round, but the victim continues to
 sneeze until a saving throw is made.
 Sneezing victims may not move, and suf-
-fer a +2 penalty to AC, and a —2 penalty
+fer a +2 penalty to AC, and a -2 penalty
 to all saves (which does apply to further
 attempts to stop sneezing).
 
@@ -29744,7 +29744,7 @@ smelling jelly attracts the attention of all
 normal and magical insects within 30
 feet. Giant-sized insects are permitted a
 save vs. spell to resist the effect, but with
-a —4 penalty to the roll. When attacking
+a -4 penalty to the roll. When attacking
 an insect that is attracted to the jelly, the
 attacker gains a +4 bonus on the first
 attack roll, but the insect is then free of
@@ -29789,7 +29789,7 @@ the user, or no effect, as follows:
 
 Roll Effect
 1 The ketchup causes the user to be slowed.
-2 The mustard bestows a —2 penalty to
+2 The mustard bestows a -2 penalty to
 attack rolls.
 
 The pepper blows back on the user.
@@ -29923,9 +29923,9 @@ Alteration
 on7nnAtw wh
 
 Furthermore, specialists of the designated
-school do not inflict a —1 penalty on the wearer
+school do not inflict a -1 penalty on the wearer
 against their specialist spells. However, the
-wearer suffers a —4 penalty to saving throws
+wearer suffers a -4 penalty to saving throws
 against spells of all other schools. The cap cannot
 be removed until a remove curse spell is cast.
 
@@ -29959,7 +29959,7 @@ successful, he or she gains a +2 bonus on saving
 throws, ability checks, and attack rolls while
 encountering the real danger when it actually
 arrives. If the saving throw fails, the character has
-not faced his or her fears, and receives a —2
+not faced his or her fears, and receives a -2
 penalty to saving throws, ability checks, and
 attack rolls in the actual encounter.
 
@@ -30056,7 +30056,7 @@ touch; Duration six turns.).
 Suggested Handicap: Repel others. The user
 slowly develops a invisible, repulsive aura; the
 reaction rolls of all those coming within 30 feet
-are penalized —3 when the artifact is first used.
+are penalized -3 when the artifact is first used.
 However, treat any attack result on the Reaction
 Table as “Flee in disgust.” Other characters may
 make saving throws to try and tolerate the repul-
@@ -30089,7 +30089,7 @@ Tome of Magic
 The wearer of this cap gains a +2 bonus to saving
 throws against spells of one particular school of
 magic. In addition, specialists of the designated
-school cannot inflict a—1 penalty on a wearer’s
+school cannot inflict a-1 penalty on a wearer’s
 saving throws against their specialist spells. The
 nature of the school cap is determined using a
 1d8:
@@ -30373,7 +30373,7 @@ The Book of Marvelous Magic
 This cape appears to be like any other, but, when
 commanded to function, it causes horns to grow
 from the wearer's head. The horns prevent the use
-of any helmet, and this bestows a —1 penalty to
+of any helmet, and this bestows a -1 penalty to
 Armor Class if the victim usually wears any type
 of armor, The horns cannot be used for attack and
 may be removed safely only by a remove curse
@@ -30546,7 +30546,7 @@ The rug flies about, attempting to land on
 and smother victims below it. When it hits, it
 inflicts smothering damage automatically
 until destroyed. Victims trapped under it
-move at half speed, have a —2 penalty to ini-
+move at half speed, have a -2 penalty to ini-
 tiative, and if a weapon used is while trapped
 inside the rug (50% chance), it may only
 inflict half damage.
@@ -30973,11 +30973,11 @@ serious wounds is used, there is a 5% chance for
 the user to age 15 years.
 
 For each power used, there is a 50% chance
-that the user’s Dexterity drops by —3 for one day.
+that the user’s Dexterity drops by -3 for one day.
 
 If a power costing more than 50 power points is
 used, there is a 50% chance that the user’s next
-saving throw is penalized by —1d12.
+saving throw is penalized by -1d12.
 
 Activation: These powers can be activated in
 two ways. The most common is to touch the car-
@@ -32080,7 +32080,7 @@ on the Prime Material Plane. The viewer may
 speak with those viewed.
 
 Unfortunately, this item is cursed. On a saving
-throw vs. spell at a—10 penalty, viewing or speak-
+throw vs. spell at a-10 penalty, viewing or speak-
 ing with another plane causes a calamity in that
 plane such as an earthquake, flood, firestorm, or
 tornado that causes frightful damage both on the
@@ -32678,7 +32678,7 @@ however, it lowers its victim’s Charisma immedi-
 ately to 3. Charisma returns to normal 24 hours
 later or if a remove curse is applied. However, the
 victim must also make a saving throw vs. spell
-with a —4 penalty to the roll or be stuck fast in the
+with a -4 penalty to the roll or be stuck fast in the
 armchair. The chair and victim may be carried
 about, but any attacks on a seated victim gain a
 +4 bonus to attack rolls, and the victim’s Dexter-
@@ -33046,7 +33046,7 @@ iot, the chariot bursts into flames, and two fiery
 horses appear before it in harness. Thunder roars
 and a thick cloud of smoke appears at the same
 moment, causing all beings within 30 feet of the
-chariot to be blinded and deafened for 1—2
+chariot to be blinded and deafened for 1-2
 rounds, except for those riding the chariot. The
 chariot can make this transformation only once
 per day, with the transformation lasting 12 hours
@@ -33232,7 +33232,7 @@ ots designed as flying birds (hawks, eagles, ibis)
 have a flight ceiling of 500 feet.
 
 In terms of battle, a hover chariot has an effec-
-tive Armor Class of —3. Missile weapons used
+tive Armor Class of -3. Missile weapons used
 against the chariot must make saving throws vs.
 fire or be burnt up, causing no damage.
 
@@ -33272,7 +33272,7 @@ emblazoned with Ra’s solar disc against an
 ankh. The chariot can move, without horses, at a
 speed of up to 96; any who fight from it receive
 a bonus of +4 to their Armor Class, and those
-attacking them receive a —4 penalty to their
+attacking them receive a -4 penalty to their
 attack and damage rolls. Those who ride in the
 chariot are 75% magic resistant. Anyone struck
 by an attack from the chariot has to roll a suc-
@@ -33671,7 +33671,7 @@ The Book of Marvelous Magic
 If worn visibly on the outer clothing or armor,
 this item gives the user a bonus of +1 to all saving
 throws. However, any herbivore seeing the foot
-will probably dislike the wearer, having a —2
+will probably dislike the wearer, having a -2
 penalty to reactions.
 
 of Resource
@@ -33765,7 +33765,7 @@ cheese remains undamaged, but a strong odor,
 obvious to all within 120 feet, emerges. Other
 creatures of the type named, if nearby, smell the
 familiar odor and may be urprised to encounter
-the user of the cheese of odors (—1 on surprise
+the user of the cheese of odors (-1 on surprise
 roll). The cheese can create odors three times
 each day.
 
@@ -33776,8 +33776,8 @@ POLYHEDRON Newszine 23
 This item appears and functions as a cheese of
 odors, but the smell produced may be (50%
 chance per cut) remarkably bad—so vile, in
-fact, that all within 60 feet suffer a —2 penalty
-to Charisma and Morale, and a —1 penalty to
+fact, that all within 60 feet suffer a -2 penalty
+to Charisma and Morale, and a -1 penalty to
 attack rolls and saving throws, for one turn (no
 saving throw).
 
@@ -34491,7 +34491,7 @@ drained)—a +1 bonus on saving throws vs.
 paralysis (from any source), polymorph magic,
 and ESP; and a +4 bonus on any saves vs. spell
 when faced with feeblemindedness (thus the
-wearer saves at par, not at —4).
+wearer saves at par, not at -4).
 
 Diadem of Doom
 XP Value: 7,500 GP Value: 15,000
@@ -34700,7 +34700,7 @@ halla summons fighters:
 level thieves
 * User is 6th—&8th level: summons 1|d4 &th-level
 thieves
-* User is 9th—12th level: summons |d4 12th-
+* User is 9th-12th level: summons |d4 12th-
 level thieves
 * Useris [3th level or more: summons one
 18th-level thief with maximum ability scores
@@ -35000,7 +35000,7 @@ Talon of Zaltec
 GP Value: 6,000
 Maztica Campaign Set
 This is a small object made from the claw of a
-jaguar. The tip contains lethal venom (—4 to sav-
+jaguar. The tip contains lethal venom (-4 to sav-
 ing throws). The wielder of the talon must make a
 successful attack roll in hand to hand combat.
 The victim must make a saving throw or die.
@@ -35475,7 +35475,7 @@ XP Value: 1,000 GP Value: 10,000
 Top Ballista
 
 A gift from another lover, this cloak gives Leni
-Narayan a —2 bonus to her AC, a +2 bonus to all
+Narayan a -2 bonus to her AC, a +2 bonus to all
 her saving throws, and allows her to alter her
 appearance, She can appear as a humanoid of any
 race or species, and of either gender, with up to a
@@ -35537,7 +35537,7 @@ cone of cold, heat metal, and similar spells.
 Note that most fire-based spells and magic
 like ice storm do damage for other reasons than
 merely the temperature of their effects. A
-wearer of a cloak of comfort suffers —2 hit
+wearer of a cloak of comfort suffers -2 hit
 points per die of damage from ice storm and
 fire-based magic of all sorts, although the cloak
 itself is immune to the effects of flame and
@@ -35570,12 +35570,12 @@ spell feel loyalty and love for the wearer, and tend
 to carry out even the most bizarre commands
 with enthusiasm and alacrity. All who wish to
 attack the wearer of such a cloak must save vs.
-spell at every attack or strike at —2 due to reluc-
+spell at every attack or strike at -2 due to reluc-
 tance and remorse. Once per day, the cloak
 wearer may entrance creatures who fail to save
 vs. spell by causing the cloak to display the ulti-
 mate pleasure and goal of each (creatures of low
-or animal intelligence save at —3, nonintelligent
+or animal intelligence save at -3, nonintelligent
 creatures are unaffected). Entranced creatures
 remain in a motionless trance for 1d8 rounds,
 oblivious to their surroundings, but will attack
@@ -35599,7 +35599,7 @@ This item warps light rays; the wearer is actually
 cloak gives a bonus of +2 to a wearer’s saving
 throws vs. spell, wand/staff/rod, and turn to stone
 attacks, Hand-to-hand attacks against the wearer
-are penalized by —2 on attack rolls, and most mis-
+are penalized by -2 on attack rolls, and most mis-
 sile fire automatically misses.
 
 of Displacement
@@ -36047,7 +36047,7 @@ cally gray in color. When it is worn and the user is
 struck by a physical blow, the cloak instantly
 becomes rigid at the point of impact, deflecting all
 nonmagical missiles and absorbing some of the
-force from any other physical attack (—2 to damage,
+force from any other physical attack (-2 to damage,
 down to a minimum of one point of damage per
 die), After the attack has landed and withdrawn, the
 cloak instantly becomes flexible again.
@@ -36470,7 +36470,7 @@ confers the power to cause disease three times
 per day by touch, and makes a wearer immune to
 the attacks of mummies. All good creatures
 touching the cloak must save vs. death magic at
-—1 (paladins save at —2) or lose 3,000 experience
+-1 (paladins save at -2) or lose 3,000 experience
 points. A good creature who destroys the cloak
 immediately gains 3,000 experience points. The
 cloak can be used by characters of any class.
@@ -36595,7 +36595,7 @@ with a remove curse spell—this destroys the mag-
 ical properties of the cloak. If a neutralize poison
 spell is then used, it may be possible to revive the
 victim with a raise dead or resurrection spell, but
-there is a—10% chance of success because of the
+there is a-10% chance of success because of the
 poison.
 
 XP Value: —
@@ -36797,7 +36797,7 @@ wearer cannot be damaged by nonmagical weap-
 ons, and undead take the wearer for a shadow and
 ignore him or her). Saves against light-based
 attacks (for example, a Jight spell cast into the
-eyes) are always made at —2 by a wearer of a
+eyes) are always made at -2 by a wearer of a
 shadowcloak.
 
 If a priest successfully makes a turning attempt
@@ -37068,7 +37068,7 @@ basidirond, and similar creatures). The symbi-
 otic life form in the cloak seems to feed upon
 and neutralize spores and microscopic, airborne
 life of all sorts; in many cases, this ability gives
-the wearer a —6% penalty to chances of con-
+the wearer a -6% penalty to chances of con-
 tracting diseases.
 
 Tiger Cloak of Chalyik
@@ -37207,10 +37207,10 @@ XP Value: 1,500 GP Value: 7,500
 POLYHEDRON Newszine 21
 This unusually white cloak increases the magical
 effectiveness of several types of spells. [t modifies
-saving throws by —2 on all illusionist spells, and by
-—3 all hold, charm, suggestion, and confusion
+saving throws by -2 on all illusionist spells, and by
+-3 all hold, charm, suggestion, and confusion
 spells of a wizard. These spells are further modi-
-fied by a factor of —1 when worn by a female.
+fied by a factor of -1 when worn by a female.
 
 Wolf Cloak of Wegwiur
 XP Value: 2,000 GP Value: 15,000
@@ -38330,7 +38330,7 @@ Roll Creature
 02 Unicorn: AC 2; MV 24; HD 4+4; hp 28;
 THACO 15; #AT 3 (hooves and horn);
 Dmg 1d6/1d6/1d12; SA charge, +2 to hit
-when attacking with horn, —6 penalty to
+when attacking with horn, -6 penalty to
 opponents’ surprise rolls; SD teleport,
 immune to poison, charm, hold, and
 death spells; can sense approach of an
@@ -38349,7 +38349,7 @@ AL N. This creature’s Intelligence is
 Bull: AC 7; MV 15; HD 4; hp 24;
 THACO 15; #AT 2 (horns); Dmg
 1d6/1d6; SA charge; ML 15; AL N. The
-bull has an Intelligence of 4—7 (1d4+3).
+bull has an Intelligence of 4-7 (1d4+3).
 Superheavy war horse: AC 6; MV 15;
 HD 4+4; hp 28; THACO 15; #AT 3
 (hooves and bite); Dmg 1d8/1d8/1d4;
@@ -38369,7 +38369,7 @@ AL N. This horse has an Intelligence of
 09-13
 
 14-16 Superheavy war horse (special): Same
-as above (roll of 6—8), though it has MV
+as above (roll of 6-8), though it has MV
 18, a 40 Ib. bonus on its carrying capac-
 ity load limits, and no infravision.
 
@@ -38384,7 +38384,7 @@ of 4-7 (1d4+3).
 19 Water buffalo: AC 7; MV 15; HD 5;
 hp 30; THACO 15; #AT 2 (horns); Dmg
 1d8/1d8; ML 16; AL N. This water buf-
-falo has an Intelligence of 4—7 (1d4+3).
+falo has an Intelligence of 4-7 (1d4+3).
 
 20 Ultraheavy war horse: AC 5; MV 24:
 HD 5+5; hp 35; THACO 15; #AT 3
@@ -38620,7 +38620,7 @@ This magical copper piece is engraved with a
 horse’s head on one side and a horse’s tail on
 the other. The user may flip the coin at any
 time, but it has magical effect only once per
-day. If it lands heads up, the user gains a —4
+day. If it lands heads up, the user gains a -4
 bonus to Armor Class for one turn. If it lands
 tails up, the user suffers a +4 penalty to Armor
 Class for one turn,
@@ -38977,7 +38977,7 @@ Cone of Communication
 
  
 
-Suggested Penalties: (1st appears 1—4 on 1d6,
+Suggested Penalties: (1st appears 1-4 on 1d6,
 
 others each | in 6):
 
@@ -39182,9 +39182,9 @@ last until they are removed with a remove curse
 spell.
 
 A person who is both deaf and blind suffers a
-—8 penalty on attack rolls, while opponents gain a
+-8 penalty on attack rolls, while opponents gain a
 +8 bonus. A character loses all bonuses for Dex-
-terity and suffers a —2 penalty to saving throws
+terity and suffers a -2 penalty to saving throws
 vs. spell, petrification, polymorph, and rod, staff,
 or wand.
 
@@ -39438,13 +39438,13 @@ the third has double that duration, and so forth.
 Additional effects are as follows:
 
 Female: The user may actually become a
-dryad—10% chance for the second cordial, 25%
+dryad-10% chance for the second cordial, 25%
 for the third, 50% for the fourth, and 100% for
 the fifth. If this change occurs, she is immedi-
 ately bound to the nearest suitable tree.
 
 Male: The effects may be permanent and unre-
-movable—20% chance for the second cordial,
+movable-20% chance for the second cordial,
 50% for the third, and 100% for the fourth.
 
 C of
@@ -39479,7 +39479,7 @@ The Book of Marvelous Magic
 This cot appears to be and functions like a cot
 of suspension, It gives little rest, however; the
 victim tosses and turns all night and suffers a
-penalty of —1 to initiative rolls, attack rolls, and
+penalty of -1 to initiative rolls, attack rolls, and
 saving throws for the following day. However,
 the victim does not think to blame the cot for
 these ill effects and continues to use it when-
@@ -39597,7 +39597,7 @@ When the crown is placed on the head of a
 deceased, evil character who had reached at least
 18th-level as a wizard, it animates the character
 as a lich. A system shock roll is necessary, modi-
-fied by —1% per five years after the wizard’s
+fied by -1% per five years after the wizard’s
 death, or the wizard’s body disintegrates to dust
 and can never be brought back to life again. The
 lich’s intelligence score starts at 0, but increases
@@ -39613,17 +39613,17 @@ XP Value: —
 Summoner Modifier
 Priest +10%
 Evil-aligned +10%
-Fighter —20%
-Good-aligned —30%
+Fighter -20%
+Good-aligned -30%
 Wizard +20%
 Offers treasure +1%
 (per 600 gp value)
 
-Paladin —20%
-Thief —20%
-0-level character —50%
-Ist to 5th level —30%
-6th to | 1th level —20%
+Paladin -20%
+Thief -20%
+0-level character -50%
+Ist to 5th level -30%
+6th to | 1th level -20%
 12th to 18th level -10%
 Over 21st level +10%
 
@@ -39649,7 +39649,7 @@ each). No radiance spells can be cast from it,
 
 Me
 however. Rather, the wearer of the crown gains
-the following benefits—a natural base AC of —4;
+the following benefits—a natural base AC of -4;
 complete immunity to all charm, hold, sleep,
 paralysis, death magic (including disintegration),
 and gaseous attacks; and the ability to radiate
@@ -39948,10 +39948,10 @@ a naga crown, regardless of the use of the rep-
 tilian command power. Intelligent reptilian
 creatures attack a crown wearer who is using
 reptilian command as though s/owed, and at a
-penalty of —3 to hit. Only reptilian creatures
+penalty of -3 to hit. Only reptilian creatures
 with a 15 or greater Intelligence gain a saving
 throw vs. spell against these combat effects,
-and have a penalty of —2 against the power of
+and have a penalty of -2 against the power of
 the naga crown. Dragons are immune to all
 negative effects of naga crowns.
 
@@ -40001,9 +40001,9 @@ the domination allows no saving throw. (Check
 levels first in all cases, if applicable.) If the vic-
 tim’s Hit Dice equal or exceed the wearer of the
 crown, the victim may make a saving throw vs.
-spell to resist the effect, but with a —8 penalty to
+spell to resist the effect, but with a -8 penalty to
 the roll. If the victim has at least twice as many
-Hit Dice as the wearer, the penalty is only —4.
+Hit Dice as the wearer, the penalty is only -4.
 Victims with more than three times as many Hit
 Dice as the wearer have no penalty at all on their
 saving rolls. Any victim immune to Sth- or
@@ -40062,7 +40062,7 @@ hand. The wearer is agonizingly transformed into
 a master scorpion, with no saving throw possible.
 Any individual who owes the wearer allegiance in
 any form must then successfully save vs. spell at
-—5 or be transformed into a manscorpion. It is
+-5 or be transformed into a manscorpion. It is
 Rary’s hope that he can circumvent the negative
 aspects of the crown and bend the manscorpions
 of the desert to his will.
@@ -40118,8 +40118,8 @@ worn by a lawful character. A lawful good or neu-
 tral good character receives +4 Wisdom (to racial
 maximum) while the crown is worn, A lawful evil
 character who wears the crown temporarily has a
-—4 wisdom penalty, while a neutral evil character
-has a —2 penalty. A chaotic evil character cannot
+-4 wisdom penalty, while a neutral evil character
+has a -2 penalty. A chaotic evil character cannot
 use the crown at all.
 
 Sorona
@@ -40174,7 +40174,7 @@ terror as the mind is lost and the will is filled
 with evil.
 
 ¢ Upon the brow of an evil being, the crown
-bestows the following special powers: —2 AC
+bestows the following special powers: -2 AC
 adjustment, +2 on all attack and dawizard
 rolls, +2 on saving throws, +20 hit points, and
 all class abilities (not hit points) function as if
@@ -40896,7 +40896,7 @@ XX
 
 range have the choice of watching or looking
 away. Each of those watching must make a
-saving throw vs. death magic, with a —10
+saving throw vs. death magic, with a -10
 penalty to the roll, or die.
 
 Each of those looking away may make a saving
@@ -40930,7 +40930,7 @@ to cast spells (if a spellcaster) or how to use
 weapons for 2d10 days; no saving throw.
 
 * User is struck by withdrawal; saving throw vs.
-spells applies, but with a —5 penalty.
+spells applies, but with a -5 penalty.
 
 * Antimagic 100%, 10-foot-radius emanating
 from the artifact. The antimagic will remain
@@ -40992,7 +40992,7 @@ In partial possession 50%
 Garment in possession 25%
 Well informed about 25%
 Slightly informed about 20%
-On another plane —25%
+On another plane -25%
 
 *Unless masked by magic
 
@@ -41442,7 +41442,7 @@ rest). They will come to the aid of Tabot if an
 invasion is destroying the country—they have
 ignored honest pleas of lesser magnitude,
 
-Crystalline Warriors: AC —4; HD 15; hp 95;
+Crystalline Warriors: AC -4; HD 15; hp 95;
 MV 9; Dmg by weapon type +8; SA +3 to hit, fly,
 invisibility, jump (all at will), individual powers
 are usable at will and have a range of 300 feet;
@@ -41734,10 +41734,10 @@ it receives over 100 points of dawizard in one
 turn, the cube is destroyed.
 
 Cold below 0° F. effectively inflicts two points
-of cold dawizard on the cube for every —10°, so
-that the cube is at —2 points when the temperature
-of the attack is at —1° to —10° F., -4 points at -11°
-to —20°, etc. Thus, at -40° F. the device can with-
+of cold dawizard on the cube for every -10°, so
+that the cube is at -2 points when the temperature
+of the attack is at -1° to -10° F., -4 points at -11°
+to -20°, etc. Thus, at -40° F. the device can with-
 stand only 42 points of dawizard.
 
 Glow
@@ -42016,7 +42016,7 @@ The Book of Marvelous Magic
 
 These are identical to curtains of spying, but the
 first character to notice them must make a saving
-throw vs. death magic with a —5 penalty to the
+throw vs. death magic with a -5 penalty to the
 roll, or die. After slaying one victim, they become
 nonmagical.
 
@@ -42087,10 +42087,10 @@ smiths engrave nonsense runes along a dagger’s 59-60 Pih-kaetta
 blade in order to raise the price). 61-63 Puchik
 64-65 Push Knife
 Roll Dagger Type 66-67 Razor
-01—02 Arm Blade 68-70 Sai
+01-02 Arm Blade 68-70 Sai
 03-05 Bard’s Friend 71-72 Saw-backed Knife*
 06-07 Bich’ wa 73-74 Scissors Katars
-08—09 Bone Dagger 75-77 Siangkam
+08-09 Bone Dagger 75-77 Siangkam
 10-12 Bone Knife 78-79 Snow Blade
 13-14 BootKnife 80-81 Spike* (dagger option)
 15-16 Buckle Knife 82-84 Spring-out (switchblade)
@@ -42246,7 +42246,7 @@ magic. The weapon has a base 60% chance of
 success, plus a random bonus of 1d20%, minus
 10% per level of the magic contacted (a shield
 spell is a Ist-level spell and gives a modifier of
-—10%). Percentile dice are rolled. If the roll is
+-10%). Percentile dice are rolled. If the roll is
 less than or equal to the modified chance of suc-
 cess, the dagger destroys the magic. If the roll is
 
@@ -42425,7 +42425,7 @@ types:
 Roll Dweomer Type
 
 1-4 +1
-5—7 +2
+5-7 +2
 8-9 $3
 10 +4
 
@@ -42465,9 +42465,9 @@ points of damage per strike (no save to avoid), and
 forces any struck creature to save vs. spell.
 
 If the save fails, the victim’s attack rolls are
-made at —1 for the next hour (further successful
+made at -1 for the next hour (further successful
 attacks cause a greater penalty, as follows: three
-attacks cause a —2 penalty, five attacks a —3
+attacks cause a -2 penalty, five attacks a -3
 penalty, and so on). Any chill blade strike that is
 successfully saved against does not count in the
 numbering. Undead suffer only one hit point of
@@ -42655,7 +42655,7 @@ Alakabon’s favorite weapon is a stiletto she calls
 the eviscerator. It is +2 on attack and damage rolls,
 and has a curved blade. In combat, Alakabon can
 use it to slice the back of a man’s hand, requiring a
-roll at —2. If she succeeds, she cuts through the ten-
+roll at -2. If she succeeds, she cuts through the ten-
 dons, making it impossible for the man to grasp a
 weapon. Eviscerator also becomes warm to the
 
@@ -43002,7 +43002,7 @@ become barks whenever the blade actually strikes
 a living target. Opponents touched but not
 wounded by the blade of a Grimwald’s dagger
 must save vs. spell or shudder helplessly with
-laughter on the following round (—2 on saving
+laughter on the following round (-2 on saving
 throws, Strength checks, Armor Class, and attack
 rolls). This effect lasts for one round but may
 recur each time contact is made with the blade.
@@ -43011,7 +43011,7 @@ can cause it to savage an opponent. This causes
 the blade to emit a shrill, ululating screaming
 noise (audible up to half a mile away in good con-
 ditions) and grants the wielder two rounds of has-
-tened attacking (double attacks, —2 initiative
+tened attacking (double attacks, -2 initiative
 bonus, and no aging). During this time, the dag-
 ger gains an additional +1 attack and damage
 bonus its base damage is doubled.
@@ -43555,7 +43555,7 @@ coral or shark-tooth dagger made by powerful
 sahuagin priests. These daggers are +1, but +2
 when used against dolphins; they have a lawful
 evil alignment, and anyone of another alignment
-finds that such daggers function as —1 cursed
+finds that such daggers function as -1 cursed
 weapons when used by them.
 
 of Set
@@ -43674,7 +43674,7 @@ of others, so that they may not be able to identify
 the wielder of the spider fang, and it causes all
 nonmagical missile attacks (excluding those from
 siege engines) against the wielder to be launched
-at —1 to hit and damage.
+at -1 to hit and damage.
 
 A curtain of cobwebs acts in all other respects
 like a shield spell, except that it has no effect at
@@ -43884,11 +43884,11 @@ bears the dagger of vengeance.
 
 The dagger of vengeance appears to be a dag-
 ger of venom. It secretes its own extremely viru-
-lent poison (save vs. poison —2). If employed in
+lent poison (save vs. poison -2). If employed in
 what the wielder perceives to be an act of ven-
 geance, the blade backstabs at +4 on the attack
 roll, causes 1d4+2 points of damage, and requires
-a save vs. poison at —2. On a roll of 18 to 20 on
+a save vs. poison at -2. On a roll of 18 to 20 on
 
 1d20, the dagger injects a second dose of poison,
 1,301
@@ -43898,7 +43898,7 @@ a save vs. poison at —2. On a roll of 18 to 20 on
 370
 
 x,
-requiring a second save vs. poison at —4.
+requiring a second save vs. poison at -4.
 
 The dagger of vengeance slowly gains control
 over anyone who wields it, especially those who
@@ -44242,7 +44242,7 @@ inflicts a base 1d6 points of damage plus its mag-
 ical bonus on a successful attack against any size
 creature (44 points total). A dart that misses its
 target loses its magical power. These weapons
-have twice the range of ordinary darts—20 yards
+have twice the range of ordinary darts-20 yards
 short, 40 yards medium, 80 yards long.
 
 of the Hornets’ Nest
@@ -44643,11 +44643,11 @@ When a card is drawn from this large deck, a
 bonus or penalty applies to the user for 24 hours
 after that. To determine the effect, roll 2d6:
 Roll Effect
-—2 penalty to attack and damage rolls
+-2 penalty to attack and damage rolls
 ~2 penalty to saving throws
-—2 penalty to armor class
-—2 penalty to damage rolls
-—2 penalty to attack rolls
+-2 penalty to armor class
+-2 penalty to damage rolls
+-2 penalty to attack rolls
 +1 bonus to attack, damage, and saving
 throw rolls
 8 +2 bonus to attack roils
@@ -45083,7 +45083,7 @@ enmity. The enmity of the outer planar creature
 can’t be ended until one of the parties has been
 slain.
 
-Skull: A minor Death appears (AC —4; 33 hit
+Skull: A minor Death appears (AC -4; 33 hit
 points: strikes with a scythe for 2d8 points, never
 missing, always striking first in a round). The
 character must fight it alone—if others help, they
@@ -45111,7 +45111,7 @@ buildings owned are lost forever as well.
 
 Euryale: The medusa visage on this card
 brings a curse only the Fates card or godlike
-beings can remove. A —3 penalty to all saving
+beings can remove. A -3 penalty to all saving
 throws is otherwise permanent.
 
 Rogue: When this card is drawn, one of the
@@ -45467,7 +45467,7 @@ Reversed, he signifies immaturity, confusion or
 loss of control, ineffectiveness, irrationality,
 attempts to destroy one’s authority or rights.
 Unless the drawer saves vs. death magic at -4
-(—2 for neutrals, no penalty for chaotics), over the
+(-2 for neutrals, no penalty for chaotics), over the
 next four days, the PC graduaily goes insane in
 one of the following ways, becoming: manic-
 depressive, schizoid, demented (dementia prae-
@@ -45506,7 +45506,7 @@ who is in need of one.
 
 Reversed, this card signifies overkindness,
 weakness; unconventionality, openness to nov-
-elty, unorthodoxy. Drawer gets a permanent —2
+elty, unorthodoxy. Drawer gets a permanent -2
 on saving throws against charm, suggestion, and
 other mental attack forms involving force of will;
 he or she also receives a permanent +4 on reac-
@@ -45731,7 +45731,7 @@ drawer's saving-throw bonus is negated.
 
 Reversed, it signifies unexpected bad fate, ill
 luck, setbacks or interruptions in plans, unwanted
-change. Drawer suffers a —2 penalty on all saving
+change. Drawer suffers a -2 penalty on all saving
 throws; in addition, one magical item (at ran-
 dom) belonging to the drawer disintegrates (this
 does not apply if no magical items are currently
@@ -46249,7 +46249,7 @@ Drawer is affected as if struck by a ray of enfee-
 blement from a mage 3rd-level or of the same
 level as the drawer (whichever is higher); the
 drawer is also henceforth subject to a penalty of
-—1 on initiative rolls, due to her or his inability to
+-1 on initiative rolls, due to her or his inability to
 choose between alternatives.
 
 21: The World
@@ -46324,7 +46324,7 @@ Ms
 
 enterprise. Drawer (affected automatically) and
 certain party members (those who fail to save vs.
-spell at —2) are freed from all existing geas, quest
+spell at -2) are freed from all existing geas, quest
 spells, and charms, and placed under a compul-
 sion (equivalent to a combined geas and quest) to
 kill a single monster of 7,000 XP value (or a sin-
@@ -46339,7 +46339,7 @@ of projects, failure, and retreat. Effects as above,
 but the compulsion is to cancel the expedition
 and return to base as quickly as practical. While
 returning to home or headquarters, the party has
-—2 to Armor Class (two places better) and +2 to
+-2 to Armor Class (two places better) and +2 to
 saving throws, but receives no experience points
 for actions performed during this retreat.
 
@@ -46404,14 +46404,14 @@ ished, the character feels a strong desire to rest a
 while at home; for every month of rest thereafter
 up to four months, the drawer (unknowingly)
 receives 1,000 XP. The desire may be resisted
-(roll for saving throw vs. spell, at —2, not more
+(roll for saving throw vs. spell, at -2, not more
 than once a week), but can continue beyond the
 four-month period.
 
 Reversed, the meaning is the same but less
 intense. Effects as above, but only 500 XP are
 given per month, and saving throws to resist the
-desire are at —1.
+desire are at -1.
 
 26: Five of Wands
 
@@ -46453,7 +46453,7 @@ Wi geet ete ipemeneeen apemrnerrtetreessenanremrerereeememenmmmmeely,
 Drawer is doubly effective (double damage for
 weapon-wielders) in attacks against the next foe;
 mages’ spells are of three times’ normal duration,
-and saving throws against such spells is now at —3.
+and saving throws against such spells is now at -3.
 
 Reversed, it signifies indefinite delay, disloy-
 alty, the success of an enemy, fear. Drawers
@@ -46498,7 +46498,7 @@ too rapid advancement. When next attacked,
 drawer will be hasted for 2d4 turns, rest of party
 for eight rounds; those who make their saving
 throws vs. death magic will not suffer aging (the
-drawer throw will be at —1).
+drawer throw will be at -1).
 
 Reversed, the Eight of Wands signifies delay,
 stagnation; quarrels and disputes. When next
@@ -46814,7 +46814,7 @@ lover or, if none, those of a henchman to whom
 drawer might be attracted (they do not become
 hostile, merely indifferent) over the next five
 days; drawer’s morale and reaction rolls will be
-at —1 for 1d20+5 weeks.
+at -1 for 1d20+5 weeks.
 
 Reversed, it signifies return of pleasure, of an
 old friend or loved one, a new partnership or
@@ -46862,7 +46862,7 @@ dragons, jewels, and other sights more bizarre.
 
 Upright, it signifies daydreaming, dissipation,
 wishful thinking, ephemeral or illusory success.
-Drawer has a —2 penalty on saving throws vs.
+Drawer has a -2 penalty on saving throws vs.
 illusions from now on.
 
 Reversed, it signifies resolution, determina-
@@ -46913,7 +46913,7 @@ ingly restive and frivolous. As soon as it is safe to
 do so, he or she will spend at least 8% of total
 wealth on a feast or series of feasts and carousals,
 stopping only after money starts running low or a
-daily saving throw vs. death magic (at —2) is suc-
+daily saving throw vs. death magic (at -2) is suc-
 cessful. Depending on alignment, deity, and pro-
 Jession, this debauchery may require atonement
 by the drawer.
@@ -46962,7 +46962,7 @@ resentment. Reaction and loyalty scores of the
 
 drawer '’s friends and associates decrease by 's of
 their present amount (round losses up), but at
-least —2 in any case.
+least -2 in any case.
 
 46: Page of Cups
 A fancily dressed youth of medium coloration,
@@ -47100,7 +47100,7 @@ Upright, this card signifies division, quarrel-
 ing, separation, upheaval, civil war or political
 struggle, arguments. Those members of the party
 who do not make successful saving throws vs.
-spell (at —3) start a violent fight within the party
+spell (at -3) start a violent fight within the party
 in the next 1d4 turns; the drawer does not get a
 saving throw. The basis of the fight may be philo-
 sophical, racial, political, or religious. Those
@@ -47212,7 +47212,7 @@ drawer and party seek to flee, avoid, or evade,
 they fail badly because of slow speed, an involun-
 tary outcry that alerts the opponents, or the
 inability to get across a body of water. Drawer
-also becomes permanently sensitive (—1 on sav-
+also becomes permanently sensitive (-1 on sav-
 ing throw) to attack forms based on loud sounds
 or outcries.
 
@@ -47275,7 +47275,7 @@ Upright, this card signifies utter desolation,
 despair, misery, death, failure, disappointment,
 miscarriage or delay, deception, doubt, illness,
 loss. Drawer falls prey to melancholia after nine
-turns; if a successful save vs. death magic (at —2)
+turns; if a successful save vs. death magic (at -2)
 is made, the melancholia will last for 1d10+2
 months; if not, itis permanent. During this
 period, the PC is doubly susceptible to illness and
@@ -47287,7 +47287,7 @@ Reversed, it signifies doubt, suspicion, shame,
 patient suffering, “time heals all wounds,” timid-
 ity, reasonable fear.
 
-Drawer has a—5 to morale and react at —2 for
+Drawer has a-5 to morale and react at -2 for
 2d4+] weeks and heals at half speed until fully
 recovered from this adventure. The drawer then
 requires an additional 1d4+3 days of rest.
@@ -47576,7 +47576,7 @@ will be at +1, third at +2, and so on).
 
 Reversed, it signifies impatience, apprehen-
 sion, suspicion, especially in money matters.
-Drawer will have a permanent —1% reaction to
+Drawer will have a permanent -1% reaction to
 strangers and casual acquaintances who ask for
 favors or act in any way “suspicious,” this penalty
 doubles for loans or other financial favors.
@@ -47809,19 +47809,19 @@ Eight: Gain (red) or lose (black) two points of
 Constitution (maximum of 18, minimum of 3,
 excess applied to or taken from Strength).
 
-Seven: +1 bonus (red) or —1 penalty (black) to
+Seven: +1 bonus (red) or -1 penalty (black) to
 all saving throws.
 
-Six: —1 bonus (red) or +1 penalty (black) to
+Six: -1 bonus (red) or +1 penalty (black) to
 Armor Class because of unalterable skin changes.
 
 Five: Gain (red) or lose (black) two points of
 Charisma.
 
-Four: +1 bonus (red) or —1 penalty (black) to
+Four: +1 bonus (red) or -1 penalty (black) to
 all hit rolls.
 
-Three: +1 bonus (red) or —1 penalty (black) to
+Three: +1 bonus (red) or -1 penalty (black) to
 all damage rolls.
 
 Two: Movement speed is gained (red) or lost
@@ -48615,127 +48615,40 @@ Door of Displacement
 i rere
 
 of Disappearance
-
 XP Value: 3,000 GP Value: 15,000
 The Book of Marvelous Magic
-This locked door becomes invisible when touched
-by any object or creature, but it remains stoutly in
-place. Characters who can see invisible things
-cannot see through the door, but it is completely
-transparent to anyone else. A knock spell does not
-open its invisible lock unless the caster is able to
-see invisible things. Any attempt to open locks is
-penalized by —50% from normal chances, and the
-attempt automatically fails if the thief is of less
-than 9th level. The door reappears one hour after
-vanishing.
-
- 
-
- 
+This locked door becomes invisible when touched by any object or creature, but it remains stoutly in place. Characters who can see invisible things cannot see through the door, but it is completely transparent to anyone else. A knock spell does not open its invisible lock unless the caster is able to see invisible things. Any attempt to open locks is penalized by -50% from normal chances, and the attempt automatically fails if the thief is of less than 9th level. The door reappears one hour after vanishing.
 
 of Displacement
 XP Value: 2,000 GP Value: 10,000
 The Book of Marvelous Magic
 
-This door appears to be a black circle of cloth 2
+This door appears to be a black circle of cloth 2 inches in diameter. It does not function outdoors. If placed on a wall or floor, it may be manually lengthened, then widened and turned into a normal door. The user must immediately open the door and go through (no saving throw); others may follow. All passing through the door enter an otherdimensional space adjacent to the room or corridor in which the door was used.
 
-inches in diameter. It does not function out- |
-doors. If placed on a wall or floor, it may be
-manually lengthened, then widened and turned
-into a normal door. The user must immediately
-open the door and go through (no saving throw);
-others may follow. All passing through the door
-enter an otherdimensional space adjacent to the
-room or corridor in which the door was used.
 The user of the door, and only the user, can see
+Front Door into the original room or corridor. The door, at the user’s command, folds up into cloth form and reappears among the user’s possessions. As the door is stowed, it creates a loud slamming noise.
 
- 
-
-411
-
-1,451
-Ky
-Front Door
-
-into the original room or corridor. The door, at
-the user’s command, folds up into cloth form
-and reappears among the user’s possessions. As
-the door is stowed, it creates a loud slamming
-noise.
-
-At any time up to one turn after creating and
-passing through the door, the user may reopen it
-from inside, and at any chosen place along a
-wall ceiling, or floor of the original room or cor-
-ridor. When opened, it is silent, and the user and
-his or her party gain a +1 bonus to surprise rolls
-against any creatures in the room or corridor.
-(The door can be used to escape a monster and
-then to quickly reenter the area behind it). If
-those using the door do not return to normal
-space within one turn after “slamming” it, they
-are all dumped back into the original area at ran-
-domly determined locations. The door may be
-used once per day.
+At any time up to one turn after creating and passing through the door, the user may reopen it from inside, and at any chosen place along a wall ceiling, or floor of the original room or corridor. When opened, it is silent, and the user and his or her party gain a +1 bonus to surprise rolls against any creatures in the room or corridor. (The door can be used to escape a monster and then to quickly reenter the area behind it). If those using the door do not return to normal space within one turn after “slamming” it, they are all dumped back into the original area at randomly determined locations. The door may be used once per day.
 
 Front
 XP Value: 3,000 GP Value: 15,000
 The Book of Marvelous Magic
-When touched, the front door emits the sound of
-a welcome chime, attracting the attention of all
-creatures within 60 feet.
+When touched, the front door emits the sound of a welcome chime, attracting the attention of all creatures within 60 feet.
 
 of Guarding
 XP Value: 4,000 ‘GP Value: 20,000
 The Book of Marvelous Magic
-This door ts intelligent, but not actually alive.
-When touched, a large mouth appears on its sur-
-face; the mouth can appear on only one side of
-the door at any one time. The door is neutral and
-obeys whoever utters the proper command word.
-If more than one creature knows the proper word,
+This door ts intelligent, but not actually alive. When touched, a large mouth appears on its surface; the mouth can appear on only one side of the door at any one time. The door is neutral and obeys whoever utters the proper command word.
+If more than one creature knows the proper word, the door changes allegiance as often as commanded.
 
-the door changes allegiance as often as com- -
-
-manded.
-
-The door has excellent sight and hearing and is
-able to see invisible things and hear all noises
-within 60 feet. It speaks all languages and can
-obey even the most complex and detailed instruc-
-tions. It can speak at any volume from a whisper
-to a loud scream, the latter audible within 120
-feet. It cannot be unlocked, even with a knock
-spell, but may open itself, depending on its
-instructions. It cannot move except to swing on
-hinges. It cannot attack, but screams an alarm if it
-is, and there is a 50% chance it may do so if
-merely threatened with fire. The door is immune
-to all attacks except physical damage from magi-
-cal weapons (treat as AC 0; hp 40).
-
- 
-
- 
-
- 
-
-Unless otherwise commanded, the door’s reac-
-tions to visitors are checked normally, but if
-given a good soaking with wine, it is usually
-friendly (+2 bonus to reaction rolls after that,
-lasting one turn per wineskin of wine used).
+The door has excellent sight and hearing and is able to see invisible things and hear all noises within 60 feet. It speaks all languages and can obey even the most complex and detailed instructions. It can speak at any volume from a whisper to a loud scream, the latter audible within 120 feet. It cannot be unlocked, even with a knock spell, but may open itself, depending on its instructions. It cannot move except to swing on hinges. It cannot attack, but screams an alarm if it is, and there is a 50% chance it may do so if merely threatened with fire. The door is immune to all attacks except physical damage from magical weapons (treat as AC 0; hp 40).
+Unless otherwise commanded, the door’s reactions to visitors are checked normally, but if given a good soaking with wine, it is usually friendly (+2 bonus to reaction rolls after that, lasting one turn per wineskin of wine used).
 
 Revolving
 XP Value: 1,500 GP Value: 7,500
 The Book of Marvelous Magic
 
-This apparently normal door causes the user to
-step back into the original room or corridor, with-
-out actually going anywhere. It functions as a
-normal door if the proper command word is spo-
-ken as the door is used.
+This apparently normal door causes the user to step back into the original room or corridor, without actually going anywhere. It functions as a normal door if the proper command word is spoken as the door is used.
 
 of Teleportation
 XP Value GP Value
@@ -48743,80 +48656,21 @@ Greater: 4,500 22,500
 Lesser: 3,000 15,000
 The Book of Marvelous Magic
 
-This item appears to be a normal door but when
-passed through by any living creature, it teleports
-the victim and all items carried to either a random
-or predetermined location. There is no chance of
-error, which differs from the magic-user spell.
-Nonliving items thrown through the door are not
-teleported. If removed from its supports, a door
+This item appears to be a normal door but when passed through by any living creature, it teleports the victim and all items carried to either a random or predetermined location. There is no chance of error, which differs from the magic-user spell. Nonliving items thrown through the door are not teleported. If removed from its supports, a door of teleportation normally loses all its enchantment, although the area (and not the door) might be later discovered to be the actual teleportation device. Both lesser and greater doors of teleportation can be found.
 
-of teleportation normally loses all its enchant-
-1,455
-
- 
-
-412
-
-%
-Dress of Amazement
-
-Ot
-
-ment, although the area (and not the door) might
-
-be later discovered to be the actual teleportation
-
-device. Both lesser and greater doors of telepor-
-_ tation can be found.
-
-The lesser door may be managed by several
-creatures If they link hands or otherwise overlap
-in their passage through the door—all arrive at
-the same destination regardless of randomizing
-effects. Some lesser doors allow a saving throw
-vs. spell to resist the effect, but this is not com-
-mon. If allowed, the saving throw must be made
-by each creature passing through the doorway. A
-successful saving throw may simply indicate that
-the teleportation does not affect that creature, or
-it may make the door nonmagical for one turn,
-one hour, of some other length of time. The
-greater door, which is even more rare, can easily
-detect and separate different creatures and may
-even cause items and (occasionally) body parts
-overlapped to arrive at separate locations, There
-is no saving throw.
+The lesser door may be managed by several creatures If they link hands or otherwise overlap in their passage through the door—all arrive at the same destination regardless of randomizing effects. Some lesser doors allow a saving throw vs. spell to resist the effect, but this is not common. If allowed, the saving throw must be made by each creature passing through the doorway. A successful saving throw may simply indicate that the teleportation does not affect that creature, or it may make the door nonmagical for one turn, one hour, of some other length of time. The greater door, which is even more rare, can easily detect and separate different creatures and may even cause items and (occasionally) body parts overlapped to arrive at separate locations, There is no saving throw.
 
 of Terror
 XP Value: 3,000 GP Value: 15,000
 ® The Book of Marvelous Magic
 
-This apparently normal door causes any creature
-approaching within 5 feet to be overcome with a
-nameless dread (no saving throw). The victim
-thereafter refuses to approach or pass through the
-door for one hour, after that, the effect wears off.
-Undead are not affected, nor is any other creature
-naturally immune to fear effects.
+This apparently normal door causes any creature approaching within 5 feet to be overcome with a nameless dread (no saving throw). The victim thereafter refuses to approach or pass through the door for one hour, after that, the effect wears off. Undead are not affected, nor is any other creature naturally immune to fear effects.
 
 Trick
 XP Value: 5,000 GP Value: 25,000
 1992 Fantasy Collector Card 40
 
-There are trick doors known to be installed in the
-thieves’ guilds of Mulmaster, Hillsfar, Calaunt,
-and Tantras, but their creator remains unknown.
-The construction of the door is thought to be a
-variation of the passwall spell. Each door
-responds to a different knock code; when the
-proper sequence of taps is sounded on the door,
-the person seeking entrance may open it and pass
-within. Otherwise opening the door reveals noth-
-ing but more of the wall in which it rests. To fur-
-ther confuse intruders, some guilds have installed
-dummy doors along the same wall or alley that
-contains a trick door.
+There are trick doors known to be installed in the thieves’ guilds of Mulmaster, Hillsfar, Calaunt, and Tantras, but their creator remains unknown. The construction of the door is thought to be a variation of the passwall spell. Each door responds to a different knock code; when the proper sequence of taps is sounded on the door, the person seeking entrance may open it and pass within. Otherwise opening the door reveals nothing but more of the wall in which it rests. To further confuse intruders, some guilds have installed dummy doors along the same wall or alley that contains a trick door.
 
 Dragonisle’s Harbor Chains
 XP Value: 5,000 GP Value: 25,000
@@ -48838,7 +48692,7 @@ The dress of amazement can take on any form, style, or color the owner desires, 
 
 of Protection
 XP Value GP Value
-Cursed ~1: — 1,800
+Cursed -1: — 1,800
 +1 to saves: 1,000 7,500
 +1: 1,000 10,000
 +2: 2,000 20,000
@@ -48851,7 +48705,7 @@ Rogue's Gallery
 This garment appears as a small, black dress or tunic, lined with a series of magical, linked rings. When the dress is donned, it automatically adjusts to fit the wearer. Additionally it provides the wearer the same benefits as a cloak of protection. Each plus of the dress of protection betters Armor Class by one and adds one to saving throw die rolls. Each dress of protection is slightly different in design. To determine how powerful any particular dress is, roll percentile dice and check the table below.
 
 Roll Power
-01-10 Cursed (—1 to AC and saves)
+01-10 Cursed (-1 to AC and saves)
 11-20 Dress (+1 to saves but not AC)
 21-50 Dress +1
 51-70 Dress +2
