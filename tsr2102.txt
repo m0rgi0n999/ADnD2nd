@@ -922,7 +922,7 @@ The displacer beast is a magical creature which resembles a puma with two powerf
 
 <fc #4169e1>**Combat:**</fc> The displacer beast is a fierce, savage creature which hates all forms of life. Highly aggressive, the displacer beast will attack on sight, using its tentacles to inflict 2-8 (2d4) points of damage to its victims.\\
 <wrap indent>Their main advantage in combat, however, stems from their magical power of displacement, which causes them to appear to be some 3’ from their actual location. Anyone attacking a displacer beast receives a -2 on his attack roll. In addition, these monsters make their saving throws as 12th level fighters, gaining an additional +2 to their die roll.</wrap>\\
-<wrap indent>To determine the true position of the displacer beast and its illusionary form roll 1d10. On a result of 1-5 the illusion is in front of the creature, 6-7 to the creature's left, 8-9, to the right, and 10 the the illusion is behind the actual position of the beast. Although the displacement ability is magical, the location of the animal will not be revealed by a dispel or detect magic. Only true seeing will reveal the true position of the displacer beast.</wrap>\\
+<wrap indent>To determine the true position of the displacer beast and its illusionary form roll 1d10. On a result of 1-5 the illusion is in front of the creature, 6-7 to the creature's left, 8-9, to the right, and 10 the the illusion is behind the actual position of the beast. Although the displacement ability is magical, the location of the animal will not be revealed by a //dispel// or //detect magic//. Only //true seeing// will reveal the true position of the displacer beast.</wrap>\\
 <wrap indent>Displacer beasts will not use their claws or teeth unless near death or when fighting a very large opponent. If they do employ these secondary weapons each claw does 1-3 points of damage, and each bite does 1-8 points of damage.</wrap>
 
 <fc #4169e1>**Habitat/Society:**</fc> Displacer beasts are carnivores who survive by hunting. Unless they are in the process of raising young, they generally run in packs, carving a savage swath of destruction as they go. They hate all life, and will sometimes kill purely for pleasure. Fierce and vicious as they are, however, displacer beasts never fight among themselves. The pack is a well-run and highly efficient killing machine. When encountered en masse, displacer beasts are more than a match for many large creatures and have been known to make a meal of orcs, goblins, and bands of men. Any being entering their terrain is viewed as potential prey.\\
@@ -932,30 +932,31 @@ The displacer beast is a magical creature which resembles a puma with two powerf
 <fc #4169e1>**Ecology:**</fc> The displacer beast has little to fear from other large predators, save perhaps large trolls or giants. Some wizards and alchemists value the hide of displacer beasts for use in certain magical preparations, and will offer generous rewards for them. The eyes of a displacer beast are a highly prized, if uncommon, good luck charm among thieves who believe that they will protect the bearer from detection.
 
 ----
-Dogs
+<fs large>**Dogs**</fs>
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+| | **Wild Dog** | **War Dog** | **Blink Dog** | **Death Dog** |
+^ CLIMATE/TERRAIN: | Any | Any | Temperate plains | Warm deserts and subterranean |
+^ FREQUENCY: | Common | Uncommon | Rare | Very rare |
+^ ORGANIZATION: | Pack | Soltary | Pack | Pack |
+^ ACTIVITY CYCLE: | Any | Any| Any | Night |
+^ DIET: | Omnivorous | Omnivorous | Omnivorous | Carnivorous |
+^ INTELLIGENCE: | Semi- (2-4) | Semi- (2-4) | Average (8-10) | Semi- (2-4) |
+^ TREASURE: | Nil | Nil | (C) | Nil |
+^ ALIGNMENT: | Neutral | Neutral | Lawful good | Neutral evil |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: | 4-16 (4d4) | Variable | 4-16 (4d4) | 5-50 (5d10) |
+^ ARMOR CLASS: | 7 | 6 | 5 | 7 |
+^ MOVEMENT: | 15 | 12 | 12 | 12 |
+^ HIT DICE: | 1+1 | 2+2 | 4 | 2+1 |
+^ THAC0: | 19 | 19 | 17 | 19 |
+^ NO. ATTACKS: | 1 | 1 | 1 | 2 |
+^ DAMAGE/ATTACK: | 1-4 | 2-8 (2d4) | 1-6 | 1-10/1-10 |
+^ SPECIAL ATTACK: | Nil | Nil | From the rear 75% of the time | Disease |
+^ SPECIAL DEFENSES: | Nil | Nil | Teleportation | Nil |
+^ MAGIC RESISTANCE: | Nil | Nil | Nil | Nil |
+^ SIZE: | S (3' long) | M (4'-6-' long) | M (4' long) | M (6' long) |
+^ MORALE: | Unsteady (5-7) | Average (8-10) | Steady (11-12) | Steady (11-12) |
+^ XP VALUE: | 35 | 65 | 270 | 120 |
 
 Smaller than wolves, the appearance of the wild dog varies from place to place. Most appear very wolf-like, while others seem to com- bine the looks of a wolf and a jackal.
 
@@ -963,162 +964,142 @@ Smaller than wolves, the appearance of the wild dog varies from place to place. 
 
 <fc #4169e1>**Habitat/Society:**</fc> Wild dogs are found almost anywhere. They run in packs, and are led by the dominant male. The pack usually hunts a variety of game, even attacking deer or antelope. Pups are born in the spring. Wild dogs can be tamed if separated from their pack.
 
-<fc #4169e1>**Ecology:**</fc> Wild dogs are omnivores which usually thrive on a combination of hunting and foraging.
+<fc #4169e1>**Ecology:**</fc> Wild dogs are omnivores which usually thrive on a combination of hunting and foraging.\\
+<wrap indent>Generally large mastiffs or wolfhounds, they have keen senses of smell and hearing, making them adept at detecting intruders. Most war dogs are not usually vicious, and will rarely attack without cause.</wrap>\\
+<wrap indent>The status of war dogs varies greatly; some are loyal and beloved pets, some are watch dogs, others are hunting dogs, and some are trained for battle.</wrap>
 
-Generally large mastiffs or wolfhounds, they have keen senses of smell and hearing, making them adept at detecting intruders. Most war dogs are not usually vicious, and will rarely attack without cause.
+<fc #4169e1>**Blink Dogs**</fc>\\
+Blink dogs are yellowish brown canines which are stockier and more muscular than other wild dogs. They are intelligent and employ a limited form of teleportation when they hunt.\\
+<wrap indent>A blink dog attack is well organized. They will blink to and fro without any obvious pattern, using their powers to position themselves for an attack. Fully 75% of the time they are able to attack their targets from the rear. A dog will teleport on a roll of 7 or better on a 12-sided die. To determine where the dog appears, roll a 12-sided die: 1 = in front of opponent, 2 = shielded (or left) front flank, 3 = unshielded (or right) front flank, 4-12 = behind. When blinking, the dog will appear from 1' to 3' feet from its opponent and will immediately be able to attack.</wrap>\\
+<wrap indent>Blinking is an innate power and the animal will never appear inside a space occupied by a solid object. If seriously threatened, the entire pack will blink out and not return.</wrap>\\
+<wrap indent>Blink dogs are intelligent, and communicate in a complex language of barks, yaps, whines, and growls. They inhabit open plains and avoid human haunts. A lair will contain 3-12 (3d4) pups 50% of the time (1-2 hit dice, 1-2/1-3 hit points damage/attack). These puppies can be trained and are worth between 1,000 to 2,000 gold pieces.</wrap>
 
-The status of war dogs varies greatly; some are loyal and beloved pets, some are watch dogs, others are hunting dogs, and some are trained for battle.
+<fc #4169e1>**Death dog**</fc>\\
+Death dogs are large two-headed hounds which are distinguished by their penetrating double bark. Death dogs hunt in large packs.\\
+<wrap indent>Each head is independent, and a bite does 1-10 points of damage. Victims must save versus poison or contract a rotting disease which will kill them in 4-24 (4d6) days. Only a cure disease spell can save them. A natural rol] of 19 or 20 on their attack die means that a mansized opponent is knocked prone and attacks at a -4 until able to rise to its feet again. There is an 85% chance that death dogs will attack humans on sight.</wrap>
 
-Blink Dogs
-Blink dogs are yellowish brown canines which are stockier and more muscular than other wild dogs. They are intelligent and employ a limited form of teleportation when they hunt.
+----
+<fs large>**Dragons**</fs>
 
-A blink dog attack is well organized. They will blink to and fro without any obvious pattern, using their powers to position themselves for an attack. Fully 75% of the time they are able to attack their targets from the rear. A dog will teleport on a roll of 7 or better on a 12-sided die. To determine where the dog appears, roll a 12-sided die: 1 = in front of opponent, 2 = shielded (or left) front flank, 3 = unshielded (or right) front flank, 4-12 = behind. When blinking, the dog will appear from 1' to 3' feet from its opponent and will immediately be able to attack.
+Dragons are an ancient, winged reptilian race. They are known and feared for their size, physical prowess, and magical abilities. The 10 subspecies of dragons are identified by the color of their scales. Each subspecies has 12 age categories. The oldest dragons are among the most powerful creatures in the world.\\
+<wrap indent>Dragons range in size from several feet upon hatching to more than 100 feet after they have attained the status of great wyrm. The exact size varies according to age and subspecies. A dragon's wing span is about equal to its body length and fully 15-20% of a dragon's body length is its neck.</wrap>\\
+<wrap indent>Dragons, especially older ones, are generally solitary due to necessity and preference. They distance themselves from civilization, which they consider to be a petty and foolish mortal invention.</wrap>\\
+<wrap indent>Although dragons’ goals and ideals vary between subspecies, all dragons are covetous. They like to hoard wealth, collecting mounds of coins and gathering as many gems, jewels, and magic items as possible. They find the treasure pleasing to look at and bask in the radiance of the magic items. For a dragon, there is never enough treasure, and those with large hoards are loathe to leave them for long, venturing out of their lairs only to patrol the immediate area or to get food. Dragons like to make beds of their treasure, shaping nooks and mounds to fit their bodies, and by the time they have matured to the great wyrm state hundreds of gems and coins have become imbedded in their hides.</wrap>\\
+<wrap indent>Dragons are fearsome predators, but will scavenge when necessary and can eat almost anything if they are hungry enough. A dragon's metabolism operates like a highly efficient furnace, making use of 95% of all the food the dragon eats. A dragon can also metabolize inorganic material, and some dragons have a taste for such fare.</wrap>\\
+<wrap indent>Generally, when multiple dragons are encountered they will be a mated pair and young. Mated pairs never will be found together above the mature adult stage, and the young will be of the young adult stage or younger. To determine the age of young dragons roll a 6-sided die: 1 = egg; 2 = hatchling; 3 = very young; 4 = young; 5 = juvenile; 6 = young adult.</wrap>\\
+<wrap indent>During the early part of a dragon's young adult stage it will leave its parents, greed driving it on to start a lair of its own. Sometimes, although rarely, juvenile dragons will leave their parents to start their own lives, As a pair of mated dragons age beyond the mature adult stage, they split up, independence and the lust for treasure driving them apart. Older dragons of either sex will sometimes raise young, but only on their own—the other parent leaves when the eggs are laid.</wrap>\\
+<wrap indent>Although all subspecies of dragons are believed to have come from the same roots tens of thousands of years ago, the present subspecies keep to themselves, working together only when they are significantly threatened; good dragons never work with evil dragons. While good dragons of different subspecies are more tolerant of each other, they also are territorial. Only gold and silver dragons have been known to freely associate—and those instances are uncommon.</wrap>
 
-Blinking is an innate power and the animal will never appear inside a space occupied by a solid object. If seriously threatened, the entire pack will blink out and not return.
+<fc #4169e1>**Dragon Hit Die Modifier:**</fc> Dragons’ Hit Dice vary between subspecies and are modified based on age category. Refer to individual dragons for base hit die information but the modifier is listed on the overall dragon chart. The older a dragon gets, the more Hit Dice it will have while younger dragons will have fewer. For example, a black dragon has 10 Hit Dice as a base. A hatchling black dragon subtracts 6 dice, which gives it a total of 4 hit dice. A great wyrm black dragon adds 8 dice, which gives it a total of 18 hit dice.\\
+<wrap indent>Dragons’ saving throws are tied to their hit dice. Each dragon saves as a fighter equal in level to the dragon's hit dice, For example, a hatchling black dragon saves as a 4th level fighter, while a great wyrm black dragon saves as an 18th level fighter.</wrap>\\
 
-Blink dogs are intelligent, and communicate in a complex language of barks, yaps, whines, and growls. They inhabit open plains and avoid human haunts. A lair will contain 3-12 (3d4) pups 50% of the time (1-2 hit dice, 1-2/1-3 hit points damage/attack). These puppies can be trained and are worth between 1,000 to 2,000 gold pieces.
+<fc #4169e1>**Dragon Combat Modifier:**</fc> A dragon's combat modifier varies with the age category. The bonus or penalty applies to both attack and damage rolls for each physical attack. It does not apply to a dragon's breath weapon.\\
 
-Death dog
-Death dogs are large two-headed hounds which are distinguished by their penetrating double bark. Death dogs hunt in large packs.
+<fc #4169e1>**Dragon Attacks:**</fc> All dragons have a claw/claw/bite attack form and a breath weapon, A dragon can use its breath weapon once every three combat rounds. Dragons also employ the attack forms of snatch, kick, tail slap, and wing buffet if their age and the prevailing conditions allow it. Dragons frequently divide their attacks between opponents, using the more dangerous attacks, such as a bite, against the foes it perceives to be the toughest.\\
 
-Each head is independent, and a bite does 1-10 points of damage. Victims must save versus poison or contract a rotting disease which will kill them in 4-24 (4d6) days. Only a cure disease spell can save them. A natural rol] of 19 or 20 on their attack die means that a mansized opponent is knocked prone and attacks at a -4 until able to rise to its feet again. There is an 85% chance that death dogs will attack humans on sight.
+<fc #4169e1>**Claw:**</fc> Claws can attack creatures to the front and sides of the dragon. If the dragon kicks with one rear leg, it can use only one claw (the other must be used to maintain balance).\\
 
- 
-Dragons
+<fc #4169e1>**Bite:**</fc> Because of a dragon's long neck, it can bite creatures to its front or to either side.\\
 
-Dragons are an ancient, winged reptilian race. They are known and feared for their size, physical prowess, and magical abilities. The 10 subspecies of dragons are identified by the color of their scales. Each subspecies has 12 age categories. The oldest dragons are among the most powerful creatures in the world,
+<fc #4169e1>**Snatch:**</fc> Only young adult and older dragons can snatch. A flying dragon dives and attempts to grab a creature in one of its claws. A creature struck by this method will be taken into the air. There is a 50% chance that a snatched creature has its arms pinned, and therefore will not be able to physically attack the dragon. Snatched creatures are sometimes taken to great heights and dropped. The snatched creature can be squeezed in the claw for automatic claw damage each round, or transferred to the dragon's mouth. The transfer requires a successful attack roll. If the transfer succeeds, the victim automatically takes bite damage each round. If it fails, the victim is dropped. Old and older dragons can carry a victim in each claw, and can try to snatch two victims at once. Wyrms and great wyrms can carry three victims, but one must be transferred from claw to mouth first. A dragon only can snatch creatures two or more size categories smaller than itself. For example, a dragon that is 45’ long is a Gargantuan creature, so the biggest creature it can snatch is a Large one (12').\\
 
-Dragons range in size from several feet upon hatching to more than 100 feet after they have attained the status of great wyrm. The exact size varies according to age and subspecies. A dragon's wing span is about equal to its body length and fully 15-20% of a dragon's body length is its neck.
+<fc #4169e1>**Kick:**</fc> Any dragon can kick creatures attacking it from behind. A kick delivers claw damage, and creatures struck must roll their Dexterity or less on 1d20 or be kicked back 1d6 feet +1 foot per age category of the dragon. For example, a mature adult dragon will kick a foe 1d6 +7 feet. Creatures knocked back must save versus petrification (adjusted according to the dragon's combat modifier) or fall. If the dragon attacks with one claw, it can only kick with one hind leg as the other must be used to maintain balance. A dragon cannot slap with its tail while kicking.\\
 
-Dragons, especially older ones, are generally solitary due to necessity and preference. They distance themselves from civilization, which they consider to be a petty and foolish mortal invention.
+<fc #4169e1>**Wing Buffet:**</fc> Young adult and older dragons can employ their wings in combat. Targets must be at the dragon's sides. The damage inflicted is the same as a claw attack, and creatures struck must roll their Dexterity or nless on 1d20 or be knocked prone.\\
 
-Although dragons’ goals and ideals vary between subspecies, all dragons are covetous. They like to hoard wealth, collecting mounds of coins and gathering as many gems, jewels, and magic items as possible. They find the treasure pleasing to look at and bask in the radiance of the magic items. For a dragon, there is never enough treasure, and those with large hoards are loathe to leave them for long, venturing out of their lairs only to patrol the immediate area or to get food. Dragons like to make beds of their treasure, shaping nooks and mounds to fit their bodies, and by the time they have matured to the great wyrm state hundreds of gems and coins have become imbedded in their hides.
+<fc #4169e1>**Tail Slap:**</fc> Adult and older dragons can use their tails to attack creatures behind them. A tail attack inflicts the same damage as two claws and affects a number of creatures equal to the dragon's age category. For example, an adult dragon can hit up to six creatures. Creatures within the sweep of the dragon's tail must save versus petrification or be stunned for 2-5 (1d4 +1) minutes. A tail slap can smash a light wooden structure and even damage a cube of force (one charge per two points of the dragon's combat modifier, rounded down).\\
 
-Dragons are fearsome predators, but will scavenge when necessary and can eat almost anything if they are hungry enough. A dragon's metabolism operates like a highly efficient furnace, making use of 95% of all the food the dragon eats. A dragon can also metabolize inorganic material, and some dragons have a taste for such fare.
+<fc E4169e1>**Spells:**</fc> Dragons acquire spells haphazardly over the years. The DM should randomly determine which spells any particular dragon knows. Each spell can be used once a day. If the random determination indicates the same spell more than once, the dragon can use it more than once a day. A dragon’s spells are innate and are triggered by thought. Dragons do not possess spell books, nor do they pray to their deities. The dragon simply needs to concentrate for a second and its spell is cast.\\
 
-Generally, when multiple dragons are encountered they will be a mated pair and young. Mated pairs never will be found together above the mature adult stage, and the young will be of the young adult stage or younger. To determine the age of young dragons roll a 6-sided die: 1 = egg; 2 = hatchling; 3 = very young; 4 = young; 5 = juvenile; 6 = young adult.
+<fc #4169e1>**Dragon Defenses:**</fc> A dragon's Armor Class improves as it gets older because the dragon's hide and general constitution becomes tougher. Old or older dragons are immune to normal missiles; their gem-encrusted hides deflect arrows and other small projectiles. Large missiles (from catapults, giants, et.al.), and magical missiles affect them normally. Young adult and older dragons radiate a personal aura that makes them resistant to harmful magic cast at them. A dragon’s magic resistance is a function of its personal power, and as a dragon becomes older and tougher, its magic resistance increases.</fc>\\
+<wrap indent>Dragon Flight: Despite their large size, dragons are graceful and competent fliers. All dragons have a maneuverability class C.</wrap>\\
+<wrap indent>A dragon can change direction quickly by executing a wingover maneuver. A dragon cannot gain altitude during a minute when it performs a wingover, but it may dive. The maneuver allows the dragon to make a turn of 120 to 240 degrees regardless of its speed or size.</wrap>\\
+<wrap indent>Diving dragons can strike with their claws at +2 on their attack roll. When engaging other flying opponents, dragons can either claw or bite, but not both.</wrap>\\
 
-During the early part of a dragon's young adult stage it will leave its parents, greed driving it on to start a lair of its own. Sometimes, although rarely, juvenile dragons will leave their parents to start their own lives, As a pair of mated dragons age beyond the mature adult stage, they split up, independence and the lust for treasure driving them apart. Older dragons of either sex will sometimes raise young, but only on their own—the other parent leaves when the eggs are laid.
+<fc #4169e1>**Dragon Senses:**</fc> All dragons have excellent sight, smell, and hearing. Their increased senses allow them to detect invisible objects and creatures (including creatures or items hidden in darkness or fog) within a 10-foot radius per age category. All dragons possess a natural clatraudience ability with respect to their lairs; the range is 20 feet per age category. The dragon must concentrate on a specific section within its lair or surrounding area to hear what is going on.\\
+<wrap indent>Some dragons have the ability to speak, and possess a telepathic ability that allows them to converse with any intelligent creature. The percentage chance for a dragon to speak varies based on each subspecies’ intelligence and each dragon's age category. Refer to individual dragons for the percentages.</wrap>\\
 
-Although all subspecies of dragons are believed to have come from the same roots tens of thousands of years ago, the present subspecies keep to themselves, working together only when they are significantly threatened; good dragons never work with evil dragons. While good dragons of different subspecies are more tolerant of each other, they also are territorial. Only gold and silver dragons have been known to freely associate—and those instances are uncommon. Dragon Hit Die Modifier: Dragons’ Hit Dice vary between subspecies and are modified based on age category. Refer to individual dragons for base hit die information but the modifier is listed on the overall dragon chart. The older a dragon gets, the more Hit Dice it will have while younger dragons will have fewer. For example, a black dragon has 10 Hit Dice as a base. A hatchling black dragon subtracts 6 dice, which gives it a total of 4 hit dice. A great wyrm black dragon adds 8 dice, which gives it a total of 18 hit dice.
+<fc #4169e1>**Dragon Fear:**</fc> Dragons can inspire panic or fear. The mere sight of a //young adult// or older dragon causes humans and demi-humans with fewer than one Hit Die and non-aggressive creatures with fewer Hit Dice than the dragon to automatically flee in panic for 4-24 (4d6) minutes.\\
+<wrap indent>Other humans, demi-humans, and creatures can be stricken with fear if they are within the dragon's fear aura. All creatures with Hit Dice equal to or greater than the dragon are immune to the fear effect. The aura surrounds attacking or charging dragons in the specified radius. Humans, demi-humans, and creatures not automatically panicked are entitled to a save versus petrification, Those failing their saves are stricken with fear and fight at a -2 penalty on their attack and damage rolls.</wrap>\\
+<wrap indent>A dragon’s fear aura size varies with the dragon’s age category; refer to individual dragons for specific information. The aura increases in power based on the age category of the dragon, and those who are subjected to the aura adjust their saving throws based on the dragon's fear save modifier. For example, characters fighting a //mature adult// dragon add 1 to their saving throws while those fighting a //great wyrm// subtract 4.</wrap>\\
 
-Dragons’ saving throws are tied to their hit dice. Each dragon saves as a fighter equal in level to the dragon's hit dice, For example, a hatchling black dragon saves as a 4th level fighter, while a great wyrm black dragon saves as an 18th level fighter.
+<fc #4169e1>**Lairs:**</fc> All dragon lairs are far from mortal civilizations, and they are difficult to find because the dragons take careful measures to cloak their comings and goings. There is usually little, if any, wildlife around the lairs because neighboring creatures fear the dragons, and the dragons eat the few creatures which are foolish enough to remain.\\
+<wrap indent>When a //young adult// dragon leaves its parents in search of its own lair, it will spend a few years moving from place to place to find a cave or cavern which best suits its personality. In most cases, the dragons search for increasingly larger caves which can easily accommodate them as they grow. Usually by the time a dragon has reached the //mature adult// stage it will have selected a large lair it plans to keep for the remainder of its life. A dragon at this stage has gathered a considerable amount of treasure and will be loathe to move it to a different location.</wrap>\\
+<wrap indent>The location and character of dragon lairs vary based on each subspecies. Consult individual dragons for specific information. However, one thing remains constant: all dragons consider their lair and the immediate area around it their domain. A creature which encroaches or threatens the lair is threatening the dragon and will be dealt with harshly. Some good dragons may be more lenient than other subspecies in this matter. All dragons keep their treasure hidden deep within their lairs, and some dragons will create hazardous conditions within their lairs to keep unwary creatures from reaching the treasure.</wrap>\\
 
-Dragon Combat Modifier: A dragon's combat modifier varies with the age category. The bonus or penalty applies to both attack and damage rolls for each physical attack. It does not apply to a dragon's breath weapon.
+<fc #4169e1>**Dragon Hide:**</fc> Dragon skin is prized by armorers with the skill to turn it into shields and armor. This armor is valuable because of its appearance and because of the protection it affords. The older the dragon the skin is from, the better the protection it provides. Dragon armor will grant its wearer an armor class of 4 less than the Armor Class of the dragon it was taken from, for a minimum Armor Class of 8. For example, armor taken from a //juvenile// brass dragon (which has an AC of 0) will grant its wearer an Armor Class of 4 and armor from a very old brass dragon (AC -4) will grant its wearer an armor class of 0. Dragon armor is supple and nonbulky, weighing only 25 pounds.\\
+<wrap indent>Dragon armor affords no extra protection, such as resistance to fire or cold, although the armor can be enchanted to provide such protection. A dragon's resistance to certain elements is based on its total makeup, not just its skin. Plain dragon armor is expensive to make, costing between 1,000 and 10,000 gold pieces, based on the workmanship and protection the armor affords. Dragon skin armor can be enchanted, just as other forms of armor can, to a maximum of +5.</wrap>\\
+<wrap indent>Dragon shields also offer no additional protection. They are made of stretched hide over a wooden frame. Such shields weigh 3 pounds (if small) or 8 pounds (if large) and cost 20 to 120 or 30 to 180 gold pieces.</wrap>
 
-Dragon Attacks: Al] dragons have a claw/claw/bite attack form and a breath weapon, A dragon can use its breath weapon once every three combat rounds. Dragons also employ the attack forms of snatch, kick, tail slap, and wing buffet if their age and the prevailing conditions allow it. Dragons frequently divide their attacks between opponents, using the more dangerous attacks, such as a bite, against the foes it perceives to be the toughest.
+<fc #4169e1>**Dragon Table**</fc>\\
+| Category | Age\\ Modifier | Hit Die\\ Modifier | Combat\\ Modifier | Fear\\ Radius | Save\\ Modifier |
+| 1 Hatchling | 0-5 yrs | -6 | +1 | Nil | Nil |
+| 2 Very\\ Young | 6-15 | -4 | +2 | Nil | Nil |
+| 3 Young | 16-25 | -2 | +3 | Nil | Nil |
+| 4 Juvenile | 26-50 | Nil | +4 | Nil | Nil |
+| 5 Young Adult | 51-100 | +1 | +5 | 15 yards | +3 |
+| 6 Adult | 101-200 | +2 | +6 | 20 yards | +2 |
+| 7 Mature\\ Adult | 201-400 | +3 | +7 | 25 yards | +1 |
+| 8 Old | 401-600 | +4 | +8 | 30 yards | 0 |
+| 9 Very Old | 601-800 | +5 | +9 | 35 yards | -1 |
+| 10 Venerable | 801-1,000 | +6 | +10 | 40 yards | -2 |
+| 11 Wyrm | 1,000-1,200 | +7 | +11 | 45 yards | -3 |
+| 12 Great Wyrm | 1,200+ | +8 | +12 | 50 yards | -4 |
 
-Claw: Claws can attack creatures to the front and sides of the dragon. If the dragon kicks with one rear leg, it can use only one claw (the other must be used to maintain balance).
+----
+<fs large>**Dragon, Black**</fs>
 
-Bite: Because of a dragon's long neck, it can bite creatures to its front or to either side.
-
-Snatch: Only young adult and older dragons can snatch. A flying dragon dives and attempts to grab a creature in one of its claws. A creature struck by this method will be taken into the air. There is a 50% chance that a snatched creature has its arms pinned, and therefore will not be able to physically attack the dragon. Snatched creatures are sometimes taken to great heights and dropped. The snatched creature can be squeezed in the claw for automatic claw damage each round, or transferred to the dragon's mouth. The transfer requires a successful attack roll. If the transfer succeeds, the victim automatically takes bite damage each round. If it fails, the victim is dropped. Old and older dragons can carry a victim in each claw, and can try to snatch two victims at once. Wyrms and great wyrms can carry three victims, but one must be transferred from claw to mouth first. A dragon only can snatch creatures two or more size categories smaller than itself. For example, a dragon that is 45’ long is a Gargantuan creature, so the biggest creature it can snatch is a Large one (12').
-
-Kick: Any dragon can kick creatures attacking it from behind. A kick delivers claw damage, and creatures struck must roll their Dexterity or less on 1d20 or be kicked back 1d6 feet +1 foot per age category of the dragon. For example, a mature adult dragon will kick a foe 1d6 +7 feet. Creatures knocked back must save versus petrification (adjusted according to the dragon's combat modifier) or fall. If the dragon attacks with one claw, it can only kick with one hind leg as the other must be used to maintain balance. A dragon cannot slap with its tail while kicking.
-
-Wing Buffet: Young adult and older dragons can employ their wings in combat. Targets must be at the dragon's sides. The damage inflicted is the same as a claw attack, and creatures struck must roll their Dexterity or nless on 1d20 or be knocked prone.
-
-Tail Slap: Adult and older dragons can use their tails to attack creatures behind them. A tail attack inflicts the same damage as two claws and affects a number of creatures equal to the dragon's age category. For example, an adult dragon can hit up to six creatures. Creatures within the sweep of the dragon's tail must save versus petrification or be stunned for 2-5 (1d4 +1) minutes. A tail slap can smash a light wooden structure and even damage a cube of force (one charge per two points of the dragon's combat modifier, rounded down).
-
-Spells: Dragons acquire spells haphazardly over the years. The DM should randomly determine which spells any particular dragon knows. Each spell can be used once a day. If the random determination indicates the same spell more than once, the dragon can use it more than once a day. A dragon’s spells are innate and are triggered by thought. Dragons do not possess spell books, nor do they pray to their deities. The dragon simply needs to concentrate for a second and its spell is cast.
-
-Dragon Defenses: A dragon's Armor Class improves as it gets older because the dragon's hide and general constitution becomes tougher. Old or older dragons are immune to normal missiles; their gem-encrusted hides deflect arrows and other small projectiles. Large missiles (from catapults, giants, et.al.), and magical missiles affect them normally. Young adult and older dragons radiate a personal aura that makes them resistant to harmful magic cast at them. A dragon’s magic resistance is a function of its personal power, and as a dragon becomes older and tougher, its magic resistance increases.
-
-Dragon Flight: Despite their large size, dragons are graceful and competent fliers. All dragons have a maneuverability class C.
-
-A dragon can change direction quickly by executing a wingover maneuver. A dragon cannot gain altitude during a minute when it performs a wingover, but it may dive. The maneuver allows the dragon to make a turn of 120 to 240 degrees regardless of its speed or size.
-
-Diving dragons can strike with their claws at +2 on their attack roll. When engaging other flying opponents, dragons can either claw or bite, but not both.
-
-Dragon Senses: All dragons have excellent sight, smell, and hearing. Their increased senses allow them to detect invisible objects and creatures (including creatures or items hidden in darkness or fog) within a 10-foot radius per age category. All dragons possess a natural clatraudience ability with respect to their lairs; the range is 20 feet per age category. The dragon must concentrate on a specific section within its lair or surrounding area to hear what is going on.
-
-Some dragons have the ability to speak, and possess a telepathic ability that allows them to converse with any intelligent creature. The percentage chance for a dragon to speak varies based on each subspecies’ intelligence and each dragon's age category. Refer to individual dragons for the percentages.
-
-Dragon Fear: Dragons can inspire panic or fear. The mere sight of a young adult or older dragon causes humans and demi-humans with fewer than one Hit Die and non-aggressive creatures with fewer Hit Dice than the dragon to automatically flee in panic for 4-24 (4d6) minutes.
-
-Other humans, demi-humans, and creatures can be stricken with fear if they are within the dragon's fear aura. All creatures with Hit Dice equal to or greater than the dragon are immune to the fear effect. The aura surrounds attacking or charging dragons in the specified radius. Humans, demi-humans, and creatures not automatically panicked are entitled to a save versus petrification, Those failing their saves are stricken with fear and fight at a -2 penalty on their attack and damage rolls.
-
-A dragon’s fear aura size varies with the dragon’s age category; refer to individual dragons for specific information. The aura increases in power based on the age category of the dragon, and those who are subjected to the aura adjust their saving throws based on the dragon's fear save modifier. For example, characters fighting a mature adult dragon add 1 to their saving throws while those fighting a great wyrm subtract 4.
-
-Lairs: All dragon lairs are far from mortal civilizations, and they are difficult to find because the dragons take careful measures to cloak their comings and goings. There is usually little, if any, wildlife around the lairs because neighboring creatures fear the dragons, and the dragons eat the few creatures which are foolish enough to remain.
-
-When a young adult dragon leaves its parents in search of its own lair, it will spend a few years moving from place to place to find a cave or cavern which best suits its personality. In most cases, the dragons search for increasingly larger caves which can easily accommodate them as they grow. Usually by the time a dragon has reached the mature adult stage it will have selected a large lair it plans to keep for the remainder of its life. A dragon at this stage has gathered a considerable amount of treasure and will be loathe to move it to a different location.
-
-The location and character of dragon lairs vary based on each subspecies. Consult individual dragons for specific information. However, one thing remains constant: all dragons consider their lair and the immediate area around it their domain. A creature which encroaches or threatens the lair is threatening the dragon and will be dealt with harshly. Some good dragons may be more lenient than other subspecies in this matter. All dragons keep their treasure hidden deep within their lairs, and some dragons will create hazardous conditions within their lairs to keep unwary creatures from reaching the treasure.
-
-Dragon Hide: Dragon skin is prized by armorers with the skill to turn it into shields and armor. This armor is valuable because of its appearance and because of the protection it affords. The older the dragon the skin is from, the better the protection it provides. Dragon armor will grant its wearer an armor class of 4 less than the Armor Class of the dragon it was taken from, for a minimum Armor Class of 8. For example, armor taken from a juvenile brass dragon (which has an AC of 0) will grant its wearer an Armor Class of 4 and armor from a very old brass dragon (AC -4) will grant its wearer an armor class of 0. Dragon armor is supple and nonbulky, weighing only 25 pounds.
-
-Dragon armor affords no extra protection, such as resistance to fire or cold, although the armor can be enchanted to provide such protection. A dragon's resistance to certain elements is based on its total makeup, not just its skin. Plain dragon armor is expensive to make, costing between 1,000 and 10,000 gold pieces, based on the workmanship and protection the armor affords. Dragon skin armor can be enchanted, just as other forms of armor can, to a maximum of +5.
-
-Dragon shields also offer no additional protection. They are made of stretched hide over a wooden frame. Such shields weigh 3 pounds (if small) or 8 pounds (if large) and cost 20 to 120 or 30 to 180 gold pieces.
-
-Dragon Table
-
-Category Age Hit Die Combat Fear Save
-
-Modifier
-
-Modifier Modifier Modifier Radius
-1
-2
-3
-4 Juvenile 26-50 Nil +4 Nil Nil
-5 Young Adult 51-100 +1 +5 15 yards +3
-6 Adult 101-200 +2 +6 20 yards +2
-7
-8
-9
-10 Venerable 801-1,000
-11 Wyrm 1,000-1,200 +7 +11 45 yards -3
-12 Great Wyrm 1,200 + +8 +12 50 yards “4
-
- 
-
-—
-Dragon, Black
-
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: | Any swamp, jungle, and\\ subterranean |
+^ FREQUENCY: | Rare |
+^ ORGANIZATION: | Solitary or clan |
+^ ACTIVITY CYCLE: | Any |
+^ DIET: | Special |
+^ INTELLIGENCE: | Average (8-10) |
+^ TREASURE: | Special |
+^ ALIGNMENT: | Chaotic evil |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: | 1 (2-5) |
+^ ARMOR CLASS: | 1 (base) |
+^ MOVEMENT: | 12, Fl 30 (C), Sw 12 |
+^ HIT DICE: | 12 (base) |
+^ THAC0: | 9 (base) |
+^ NO. ATTACKS: | 3+special |
+^ DAMAGE/ATTACK: | 1-6/1-6/3-18 |
+^ SPECIAL ATTACK: | Special |
+^ SPECIAL DEFENSES: | Variable |
+^ MAGIC RESISTANCE: | Variable |
+^ SIZE: | G (30' base) |
+^ MORALE: | Fanatic (16 base) |
+^ XP VALUE: | Variable |
 
+^ Age ^ Body Lgt.(') ^ Tail Lgt.(') ^ AC ^ Breath Weapons ^ Spells Wizard/Priets ^ MT ^ Treas. Type ^ XP Value |
+| 1 | 3-6 | 2-5 | 4 | 2d4+1 | Nil | Nil | Nil | 1400 |
+| 2 | 6-15 | 5-12 | 3 | 4d4+2 | Nil | Nil | Nil | 2000 |
+| 3 | 15-24 | 12-19 | 2 | 6d4+3 | Nil | Nil | Nil | 3000 |
+| 4 | 24-33 | 19-27 | 1 | 8d4+4 | 1 | 5% | ½H | 6000 |
+| 5 | 33-42 | 27-35 | 0 | 10d4+5 | 2 | 10% | H | 8000 |
+| 6 | 42-51 | 35-43 | -1 | 12d4+6 | 3 | 15% | H | 9000 |
+| 7 | 51-60 | 43-50 | -2 | 14d4+7 | 4 | 20% | H | 10000 |
+| 8 | 60-69 | 50-57 | -3 | 16d4+8 | 5 | 25% | Hx2 | 11000 |
+| 9 | 69-78 | 57-64 | -4 | 18d4+9 | 6 | 30% | Hx2 | 13000 |
+| 10 | 78-87 | 64-73 | -5 | 20d4+10 | 7 | 35% | Hx2 | 14000 |
+| 11 | 87-96 | 73-80 | -6 | 22d4+11 | 8 | 40% | Hx3 | 15000 |
+| 12 | 96-105 | 80-87 | -7 | 24d4+12 | 9 | 45% | Hx3 | 16000 |
 
+Black dragons are abusive, quick to anger, and resent intrusions of any kind. They like dismal surroundings, heavy vegetation, and prefer darkness to daylight. Although not as intelligent as other dragons, black dragons are instinctively cunning and malevolent.\\
+<wrap indent>At birth, a black dragon's scales are thin, small, and glossy. But as the dragon ages, its scales become larger, thicker, and duller, which helps it camouflage itself in swamps and marshes. Black dragons speak their own tongue, a tongue common to all evil dragons, and 10% of hatchling black dragons have an ability to communicate with any intelligent creature. The chance to possess this ability increases 5% per age category of the dragon.</wrap>
 
-Black dragons are abusive, quick to anger, and resent intrusions of any kind. They like dismal surroundings, heavy vegetation, and prefer darkness to daylight. Although not as intelligent as other dragons, black dragons are instinctively cunning and malevolent.
+<fc #4169e1>**Combat:**</fc> Black dragons prefer to ambush their targets, using their surroundings as cover. Their favorite targets are men, who they will sometimes stalk for several minutes in an attempt to gauge their strength and wealth before attacking. Against a band of men or a formidable creature, older black dragons will use their special abilities first so the very forces of the marsh can weaken the targets before the dragon joins the fight. Black dragons also will use their breath weapon before closing in melee. When fighting in heavily vegetated swamps and marshes, black dragons attempt to stay in the water or along the ground; the numerous trees and leafy canopies limit their flying maneuverability. When faced with an opponent which poses too much of a threat, a black dragon will attempt to fly out of sight, so it will not leave tracks, and hide in a deep pond or bog.\\
 
-At birth, a black dragon's scales are thin, small, and glossy. But as the dragon ages, its scales become larger, thicker, and duller, which helps it camouflage itself in swamps and marshes. Black dragons speak their own tongue, a tongue common to all evil dragons, and 10% of hatchling black dragons have an ability to communicate with any intelligent creature. The chance to possess this ability increases 5% per age category of the dragon.
+<fc #4169e1>**Breath weapon/special abilities:**</fc> A black dragon's breath weapon is a 5’ wide stream of acid that extends 60' in a straight line from the dragon's head. All creatures caught in this stream must save vs. breath weapon for half damage. A black dragon casts spells and uses its magical abilities at Sth level, plus its combat modifier.\\
+<wrap indent>Black dragons are born with an innate water breathing ability and an immunity to acid. As they age, they gain the following additional powers: Juvenile: darkness three times a day in a 10’ radius per age category of the dragon. Adult: corrupt water once a day. For every age category a dragon attains, it can stagnate 10 cubic feet of water, making it become still, foul, inert, and unable to support animal life. When this ability is used against potions and elixirs, they become useless if they roll a 15 or better on 1d20. Old: plant growth once a day. Venerable: summon insects once a day. Great wyrm: charm reptiles three times a day. This operates as a charm mammals spell, but is applicable only to reptiles.</wrap>
 
-<fc #4169e1>**Combat:**</fc> Black dragons prefer to ambush their targets, using their surroundings as cover. Their favorite targets are men, who they will sometimes stalk for several minutes in an attempt to gauge their strength and wealth before attacking. Against a band of men or a formidable creature, older black dragons will use their special abilities first so the very forces of the marsh can weaken the targets before the dragon joins the fight. Black dragons also will use their breath weapon before closing in melee. When fighting in heavily vegetated swamps and marshes, black dragons attempt to stay in the water or along the ground; the numerous trees and leafy canopies limit their flying maneuverability. When faced with an opponent which poses too much of a threat, a black dragon will attempt to fly out of sight, so it will not leave tracks, and hide in a deep pond or bog.
-
-Breath weapon/special abilities: A black dragon's breath weapon is a 5’ wide stream of acid that extends 60' in a straight line from the dragon's head. All creatures caught in this stream must save vs. breath weapon for half damage. A black dragon casts spells and uses its magical abilities at Sth level, plus its combat modifier.
-
-Black dragons are born with an innate water breathing ability and an immunity to acid. As they age, they gain the following additional powers: Juvenile: darkness three times a day in a 10’ radius per age category of the dragon. Adult: corrupt water once a day. For every age category a dragon attains, it can stagnate 10 cubic feet of water, making it become still, foul, inert, and unable to support animal life. When this ability is used against potions and elixirs, they become useless if they roll a 15 or better on 1d20. Old: plant growth once a day. Venerable: summon insects once a day. Great wyrm: charm reptiles three times a day. This operates as a charm mammals spell, but is applicable only to reptiles.
-
-<fc #4169e1>**Habitat/Society:**</fc> Black dragons are found in swamps, marshes, rain forests, and jungles. They revel in a steamy environment where canopies of trees filter out most of the sunlight, swarms of insects fill the air, and stagnant moss-covered ponds lie in abundance. Black dragons are excellent swimmers and enjoy lurking in the gloomy depths of swamps and bogs. They also are graceful in flight, however, they prefer to fly at night when their great forms are hidden by the darkness of the sky. Black dragons are extremely selfish, and the majority of those encountered will be alone. When a family of black dragons is encountered, the adults will protect their young. However, if it appears the adults’ lives are in jeopardy they will abandon their young to save themselves.
-
-They lair in large, damp caves and multi-chambered subterranean caverns. Older dragons are able to hide the entrance to their lairs with their plant growth ability, Black dragons are especially fond of coins. Older black dragons sometimes capture humans and question them before killing them to find out where stockpiles of gold, silver, and platinum coins are kept.
+<fc #4169e1>**Habitat/Society:**</fc> Black dragons are found in swamps, marshes, rain forests, and jungles. They revel in a steamy environment where canopies of trees filter out most of the sunlight, swarms of insects fill the air, and stagnant moss-covered ponds lie in abundance. Black dragons are excellent swimmers and enjoy lurking in the gloomy depths of swamps and bogs. They also are graceful in flight, however, they prefer to fly at night when their great forms are hidden by the darkness of the sky. Black dragons are extremely selfish, and the majority of those encountered will be alone. When a family of black dragons is encountered, the adults will protect their young. However, if it appears the adults’ lives are in jeopardy they will abandon their young to save themselves.\\
+<wrap indent>They lair in large, damp caves and multi-chambered subterranean caverns. Older dragons are able to hide the entrance to their lairs with their plant growth ability, Black dragons are especially fond of coins. Older black dragons sometimes capture humans and question them before killing them to find out where stockpiles of gold, silver, and platinum coins are kept.</wrap>
 
 <fc #4169e1>**Ecology:**</fc> Black dragons can eat almost anything, although they prefer to dine primarily on fish, mollusks, and other aquatic creatures. They are fond of eels, especially the giant varieties. They also hunt for red meat, but they like to “pickle” it by letting it lie in ponds within their lair for days before eating it.
 
- 
+----
 Dragon, Blue
 
 ^ CLIMATE/TERRAIN: | 
