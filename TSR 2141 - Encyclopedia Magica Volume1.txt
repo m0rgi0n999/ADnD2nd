@@ -1189,370 +1189,89 @@ When desired by the caster, this amulet can be used to increase the duration of 
 of Far Reaching
 **XP Value:** 1,000 **GP Value:** 5,000
 Tome of Magic
-When willed by a caster, this amulet increases the
-range of 1st-level spells by 30%, 2nd-level spells
-by 20%, and 3rd-and 4th-level spells by 10%.
-Fractions of  and greater are rounded up—all
-others rounded down.
-
-The amulet affects only range and does not
-alter a spell’s area of effect. The amulet cannot
-affect spells with ranges of 0 or touch.
-
-A maximum of Id10+4 spell levels can be
-affected by the amulet each day. Each amulet has
-an individual limit—secretly determined when
-found,
+When willed by a caster, this amulet increases the range of 1st-level spells by 30%, 2nd-level spells by 20%, and 3rd-and 4th-level spells by 10%. Fractions of  and greater are rounded up—all others rounded down.\\
+<wrap indent>The amulet affects only range and does not alter a spell’s area of effect. The amulet cannot affect spells with ranges of 0 or touch.</wrap>\\
+<wrap indent>A maximum of Id10+4 spell levels can be affected by the amulet each day. Each amulet has an individual limit—secretly determined when found.</wrap>
 
 Fiend
 **XP Value:** — **GP Value:** —
-FIEND FoLio Tome
-Fiend lords and princes maintain their vital
-essences in small containers, so they are at once
-protected and yet vulnerable if some enterprising
-character should gain the amulet. Fiends with
-amulets are able to magic jar once per day. Fiend
-amulets cannot be detected as such by any magi-
-cal means, and they do not otherwise appear
-unusual in any way. The device need not be with
-the most powerful princes, although the lesser
-fiends typically need to carry them on or near
-their person.
-
-Possession of an amulet gives the possessor
-power over the fiend to whom it “belongs” for
-the span of, for example, one adventure, and
-never more than a day (24 hours). The amulet
-must then be returned to the fiend—or it can be
-destroyed, condemning the prince to the Abyss
-for one year (it may return after that only if sum-
-moned). The use of these amulets is very, very
-dangerous. Possession of one doubles the chance
-of calling the attention of another fiend, and any
-fiend not controlled by the device immediately
-attacks the person possessing such an amulet. If
-the amulet leaves the hand of the one command-
-ing the fiend to whom it belongs, that fiend
-attacks in its most effective fashion, immedi-
-ately, trying to slay the former possessor. If suc-
-cessful, it carries all that remains to its own
-domain, and the character is lost and gone for-
-ever. On the positive side, however, if the
-wielder of the amulet carefully repays the fiend
-for aid rendered, then adds a considerable sum
-for having the temerity to dare to command the
-fiend in the first place, and carefully restores the
-amulet to the fiend, the prince might not bear a
-grudge forever afterward—nor seek to hunt its
-former master whenever possible.
-
-Ct eee A
+FIEND FOLIO Tome
+Fiend lords and princes maintain their vital essences in small containers, so they are at onceprotected and yet vulnerable if some enterprising character should gain the amulet. Fiends with //amulets// are able to //magic jar// once per day. //Fiend amulets// cannot be detected as such by any magical means, and they do not otherwise appear unusual in any way. The device need not be with the most powerful princes, although the lesser fiends typically need to carry them on or near their person.\\
+<wrap indent>Possession of an amulet gives the possessor power over the fiend to whom it “belongs” for the span of, for example, one adventure, and never more than a day (24 hours). The amulet must then be returned to the fiend—or it can be destroyed, condemning the prince to the Abyss for one year (it may return after that only if summoned). The use of these amulets is very, very dangerous. Possession of one doubles the chance of calling the attention of another fiend, and any fiend not controlled by the device immediately attacks the person possessing such an amulet. If the amulet leaves the hand of the one commanding the fiend to whom it belongs, that fiend attacks in its most effective fashion, immediately, trying to slay the former possessor. If successful, it carries all that remains to its own domain, and the character is lost and gone forever. On the positive side, however, if the wielder of the amulet carefully repays the fiend for aid rendered, then adds a considerable sum for having the temerity to dare to command the fiend in the first place, and carefully restores the amulet to the fiend, the prince might not bear a grudge forever afterward—nor seek to hunt its former master whenever possible.</wrap>
 
 of Finding
-**XP Value:** 500 GP Value; 2,500
+**XP Value:** 500 **GP Value:** 2,500
 Temple of Death
-These amulets work in pairs. Anyone wearing one
-may see through the amulet of a person wearing
-another. Each user sees whatever is in range of
-the other’s amulet.
+These amulets work in pairs. Anyone wearing one may see through the amulet of a person wearing another. Each user sees whatever is in range of the other’s amulet.
 
 Furyondy’s
-
 **XP Value:** 1,400 **GP Value:** 7,000
 GREYHAWK Adventures
-The first of these amulets was enchanted to pro-
-tect the good natives of Furyondy, though they
-have since been used by characters of many lands
-and alignments. Hung around the neck from a sil-
-ver chain, the amulet bestows a remove curse
-upon any wearer who is cursed. The amulet
-glows, expending one charge, and any curse sub-
-ject to the spell remove curse is broken. For
-example, it immediately allows a character to be
-rid of a cursed item, such as a helm of alignment
-change, although it does not cure lycanthropy.
-The amulet has 1d6+1 charges and cannot be
-recharged.
+The first of these amulets was enchanted to protect the good natives of Furyondy, though they have since been used by characters of many lands and alignments. Hung around the neck from a silver chain, the amulet bestows a //remove curse// upon any wearer who is cursed. The amulet glows, expending one charge, and any curse subject to the spell //remove curse// is broken. For example, it immediately allows a character to be rid of a cursed item, such as a //helm of alignment change//, although it does not cure lycanthropy. The amulet has 1d6+1 charges and cannot be recharged.
 
 of the Golden Collar
-
 **XP Value:** 1,500 **GP Value:** 12,000
 IMAGINE Magazine 16
-This amulet was designed to help a mummy free
-itself from its bandages on the long journey to the
-afterlife. A living user, however, can use the
-amulet to break any magical or nonmagical
-bonds. This includes the rope of entanglement,
-web spells, dexterously knotted ropes, and other
-forms of confinement. It takes one full round for
-the amulet to break the character free. It can be
-used twice per day.
+This amulet was designed to help a mummy free itself from its bandages on the long journey to the afterlife. A living user, however, can use the amulet to break any magical or nonmagical bonds. This includes the //rope of entanglement//, //web// spells, dexterously knotted ropes, and other forms of confinement. It takes one full round for the amulet to break the character free. It can be used twice per day.
 
 Greenstone
 **XP Value:** 5,000 **GP Value:** 30,000
 DraGON Magazine 39
-These rare, highly prized devices are fist-sized
-green stones made by some forgotten magical
-process. They glow when in operation and are
-quite brittle. Worn next to the skin, they confer
-upon the wearer the protection (spell immuni-
-ties) of a mind blank spell, as well as immunity
-to: chaos, forget, geas, hold person, hypnotism
-(but not hypnotic pattern or fire charm); mass
-charm, quest, scare, and sleep. The wearer also
-gains +4 on saving throws against: fumble, ray
-
-of enfeeblement, and trip, and is allowed a sav-
-31
-
- 
-
-32
-
-X
-ing throw against both Otto’ irresistible dance
-and maze spells. (If successful, the duration of
-effect of any spell is reduced by half, rounding
-up.)
-
-These amulets may be worn by any class of
-character. The protection they give is involuntary.
-(The wearer cannot actually communicate fele-
-pathically, even if he or she so desires.) Protection
-only extends to 11-44 (1d4x11) spell levels before
-the amulet is exhausted. (For this purpose, protec-
-tion against a psionic power drains the levels of the
-equivalent spell.) Note that the amulet only coun-
-ters the listed spells, and is in no way affected by
-other spells (for instance lightning bolt). Exhaus-
-tion is mentally evident to the wearer, and visually
-evident to others; the amulet blazes brightly for 30
-seconds before slowly fading to darkness. The
-amulet recharges at the rate of one spell level per
-turn, but it does not counter spells for which it
-lacks sufficient power to negate—that is, it does
-not provide partial protection.
-
- 
-
- 
-
- 
-
- 
+These rare, highly prized devices are fist-sized green stones made by some forgotten magical process. They glow when in operation and are quite brittle. Worn next to the skin, they confer upon the wearer the protection (spell immunities) of a mind blank spell, as well as immunity to: //chaos//, //forget//, //geas//, //hold person//, //hypnotism// (but not hypnotic pattern or fire charm); //mass charm//, //quest//, //scare//, and //sleep//. The wearer also gains +4 on saving throws against: //fumble//, //ray of enfeeblement//, and //trip//, and is allowed a saving throw against both //Otto’S irresistible dance// and //maze// spells. (If successful, the duration of effect of any spell is reduced by half, rounding up.)\\
+<wrap indent>These amulets may be worn by any class of character. The protection they give is involuntary. (The wearer cannot actually communicate //telepathically//, even if he or she so desires.) Protection only extends to 11-44 (1d4x11) spell levels before the amulet is exhausted. (For this purpose, protection against a psionic power drains the levels of the equivalent spell.) Note that the amulet only counters the listed spells, and is in no way affected by other spells (for instance //lightning bolt//). Exhaustion is mentally evident to the wearer, and visually evident to others; the amulet blazes brightly for 30 seconds before slowly fading to darkness. The amulet recharges at the rate of one spell level per turn, but it does not counter spells for which it lacks sufficient power to negate—that is, it does not provide partial protection.</wrap>
 
 Hands of the Healing Spirit
-
 **XP Value:** 5,500 **GP Value:** 10,000
 Tales of the Lance
-
-This elegant amulet is made of white gold. The
-amulet is a circle formed by three crooked arms,
-
-with three hands clasped together at its center.
-
-Hands of the Healing Spirit
-
-The amulet was crafted during the Age of
-Dreams by Sirrion and given to Mishakal so that
-she would intercede with Shinare for him. In
-time, the amulet came into the possession of Trae
-Jerrold, who gave it to Mirri Witikell upon their
-betrothal. The wicked schemes of Hiddukel
-betrayed the young lovers, entrapping Mirri’s life
-force in the amulet itself. According to a mystic
-prophecy, “Mirri shall one day find rest with the
-spirits of her lover and his brother.”
-
-Eventually, the hands of the healing spirit fell
-into the possession of Huma of the Lance, given
-to him by his uncle. When Huma at last admitted
-his love for the elf maid Gwynneth (the silver
-dragon El’liolle or “Silver Heart”) he gave her
-this amulet as a pledge. Gwynneth wisely gave
-the amulet to her younger sister Dargent before
-she followed Huma through death’s doorway.
-Dargent honored Gwynneth by taking the name
-of Silvara when she moved among mortals as a
-wild elf.
-
-Centuries passed before the amulet again
-changed hands. This time it was given to a wild
-ogre of unexpected wit and compassion, who
-tried to lead his people away from darkness and
-into harmony. After the Cataclysm, the amulet
-was held by a mad gnome named Fractore
-Gearslip, the dark wizard Dalamar, and the
-kender Glendoll Allseer. At last, it returned to the
-dragon Dargent. Fate has decreed that the amulet
-must one day be given to another mortal who cap-
-tures Dargent’s heart.
-
-The amulet detects only minor magic, for its
-might comes from the spirit of Mirri trapped
-within. It adds a +3 bonus to saves against all poi-
-sons and diseases and adds a +3 bonus to the
-wearer’s Wisdom, allowing spell bonuses to
-priests. It continuously radiates an aura equal to a
-protection from evil 10-foot radius spell.
-
-Once per day, the wearer can cast one of every
-healing spell: cure blindness or deafness; cure
-critical wounds, cure disease, cure light wounds,
-cure serious wounds, heal, and neutralize poison.
-It can evoke continual light as well. However,
-each time an effect is invoked, the user must
-make a system shock roll or become exhausted
-for 1d6 turns.
-
-The hands of the healing spirit promotes har-
-mony and cooperation, and grants a +3 to all
-reaction rolls made by the wearer. Further, the
-wearer slowly begins to shift alignment toward
-
-neutral good, and is repeatedly drawn to provide
-32
-
- 
-
-33
-
-Ms
-Hardwater Amulet
-
-succor for the oppressed and aid for the injured.
-This artifact doubles the healing rate of the
-wearer and protects against the infirmities of time
-and age, keeping the body healthy and vibrant.
-The wearer is undying.
-
-The hands of the healing spirit is one of the
-three artifacts in the Circle of Love, created by
-Mishakal to end the war between two noble fami-
-lies. The spirit of Mirri’s love is in the amulet,
-Trae and his brother Heris are trapped in the other
-two artifacts: the ring of nature's healing and the
-armband of Trueheart’s warding. The hands of
-the healing spirit oppose the coin of greed in the
-Triad of Betrayal, artifacts created by Hiddukel.
+This elegant amulet is made of white gold. The amulet is a circle formed by three crooked arms, with three hands clasped together at its center. The amulet was crafted during the Age of Dreams by Sirrion and given to Mishakal so that she would intercede with Shinare for him. In time, the amulet came into the possession of Trae Jerrold, who gave it to Mirri Witikell upon their betrothal. The wicked schemes of Hiddukel betrayed the young lovers, entrapping Mirri’s life force in the amulet itself. According to a mystic prophecy, “Mirri shall one day find rest with the spirits of her lover and his brother.”\\
+<wrap indent>Eventually, the //hands of the healing spirit// fell into the possession of Huma of the Lance, given to him by his uncle. When Huma at last admitted his love for the elf maid Gwynneth (the silver dragon El’liolle or “Silver Heart”) he gave her this amulet as a pledge. Gwynneth wisely gave the amulet to her younger sister Dargent before she followed Huma through death’s doorway. Dargent honored Gwynneth by taking the name of Silvara when she moved among mortals as a wild elf.</wrap>\\
+<wrap indent>Centuries passed before the amulet again changed hands. This time it was given to a wild ogre of unexpected wit and compassion, who tried to lead his people away from darkness and into harmony. After the Cataclysm, the amulet was held by a mad gnome named Fractore Gearslip, the dark wizard Dalamar, and the kender Glendoll Allseer. At last, it returned to the dragon Dargent. Fate has decreed that the amulet must one day be given to another mortal who captures Dargent’s heart.</wrap>\\
+<wrap indent>The amulet detects only minor magic, for its might comes from the spirit of Mirri trapped within. It adds a +3 bonus to saves against all poisons and diseases and adds a +3 bonus to the wearer’s Wisdom, allowing spell bonuses to priests. It continuously radiates an aura equal to a //protection from evil 10-foot radius// spell.</wrap>\\
+<wrap indent>Once per day, the wearer can cast one of every healing spell: //cure blindness or deafness//; //cure critical wounds//, //cure disease//, //cure light wounds//, //cure serious wounds//, //heal//, and //neutralize poison//. It can evoke //continual light// as well. However, each time an effect is invoked, the user must make a system shock roll or become exhausted for 1d6 turns.</wrap>\\
+<wrap indent>The //hands of the healing spirit// promotes harmony and cooperation, and grants a +3 to all reaction rolls made by the wearer. Further, the wearer slowly begins to shift alignment toward neutral good, and is repeatedly drawn to provide succor for the oppressed and aid for the injured. This artifact doubles the healing rate of the wearer and protects against the infirmities of time and age, keeping the body healthy and vibrant. The wearer is undying.</wrap>\\
+<wrap indent>The //hands of the healing spirit// is one of the three artifacts in the Circle of Love, created by Mishakal to end the war between two noble families. The spirit of Mirri’s love is in the amulet, Trae and his brother Heris are trapped in the other two artifacts: //the ring of nature's healing// and the //armband of Trueheart’s warding//. The //hands of the healing spirit// oppose the //coin of greed// in the //Triad of Betrayal//, artifacts created by Hiddukel.</wrap>
 
 Hardwater
 **XP Value:** 300 **GP Value:** 1,500
 Otherlands
-This beautiful, starburst amulet is made of clear
-crystal and is practically invisible on the wearer.
-Activated by the wielder’s will, it can harden
-water to a granite like consistency. The user can
-create walls or hurl bolts of hard water at ene-
-mies. The volume of hardened water is equal to
-30,000 square feet. This can be a single large
-mass or several small ones. The user can shape it
-into any desired form. The bolts cause 4d8 points
-of damage (half with a successful saving throw
-vs. breath weapon) and can be used five times a
-day. It requires no command word, but the wielder
-does incur a +3 initiative penalty when using the
-hardwater amulet.
+This beautiful, starburst amulet is made of clear crystal and is practically invisible on the wearer. Activated by the wielder’s will, it can harden water to a granite like consistency. The user can create walls or hurl bolts of hard water at enemies. The volume of //hardened water// is equal to 30,000 square feet. This can be a single large mass or several small ones. The user can shape it into any desired form. The bolts cause 4d8 points of damage (half with a successful saving throw vs. breath weapon) and can be used five times a day. It requires no command word, but the wielder does incur a +3 initiative penalty when using the //hardwater amulet//.
 
 Health
-XP Value GP Value
+**XP Value** **GP Value**
 Cursed: — 2,000
 Standard: 2,000 10,000
 Kara-Tur
-
-A common Northern belief is that illness is a
-form of possession, the influence of evil spirits
-that have taken control of the afflicted person’s
-spirit. A fever, for example, stems from the
-spirit’s subjection to flames inflicted by evil spir-
-its. For this reason, many health amulets also pro-
-tect from possession, or even have powers of
-exorcism. Health amulets come in countless vari-
-eties. The moiganis, for example, is supposed to
-protect against diseases of the lungs. It is left to
-the DM to devise individual health amulets and
-empower them.
-
-For example: One powerful moiganis may keep
-the bearer from contracting any lung ailments and
-
-Oe eceeeeeeereiiinitieninennsennnniiistinmenmemeniiiiattinnnnstimmmmniiciaal
-
-may in addition provide a bonus of +4 on saving
-throws against inhaled spore attacks (yellow
-mold, basidirond—others).
-
-Cursed health amulets increase the chance of
-contracting diseases, or reduce the bearer’s
-chance to save successfully against appropriate
-attack forms.
+A common Northern belief is that illness is a form of possession, the influence of evil spirits that have taken control of the afflicted person’s spirit. A fever, for example, stems from the spirit’s subjection to flames inflicted by evil spirits. For this reason, many //health amulets// also protect from possession, or even have powers of //exorcism//. //Health amulets// come in countless varieties. The //moiganis//, for example, is supposed to protect against diseases of the lungs. It is left to the DM to devise individual //health amulets// and empower them.\\
+<wrap indent>For example: One powerful //moiganis// may keep the bearer from contracting any lung ailments and may in addition provide a bonus of +4 on saving throws against inhaled spore attacks (yellow mold, basidirond—others).</wrap>\\
+<wrap indent>Cursed //health amulets// increase the chance of contracting diseases, or reduce the bearer’s chance to save successfully against appropriate attack forms.</wrap>
 
 of the Hero
 **XP Value:** 300 **GP Value:** 1,500
 POLYHEDRON Introductory Issue
-
-This amulet generates three heroes, one at a time,
-who are 8th-level fighters, have 80 hit points, and
-an AC of 2. When the command words are spo-
-ken, the hero appears, ready to do the bidding of
-the amulet’s owner. Once a hero is called, a new
-hero cannot be generated until the old one dies.
-However, the hero cannot hit anything, nor suc-
-cessfully accomplish any task—he or she always
-fails. The hero cannot leave until slain by an
-enemy, nor can the hero take his or her own life.
-All damage to the hero is permanent and cannot
-be healed by any means short of a wish. The hero
-always remains within 300 yards of the owner of
-the amulet. In addition, the hero must always
-walk; riding a mount is impossible.
+This amulet generates three heroes, one at a time, who are 8th-level fighters, have 80 hit points, and an AC of 2. When the command words are spoken, the hero appears, ready to do the bidding of the amulet’s owner. Once a hero is called, a new hero cannot be generated until the old one dies. However, the hero cannot hit anything, nor successfully accomplish any task—he or she always fails. The hero cannot leave until slain by an enemy, nor can the hero take his or her own life. All damage to the hero is permanent and cannot be healed by any means short of a //wish//. The hero always remains within 300 yards of the owner of the amulet. In addition, the hero must always walk; riding a mount is impossible.
 
 of Holy Turning
-XP Value GP Value
+**XP Value** **GP Value**
 5th level: 1,000 5,000
 6th level: 1,200 6,000
 7th level: 1,400 7,000
 8th level: 1,600 8,000
 9th level: 1,800 9,000
-
 DUNGEON MASTER Guide, Ist Edition
+This prized emblem is an especially blessed symbol that enables the wearer to turn undead like a priest. The amulet seems ordinary, but glows brightly when strongly presented (as if it were a //holy symbol//) in the presence of undead. The success of the attempt to turn is determined by the power of the amulet—the strength of each amulet varies, and when one is discovered, its type is ascertained by rolling on the following table:\\
 
-This prized emblem is an especially blessed sym-
-bol that enables the wearer to turn undead like a
-priest. The amulet seems ordinary, but glows
-brightly when strongly presented (as if it were a
-holy symbol) in the presence of undead. The suc-
-cess of the attempt to turn is determined by the
-power of the amulet—the strength of each amulet
-varies, and when one is discovered, its type is
-ascertained by rolling on the following table:
+^ Dice \\Roll ^ Effective Priestal\\ Level of Amulet |
+| 01-30 | 5th level |
+| 31-55 | 6th level |
+| 56-75 | 7th level |
+| 76-90 | 8th level |
+| 91-00 | 9th level |
 
-Dice Effective Priestal
-Roll Level of Amulet
-
-01-30 5th level
-31-55 6th level
-56-75 7th level
-76-90 8th level
-91-00 = 9th level
-
-36
-
- 
-
-34
-It must be worn at all times to remain effective.
-When not worn, it becomes inert, remaining inac-
-tive for the first 7 days it is again worn.
-
-In Ravenloft: Undead are more difficult to
-control than in other realms. Amulets against the
-undead, like the amulet of holy turning, work one
-level below their usual capacity while in the
-demiplane.
+It must be worn at all times to remain effective. When not worn, it becomes inert, remaining inactive for the first 7 days it is again worn.\\
+<wrap indent>**In Ravenloft:** Undead are more difficult to control than in other realms. //Amulets against the undead//, like the //amulet of holy turning//, work one level below their usual capacity while in the demiplane.</wrap>
 
 of Hunting
-XP Value GP Value
+**XP Value** **GP Value**
 Standard +1: 600 3,000
 Standard +2: 900 4,500
 Standard +3: 1,200 6,000
@@ -1561,214 +1280,67 @@ Standard +5: 1,800 9,000
 Cursed -1: — 1,000
 Cursed -2: — 1,200
 Cursed -3: — 1,400
-
 Kara-Tur
+These items increase the bearer’s chance of hunting successfully. In game terms, the character gains up to +5 on all hunting skill rolls. If the character does not possess the hunting skill, this amulet bestows it.\\
+<wrap indent>//Cursed hunting amulets// exist as well; when borne, the carrier has reduced chances of hunting success (up to -5 percent),</wrap>
 
-These items increase the bearer’s chance of hunt-
-ing successfully. In game terms, the character
-gains up to +5 on all hunting skill rolls. If the
-character does not possess the hunting skill, this
-amulet bestows it.
-
-Cursed hunting amulets exist as well; when
-borne, the carrier has reduced chances of hunting
-
-success (up to -5 percent),
 of Immunity to Charm
-
 **XP Value:** 4,000 **GP Value:** 20,000
 Top Ballista
-
-These rare amulets are identical to amulets of
-
-charm resistance but offer total immunity to all
-
-forms of magical charm unless produced by a
-
-limited wish or wish.
+These rare amulets are identical to //amulets of charm resistance// but offer total immunity to all forms of magical charm unless produced by a //limited wish// or //wish//.
 
 of Inescapable Location
 **XP Value:** **GP Value:** 1,000
 DUNGEON MASTER Guide, Ist Edition
-
-This device is typically worn on a chain or as a
-brooch. It appears to be an amulet that prevents
-location, scrying (crystal ball viewing and the
-like), or detection or influence by ESP or telepa-
-thy. Actually, the amulet doubles the likelihood
-and range of these location and detection modes.
-Normal item identification attempts, including
-detect magic, do not reveal their true nature.
-
- 
-
-Amulet of Leadership
-
-"7 sucesso
+This device is typically worn on a chain or as a brooch. It appears to be an amulet that prevents location, scrying (//crystal ball// viewing and the like), or detection or influence by //ESP// or //telepathy//. Actually, the amulet doubles the likelihood and range of these location and detection modes. Normal item identification attempts, including //detect magic//, do not reveal their true nature.
 
 of Insect Repellency
 **XP Value:** 300 **GP Value:** 1,500
 DRAGON Magazine 73
-
-This is a piece of jade carved in the shape of an
-insect 1-inch long and suspended from a light
-chain. The amulet keeps fleas and other insects of
-similar size from approaching within 3 feet of the
-wearer. It does not force them out of an area or
-location, so it could not be used, for example, to
-clear a bed of fleas.
+This is a piece of jade carved in the shape of an insect 1-inch long and suspended from a light chain. The amulet keeps fleas and other insects of similar size from approaching within 3 feet of the wearer. It does not force them out of an area or location, so it could not be used, for example, to clear a bed of fleas.
 
 Kaleen’s Undead Stone
 **XP Value:** 6,000 **GP Value:** 30,000
 1992 Fantasy Collector Card 243
-Kaleen’s magical amulet is a particularly potent
-version of a typical amulet vs. undead, allowing
-Kaleen to turn undead as if a 12th-level priest.
-The amulet also holds at bay forms of undead that
-are normally immune to the effects of turning
-unless those creatures roll a successful saving
-throw vs. spell. Failure means that the undead
-creature must remain at least 5 feet from the
-holder of the amulet.
+Kaleen’s magical amulet is a particularly potent version of a typical //amulet vs. undead//, allowing Kaleen to turn undead as if a 12th-level priest. The amulet also holds at bay forms of undead that are normally immune to the effects of turning unless those creatures roll a successful saving throw vs. spell. Failure means that the undead creature must remain at least 5 feet from the holder of the amulet.
 
 of Lathander
 **XP Value:** 6,000 **GP Value:** 30,000
 POLYHEDRON Newszine 82
-
-This hammered platinum amulet was fashioned
-by the high-level, specialty priests of Lathander,
-the god of Dawn on Abeir-Toril, the world of the
-FORGOTTEN REALMS® campaign setting. If the
-wearer of the amulet falls during combat (reduced
-to 0 hit points or less), the amulet heals 1d6
-points of damage. This function of the amulet
-operates up to three times a day.
-
-If the amulet is worn by a priest of Lathander,
-and that priest falls during combat, the amulet
-casts a heal spell upon the priest. This function
-operates up to three times a day.
-
-The amulet can only be worn by individuals of
-good alignment. Others trying to don this amulet
-suffer 3d6 points of damage per round until it is
-removed,
+This hammered platinum amulet was fashioned by the high-level, specialty priests of Lathander, the god of Dawn on Abeir-Toril, the world of the FORGOTTEN REALMS® campaign setting. If the wearer of the amulet falls during combat (reduced to 0 hit points or less), the amulet heals 1d6 points of damage. This function of the amulet operates up to three times a day.\\
+<wrap indent>If the amulet is worn by a priest of Lathander, and that priest falls during combat, the amulet casts a //heal// spell upon the priest. This function operates up to three times a day.</wrap>\\
+<wrap indent>The amulet can only be worn by individuals of good alignment. Others trying to don this amulet suffer 3d6 points of damage per round until it is removed.</wrap>
 
 of Leadership
 **XP Value:** 5,000 **GP Value:** 25,000
 Tome of Magic
-This amulet bestows a character of any level the
-ability of a 9th-level fighter to attract men-at-
-arms. The amulet does not attract additional men-
-at-arms to a fighter who has already gained
+This amulet bestows a character of any level the ability of a 9th-level fighter to attract men-at-arms. The amulet does not attract additional men-at-arms to a fighter who has already gained followers.\\
+<wrap indent>A fighter normally gains troops at 9th level because the warrior’s name is so well known that he or she attracts the loyalty of other warriors. The amulet works in much the same way. When a stranger meets a character wearing the amulet, the stranger perceives the character to be a leader who is destined for greatness, regardless of the character’s class. Just as the reputation of a 9th-level fighter spreads, so the reputation of the person wearing the amulet spreads. Roll 14100 to determine followers:</wrap>
 
-followers.
-43
+^ Roll ^ Followers (all 0 level) |
+| 01-50 | 20 calvary with ring mail, shield, 3 javelins, long sword, hand axe; 100 infantry with scale mail, polearm (player selects type), and club. |
+| 51-75 | 20 infantry with splint mail, morning star, hand axe; 60 infantry with leather armor, pike, and short sword. |
+| 76-90 | 40 infantry with chain mail, heavy crossbow, light crossbow, and military fork. |
+| 91-99 | 10 cavalry with banded mail, shield, lance, bastard sword, and mace; 20 cavalry with scale mail, shield, lance, long sword, and mace; 30 cavalry with studded leather armor, shield, lance, and long sword. |
+| 00 | DM’s option—Barbarians, headhunters, armed peasents, extra-heavy cavalry, etc. |
 
- 
+<wrap indent>If the amulet is lost or destroyed, the followers immediately lose faith in their leader. They gradually depart or desert. Once this occurs, the character’s reputation is sullied such that he or she can never gain the benefit of the amulet again. The fighter can, of course, gain followers normally upon reaching the 9th level.</wrap>
 
-35
-
-\
-Amulet of Life Protection
-
-A fighter normally gains troops at 9th level
-because the warrior’s name is so well known that
-he or she attracts the loyalty of other warriors.
-The amulet works in much the same way. When a
-stranger meets a character wearing the amulet,
-the stranger perceives the character to be a leader
-who is destined for greatness, regardless of the
-character’s class. Just as the reputation of a 9th-
-level fighter spreads, so the reputation of the per-
-son wearing the amulet spreads. Roll 14100 to
-determine followers:
-
-Roll _ Followers (all 0 level)
-
-01-50 20 calvary with ring mail, shield, 3
-
-javelins, long sword, hand axe; 100
-
-infantry with scale mail, polearm
-
-(player selects type), and club.
-
-20 infantry with splint mail, morning
-
-star, hand axe; 60 infantry with leather
-
-armor, pike, and short sword.
-
-40 infantry with chain mail, heavy
-
-crossbow, light crossbow, and military
-
-fork.
-
-10 cavalry with banded mail, shield,
-
-lance, bastard sword, and mace; 20 cav-
-
-alry with scale mail, shield, lance, long
-
-sword, and mace; 30 cavalry with stud-
-
-ded leather armor, shield, lance, and
-
-long sword.
-
-00 DM’s option—Barbarians, headhunters,
-armed peasents, extra-heavy cavalry,
-etc,
-
-51-75
-
-76-90
-
-91-99
-
-If the amulet is lost or destroyed, the followers
-immediately lose faith in their leader. They grad-
-ually depart or desert. Once this occurs, the char-
-acter’s reputation is sullied such that he or she can
-never gain the benefit of the amulet again. The
-fighter can, of course, gain followers normally
-
-upon reaching the 9th level.
 of Life Protection
 **XP Value:** 5,000 **GP Value:** 20,000
-
 DUNGEON MASTER Guide, Ist Edition
-This amulet serves as protection for the psyche.
-The wearer is protected from magic jar and simi-
-lar mental attacks that usurp control of the
-wearer’s body. If the wearer is slain, the psyche
-enters the amulet and is protected for seven full
-days. After that, it departs to the plane of its
-alignment. If the amulet is destroyed during the
-seven days, the psyche is utterly and irrevocably
-
-"i cetenapiemeemeeteineaeaepaemmmnerarncmessaamnmammsmcmmmemssiil
-
-annihilated.
-
-Tn Ravenloft; As long as the amulet of life pro-
-tection is in Ravenloft, a captured psyche cannot
-leave the demiplane. If the amulet is removed
-from Ravenloft, the psyche can depart.
+This amulet serves as protection for the psyche. The wearer is protected from //magic jar// and similar mental attacks that usurp control of the wearer’s body. If the wearer is slain, the psyche enters the amulet and is protected for seven full days. After that, it departs to the plane of its alignment. If the amulet is destroyed during the seven days, the psyche is utterly and irrevocably annihilated.
+<wrap indent>**In Ravenloft:** As long as the //amulet of life protection// is in Ravenloft, a captured psyche cannot leave the demiplane. If the amulet is removed from Ravenloft, the psyche can depart.</wrap>
 
 of Magic Resistance
-XP Value GP Value
+**XP Value** **GP Value**
 5%: 5,000 25,000
 10%: 6,000 30,000
 15%: 7,000 35,000
 20%: 8,000 40,000
 25%: 9,000 45,000
 30%: 10,000 50,000
-
 Tome of Magic
-
 This powerful amulet grants the wearer a degree
 of magic resistance ranging from 5% to 30%.
 The level of magic resistance is determined
@@ -1857,7 +1429,7 @@ made regarding the character unless a powerful
 being is consulted.
 
 Orcish
-XP Value GP Value
+**XP Value** **GP Value**
 Cursed: — 1,000
 Normal: 1,000 5,000
 The Orcs of Thar
@@ -2134,7 +1706,7 @@ predictions cannot be made regarding the user
 unless a very powerful being is consulted.
 
 of Protection
-XP Value GP Value
+**XP Value** **GP Value**
 +1: 1,000 10,000
 +2: 2,000 15,000
 +3: 3,000 20,000
@@ -2384,7 +1956,7 @@ functions indefinitely without need for recharging.
 
 of Protection from Turning
 
-XP Value GP Value
+**XP Value** **GP Value**
 
 +1: 1,000 5,000
 
@@ -2927,7 +2499,7 @@ command and requires no capstan (cable winch).
 ”"Nlaeeeeeessemmenieniesesemmnienenenineetimentiamrinieiaiiattiniane tase
 
 of Staying
-XP Value GP Value
+**XP Value** **GP Value**
 Cursed: — 2,000
 ‘Greater: 500 5,000
 Lesser: 300 3,000
@@ -3059,7 +2631,7 @@ Nithian Ankh
 
  
 
-XP Value GP Value
+**XP Value** **GP Value**
 Ixion: 200 2,000
 Kagyar: 300 3,000
 Pflarr: 250 2,500
@@ -5560,7 +5132,7 @@ armor to change three different times, the armor
 loses all of its magical properties.
 
 Aquatic Armor*
-XP Value GP Value
+**XP Value** **GP Value**
 With free action: -25% -25%
 Without free action: -50% -50%
 
@@ -6046,7 +5618,7 @@ using command words, but it can only cause
 damage (“discharge”) once per day.
 
 Elven Chain Mail
-XP Value GP Value
+**XP Value** **GP Value**
 +1: 1,200 7,500
 +2: 2,000 12,500
 +3: 3,000 20,000
@@ -6551,7 +6123,7 @@ Lemmikainen’s avatar usually wears chainmail
 
 of Missile Attraction
 
-XP Value GP Value
+**XP Value** **GP Value**
 —]:— 1,500
 -2: — 3,000
 -3:— 4,500
@@ -7210,7 +6782,7 @@ DRAGON Magazine 16
 This is armor +5, but it weighs just 3 pounds.
 
 of Vulnerability
-XP Value GP Value
+**XP Value** **GP Value**
 -1:— 1,500
 -2: — 3,000
 -3:— 4,500
@@ -7224,7 +6796,7 @@ armor is not revealed until an enemy strikes a
 blow in anger at its wearer.
 
 of Vulnerability II
-XP Value GP Value
+**XP Value** **GP Value**
 -1:— 1,500
 -2:— 3,000
 -3: — 4,500
@@ -8484,7 +8056,7 @@ e =——~ppe *
  
 
 of Polymorphing
-XP Value GP Value
+**XP Value** **GP Value**
 Glass: 225 1,350
 Ice: 225 1,350
 Monster: 225 1,350
@@ -8641,7 +8213,7 @@ the troops until it hits its target. Only one such
 arrow may be found at a time.
 
 Quarrel of Biting
-XP Value GP Value
+**XP Value** **GP Value**
 Acid: 150 400
 Normal: 100 300
 Poison: 150 400
@@ -8672,7 +8244,7 @@ Tempus, an “honorable” act). Quarrels of biting
 are usually found in bundles of 1d12.
 
 Red
-XP Value GP Value
+**XP Value** **GP Value**
 +1: 20 120
 +2: 50 300
 +3: 75 450
@@ -11242,7 +10814,7 @@ His hand axe does 2d10 points of damage and he
 often throws it at the strongest enemy he faces.
 
 of Hurling
-XP Value GP Value
+**XP Value** **GP Value**
 +1: 1,500 15,000
 +2: 3,000 30,000
 +3: 4,500 45,000
@@ -11471,7 +11043,7 @@ that he calls Thor's Kiss. This weapon does not
 have any other extraordinary powers.
 
 Throwing
-XP Value GP Value
+**XP Value** **GP Value**
 +1: 600 3,500
 +2: 750 4.500
 +3: 1,000 5,000
@@ -13148,7 +12720,7 @@ Ravenloft powers check.
 
 Bucknard’s Everfull Purse
 
-XP Value GP Value
+**XP Value** **GP Value**
 Type I: 1,500 15,000
 Type II: 2,500 25,000
 Type III: 4,000 40,000
@@ -13404,7 +12976,7 @@ Jasper Thunderhand’s Handy Haversack
 i
 
 of Holding
-XP Value GP Value
+**XP Value** **GP Value**
 50 lb: 1,000 5,000
 100 Ib: 2,000 10,000
 150 Ib: 3,000 15,000
@@ -13968,7 +13540,7 @@ the bag is empty when it is checked later.
  
 
 a
-XP Value GP Value
+**XP Value** **GP Value**
 Bag of Aeolus: 4,000 20,000
 Bag of Boreas: 1,400 7,000
 Bag of Euros: 1,600 8,000
@@ -14984,7 +14556,7 @@ aAAuw fw he
 
 Zagyg’s Spell Component Pouch
 
-XP Value GP Value
+**XP Value** **GP Value**
 2x: 200 2,000
 3x: 300 3,000
 4x: 400 4,000
@@ -15201,7 +14773,7 @@ its opinion. The cue ball can offer only three
 opinions per day.
 
 Elemental
-XP Value GP Value
+**XP Value** **GP Value**
 Earth: 1,000 5,000
 Air: 1,000 5,000
 Fire: 1,000 5,000
@@ -15282,7 +14854,7 @@ measure a total of 20,000 yards (approximately
 rate to within one-tenth of a yard.
 
 Onyx
-XP Value GP Value
+**XP Value** **GP Value**
 Inert: 30 300
 Normal: 500 2,500
 
@@ -15315,7 +14887,7 @@ turns, then the ball shrivels and disappears.
 Li aummnel
 
 Ballistae
-XP Value GP Value
+**XP Value** **GP Value**
 Heavy +1; 1,600 8,000
 Heavy +2: 3,200 16,000
 Heavy +3: 6,400 32,000
@@ -15683,7 +15255,7 @@ Bands of the Serpent
 "neice
 
 of Might
-XP Value GP Value
+**XP Value** **GP Value**
 Str 18/00: 2,000 20,000
 Str 19; 2,500 25,000
 Str 20: 3,000 30,000
@@ -16302,7 +15874,7 @@ a = _ i =.
 
 of Deceptive Travel
 
-XP Value GP Value
+**XP Value** **GP Value**
 Basilisk: 600 6,000
 Cave bear: 600 6,000
 Giant scorpion: 500 5,000
@@ -16365,7 +15937,7 @@ forced to fly beyond the six-hour limit, the wings
 disappear, and mount and rider fall to the ground.
 
 Magical
-XP Value GP Value
+**XP Value** **GP Value**
 +1: 500 5,000
 +2: 1,000 10,000
 +3: 2,000 20,000
@@ -16606,7 +16178,7 @@ cal waters that perform a specific function.
 
 X
 of the Angel
-XP Value GP Value
+**XP Value** **GP Value**
 CG Alignment: 7,500 33,500
 LG Alignment: 7,500 33,500
 NG Alignment: 7,500 33,500
@@ -16803,7 +16375,7 @@ damage inflicted by a ram.
  
 
 Magical
-XP Value GP Value
+**XP Value** **GP Value**
 Blunt +1: 100 1,000 gp/ton
 Blunt +2: 200 2,000 gp/ton
 Blunt +3: 400 4,000 gp/ton
@@ -17005,7 +16577,7 @@ down. The effect dissipates in 3d4 rounds. About
 1d4+4 of these beads are usually found.
 
 Glass
-XP Value GP Value
+**XP Value** **GP Value**
 Fire Resistance: 250 400
 Flying: 250 400
 Healing: 250 400
@@ -17088,7 +16660,7 @@ three hours after becoming a pearl.
 
 164
 of Prayer
-XP Value GP Value
+**XP Value** **GP Value**
 Atonement: 500 1,000
 Damnation: 500 1,000
 Hindrance: 500 1,000
@@ -17194,7 +16766,7 @@ one potion type per month, determined randomly.
 Bean of Ooze, Slime,
 and Jelly
 
-XP Value GP Value
+**XP Value** **GP Value**
 Gray: 500 2,500
 Green: 500 2,500
 Orange: 500 2,500
@@ -17269,7 +16841,7 @@ inside even when covered with snow.
 
 Beholder Mouthpick
 
-XP Value GP Value
+**XP Value** **GP Value**
 Fangpick: 3,000 6,000
 Absorbing: 1,000 2,000
 
@@ -17483,7 +17055,7 @@ entirely metal, gaining a +3 bonus as well.
 
 Elk Clan Ceremonial
 
-XP Value GP Value
+**XP Value** **GP Value**
 Black: 50 500
 Blue: 50 500
 Golden: 50 500
@@ -18188,7 +17760,7 @@ the blanket is used in hand-to-hand combat.
 Blashphor’s Magical Diapers
 and Crib of Pushing
 
-XP Value GP Value
+**XP Value** **GP Value**
 
 Cradle: 800 8,000
 
@@ -18449,7 +18021,7 @@ rolls. Normal ranges are figured at short range
 for this weapon.
 
 of Distance
-XP Value GP Value
+**XP Value** **GP Value**
 +1: 1,500 10,000
 +2: 2,000 12,000
 New Item
@@ -18661,7 +18233,7 @@ devoid of vegetation.
 "cence ROR nell
 
 Folding
-XP Value GP Value
+**XP Value** **GP Value**
 Small: 5,000 12,500
 Large: 10,000 25,000
 
@@ -19113,7 +18685,7 @@ tures of 12 or more Hit Dice. If damaged, it never
 again returns to the form of a sword.
 
 Bombard
-XP Value GP Value
+**XP Value** **GP Value**
 +1: 4,000 50,000
 +2: 8,000 100,000
 +3: 16,000 200,000
@@ -19213,7 +18785,7 @@ command word is needed. The bone clapper may
 be used three times per day.
 
 Dragon
-XP Value GP Value
+**XP Value** **GP Value**
 Cursed: — 2,000
 Hatchling: 450 4,500
 Very Young: 475 4,750
@@ -19764,7 +19336,7 @@ ing a similar tome a second time.
 aetna
 
 of Golems
-XP Value GP Value
+**XP Value** **GP Value**
 Clay: 3,000 30,000
 Doll: 3,000 30,000
 Gargoyle: 3,000 30,000
@@ -19868,7 +19440,7 @@ priests attempting to read the manual must save
 vs. spell or go insane.
 
 Ravenloft Golem Books
-XP Value GP Value
+**XP Value** **GP Value**
 Clay: — —
 Doll: — —
 Gargoyle: — —
@@ -20791,7 +20363,7 @@ height of 10 feet and a maximum length of 30
 feet.
 
 of Varied Tracks
-XP Value GP Value
+**XP Value** **GP Value**
 Type A: 1,500 7,500
 Type B: 1,500 7,500
 
@@ -20835,7 +20407,7 @@ _ he
 
 Winged
 
-XP Value GP Value
+**XP Value** **GP Value**
 Fl 15, MC A: 2,000 20,000
 Fl 18, MC B: 2,000 20,000
 Fl 21, MC C: 2,000 20,000
@@ -21254,7 +20826,7 @@ still stands just a few inches tall until a dispel magic
 or enlarge spell is cast.
 
 Undead
-XP Value GP Value
+**XP Value** **GP Value**
 Ghost: 1,200 6,000
 Groaning Spirit: 1,200 6,000
 Spectres: 1,200 6,000
@@ -21458,7 +21030,7 @@ ical cord is AC -2 and takes 15 points of damage
 
 Crossbow of Distance
 
-XP Value GP Value
+**XP Value** **GP Value**
 +1: 1,500 10,000
 +2: 2,000 12,000
 
@@ -22286,7 +21858,7 @@ of vampire slaying has killed its vampiric target.
 No other beings are so affected by this bow.
 
 of Warning
-XP Value GP Value
+**XP Value** **GP Value**
 With Curse: — 1,500
 Without Curse: 500 10,500
 DRAGON Magazine 127
@@ -22778,7 +22350,7 @@ ful for making ice and preventing food spoilage.
 "Tsar suresnesasennsgerEESeneSd InSign tenenseaianeeineieeeeninnemenennieemenmmmenai
 
 of Many Holdings
-XP Value GP Value
+**XP Value** **GP Value**
 1'x1'x1': 2,000 8,000
 2'x2'x2': 4,000 16,000
 3'x3’x3': 13,500 54,000
@@ -23674,7 +23246,7 @@ dirt and foreign matter turns to dust and falls off.
 (This includes worn gloves, but not jewelry.)
 
 of Defense
-XP Value GP Value
+**XP Value** **GP Value**
 AC 2: 4,000 24,000
 AC 3: 3,500 21,000
 AC 4: 3,000 18,000
@@ -24827,7 +24399,7 @@ might be sold for 100-600 gp. If two or more
 magical buckles are worn, none have any effect.
 
 of Armor
-XP Value GP Value
+**XP Value** **GP Value**
 AC 0: 5,000 30,000
 AC 1: 4,500 27,000
 AC 2: 4,000 24,000
@@ -24844,7 +24416,7 @@ of armor may be enchanted further, at great price,
 to a maximum of +3.
 
 of Faulty Lockpicks
-XP Value GP Value
+**XP Value** **GP Value**
 ~5%: — 1,500
 -10%: — 2,000
 -15%: — 2,500
@@ -24860,7 +24432,7 @@ they become reversed when contained in this
 buckle.
 
 of Lockpicks
-XP Value GP Value
+**XP Value** **GP Value**
 +5%: 1,000 7,000
 +10%: 1,250 7,500
 +15%: 1,500 8,000
@@ -24907,7 +24479,7 @@ cloak, armor, backpack. Held items are not
 affected, only those worn.
 
 of Protection
-XP Value GP Value
+**XP Value** **GP Value**
 +1; 2,000 10,000
 +2: 2,500 12,500
 The Book of Marvelous Magic
@@ -25605,7 +25177,7 @@ kling. Each can contains enough water for four
 applications.
 
 of Preserving
-XP Value GP Value
+**XP Value** **GP Value**
 1 Cubic Foot: 100 500
 2 Cubic Feet: 200 1,000
 3 Cubic Feet: 300 1,500
@@ -25907,7 +25479,7 @@ that, it has only two turns of burning left before it
 goes out automatically.
 
 Blinking
-XP Value GP Value
+**XP Value** **GP Value**
 Normal Large: 400 2,000
 Normal Small: 100 500
 Rare Large: 2,000 10,000
@@ -25937,7 +25509,7 @@ One turn of protection from evil/good (spell-
 caster’s choice) for each turn of burning.
 
 of Brilliance
-XP Value GP Value
+**XP Value** **GP Value**
 Cursed Large: — 250
 Cursed Small: — 100
 Normal Large: 100 500
@@ -25954,7 +25526,7 @@ candles are made with vetiver, phosphorus, and
 ichor of magnesium spirit.
 
 of Charming
-XP Value GP Value
+**XP Value** **GP Value**
 Large: 400 2,000
 Small: 100 500
 
@@ -25985,7 +25557,7 @@ candle burns out or until they lead their section to
 victory in the cheering competition.
 
 Darkness
-XP Value GP Value
+**XP Value** **GP Value**
 Large: 200 4,000
 Small: 50 250
 
@@ -25998,7 +25570,7 @@ squid ink, and blood from a dark creeper or dark
 stalker.
 
 Defense
-XP Value GP Value
+**XP Value** **GP Value**
 Large: 600 3,000
 Small: 150 750
 
@@ -26026,7 +25598,7 @@ and three drops of blood from a red dragon or
 from the dragon head of a gorgimera or chimera.
 
 Disruption
-XP Value GP Value
+**XP Value** **GP Value**
 Large: 500 2,500
 Small: 125 625
 DRAGON Magazine 179
@@ -26045,7 +25617,7 @@ drops of blood from an especially holy, nonhu-
 man creature.
 
 Divination
-XP Value GP Value
+**XP Value** **GP Value**
 Large: 800 4,000
 Small: 200 1,000
 
@@ -26099,7 +25671,7 @@ gains no special ability from using these tapers.
 “enlightened.”)
 
 Exploding
-XP Value GP Value
+**XP Value** **GP Value**
 Large: — 200
 Small: — 50
 
@@ -26118,7 +25690,7 @@ and six grains each of charcoal, sulphur, and
 saltpeter.
 
 Fireballs
-XP Value GP Value
+**XP Value** **GP Value**
 Large: 500 2,500
 Small: 125 625
 
@@ -26144,7 +25716,7 @@ chimera or gorgimera.
 ~, Candle of Evocation a
 
 Flame
-XP Value GP Value
+**XP Value** **GP Value**
 Large: 200 1,000
 Small: 50 250
 
@@ -26161,7 +25733,7 @@ are made of fireweed, phosphorus, and several
 drops of blood from a salamander or phoenix.
 
 Flame Arrow
-XP Value GP Value
+**XP Value** **GP Value**
 Large: 400 2,000
 Small: 100 500
 
@@ -26176,7 +25748,7 @@ three drops of blood from a hell hound, firenewt,
 fire drake, or fire toad.
 
 Flame Blades
-XP Value GP Value
+**XP Value** **GP Value**
 Large: 400 2,000
 Small: 100 500
 
@@ -26343,7 +25915,7 @@ lasts for a total of 24 hours, but each use deducts
 a minimum of one hour's burning.
 
 of Protection II
-XP Value GP Value
+**XP Value** **GP Value**
 Large: 700 3,500
 Small: 175 875
 DRAGON Magazine 179
@@ -26373,7 +25945,7 @@ and all such questions are always answered truth-
 fully.
 
 ’ Pyrotechnics
-XP Value GP Value
+**XP Value** **GP Value**
 Large: 200 1,000
 Small: 50 250
 DRAGON Magazine 179
@@ -26401,7 +25973,7 @@ effects wearing off before the ful! duration.
 **XP Value:** 200
 
 Reflection
-XP Value GP Value
+**XP Value** **GP Value**
 Large: 300 1,500
 Small: 75 375
 
@@ -26432,7 +26004,7 @@ from a giant chameleon and hangman tree sap,
 plus several drops of quicksilver.
 
 Sanctuary
-XP Value GP Value
+**XP Value** **GP Value**
 Large: 700 3,500
 Small: 175 875
 
@@ -26450,7 +26022,7 @@ and giant skunk musk.
 
 244
 Shielding
-XP Value GP Value
+**XP Value** **GP Value**
 Improved Large: 1,500 7,500
 Improved Small: 300 1,500
 Normal Large: 1,000 5,000
@@ -26479,7 +26051,7 @@ ing, ululating beep. (Naturally, this cannot be
 used in rooms heated by poorly made fires!)
 
 of Spells
-XP Value GP Value
+**XP Value** **GP Value**
 Large: 800 4,000
 Small: 200 1,000
 
@@ -26496,7 +26068,7 @@ made with rosemary and sage, and blood from a
 highly intelligent, nonhuman, spell-using creature.
 
 Survival
-XP Value GP Value
+**XP Value** **GP Value**
 Improved Large: 300 1,500
 Improved Small: 75 375
 Normal Large: 200 1,000
@@ -26543,7 +26115,7 @@ after restore the body, but only if applied while
 the candle is lit; otherwise the victim dies.
 
 Unfailing Light
-XP Value GP Value
+**XP Value** **GP Value**
 Large: 100 500
 Small: 25 125
 DRAGON Magazine 179
@@ -26558,7 +26130,7 @@ primrose, phosphorus, and either blood from a
 blindheim or abdominal fluids from a firefiend.
 
 of Vapors
-XP Value GP Value
+**XP Value** **GP Value**
 Large: 300 1,500
 Small: 75 375
 
@@ -26642,7 +26214,7 @@ heather.
 nat
 
 Visibility
-XP Value GP Value
+**XP Value** **GP Value**
 Large: 400 2,000
 Small: 100 500
 DRAGON Magazine 179
@@ -26864,7 +26436,7 @@ ally, two command words—one to open and one
 to close.
 
 of Condiments
-XP Value GP Value
+**XP Value** **GP Value**
 Ketchup: 200 1,000
 Mustard: 400 2,000
 Pepper: 300 1,500
@@ -27258,7 +26830,7 @@ least for that occurrence.
 Cap of Sleep _
 
 School Cap
-XP Value GP Value
+**XP Value** **GP Value**
 Abjuration: 2,000 10,000
 Conjuration/Summoning; 2,000 10,000
 Greater Divination: 2,000 10,000
@@ -27444,7 +27016,7 @@ ther effect.
 
 eon
 of Protection
-XP Value GP Value
+**XP Value** **GP Value**
 +1: 1,000 5,000
 +2: 2,000 10,000
 +3: 3,000 15,000
@@ -27582,7 +27154,7 @@ resistance is already possessed, the resistance is
 increased by 20% to a maximum of 90%.
 
 of Protection
-XP Value GP Value
+**XP Value** **GP Value**
 +1: 1,000 10,000
 +2: 2,000 20,000
 +3: 3,000 30,000
@@ -27821,7 +27393,7 @@ A94
 
  
 of Flying
-XP Value GP Value
+**XP Value** **GP Value**
 1 Person: 2,500 12,500
 2 Person: 5,000 25,000
 3 Person: 7,500 37,500
@@ -28229,7 +27801,7 @@ usually enchanted to allow their owners to find
 tools or other items without searching for them.
 
 of Compression
-, XP Value GP Value
+, **XP Value** **GP Value**
 Cursed: — 1,000
 Normal: 1,000 5,000
 The Complete Bard’s Handbook
@@ -28824,7 +28396,7 @@ Dragons, wyverns, and griffins can be difficult to
 drive away, even for giants.
 
 Catapult
-XP Value GP Value
+**XP Value** **GP Value**
 Light +1: 1,000 5,000
 Light +2: 2,000 10,000
 Light +3; 4,000 20,000
@@ -29439,7 +29011,7 @@ Danleor’s Dungeon Chains
 
 Danleor’s Dungeon
 
-XP Value GP Value
+**XP Value** **GP Value**
 17 Strength: 1,500 20,000
 18/00 Strength: 2,000 26,000
 19 Strength Type I: 2,500 33,000
@@ -30726,7 +30298,7 @@ Guide, page 59).
 77) ansesensensdennsneteinennpenesihenenstineesiensreprenipeenemesseassinmemmnnemmesinmniaaiimeell
 
 Luck
-XP Value GP Value
+**XP Value** **GP Value**
 AC: 1,000/plus 5,000/plus
 Save: 750/plus 3,750/plus
 THACO: 500/plus 2,500/plus
@@ -30979,7 +30551,7 @@ light, the other dark, often colored like the board
 squares.
 
 Fextree Set
-XP Value GP Value
+**XP Value** **GP Value**
 Bishop: 1,250 18,750
 King: 8,000 40,000
 Knight: 1,000 15,000
@@ -31191,7 +30763,7 @@ gives a credible but not truly expert game.
 "Siemens
 
 Marbol’s
-XP Value GP Value
+**XP Value** **GP Value**
 Pawn: 900 12,000
 Knight: 1,250 18,750
 Bishop: 1,250 18,750
@@ -31347,7 +30919,7 @@ level or higher. The creatures may be summoned
 once per day.
 
 Foot Stool
-XP Value GP Value
+**XP Value** **GP Value**
 Extradimensional: 2,000 10,000
 Normal: 600 3,000
 
@@ -32622,7 +32194,7 @@ magical pockets, it is instantly destroyed.
 ” Siliceeeenenenepeeseenepntinetiiiiinitiiensiieiinientmeeie nein
 
 Chameleon
-XP Value GP Value
+**XP Value** **GP Value**
 Wis 15: 750 3,750
 Wis 16: 800 4,000
 Wis 17: 850 4,250
@@ -32819,7 +32391,7 @@ attacks, spitting and breath attacks, ete., which are
 aimed at the wearer of the cloak of displacement).
 
 Dragon
-XP Value GP Value
+**XP Value** **GP Value**
 Black: 1,000 10,000
 Blue: 1.000 10.000
 Brass: | .Q00 LO.O00
@@ -33785,7 +33357,7 @@ poison.
 **XP Value:** —
 
 of Protection
-XP Value GP Value
+**XP Value** **GP Value**
 Cloak +1: 1,000 10,000
 Cloak +2: 2,000 20,000
 Cloak +3: 3,000 30,000
@@ -33907,7 +33479,7 @@ other creatures within area of effect; magic is
 not reflected back on the caster.
 
 Rhun’s Horned
-XP Value GP Value
+**XP Value** **GP Value**
 Horns: 2,000 7,000
 Visor: 2,200 7,500
 Tail: 2,500 10,000
@@ -34039,7 +33611,7 @@ truth of this, it must be stressed, is presently
 unknown (DM'’s option).
 
 of Stars
-XP Value GP Value
+**XP Value** **GP Value**
 Type I: 1,200 7,500
 Type II: 1,200 7,500
 Type III: 1,200 7,500
@@ -35988,7 +35560,7 @@ only for one hour per use.
  
 
 of Protection
-XP Value GP Value
+**XP Value** **GP Value**
 +1: 1,000 10,000
 +2: 2,000 0,000
 +3: 3,000 30,000
@@ -37040,7 +36612,7 @@ interrupted once, as long as the full turn of talk-
 ing is then completed.
 
 Naga
-XP Value GP Value
+**XP Value** **GP Value**
 Normal: 6,000 45,000
 Altering: 7,000 50,000
 Teleporting: 8,000 55,000
@@ -37761,7 +37333,7 @@ magic of wizards and priests.
 Crystal of Death Scrying
 
 Abelaat
-XP Value GP Value
+**XP Value** **GP Value**
 Normal: 20 100
 Special: 40 200
 Escape from Thunder Rift
@@ -38147,7 +37719,7 @@ crystal ships, but no other race uses them.
 Crystal Ball
 
 I
-XP Value GP Value
+**XP Value** **GP Value**
 Clairaudial; 2,000 10,000
 Crystal Ball: 1,000 5,000
 Extraperceptive: 2,000 10,000
@@ -38283,7 +37855,7 @@ covered under the clairvoyance spell description
 and the entries for other imitative spells.
 
 Il
-XP Value GP Value
+**XP Value** **GP Value**
 Clairaudial: 2,000 10,000
 Extra-sensory: 2,000 20,000
 Normal: 1,000 50,000
@@ -38570,7 +38142,7 @@ the parrot’s destruction.
 
 Crystal Warrior
 
-XP Value GP Value
+**XP Value** **GP Value**
 Diamond: 14,000 70,000
 Glass: 10,000 50,000
 Jade: 10,000 50,000
@@ -39566,7 +39138,7 @@ into a sling of seeking +2 if Brandobaris so
 wishes.
 
 Buckle Knife
-XP Value GP Value
+**XP Value** **GP Value**
 +1: 100 1,000
 +2: 200 2,000
 +3: 300 3,000
@@ -39846,7 +39418,7 @@ weapon. Eviscerator also becomes warm to the
 touch if a magical trap is within 5 feet.
 Fang
 
-XP Value GP Value
+**XP Value** **GP Value**
 Type A poison: 2,500 7,500
 Type B poison: 2,500 7,500
 Type C poison: 2,500 7,500
@@ -40242,7 +39814,7 @@ vs. death magic or fall into a trance and be con-
 trolled by the avatar as if they were undead.
 
 Hornblade
-XP Value GP Value
+**XP Value** **GP Value**
 Knife-sized: 500 1,750
 Dagger-sized: 750 2,000
 
@@ -40622,7 +40194,7 @@ vous ways. Random target daggers are usually
 found in groups of three,
 
 Resource
-XP Value GP Value
+**XP Value** **GP Value**
 +2: 500 5,000
 +3: 500 5,000
 +4: 500 5,000
@@ -40904,7 +40476,7 @@ reduced to 0 or less, the victim is slain. If not, the
 lost points return over the next 1d6 days.
 
 of Throwing
-XP Value GP Value
+**XP Value** **GP Value**
 +1: 250 1,250
 +2; 350 1,750
 +3: 450 2,250
@@ -41278,7 +40850,7 @@ if a 5 is rolled for a curing arrow +2, the total
 
 points of damage cured are 9.
 Death
-XP Value GP Value
+**XP Value** **GP Value**
 Large: 4,000 16,000
 Small: 5,000 20,000
 Menzoberranzan Campaign Set
@@ -41430,7 +41002,7 @@ have twice the range of ordinary darts-20 yards
 short, 40 yards medium, 80 yards long.
 
 of the Hornets’ Nest
-XP Value GP Value
+**XP Value** **GP Value**
 +1: 750 3,750
 +2: 1,500 7,500
 +3; 3,000 15,000
@@ -45312,7 +44884,7 @@ into the surrounding area.
 
 Disintegration Chamber
 
-XP Value GP Value
+**XP Value** **GP Value**
 1’x1'x1': 500 2,500
 2'x2'x3’: 1,000 5,000
 3’x3'x6’: 1,500 7,500
@@ -45480,7 +45052,7 @@ current adventure.
 
 Tenser’s Tantalus
 
-XP Value GP Value
+**XP Value** **GP Value**
 Normal: 3,000 15,000
 With Alarm: 3,500 17,500
 
@@ -45835,7 +45407,7 @@ The Book of Marvelous Magic
 This apparently normal door causes the user to step back into the original room or corridor, without actually going anywhere. It functions as a normal door if the proper command word is spoken as the door is used.
 
 of Teleportation
-XP Value GP Value
+**XP Value** **GP Value**
 Greater: 4,500 22,500
 Lesser: 3,000 15,000
 The Book of Marvelous Magic
@@ -45875,7 +45447,7 @@ Rogue’s Gallery
 The dress of amazement can take on any form, style, or color the owner desires, but always retains an opulent appearance. When worn, the dress of amazement sparkles and reflects light in a pleasant manner. Charisma is raised to racial maximum (or 18). Anyone who looks at the dress must successfully save vs. spell or be subject to hypnotism (as the 8th-level spell). If no light source is near, the dress cannot work. The spell darkness negates any effect from the dress. Dispel magic renders the special effects of the dress non-operational for 1d4 rounds. The touch of the blind also inhibits the dress from operation for one turn, although no one is quite sure why.
 
 of Protection
-XP Value GP Value
+**XP Value** **GP Value**
 Cursed -1: — 1,800
 +1 to saves: 1,000 7,500
 +1: 1,000 10,000
@@ -45932,7 +45504,7 @@ This fine powder appears like any other dust unless a careful examination is con
 Dust of appearance is typically stored in small silk packets or hollow bone blow tubes. A packet can be shaken out to cover an area in a radius of 10 feet from the user. A tube can be blown in a cone shape, 1-foot wide at the start, 15 feet at the end, and 20 feet long. As few as five or as many as 50 containers may be found in one place.
 
 of Blandness
-XP Value GP Value
+**XP Value** **GP Value**
 Blandness: 20 100
 Piquantness: 20 100
 Prince of Lankhmar
