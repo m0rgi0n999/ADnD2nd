@@ -1496,237 +1496,80 @@ The wearer of this item is protected from being spied upon with //crystal balls/
 of Protection from Good
 **XP Value:** 600 **GP Value:** 3,000
 DUNGEON Magazine 11
-This item is worn by all temple guards and priests
-of evil deities. The amulets are created by a spe-
-cial process known only to higher-level priests.
-Each amulet, shaped like a distorted skull, is
-worn in plain view and serves as an unholy sym-
-bol. A +2 bonus is given to the wearer’s Armor
-Class as long as the wearer remains evil, and a +1
-attack bonus is applied when fighting good-
-aligned creatures.
-
- 
-
- 
+This item is worn by all temple guards and priests of evil deities. The amulets are created by a special process known only to higher-level priests. Each amulet, shaped like a distorted skull, is worn in plain view and serves as an //unholy symbol//. A +2 bonus is given to the wearer’s Armor Class as long as the wearer remains evil, and a +1 attack bonus is applied when fighting good-aligned creatures.
 
 of Protection from Sleep
 **XP Value:** 500 **GP Value:** 2,000
 DRAGON Magazine 9]
-
 When worn on a chain or on a cord around the
 neck, this object prevents its wearer from falling
 asleep, cither natural or induced, magical sleep.
 The wearer is always alert under its influence,
-and cannot be affected by s/eep spells, potions, or
+and cannot be affected by //sleep// spells, potions, or
 poisons that cause sleep, nor the sleep gaze of a
 jackalwere, or any other item or procedure that
 causes sleep or drowsiness.
 
-The amulet of protection from sleep can be
+The //amulet of protection from sleep// can be
 worn as long as desired. However, after three
 days of continuous use, the wearer begins to have
 mild and infrequent hallucinations. These effects
-
- 
-
-"Ui opr enn RD enpeERER EREEREnnenmnenneennremmmmmmmesill”
-
 increase in frequency and intensity each day after
 that. After seven straight days of sleeplessness,
 the user is afflicted by a form of insanity, deter-
 mined by a roll of 1d6:
 
-Roll Induced Dementia
+{|
+! **Roll** 
+! **Induced Dementia** 
+|-
+| 1 
+| **Dementia Praecox:** The afflicted character is quite uninterested in any undertaking when suffering from this form of madness. Nothing seems worthwhile, and the individual is filled with lassitude and a tremendous feeling of ennui. No matter how important the situation, it is 25% likely that the distressed character chooses to ignore it as meaningless.
+|-
+| 2 
+| **Delusional Insanity:** Similar to megalomania, in this state, the deluded person is convinced that he or she is a famous figure—a monarch, demigod, or similar personage. Those who fail to recognize the true nature of the afflicted arouse great hostility. In normal affairs, the individual seems sane, but acts in a manner appropriate to a station that he or she does not actually hold, gives orders to actual or imagined creatures, and draws upon monies or items that do not exist.
+|-
+| 3 
+| **Schizophrenia:** This form of insanity strikes suddenly and violently (1 in 6 chance per turn, lasting 2d6 turns, then 1 in 6 chance per turn to return to normal). The afflicted can become hysterical, enraged, or completely maniacal. The insane character shrieks, raves, and behaves in a violent manner, possessing 18/50, 18/75, or 18/00 Strength according to the state he or she is in. 
+{|
+! **Roll** 
+! **State Strength** 
+|-
+| 1-2 
+| Hysteria 18<sup>50</sup>
+|-
+| 3-4 
+| Enragement 18<sup>75</sup>
+|-
+| 5-6 
+| Mania 18<sup>00</sup> 
+|}
+|-
+| 4 
+| **Paranoia:** At the onset of this derangement, the beset individual becomes convinced that “they” are plotting against him or her, spying, listening, and always nearby. As the affliction develops over several days, the tormented character becomes convinced that everyone is part of the plot. Conversations are about the paranoid character, laughter is directed at him or her, and every action of former friends is aimed at deluding the afflicted to fulfill the “plot.” The paranoid is principally concerned about social positions or goods first, but as the ailment progresses, he or she “realizes” that the plotters are actually after his or her life. A paranoid displays signs of increasing suspicion, taking elaborate precautions with locks, guards, devices, and food and drink. In the later stages of paranoia, the victim exhibits extremely irrational behavior, may hire assassins to do away with “plotters,” or even become homicidal in order to protect his or her life. Paranoids trust absolutely no one when the affliction is in the advanced stage, regarding their former close associates and friends as their worst enemies.
+|-
+| 5-6 
+| **Hallucinatory insanity:** This malady causes the sufferer to see, hear, and otherwise sense things that do not exist. The more exciting or stressful a given situation, the more likely the individual is to hallucinate. Common delusions are: ordinary objects that do not exist, people nearby or passing when there are no people, voices giving information or instructions, abilities or forms that the character does not really possess (Strength, wings, gills, etc.), threatening creatures appearing from nowhere, etc. It is 50% likely that the afflicted individual behaves normally until stimulated or under stress. Hallucinations commence and continue for 1d20 turns after the excitement or stress passes.
+|}
 
-l Dementia Praecox: The afflicted charac-
-ter is quite uninterested in any undertak-
-ing when suffering from this form of
-madness. Nothing seems worthwhile, and
-the individual is filled with lassitude and
-a tremendous feeling of ennui. No matter
-how important the situation, it is 25%
-likely that the distressed character
-chooses to ignore it as meaningless,
+(Note that even nonfighters can possess exceptional Strength during this state, as can nonhuman races.) The lunatic is unreasonable when spoken to, but he or she possesses great cunning. The afflicted person seeks to either avoid conflict or to do something (not necessarily the appropriate something) about the situation at hand. When the madness has passed, the afflicted one does not remember his or her actions while mad, believing that he or she is sane.
 
-2 _ Delusional Insanity: Similar to megalo-
-mania, in this state, the deluded person is
-convinced that he or she is a famous fig-
-ure—a monarch, demigod, or similar per-
-sonage. Those who fail to recognize the
-true nature of the afflicted arouse great
-hostility. In normal affairs, the individual
-seems sane, but acts in a manner appro-
-priate to a station that he or she does not
-actually hold, gives orders to actual or
-imagined creatures, and draws upon
-monies or items that do not exist.
-
-3 Schizophrenia: This form of insanity
-strikes suddenly and violently (1 in 6
-chance per turn, lasting 2d6 turns, then 1
-in 6 chance per turn to return to normal).
-The afflicted can become hysterical,
-enraged, or completely maniacal. The
-insane character shrieks, raves, and
-behaves in a violent manner, possessing
-18/50, 18/75, or 18/00 Strength accord-
-ing to the state he or she is in.
-
-Roll State Strength
-1-2 Hysteria 18
-34 Enragement 18”
-5-6 Mania 18”
-
-(Note that even nonfighters can possess excep-
-tional Strength during this state, as can nonhu-
-man races.) The lunatic is unreasonable when
-spoken to, but he or she possesses great cunning.
-The afflicted person seeks to either avoid conflict
-or to do something (not necessarily the appropri-
-ate something) about the situation at hand. When
-the madness has passed, the afflicted one does not
-remember his or her actions while mad, believing
-
-that he or she is sane.
-62
-
- 
-
-40
-
-Xe
-4 Paranoia: At the onset of this derange-
-ment, the beset individual becomes con-
-vinced that “they” are plotting against
-him or her, spying, listening, and always
-nearby. As the affliction develops over
-several days, the tormented character
-becomes convinced that everyone is part
-of the plot. Conversations are about the
-paranoid character, laughter is directed at
-him or her, and every action of former
-friends is aimed at deluding the afflicted
-to fulfill the “plot.” The paranoid is prin-
-cipally concerned about social positions
-or goods first, but as the ailment pro-
-gresses, he or she “realizes” that the plot-
-ters are actually after his or her life. A
-paranoid displays signs of increasing sus-
-picion, taking elaborate precautions with
-locks, guards, devices, and food and
-drink. In the later stages of paranoia, the
-victim exhibits extremely irrational
-behavior, may hire assassins to do away
-with “plotters,” or even become homici-
-dal in order to protect his or her life.
-Paranoids trust absolutely no one when
-the affliction is in the advanced stage,
-regarding their former close associates
-and friends as their worst enemies.
-
-5-6  Hallucinatory insanity: This malady
-causes the sufferer to see, hear, and oth-
-erwise sense things that do not exist. The
-more exciting or stressful a given situa-
-tion, the more likely the individual is to
-hallucinate. Common delusions are: ordi-
-nary objects that do not exist, people
-nearby or passing when there are no
-people, voices giving information or
-instructions, abilities or forms that the
-character does not really possess
-(Strength, wings, gills, etc.), threatening
-creatures appearing from nowhere, etc. It
-is 50% likely that the afflicted individual
-behaves normally until stimulated or
-under stress. Hallucinations commence
-and continue for 1d20 turns after the
-excitement or stress passes.
-
-The hallucinations stop immediately if the
-amulet is taken off before seven straight days of
-use, but if the wearer is stricken by insanity, this
-condition persists until removed by a heal,
-restoration, or wish spell, or by similar magic. If
-
-Amulet of Protection from Turning
-
-scenes inimical
-
-the amulet is worn for 10 consecutive days, the
-wearer dies when the 10th day has passed. No
-magical cures can offset this effect, and the char-
-acter can only be brought back to life by a raise
-dead, resurrection, or wish spell. The amulet does
-not provide a substitute for sleep, it merely post-
-pones the need for it. A character who goes with-
-out sleep by using the amulet eventually has to
-make up for this deficiency.
-
-To make up lost sleep, a character only needs
-to sleep one half-hour for each hour of lost slum-
-ber. This does not apply when the deficit is a full
-night’s sleep (8 hours or less); in that case, lost
-sleep must be made up on an hour-for-hour basis.
-The wearer of the amulet is not penalized for lack
-of sleep (except by the side effects described
-above). Lost hit points are regained at the normal
-rate, and a spellcaster’s ability to study and mem-
-orize spells is not impaired by lack of sleep as
-long as the amulet is worn.
-
-The amulet can be removed at any time, either by
-the wearer or someone else. If the wearer has lost
-16 hours (two nights) of sleep or less when the
-amulet is removed, he or she is able to remain
-awake for up to one hour, if engaged in fairly stren-
-uous physical activity. (No one drops off to sleep in
-front of an onrushing dragon, for instance.) If the
-amulet has been used to postpone sleep for longer
-than two nights, the wearer immediately falls
-asleep when the amulet is removed, and cannot be
-awakened by normal means for 1-6 hours there-
-after. A haste or similar spell can restore the char-
-acter to consciousness (but not provide any hasting
-effects) for the duration of the spell. Until a charac-
-ter has made up all lost sleep, he or she fights at —-1
-to attack rolls for every 8 hours of sleep (or any
-portion of that) that have not been made up. The
-amulet may be worn by any character class, and
-functions indefinitely without need for recharging.
+<wrap indent>The hallucinations stop immediately if the amulet is taken off before seven straight days of use, but if the wearer is stricken by insanity, this condition persists until removed by a //heal//, //restoration//, or //wish// spell, or by similar magic. If the amulet is worn for 10 consecutive days, the wearer dies when the 10th day has passed. No magical cures can offset this effect, and the character can only be brought back to life by a //raise dead//, r//esurrection//, or //wish// spell. The amulet does not provide a substitute for sleep, it merely postpones the need for it. A character who goes without sleep by using the amulet eventually has to make up for this deficiency.</warp>\\
+<wrap indent>To make up lost sleep, a character only needs to sleep one half-hour for each hour of lost slumber. This does not apply when the deficit is a full night’s sleep (8 hours or less); in that case, lost sleep must be made up on an hour-for-hour basis. The wearer of the amulet is not penalized for lack of sleep (except by the side effects described above). Lost hit points are regained at the normal rate, and a spellcaster’s ability to study and memorize spells is not impaired by lack of sleep as long as the amulet is worn.</wrap>\\
+<wrap indent>The amulet can be removed at any time, either by the wearer or someone else. If the wearer has lost 16 hours (two nights) of sleep or less when the amulet is //removed//, he or she is able to remain awake for up to one hour, if engaged in fairly strenuous physical activity. (No one drops off to sleep in front of an onrushing dragon, for instance.) If the amulet has been used to postpone sleep for longer than two nights, the wearer immediately falls asleep when the amulet is removed, and cannot be awakened by normal means for 1-6 hours thereafter. A //haste// or similar spell can restore the character to consciousness (but not provide any //hasting// effects) for the duration of the spell. Until a character has made up all lost sleep, he or she fights at -1 to attack rolls for every 8 hours of sleep (or any portion of that) that have not been made up. The amulet may be worn by any character class, and functions indefinitely without need for recharging.</wrap>
 
 of Protection from Turning
-
 **XP Value** **GP Value**
-
 +1: 1,000 5,000
-
 +2: 1,500 7,500
-
 +3: 2,000 10,000
-
 +4; 2,500 12,500
-
 +5: 3,000 15,000
 The Hidden Shrine of Tamoachan
+This is an amulet of silver and turquoise. It allows any creature who is being turned to save vs. turning with a bonus to its roll, depending upon the variety at hand.
 
-This is an amulet of silver and turquoise. It allows
-any creature who is being turned to save vs. turn-
-ing with a bonus to its roll, depending upon the
-
-variety at hand.
-63
-
- 
-
-41
-
-XN
-Amulet of Psionic Interference
-
+Amulet of Psionic Interference
 of Psionic Interference
-
 **XP Value:** 5,000 **GP Value:** 7,500
 Dark SUN Campaign Set
 This item scrambles the wearer’s psionic abilities,
@@ -1740,377 +1583,113 @@ the wearer’s ability to recover psionic strength
 points. Only the person who places the amulet
 can remove it. If someone puts it on, he or she
 can easily remove it, but if it was placed there by
-another, it cannot be removed without a remove
-curse or wish spell.
+another, it cannot be removed without a //remove
+curse// or //wish// spell.
 
 of Psionic Reflection
 **XP Value:** 2,500 **GP Value:** 10,000
 DRAGON Magazine 99
-
-The ancient githyanki/mind flayer wars spawned
-a number of interesting, psionically related magi-
-cal items and weapons. Among them is the gith-
-yanki amulet of psionic reflection, a small, ornate
-device that is pinned to a headband and placed so
-that it is centered on the user’s forehead. The
-wearer is protected from all Psionic Blast attacks;
-the protection does not extend to anyone else. In
-addition, if a Psionic Blast is cast upon the person
-wearing this amulet, the amulet itself generates a
-Psionic Blast in the direction of the attacker, at 4
-the strength of the original attack (round fractions
-down), If the wearer is psionic, he or she cannot
-fire a Psionic Blast without being destroyed.
-
-This device is generally used by githyanki
-scouts operating alone on missions into illithid
-lairs. Wearing these amulets is considered a great
-honor, and githyanki go to great lengths to
-recover lost amulets. Mind flayers are equally
-enraged to see such an amulet if they recognize it
-for what it is. Only humans, githyanki, and githz-
-erai may use this item; psionic demihumans and
-nonpsionic characters are neither aided nor
-injured by it.
+The ancient githyanki/mind flayer wars spawned a number of interesting, psionically related magical items and weapons. Among them is the githyanki //amulet of psionic reflection//, a small, ornate device that is pinned to a headband and placed so that it is centered on the user’s forehead. The wearer is protected from all Psionic Blast attacks; the protection does not extend to anyone else. In addition, if a Psionic Blast is cast upon the person wearing this amulet, the amulet itself generates a Psionic Blast in the direction of the attacker, at 4 the strength of the original attack (round fractions down), If the wearer is psionic, he or she cannot fire a Psionic Blast without being destroyed.\\
+<wrap indent>This device is generally used by githyanki scouts operating alone on missions into illithid lairs. Wearing these amulets is considered a great honor, and githyanki go to great lengths to recover lost amulets. Mind flayers are equally enraged to see such an amulet if they recognize it for what it is. Only humans, githyanki, and githzerai may use this item; psionic demihumans and nonpsionic characters are neither aided nor injured by it.</wrap>
 
 of Psychic Protection
 **XP Value:** 3,000 **GP Value:** 15,000
 D&D Expert Rules Set
-This amulet is good against both crystal balls and
-ESP. The wearer of this item is automatically pro-
-tected from spying by anyone using a crystal ball
-or any type of ESP.
-
-"Rin
+This amulet is good against both //crystal balls// and //ESP//. The wearer of this item is automatically protected from spying by anyone using a //crystal ball// or any type of //ESP//.
 
 of Recall
-
 **XP Value:** 1,000 **GP Value:** 5,000
 Ghost Tower of Inverness
-The amulet of recall can teleport or plane shift its
-user (and anyone touching the user) and all car-
-ried gear, to its symbiont point. The amulet’s
-symbiont point is the last location in which it lay,
-untouched by any living creature, for 30 days or
-more.
-
- 
+The //amulet of recall// can //teleport// or //plane shift// its user (and anyone touching the user) and all carried gear, to its symbiont point. The amulet’s symbiont point is the last location in which it lay, untouched by any living creature, for 30 days or more.
 
 Shakti
-
 **XP Value:** 6,000 **GP Value:** 60,000
-
 DUNGEON Magazine 45
-When called to battle, Cosette uses a small fig-
-urine at her belt called a shakti. When she
-speaks the command word, the shakti sur-
-rounds her in scintillating blue-green armor
-(AC 0) and arms her with two short swords +]
-that give off electrical discharges when they hit
-an opponent (2d6+1 hp damage) on an attack
-roll of 20.
+When called to battle, Cosette uses a small figurine at her belt called a //shakti//. When she speaks the command word, the //shakti// surrounds her in scintillating blue-green armor (AC 0) and arms her with two //short swords +1// that give off electrical discharges when they hit an opponent (2d6+1 hp damage) on an attack roll of 20.
 
 Shell of Protection from Sharks
 **XP Value:** 600 **GP Value:** 3,000
 Otherlands
-This amulet is always in the form of a beautifully
-polished seashell half. When worn around the
-
-neck, it creates a circle of protection with a 10-
-69
-
- 
-
-42
-
-%
-foot radius around the owner. Sharks cannot pen-
-etrate the circle, but the protection is forfeited if
-the user attacks.
+This amulet is always in the form of a beautifully polished seashell half. When worn around the neck, it creates a //circle of protection// with a 10-foot radius around the owner. Sharks cannot penetrate the circle, but the protection is forfeited if the user attacks.
 
 Shield
 **XP Value:** 750 **GP Value:** 7,500
 POLYHEDRON Newszine 67
-These small amulets of carved stone contain up
-to 24 charges. After uttering the command word
-(usually inscribed on the amulet), the wearer is
-protected with a shield spell, cast at the 12th level
-with a duration of six turns. Each use expends
-one charge, and the item cannot be recharged.
+These small amulets of carved stone contain up to 24 charges. After uttering the command word (usually inscribed on the amulet), the wearer is protected with a //shield// spell, cast at the 12th level with a duration of six turns. Each use expends one charge, and the item cannot be recharged.
 
 of Sleeplessness
-
-**GP Value:** 1,000
+**XP Value:** -- **GP Value:** 1,000
 DRAGON Magazine 91
-This magic item is the same as the amulet of pro-
-tection from sleep. When worn, it performs all of
-the same functions, with all of the same restric-
-tions and dangers. However, it cannot be removed
-from the wearer’s neck by anything less than a
-limited wish or alter reality spell.
-
- 
-
-**XP Value:**
+This magic item is the same as the //amulet of protection from sleep//. When worn, it performs all of the same functions, with all of the same restrictions and dangers. However, it cannot be removed from the wearer’s neck by anything less than a //limited wish// or //alter reality// spell.
 
 of Spinecastle
 **XP Value:** 900 **GP Value:** 4,500
 GREYHAWK Adventures
-
-The wizards of the Kingdom of Aerdy created
-this amulet to aid in the war against the northern
-barbarians. After the fall of Spinecastle, the
-amulet disappeared. Scholars assumed it didn’t
-survive the wrath of the barbarians, but stories of
-the amulet’s use still surface in the Bone March.
-
-Once per hour this golden amulet can be com-
-manded to radiate a magical aura in a 30-foot
-radius for one turn. The aura has negative effects
-on all northern barbarians, raising their supersti-
-tious fears and generating hatred for magic.
-Those of the Ist to 4th level must save vs. spell or
-immediately retreat out of the area of effect for
-1d8 turns. Those of the 5th to 7th level must save
-vs. spell or be stunned for one round. Those of
-higher level suffer a -1 on their attack rolls.
+The wizards of the Kingdom of Aerdy created this amulet to aid in the war against the northern barbarians. After the fall of Spinecastle, the amulet disappeared. Scholars assumed it didn’t survive the wrath of the barbarians, but stories of the amulet’s use still surface in the Bone March.\\
+<wrap indent>Once per hour this golden amulet can be commanded to radiate a magical aura in a 30-foot radius for one turn. The aura has negative effects on all northern barbarians, raising their superstitious fears and generating hatred for magic. Those of the Ist to 4th level must save vs. spell or immediately retreat out of the area of effect for 1d8 turns. Those of the 5th to 7th level must save vs. spell or be stunned for one round. Those of higher level suffer a -1 on their attack rolls.</wrap>
 
 of the Spirit
-**XP Value:** 1,000
+**XP Value:** 1,000 **GP Value:** 5,000
 Fate of Istus
-This item is a small gold disk on a thin chain. The
-use of detect magic and similar spells indicate a
-strong dweomer, but won’t give any idea of
-exactly what the amulet’s powers are.
-Anyone wearing the amulet is immune to
-
-**GP Value:** 5,000
-
-Amulet of Transformation
-
-magic and attacks that directly affect the soul or
-spirit (Like trap the soul, magic jar, a ghost
-attack, or possession). The amulet also provides a
-25% magic resistance against ESP and telepathy
-that cannot be waived.
-
-If the wearer dies while wearing the amulet, his
-essence is held in stasis until freed. While in sta-
-sis, the essence cannot progress to any other
-plane of existence that may be waiting for it; the
-person cannot be raised, resurrected or reincar-
-nated; and speak with dead and similar spells
-won’t work at all. To free the essence, the amulet
-must be removed from contact with the body,
-then the spells bless, protection from evil, and
-chant must be cast over the body.
+This item is a small gold disk on a thin chain. The use of //detect magic// and similar spells indicate a strong dweomer, but won’t give any idea of exactly what the amulet’s powers are. Anyone wearing the amulet is immune to magic and attacks that directly affect the soul or spirit (Like //trap the soul//, //magic jar//, a ghost attack, or possession). The amulet also provides a 25% magic resistance against //ESP// and //telepathy// that cannot be waived.\\
+<wrap indent>If the wearer dies while wearing the amulet, his essence is held in stasis until freed. While in stasis, the essence cannot progress to any other plane of existence that may be waiting for it; the person cannot be //raised//, //resurrected// or //reincarnated//; and //speak with dead// and similar spells won’t work at all. To free the essence, the amulet must be removed from contact with the body, then the spells bless, //protection from evil//, and //chant// must be cast over the body.</wrap>
 
 Thet of Ptah
-
 **XP Value:** **GP Value:** —
 Gods, Demigods, & Heroes
-
-Ptah enjoys new ideas and devices. When a being
-creates a device that is highly useful (DM’s
-option), there is a 10% chance that the deity will
-reward that being with a thet. This device is an
-amulet geared to do one of two things—either
-project an antimagic shell around the user that
-does not affect the user’s ability to cast spells, or
-allow the wearer to go ethereal once a week.
-
- 
+Ptah enjoys new ideas and devices. When a being creates a device that is highly useful (DM’s option), there is a 10% chance that the deity will reward that being with a //thet//. This device is an amulet geared to do one of two things—either project an antimagic shell around the user that does not affect the user’s ability to cast spells, or allow the wearer to go ethereal once a week.
 
 of Timekeeping
-
 **XP Value:** 100 **GP Value:** 500
 The Book of Marvelous Magic
-This simple hexagonal medallion is inscribed
-with three lines connecting the points and cross-
-ing in the center. Upon command, the six sections
-of the amulet slowly turn color, one at a time.
-Each color shift is gradual, taking one turn. When
-the last section completes its color shift, exactly
-one hour after the command, the entire medallion
-returns to its original color and resumes the
-process. It stops keeping time on command of the
-user. The amulet functions only on the Prime
-Material Plane and stops in mid-change if taken
-to another plane.
+This simple hexagonal medallion is inscribed with three lines connecting the points and crossing in the center. Upon command, the six sections of the amulet slowly turn color, one at a time. Each color shift is gradual, taking one turn. When the last section completes its color shift, exactly one hour after the command, the entire medallion returns to its original color and resumes the process. It stops keeping time on command of the user. The amulet functions only on the Prime Material Plane and stops in mid-change if taken to another plane.
 
 of Transformation
 **XP Value:** 350 **GP Value:** 3,500
 DRAGON Magazine 187
-
-These amulets, carved from oak bark, are hung
-around the neck by cords of woven mistletoe.
-Each amulet enables a druid to transform into a
-specific animal—mammal, bird, reptile, amphib-
-ian, fish, or insect. This transformation is like the
-
-76
-
- 
-
-43
-
-Ma
-Two Fingers Amulet
-
-transformation ability druids acquire at the 7th
-level, except that it does not heal hit point dam-
-age and a druid using such an amulet radiates
-faintly of alteration magic when transformed. To
-activate an amulet, a druid must be wearing it and
-must speak a command word. Only one amulet
-may be worn at a time, and the druid must poly-
-morph to human form before using the 7th-level
-transformation ability. Druids may use each
-amulet in their possession once per day.
-
-Amulets of transformation are generally found
-in groups of two to five. Mammal and bird forms
-are common; the other forms are rare, as are the
-forms of animals larger than a black bear or
-smaller than a toad, Note that two druids who use
-the same amulet on different occasions appear
-identical once transformed. The amulet allows
-transformation into a particular creature recog-
-nizable by druids, rangers, and members of the
-same creature species. When the transformation
-occurs, the animal form is visibly as healthy as
-the druid’s form was before the transformation. If
-a druid dies in animal form, he or she reverts to
-original form and the amulet crumbles into dust.
+These amulets, carved from oak bark, are hung around the neck by cords of woven mistletoe. Each amulet enables a druid to transform into a specific animal—mammal, bird, reptile, amphibian, fish, or insect. This //transformation// is like the transformation ability druids acquire at the 7th level, except that it does not heal hit point damage and a druid using such an amulet radiates faintly of alteration magic when transformed. To activate an amulet, a druid must be wearing it and must speak a command word. Only one amulet may be worn at a time, and the druid must //polymorph// to human form before using the 7th-level transformation ability. Druids may use each amulet in their possession once per day.\\
+<wrap indent>//Amulets of transformation// are generally found in groups of two to five. Mammal and bird forms are common; the other forms are rare, as are the forms of animals larger than a black bear or smaller than a toad, Note that two druids who use the same amulet on different occasions appear identical once //transformed//. The amulet allows transformation into a particular creature recognizable by druids, rangers, and members of the same creature species. When the //transformation// occurs, the animal form is visibly as healthy as the druid’s form was before the //transformation//. If a druid dies in animal form, he or she reverts to original form and the amulet crumbles into dust.</wrap>
 
 Two Fingers
 **XP Value:** 1,400 **GP Value:** 14,000
 IMAGINE Magazine 16
-This amulet was intended to represent the two
-fingers of Horus, the god of the sky. He used
-them to help his father Osiris, the god of the
-Underworld, up the ladder and into the heavens. It
-is often found on the interior of mummy casks; it
-is usually made of obsidian or hematite.
-
-The amulet allows its living user to create a
-ladder that magically extends as far as 100 feet.
-The ladder can be used at any angle (even hori-
-zontally), extending from the character’s feet as
-far as needed. The ladder can hold up to 1,000
-pounds. If more than 1,000 Ibs. is applied to the
-ladder, it immediately converts back into an
-amulet. The amulet can be used once per day.
+This amulet was intended to represent the two fingers of Horus, the god of the sky. He used them to help his father Osiris, the god of the Underworld, up the ladder and into the heavens. It is often found on the interior of mummy casks; it is usually made of obsidian or hematite.\\
+<wrap indent>The amulet allows its living user to create a ladder that magically extends as far as 100 feet. The ladder can be used at any angle (even horizontally), extending from the character’s feet as far as needed. The ladder can hold up to 1,000 pounds. If more than 1,000 Ibs. is applied to the ladder, it immediately converts back into an amulet. The amulet can be used once per day.</wrap>
 
 of Undersea Friendship
 **XP Value:** 800 **GP Value:** 4,000
 Nightwatch in the Living City
-This powerful medallion was created by the
-Locathah for diplomatic negotiations between
-underwater races, It works as a friendship spell,
-with permanency cast on it. If worn by a water
-breather it makes all creatures perceive the
-wearer as a friend. The amulet works only on
-
-"senses eneeeeeiepeemnmmeneineedinaineninnenicieecniilll
-
-races born to be water breathers, and drives non-
-water breathers insane within hours. The insanity
-manifests itself as an obsession to attack all those
-nearby. It causes the wearer to think all other
-beings are fish-headed humanoids. A remove
-curse spell is required for land-based creatures to
-remove the item from another’s body.
+This powerful medallion was created by the Locathah for diplomatic negotiations between underwater races, It works as a //friendship// spell, with //permanency// cast on it. If worn by a water breather it makes all creatures perceive the wearer as a friend. The amulet works only on races born to be water breathers, and drives non-water breathers insane within hours. The insanity manifests itself as an obsession to attack all those nearby. It causes the wearer to think all other beings are fish-headed humanoids. A //remove curse// spell is required for land-based creatures to remove the item from another’s body.
 
 of Vadarin
-
 **XP Value:** — **GP Value:** 2,500
 1992 Fantasy Collector Card 21
-
-This amulet has been specifically created by
-Vadarin, psionically enhanced by him to provide
-the following powers—five times per day, the
-amulet issues a Psionic Blast as if the user’s
-power score were rolled and without consump-
-tion of the user’s Psionic Strength Points. The
-amulet also generates an Intellect Fortress at all
-times to a radius of 5 yards from the user, provid-
-ing mental protection from psionic attack for any-
-one within range. This defense is made as if the
-user’s power score were rolled.
+This amulet has been specifically created by Vadarin, psionically enhanced by him to provide the following powers—five times per day, the amulet issues a Psionic Blast as if the user’s power score were rolled and without consumption of the user’s Psionic Strength Points. The amulet also generates an Intellect Fortress at all times to a radius of 5 yards from the user, providing mental protection from psionic attack for anyone within range. This defense is made as if the user’s power score were rolled.
 
 Vulture
 **XP Value:** 700 **GP Value:** 1,200
 IMAGINE Magazine 16
-The vulture amulet was intended to cause the
-power of Isis as the Divine Mother to be a protec-
-tion for the deceased. It is placed upon the body
-on the day of the funeral while the activation
-word is recited over it.
-
-When this amulet is placed on a dead body for
-one full day, the deceased can never be turned
-into an undead creature, The amulet can be used
-once per week.
+The //vulture amulet// was intended to cause the power of Isis as the Divine Mother to be a protection for the deceased. It is placed upon the body on the day of the funeral while the activation word is recited over it.\\
+<wrap indent>When this amulet is placed on a dead body for one full day, the deceased can never be turned into an undead creature, The amulet can be used once per week.</wrap>
 
 of Weakening
 **XP Value:** 5,000 **GP Value:** 25,000
 The Hidden Shrine of Tamoachan
+This amulet makes all foes within a 30-foot radius feel weak and ineffective. The closer a character gets to the amulet, the weaker he or she becomes. For every 5 feet of approach within the 30-foot radius, the victim (temporarily) loses one point of Strength. This amulet does not affect the wearer, although the user’s companions (if within range of the effect) are affected.
 
-This amulet makes all foes within a 30-foot
-radius feel weak and ineffective. The closer a
-character gets to the amulet, the weaker he or she
-becomes. For every 5 feet of approach within the
-30-foot radius, the victim (temporarily) loses one
-point of Strength. This amulet does not affect the
-wearer, although the user’s companions (if within
-range of the effect) are affected.
+==== Anchor ====
+An anchor holds a vessel in place. A ship’s anchor is the most familiar sort, consisting of a straight central bar (the shank), an upper crosspiece (the stock), and two curved lower arms (the crown) having widened ends (the flukes). Attached to a chain or rope (the cable), it is tightly secured to the ship. The depth of the water can be determined, if desired, by marks on the chain or rope once the anchor rests on the bottom. Most ordinary anchors are made of iron, though other materials, usually metal, may be used. A magical anchor may be of any size or material, but always shaped like a ship’s anchor. Roll on the table below to determine the type.
 
-Anchor
-An anchor holds a vessel in place. A ship’s anchor
-is the most familiar sort, consisting of a straight
+^ Roll ^ Anchor Type |
+| 01-70 | Anchor |
+| 71-80 | Anjar |
+| 81-90 | Bawara |
+| 91-00 | Sinn |
 
-central bar (the shank), an upper crosspiece (the
-81
-
- 
-
-XM
-stock), and two curved lower arms (the crown)
-having widened ends (the flukes). Attached to a
-chain or rope (the cable), it is tightly secured to
-the ship. The depth of the water can be deter-
-mined, if desired, by marks on the chain or rope
-once the anchor rests on the bottom. Most ordi-
-nary anchors are made of iron, though other
-materials, usually metal, may be used. A magical
-anchor may be of any size or material, but always
-shaped like a ship’s anchor. Roll on the table
-below to determine the type.
-
-Roll Anchor Type
-
-01-70 Anchor
-71-80  Anjar
-81-90 Bawara
-91-00 Sinn
 Aerial
 **XP Value:** 3,000 **GP Value:** 22,500
-
 The Book of Marvelous Magic
-
-This 3-inch-long, miniature golden anchor needs
-only a thread or string as a cable. When dropped
-from any flying device or creature, it keeps the
-creature or object steady at a point in the air,
-despite air movements or storms of any kind. It
-can also be thrown upward and commanded to
-secure itself where it stops, and cannot be moved
-until the command to release is given. Normal
-thread or string used as its cable supports up to
-3,000 pounds of weight for as long as the user
-can hold on (approximately one hour per point of
-Strength).
+This 3-inch-long, miniature golden anchor needs only a thread or string as a cable. When dropped from any flying device or creature, it keeps the creature or object steady at a point in the air, despite air movements or storms of any kind. It can also be thrown upward and commanded to secure itself where it stops, and cannot be moved until the command to release is given. Normal thread or string used as its cable supports up to 3,000 pounds of weight for as long as the user can hold on (approximately one hour per point of Strength).
 
 Aerial II
 **XP Value:** 2,000 **GP Value:** 18,000
