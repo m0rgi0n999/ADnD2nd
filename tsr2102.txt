@@ -665,181 +665,165 @@ The cave fisher is a large insectoid that has adapted to life below ground, It c
 ----
 <fs large>**Centaur, Sylvan**</fs>
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: | Temperate forest |
+^ FREQUENCY: | Rare |
+^ ORGANIZATION: | Tribal |
+^ ACTIVITY CYCLE: | Day |
+^ DIET: | Omnivorous |
+^ INTELLIGENCE: | Low to average (5-10) |
+^ TREASURE: | M, Q (D, I, T) |
+^ ALIGNMENT: | Neutral or chaotic good |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: | 1-8 |
+^ ARMOR CLASS: | 5 (4) |
+^ MOVEMENT: | 18 |
+^ HIT DICE: | 4 |
+^ THAC0: | 17 |
+^ NO. ATTACKS: | 3 |
+^ DAMAGE/ATTACK: | 1-6/1-6 and weapon |
+^ SPECIAL ATTACK: | Nil |
+^ SPECIAL DEFENSES: | Nil |
+^ MAGIC RESISTANCE: | Nil |
+^ SIZE: | L (8'-9' tall) |
+^ MORALE: | Elite (13-13) |
+^ XP VALUE: | 175 |
+| Centaur leader | 270 |
+| Centaur priest | 420 |
 
-Centaurs are woodland beings who shun the company of men. They dwell in remote, secluded glades and pastures.
-
-The appearance of a centaur is unmistakable: they have the upper torso, arms, and head of a human being and the lower body of a large, powerful horse.
-
-Centaurs speak their own language and some among them (about 10%) can converse in the tongue of elves.
+Centaurs are woodland beings who shun the company of men. They dwell in remote, secluded glades and pastures.\\
+<wrap indent>The appearance of a centaur is unmistakable: they have the upper torso, arms, and head of a human being and the lower body of a large, powerful horse.</wrap>\\
+<wrap indent>Centaurs speak their own language and some among them (about 10%) can converse in the tongue of elves.</wrap>
 
 <fc #4169e1>**Combat:**</fc> A band of centaurs is always armed, and the leaders carry shields. Half of the centaurs will be wielding oaken clubs (the equivalent of morning stars), one quarter will carry composite bows and have 10-30 arrows (either flight or sheaf, depending on the current state of affairs in the area). The remainder of the band will be leaders using medium shields and medium horse lances. Centaurs make 3 attacks each round in melee: once with their weapons and twice with their hooves.
 
-<fc #4169e1>**Habitat/Society:**</fc> Centaurs are sociable creatures, taking great pleasure in the society of others of their kind. Their overall organization is tribal, with a tribe divided into family groups living together in harmony. The size of the tribe varies, it range from 3-4 families to upwards of 20 families. Since males have the dangerous roles of hunter and protector, females outnumber males by two to one. The centaur mates for life, and the entire tribe participates in the education of the young.
-
-The lair is located deep within a forest, and consists of a large, hidden glade and pasture with a good supply of running water. Depending upon the climate, the lair may contain huts or lean-tos to shelter the individual families. Centaurs are skilled in horticulture, and have been known to cultivate useful plants in the vicinity of their lair. In dangerous, monster infested areas, centaurs will sometimes plant a thick barrier of tough thorn bushes around their lair and even set traps and snares. In the open area, away from the trees, are hearths for cooking and warmth. If encountered in their lair, there will be 1-6 additional males, females equal to twice the number of males, and 5-30 young. The females (3 Hit Dice) and the young (1-3 Hit Dice) will fight only with their hooves, and only in a life or death situation.
-
-Each tribe will have a priest who is treated as a leader but has the spell abilities of a 3rd level druid.
-
-Centaurs survive through a mixture of hunting, foraging, fishing, agriculture and trade. Though they shun dealings with humans, centaurs have been known to trade with elves, especially for food and wine. The elves are paid from the group treasury, which comes from the booty of slain monsters.
-
-The territory of a centaur tribe varies with its size and the nature of the area it inhabits. Centaurs are also not above sharing a territory with elves. The attitude of a centaur toward a stranger in its territory will vary with the visitor. Humans and dwarves will usually be asked to leave in a polite manner, while halflings or gnomes will be tolerated, and elves will be welcomed. Monsters will be dealt with in a manner according to the threat they represent to the welfare and survival of the tribe. Were a giant or dragon to enter the territory, the centaurs would pull up stakes and relocate, while trolls and orcs and their like will be killed.
-
-Centaurs will take the treasure of their fallen foes, and are fully aware of its value. Most male centaurs have a small coin supply, while the tribe has a treasury which may well include some magical items. Leaders will have twice the normal individual treasure. This treasure is used to buy food for the group, or to ransom (90% likely) captured or threatened members of the tribe.
-
-While basically neutral or chaotic good, centaurs have been known to become rowdy, boorish, and aggressive when under the influence of alcohol. They are also extremely protective of their females and young. Centaurs are basically pastoral, but will react with violence if their lifestyle and survival is threatened.
+<fc #4169e1>**Habitat/Society:**</fc> Centaurs are sociable creatures, taking great pleasure in the society of others of their kind. Their overall organization is tribal, with a tribe divided into family groups living together in harmony. The size of the tribe varies, it range from 3-4 families to upwards of 20 families. Since males have the dangerous roles of hunter and protector, females outnumber males by two to one. The centaur mates for life, and the entire tribe participates in the education of the young.\\
+<wrap indent>The lair is located deep within a forest, and consists of a large, hidden glade and pasture with a good supply of running water. Depending upon the climate, the lair may contain huts or lean-tos to shelter the individual families. Centaurs are skilled in horticulture, and have been known to cultivate useful plants in the vicinity of their lair. In dangerous, monster infested areas, centaurs will sometimes plant a thick barrier of tough thorn bushes around their lair and even set traps and snares. In the open area, away from the trees, are hearths for cooking and warmth. If encountered in their lair, there will be 1-6 additional males, females equal to twice the number of males, and 5-30 young. The females (3 Hit Dice) and the young (1-3 Hit Dice) will fight only with their hooves, and only in a life or death situation.</wrap>\\
+<wrap indent>Each tribe will have a priest who is treated as a leader but has the spell abilities of a 3rd level druid.</wrap>\\
+<wrap indent>Centaurs survive through a mixture of hunting, foraging, fishing, agriculture and trade. Though they shun dealings with humans, centaurs have been known to trade with elves, especially for food and wine. The elves are paid from the group treasury, which comes from the booty of slain monsters.</wrap>\\
+<wrap indent>The territory of a centaur tribe varies with its size and the nature of the area it inhabits. Centaurs are also not above sharing a territory with elves. The attitude of a centaur toward a stranger in its territory will vary with the visitor. Humans and dwarves will usually be asked to leave in a polite manner, while halflings or gnomes will be tolerated, and elves will be welcomed. Monsters will be dealt with in a manner according to the threat they represent to the welfare and survival of the tribe. Were a giant or dragon to enter the territory, the centaurs would pull up stakes and relocate, while trolls and orcs and their like will be killed.</wrap>\\
+<wrap indent>Centaurs will take the treasure of their fallen foes, and are fully aware of its value. Most male centaurs have a small coin supply, while the tribe has a treasury which may well include some magical items. Leaders will have twice the normal individual treasure. This treasure is used to buy food for the group, or to ransom (90% likely) captured or threatened members of the tribe.</wrap>\\
+<wrap indent>While basically neutral or chaotic good, centaurs have been known to become rowdy, boorish, and aggressive when under the influence of alcohol. They are also extremely protective of their females and young. Centaurs are basically pastoral, but will react with violence if their lifestyle and survival is threatened.</wrap>
 
 <fc #4169e1>**Ecology:**</fc> The centaur lives in close harmony with nature and spends its lifetime carefully conserving the natural resources around its lair. The race seems to have an innate knowledge of how to achieve this precious balance. If forced to chop down a tree, a centaur will plant another to replace it. Centaurs never over hunt or over fish an area as a human group might do, but choose their game with care, limiting the amount they eat.
 
 ----
 <fs large>**Centipede**</fs>
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+| | **Giant** | **Huge** | **Megalo-** |
+^ CLIMATE/TERRAIN: | Any | Any | Any |
+^ FREQUENCY: | Common | Common | Very rare |
+^ ORGANIZATION: | Nil | Nil | Nil |
+^ ACTIVITY CYCLE: | Any | Any | Any |
+^ DIET: | Carnivorous | Carnivorous | Carnivorous |
+^ INTELLIGENCE: | Non- (0) | Non- (0) | Animal (1) |
+^ TREASURE: | Nil | Nil | Nil |
+^ ALIGNMENT: | Neutral | Neutral | Neutral |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: | 2-24 (2d12) | 5-30 (5d6) | 1-4 |
+^ ARMOR CLASS: | 9 | 9 | 5 |
+^ MOVEMENT: | 15 | 21 | 18 |
+^ HIT DICE: | 2 hp | 1 hp | 3 |
+^ THAC0: | 20 | 20 | 17 |
+^ NO. ATTACKS: | 1 | 1 | 1 |
+^ DAMAGE/ATTACK: | Nil | Nil | 1-3 |
+^ SPECIAL ATTACK: | Poison | Poison | Poison |
+^ SPECIAL DEFENSES: | Nil | Nil | Nil |
+^ MAGIC RESISTANCE: | Nil | Nil | Nil |
+^ SIZE: | Tiny (1') | Tiny (6") | M (5' long) |
+^ MORALE: | Unsteady (5-7) | Unsteady (5-7) | Average (8-10) |
+^ XP VALUE: | 35 | 35 | 175 |
 
-Giant centipedes are loathsome, crawling arthropods that arouse almost universal disgust from all intelligent creatures (even other monsters). They are endemic to most regions.
+Giant centipedes are loathsome, crawling arthropods that arouse almost universal disgust from all intelligent creatures (even other monsters). They are endemic to most regions.\\
+<wrap indent>One of the things which makes the centipede so disagreeable is its resemblance to a worm. Its long body is divided into many segments from which protrude many tiny feet. Hence the name “centipede” (or hundred footed). The giant centipede is so called because it is over 1' long. The body of the centipede is plated with chitinous shells and it moves with a slight undulating motion. The creature also has the added benefit of protective coloration, and varies in color depending on the terrain it inhabits. Those that favor rocky areas are gray, those that live underground are black, while the centipedes of the forest are brown or red.</wrap>
 
-One of the things which makes the centipede so disagreeable is its resemblance to a worm. Its long body is divided into many segments from which protrude many tiny feet. Hence the name “centipede” (or hundred footed). The giant centipede is so called because it is over 1' long. The body of the centipede is plated with chitinous shells and it moves with a slight undulating motion. The creature also has the added benefit of protective coloration, and varies in color depending on the terrain it inhabits. Those that favor rocky areas are gray, those that live underground are black, while the centipedes of the forest are brown or red.
-
-Combat; When hunting, centipedes use their natural coloration to remain unseen until they can drop on their prey from above or crawl out of hiding in pursuit of food. They attack by biting their foe and injecting a paralytic poison. Their poison can paralyze a victim for 2-12 (2d6) hours, but is so weak that victims of a centipede bite are permitted a +4 bonus to their saving throw.
-
-Due to its own small size, the giant centipede is less likely to resist attacks and receives a -1 penalty to all its saving throws.
-
-Although a single giant centipede rarely constitutes a serious threat to a man, these creatures frequently travel in groups. When more than one centipede is encountered, the monsters will fight independently, even to the point of fighting among themselves over fallen victims.
+<fc #4169e1>**Combat:**</fc> When hunting, centipedes use their natural coloration to remain unseen until they can drop on their prey from above or crawl out of hiding in pursuit of food. They attack by biting their foe and injecting a paralytic poison. Their poison can paralyze a victim for 2-12 (2d6) hours, but is so weak that victims of a centipede bite are permitted a +4 bonus to their saving throw.\\
+<wrap indent>Due to its own small size, the giant centipede is less likely to resist attacks and receives a -1 penalty to all its saving throws.</wrap>\\
+<wrap indent>Although a single giant centipede rarely constitutes a serious threat to a man, these creatures frequently travel in groups. When more than one centipede is encountered, the monsters will fight independently, even to the point of fighting among themselves over fallen victims.</wrap>
 
 <fc #4169e1>**Habitat/Society:**</fc> The centipede behaves like most other insects, roving from place to place in search of food. It has no set territory or dwelling. The centipede simply goes where its hunger leads it. It is an aggressive and hungry carnivore that must eat at least once a day to survive. Hungry centipedes will sometimes turn to cannibalism.
 
-<fc #4169e1>**Ecology:**</fc> Giant centipedes have several natural advantages, such as their poison and protective coloration, which allows them to compete with other small predators for game. Their poison confers upon them a certain immunity from being hunted, but hungry and skilled animals such as wolves and large predatory birds have been known to hunt them effectively in lean times.
+<fc #4169e1>**Ecology:**</fc> Giant centipedes have several natural advantages, such as their poison and protective coloration, which allows them to compete with other small predators for game. Their poison confers upon them a certain immunity from being hunted, but hungry and skilled animals such as wolves and large predatory birds have been known to hunt them effectively in lean times.\\
+<wrap indent>Their preferred targets are small mammals which can be easily overcome by their very weak poison. If they are very hungry, however, they have been known to attack anything that moves, including humans.</wrap>
 
-Their preferred targets are small mammals which can be easily overcome by their very weak poison. If they are very hungry, however, they have been known to attack anything that moves, including humans.
-
-Huge centipedes
+<fc #4169e1>**Huge centipedes**</fc>\\
 These are identical to giant centipedes save that they are only 6” long. Their poison is even weaker than that of their larger cousins and a victim which fails its saving throw is immobilized for only 1-6 hours. They make their own saving throws at -2. The favorite prey of huge centipedes are mice and other large insects. They in turn are hunted by giant centipedes.
 
-Megalo-centipede
+<fc #4169e1>**Megalo-centipede**</fc>\\
 The megalo-centipede is a true giant, growing to over 5’ in length. It is no longer classed as an irritant but is a threat to human and animal alike. Its acidic poison is far more potent than that of its weaker cousins. The victims of a megalo-centipede bite receive no bonuses on their saving throws and failure to make their roll indicates death. Even if the target successfully resists the poison, the acid burns the victim's skin, inflicting 2-8 (2d4) points damage. The megalo-centipede is also more intelligent than its smaller cousins, and is far more cunning in its hunting (though they still do not cooperate with each other), In the wilderness the megalo-centipede will prey on animals the size of deer. In the subterranean environment, it will attack mansized or smaller creatures, including orcs, goblins, or humans. The megalo-centipede receives no penalties to its own saving throws.
 
 ----
 <fs large>**Chimera**</fs>
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+| | **Chimera** | **Gorgimera** |
+^ CLIMATE/TERRAIN: | Any temperate\\ to tropical | Any temperate\\ to tropical ||
+^ FREQUENCY: | Rare | Very rare |
+^ ORGANIZATION: | Solitary or pride | Solitary |
+^ ACTIVITY CYCLE: | Any | Any |
+^ DIET: | Omnivore | Omnivore |
+^ INTELLIGENCE: | Semi- (2-4) | Semi- (2-4) |
+^ TREASURE: | F | F |
+^ ALIGNMENT: | Chaotic evil | Neutral |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: | 1-4 | 1 |
+^ ARMOR CLASS: | 6/5/2 | 5/2 |
+^ MOVEMENT: | 9, Fl 18 (E) | 12, Fl 15 (E) |
+^ HIT DICE: | 9 | 10 |
+^ THAC0: | 11 | 11 |
+^ NO. ATTACKS: | 6 | 5 |
+^ DAMAGE/ATTACK: | 1-3/1-3/1-4/1-4/\\ 2-8 (2d4)/\\ 3-12 (3d4) | 1-3/1-3/2-8 (2d4)\\ /2-12 (2d6)/\\ 3-12 (3d4) |
+^ SPECIAL ATTACK: | Breath weapon | Breath weapons |
+^ SPECIAL DEFENSES: | Nil | Nil |
+^ MAGIC RESISTANCE: | Nil | Nil |
+^ SIZE: | L (5' tall at the\\ shoulder) | L (5' tall at the\\ shoulder) |
+^ MORALE: | Elite (13-14) | Elite (13-14) |
+^ XP VALUE: | 5000 | 6000 |
 
-How chimerae were created is a dark mystery better left unexplored. The chimera has the hindquarters of a large, black goat and the forequarters of a huge, tawny lion. Its body has brownish-black wings like those of a dragon.
+How chimerae were created is a dark mystery better left unexplored. The chimera has the hindquarters of a large, black goat and the forequarters of a huge, tawny lion. Its body has brownish-black wings like those of a dragon.\\
+<wrap indent>The monster has three heads, those of a goat, a lion, and a fierce dragon. The goat head is pitch black, with glowing amber eyes and long ochre horns. The lion head is framed by a brown mane and has green eyes. The dragon head is covered with orange scales and has black eyes.</wrap>\\
+<wrap indent>The chimera speaks a limited form of the foul language of red dragons. As a rule, however, it will only pause to communicate with those creatures who are more powerful than itself.</wrap>
 
-The monster has three heads, those of a goat, a lion, and a fierce dragon. The goat head is pitch black, with glowing amber eyes and long ochre horns. The lion head is framed by a brown mane and has green eyes. The dragon head is covered with orange scales and has black eyes.
+<fc #4169e1>**Combat:**</fc> [ts many heads and powerful physique make the chimera a deadly foe in combat. The monster prefers to surprise its victims, often swooping down upon them from the sky. It can attack 6 times each round, clawing with its forelegs, goring with its two horns, and biting with its lion and dragon heads. If it desires to do so, the dragon head can loose a stream of flame some 5 yards long in lieu of biting. The dragon's fire causes 3-24 (3d8) points damage, although a saving throw versus breath weapon will cut the damage in half. The chimera will always attempt to breathe if its opponents are in range. If more than 1 chimera is encountered, they will attack in concert.\\
+<wrap indent>The armor classes are split as follows: Dragon, AC 2 (flank); Lion, AC 5 (front); Goat, AC 6 (rear).</wrap>
 
-The chimera speaks a limited form of the foul language of red dragons. As a rule, however, it will only pause to communicate with those creatures who are more powerful than itself.
+<fc #4169e1>**Habitat/Society:**</fc> The chimera, being a hybrid, combines the preferences of the lion, the goat, and the dragon in its habitat, society and ecology. The dragonish part of its nature gives the chimera a distinct preference for caves as lairs, The dragon and lion parts seem to war with one another, for some chimerae are dragon-like in their preference for solitude, while others live in small prides. Even if they mate, offspring are rare.\\
+<wrap indent>The monster is an omnivore. The goat head will browse on the toughest plants and shrubs and will derive nutrition from the most barren vegetation while the lion and dragon heads can only be satisfied with flesh. The chimera hunts once every 3 or 4 days, using its strength and limited intelligence to gain an advantage over those it preys on. Having a voracious appetite, it sometimes roams over territories as large as 20 square miles.</wrap>\\
+<wrap indent>Being chaotic evil in nature, the chimera enjoys preying upon men, elves, dwarves, and halflings. It will even gladly attack other monsters in its search for food. Anyone entering its territory becomes prey, and will be treated accordingly.</wrap>\\
+<wrap indent>The chimera cannot resist attacking groups of travelers or monsters for another reason: its dragon nature craves the treasure that its prey might be carrying. Although it has no earthly use for it, the chimera will gather the coins of its fallen foe into a heap and roost on it like a dragon. Its hoard is nothing like that of a true dragon, however, and consists mainly of copper and silver coins, with perhaps some jewelry and a few magical items.</wrap>
 
-<fc #4169e1>**Combat:**</fc> [ts many heads and powerful physique make the chimera a deadly foe in combat. The monster prefers to surprise its victims, often swooping down upon them from the sky. It can attack 6 times each round, clawing with its forelegs, goring with its two horns, and biting with its lion and dragon heads. If it desires to do so, the dragon head can loose a stream of flame some 5 yards long in lieu of biting. The dragon's fire causes 3-24 (3d8) points damage, although a saving throw versus breath weapon will cut the damage in half. The chimera will always attempt to breathe if its opponents are in range. If more than 1 chimera is encountered, they will attack in concert.
+<fc #4169e1>**Ecology:**</fc> The chimera fills the role of both omnivore and a top predator in its ecosystem. It is very adaptable. During times when its prey is scarce or non-existent, the chimera can make do witha vegetarian diet.
 
-The armor classes are split as follows: Dragon, AC 2 (flank); Lion, AC 5 (front); Goat, AC 6 (rear).
-
-<fc #4169e1>**Habitat/Society:**</fc> The chimera, being a hybrid, combines the preferences of the lion, the goat, and the dragon in its habitat, society and ecology. The dragonish part of its nature gives the chimera a distinct preference for caves as lairs, The dragon and lion parts seem to war with one another, for some chimerae are dragon-like in their preference for solitude, while others live in small prides. Even if they mate, offspring are rare.
-
-The monster is an omnivore. The goat head will browse on the toughest plants and shrubs and will derive nutrition from the most barren vegetation while the lion and dragon heads can only be satisfied with flesh. The chimera hunts once every 3 or 4 days, using its strength and limited intelligence to gain an advantage over those it preys on. Having a voracious appetite, it sometimes roams over territories as large as 20 square miles.
-
-Being chaotic evil in nature, the chimera enjoys preying upon men, elves, dwarves, and halflings. It will even gladly attack other monsters in its search for food. Anyone entering its territory becomes prey, and will be treated accordingly.
-
-The chimera cannot resist attacking groups of travelers or monsters for another reason: its dragon nature craves the treasure that its prey might be carrying. Although it has no earthly use for it, the chimera will gather the coins of its fallen foe into a heap and roost on it like a dragon. Its hoard is nothing like that of a true dragon, however, and consists mainly of copper and silver coins, with perhaps some jewelry and a few magical items.
-
-<fc #4169e1>**Ecology:**</fc> The chimera fills the role of both omnivore and a top predator in its ecosystem. It is very adaptable. During times when its prey is scarce or non-existent, the chimera can make do witha vegetarian diet,
-
-The Gorgimera
-The gorgimera has the hindquarters of a gorgon, forequarters of a lion, and body and wings of a red dragon. Like the chimera, it has the heads of its three constituent creatures.
-
-The monster can attack with its claws, bite with its lion and dragon heads, and butt with its gorgon head. In place of making its normal attack, the gorgon and dragon heads can employ their breath weapons. While the dragon’s attack is similar to that of the chimera, the gorgon’s breath causes petrification to any caught in its area of effect. The gorgon head can use its breath weapon twice per day to strike in a cone 3 feet long which is 1 foot wide at its base and 3 feet wide at its mouth. The gorgimera will always use one of its breath weapons if its foes are within 10 feet. A save versus petrification will allow a victim to avoid the effects of the gorgon’s breath.
-
-The gorgon’s head can see into both the Astral and Ethereal planes, and its breath weapon extends therein.
-
-Like its relative the chimera, the gorgimera can also speak a limited form of the language of red dragons.
+<fc #4169e1>**The Gorgimera**</fc>\\
+The gorgimera has the hindquarters of a gorgon, forequarters of a lion, and body and wings of a red dragon. Like the chimera, it has the heads of its three constituent creatures.\\
+<wrap indent>The monster can attack with its claws, bite with its lion and dragon heads, and butt with its gorgon head. In place of making its normal attack, the gorgon and dragon heads can employ their breath weapons. While the dragon’s attack is similar to that of the chimera, the gorgon’s breath causes petrification to any caught in its area of effect. The gorgon head can use its breath weapon twice per day to strike in a cone 3 feet long which is 1 foot wide at its base and 3 feet wide at its mouth. The gorgimera will always use one of its breath weapons if its foes are within 10 feet. A save versus petrification will allow a victim to avoid the effects of the gorgon’s breath.</wrap>\\
+<wrap indent>The gorgon’s head can see into both the Astral and Ethereal planes, and its breath weapon extends therein.</wrap>\\
+<wrap indent>Like its relative the chimera, the gorgimera can also speak a limited form of the language of red dragons.</wrap>
 
 ----
 <fs large>**Cockatrice**</fs>
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+| | **Cockatrice** | **Pyrolisk** |
+^ CLIMATE/TERRAIN: | Temperate to trop-\\ ical, any terrain | Temperate to trop-\\ ical, any terrain |
+^ FREQUENCY: | Uncommon | Rare |
+^ ORGANIZATION: | Flock |Flock |
+^ ACTIVITY CYCLE: | Any | Any |
+^ DIET: | Omnivorous | Omnivorous |
+^ INTELLIGENCE: | Animal (1) | Low (5) |
+^ TREASURE: | D | D |
+^ ALIGNMENT: | Neutral | Neutral evil |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: | 1-6 | 1-4 |
+^ ARMOR CLASS: | 6 | 6 |
+^ MOVEMENT: | 6, Fl 18 (C) | 6, Fl 18 (C) |
+^ HIT DICE: | 5 | 6+2 |
+^ THAC0: | 15 | 13 |
+^ NO. ATTACKS: | 1 | 1 |
+^ DAMAGE/ATTACK: | 1-3 | 1-4 |
+^ SPECIAL ATTACK: | Petrification | Gaze |
+^ SPECIAL DEFENSES: | Nil | Immune to fire |
+^ MAGIC RESISTANCE: | Nil | Nil |
+^ SIZE: | S (3' tall) | S (3' tall) |
+^ MORALE: | Steady (11-12) | Steady (11-12) |
+^ XP VALUE: | 650 | 1400 |
 
 The cockatrice is an eerie, repulsive hybrid of lizard, cock, and bat. It is infamous for its ability to turn flesh to stone.
 
