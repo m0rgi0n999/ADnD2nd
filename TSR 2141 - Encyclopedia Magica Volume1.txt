@@ -1341,369 +1341,137 @@ of Magic Resistance
 25%: 9,000 45,000
 30%: 10,000 50,000
 Tome of Magic
-This powerful amulet grants the wearer a degree
-of magic resistance ranging from 5% to 30%.
-The level of magic resistance is determined
-when the amulet is found by rolling 1d6 and
-multiplying the result by 5. Any time the amulet
-is worn and a spell is cast at the wearer, the
-wearer is allowed a percentile roll to avoid the
-full effects of the spell.
+This powerful amulet grants the wearer a degree of magic resistance ranging from 5% to 30%. The level of magic resistance is determined when the amulet is found by rolling 1d6 and multiplying the result by 5. Any time the amulet is worn and a spell is cast at the wearer, the wearer is allowed a percentile roll to avoid the full effects of the spell.\\
+<wrap indent>Only 50% of these amulets confer magic resistance against all spells. The remaining 50% extend magic resistance only to spells of Ist through 6th levels. These amulets have no effect on more powerful spells. The DM should secretly determine this when the item is discovered.</wrap>\\
+<wrap indent>All such amulets, regardless of the degree of resistance conferred, are delicate, magical structures. If the wearer rolls for magic resistance and the roll is 95-00, this fragile item shatters into useless scrap.</wrap>
 
-Only 50% of these amulets confer magic resis-
-tance against all spells. The remaining 50%
-extend magic resistance only to spells of Ist
-through 6th levels. These amulets have no effect
-on more powerful spells. The DM should secretly
-determine this when the item is discovered.
-
-All such amulets, regardless of the degree of
-resistance conferred, are delicate, magical struc-
-tures. If the wearer rolls for magic resistance and
-the roll is 95-00, this fragile item shatters into
-useless scrap.
-
-Roll Magic Resistance
-01-14 5% for spell levels 1 through 6
-15-26 10% for spell levels 1 through 6
-
-27-35 15% for spell levels 1 through 6
-
-36-42 20% for spell levels 1 through 6
-
-43-47 25% for spell levels 1 through 6
-
-48-50 30% for spell levels 1 through 6
-
-51-00 Resistance to spell levels 1 through 9
-instead of just 1 through 6. Roll again,
-ignoring results of 51-00.
+^ Roll ^ Magic Resistance |
+| 01-14 | 5% for spell levels 1 through 6 |
+| 15-26 | 10% for spell levels 1 through 6 |
+| 27-35 | 15% for spell levels 1 through 6 |
+| 36-42 | 20% for spell levels 1 through 6 |
+| 43-47 | 25% for spell levels 1 through 6 |
+| 48-50 | 30% for spell levels 1 through 6 |
+| 51-00 | Resistance to spell levels 1 through 9 instead of just 1 through 6. Roll again, ignoring results of 51-00. |
 
 of Metaspell Influence
 **XP Value:** 3,000 **GP Value:** 15,000
-
 Tome of Magic
-This amulet does not appear to have any magical
-function (although it radiates magic if detection
-
-is used) until it is worn by someone using one of
-46
-
- 
-
-36
-
-XN
-Palm Sign Amulet
-
-_(_ ee
-
-the dilation, far-reaching, or extension spells.
-When such a spell is cast, the amulet adds 50% to
-the functional effect of the spell. For example, if
-extension I is used to increase the duration of a
-3rd-level spell by 50%, the wearer of this amulet
-can add another 50%, raising it to a 75% exten-
-sion effect.
+This amulet does not appear to have any magical function (although it radiates magic if detection is used) until it is worn by someone using one of the dilation, far-reaching, or extension spells. When such a spell is cast, the amulet adds 50% to the functional effect of the spell. For example, if //extension I// is used to increase the duration of a 3rd-level spell by 50%, the wearer of this amulet can add another 50%, raising it to a 75% extension effect.
 
 of Neutrality
 **XP Value:** 1,000 **GP Value:** 5,000
 Fate of Istus
-The amulet of neutrality is generally used by evil
-individuals to shield their evil nature and make them
-seem neutral to all dweomers. (Thus, know align-
-ment, and similar spells show the wearer to be neu-
-tral, with respect to evil and good—protection from
-evil and equivalent spells won’t keep them away.)
+The //amulet of neutrality// is generally used by evil individuals to shield their evil nature and make them seem neutral to all dweomers. (Thus, //know alignment//, and similar spells show the wearer to be neutral, with respect to evil and good—//protection from evil// and equivalent spells won’t keep them away.)
 
 Noseeum
 **XP Value:** 5,000 **GP Value:** 25,000
 Unidentified
-This device protects the wearer against all divina-
-tion spells and magical location and detection.
-The wearer cannot be detected through clairaudi-
-ence, clairvoyance, ESP, telepathy, crystal balls,
-or any other scrying devices. No aura is dis-
-cernible on the wearer, and predictions cannot be
-made regarding the character unless a powerful
-being is consulted.
+This device protects the wearer against all divination spells and magical location and detection. The wearer cannot be detected through //clairaudience//, //clairvoyance//, //ESP//, //telepathy//, //crystal balls//, or any other scrying devices. No aura is discernible on the wearer, and predictions cannot be made regarding the character unless a powerful being is consulted.
 
 Orcish
 **XP Value** **GP Value**
 Cursed: — 1,000
 Normal: 1,000 5,000
 The Orcs of Thar
+Orcish witches and shamans have very limited abilities when it comes to creating magical items. They prefer sending a few hordes of bloodthirsty warriors to steal them from whoever has some. However, they can create amulets for themselves or others. Special components are required to create these amulets. These items have limited powers as described below.
 
-Orcish witches and shamans have very limited
-abilities when it comes to creating magical items.
-They prefer sending a few hordes of bloodthirsty
-warriors to steal them from whoever has some.
-However, they can create amulets for themselves
-or others. Special components are required to cre-
-ate these amulets. These items have limited pow-
-ers as described below.
-
-Roll Amulet Power
-01-09 +1 bonus to attack rolls
-10-18 --1 bonus to Armor Class
-19-27 +] bonus to damage
-28-36 +1 bonus to saving throws
-
-+1 bonus to an Ability check
-
-37-45 Strength
-46-54 Dexterity
-
- 
-
-55-63 Wisdom
-
-64-72 Intelligence
-
-73-81 Constitution
-
-82-90 Charisma
-
-91-00 Bonus turns into a penalty instead.
-
- 
-
- 
-
- 
-
- 
+^ Roll ^ Amulet Power |
+| 01-09 | +1 bonus to attack rolls |
+| 10-18 | -1 bonus to Armor Class |
+| 19-27 | +1 bonus to damage |
+| 28-36 | +1 bonus to saving throws +1 bonus to an Ability check |
+| 37-45 | Strength |
+| 46-54 | Dexterity |
+| 55-63 | Wisdom |
+| 64-72 | Intelligence |
+| 73-81 | Constitution |
+| 82-90 | Charisma |
+| 91-00 | Bonus turns into a penalty instead. |
 
 Palm Sign
 **XP Value:** 500 **GP Value:** 2,500
 Oasis of the White Palm
-
-The palm sign is a symbol that magically appears
-on the palm of the woman chosen by fate to be
-the bride of the sheik of the oasis. The mark also
-appears on the palm of the woman betrothed to
-the sheik’s firstborn son. The sheik and his son
-each wear the amulet. The origins of the amulet
-and the pai/m mark were lost in antiquity and no
-one now knows their true purpose.
-
-Martek, after his visions of the future, gave the
-palm sign and the amulet to the ancient leader of
-the Symbayans. They were to be handed down
-through the ages until the time when the two
-would be combined to tell where and how to
-release the djinni.
-
-Anyone who puts the amulet against the palm
-symbol is able to align the symbols and read clearly:
-City of Phoenix over the house of Set
-
-where sleeps salvation—
-
-There speak Atmopryeetno!
-50
-
- 
-
-37
-The message can be read only when the palm
-mark and the palm sign amulet are aligned
-together. “Atmopryeetno” is the word that
-releases the Djinni at the ancient (and now
-destroyed) City of Phoenix.
-
-The amulet itself is a weapon. It glows in the
-presence of efreeti, and strikes them with a
-beam of cold, blue light. The pain caused by the
-beam drives efreeti away in three rounds. The
-amulet also acts as a ring of fire resistance. The
-amulet loses its powers once it is used to free the
-djinni.
+The palm sign is a symbol that magically appears on the palm of the woman chosen by fate to be the bride of the sheik of the oasis. The mark also appears on the palm of the woman betrothed to the sheik’s firstborn son. The sheik and his son each wear the amulet. The origins of the amulet and the pai/m mark were lost in antiquity and no one now knows their true purpose.</wrap>\\
+<wrap indent>Martek, after his visions of the future, gave the palm sign and the amulet to the ancient leader of the Symbayans. They were to be handed down through the ages until the time when the two would be combined to tell where and how to release the djinni.</wrap>\\
+<wrap indent>Anyone who puts the amulet against the palm symbol is able to align the symbols and read clearly:</wrap>\\
+<wrap centeralign>//City of Phoenix over the house of Set where sleeps salvation—There speak Atmopryeetno!//</wrap>\\
+<wrap indent>The message can be read only when the palm mark and the //palm sign amulet// are aligned together. “Atmopryeetno” is the word that releases the Djinni at the ancient (and now destroyed) City of Phoenix.</wrap>\\
+<wrap indent>The amulet itself is a weapon. It glows in the presence of efreeti, and strikes them with a beam of cold, blue light. The pain caused by the beam drives efreeti away in three rounds. The amulet also acts as a //ring of fire resistance//. The amulet loses its powers once it is used to free the djinni.</wrap>
 
 of the Papyrus Scepter
 **XP Value:** 600 **GP Value:** 9,000
 IMAGINE Magazine 16
-This amulet is a sheaf of papyrus leaves and gives
-the deceased renewed vigor and youth for their
-journey to the afterlife. It is placed on the chest
-on the day of the funeral.
-
-For the living, the amulet raises one score—
-Dexterity, Strength, or Constitution—of any user
-one point (to a maximum of 18). If the Strength
-of a warrior is 18, a user can raise his or her
-exceptional Strength on a 1d20 roll.
-
-Alternately, the user can choose to retrograde
-the aging process. If this option is selected, the
-character’s age is reduced by one year every year
-for 1d6+4 years. Once this 1d6+4 year time
-period is complete, the character begins to age
-again normally, beginning at the new, younger
-age. This amulet can be used once.
+This amulet is a sheaf of papyrus leaves and gives the deceased renewed vigor and youth for their journey to the afterlife. It is placed on the chest on the day of the funeral.\\
+<wrap indent>For the living, the amulet raises one score—Dexterity, Strength, or Constitution—of any user one point (to a maximum of 18). If the Strength of a warrior is 18, a user can raise his or her exceptional Strength on a 1d20 roll.</wrap>\\
+<wrap indent>Alternately, the user can choose to retrograde the aging process. If this option is selected, the character’s age is reduced by one year every year for 1d6+4 years. Once this 1d6+4 year time period is complete, the character begins to age again normally, beginning at the new, younger age. This amulet can be used once.</wrap>
 
 of Perpetual Youth
 **XP Value:** 2,000 **GP Value:** 20,000
 Tome of Magic
-
-This amulet glows with a faint, blue light. The
-wearer has temporary immunity to the effects of
-both natural and magical aging; the amulet grows
-older instead of the wearer. As the amulet ages, it
-gradually becomes dimmer, It can absorb 5d6
-years of aging, at which time its light dims com-
-pletely, its magic negated, and the wearer resumes
-normal aging.
+This amulet glows with a faint, blue light. The wearer has temporary immunity to the effects of both natural and magical aging; the amulet grows older instead of the wearer. As the amulet ages, it gradually becomes dimmer, It can absorb 5d6 years of aging, at which time its light dims completely, its magic negated, and the wearer resumes normal aging.
 
 of Perpetual Youth
 and Inexperience
 **XP Value:** — **GP Value:** 2,000
 1992 Fantasy Collector Card 624
-This amulet glows continuously with a faint, blue
-light and conveys immunity from aging for 5d6
-years, just like an amulet of perpetual youth. Once
-
-~~, Amulet of the Papyrus Scepter
-
-donned, however, it cannot be removed without the
-aid of a remove curse spell or similar magical
-means until its magic has expired. Furthermore.
-the wearer cannot accumulate any experience
-points until the amulet is removed. A PC wearing
-this amulet should not be advised of this by the
-DM until the curse is broken—the character
-should continue to believe that experience points
-are being accumulated (unless attempting to
-advance while wearing the cursed item).
+This amulet glows continuously with a faint, blue light and conveys immunity from aging for 5d6 years, just like an //amulet of perpetual youth//. Once donned, however, it cannot be removed without the aid of a //remove curse// spell or similar magical means until its magic has expired. Furthermore. the wearer cannot accumulate any experience points until the amulet is removed. A PC wearing this amulet should not be advised of this by the DM until the curse is broken—the character should continue to believe that experience points are being accumulated (unless attempting to advance while wearing the cursed item).
 
 Phelthong’s
 **XP Value:** 7,000 **GP Value:** 30,000
 Menzoberranzan Campaign Set
 
-Named for the drow wizard of fabled powers who
-devised them long ago, these rare, fist-sized
-obsidian pendants are carved into smiling drow
-faces. In Menzoberranzan, they are worn only by
-powerful Master Mages of Sorcere. These amulets
-have the following powers (identical to the cited
-spells):
-
-* Comprehend languages whenever held or
-worn.
-
-* Dimension door twice per day, by silent com-
-mand of the bearer. Use of this power extin-
-guishes any fires within 30 feet in the round
-of its activation by will.
-
-* Obscurement once per day, activated by the
-bearer’s will.
-
-* Timestop once every 12 days: This power can
-only be unleashed by speaking a secret word
-while touching the amulet to a magical item
-(that is then forever drained).
+Named for the drow wizard of fabled powers who devised them long ago, these rare, fist-sized obsidian pendants are carved into smiling drow faces. In Menzoberranzan, they are worn only by powerful Master Mages of Sorcere. These amulets have the following powers (identical to the cited spells):
+* //Comprehend languages// whenever held or worn.
+* //Dimension door// twice per day, by silent command of the bearer. Use of this power extinguishes any fires within 30 feet in the round of its activation by will.
+* //Obscurement// once per day, activated by the bearer’s will.
+* //Timestop// once every 12 days: This power can only be unleashed by speaking a secret word while touching the amulet to a magical item (that is then forever drained).
 
 of the Planes
 **XP Value:** 6,000 **GP Value:** 30,000
-DUNGEON MAsTER Guide, Ist Edition
+DUNGEON MASTER Guide, 1st Edition
+This device enables the individual possessing it to transport instantly to or from any one of the closest levels of the Outer Planes. The journey is absolutely safe, if not absolutely sure, but until the individual learns the device, transport is random. Roll 1d6. On a 4-6, add 12 to the result of a 1d12 roll (for a result between | and 24). Ona 1-3 do not add 12 to a 1d12 roll. Figure the total and consult the following table to determine where the amulet holder goes:
 
-This device enables the individual possessing it to
-transport instantly to or from any one of the clos-
-est levels of the Outer Planes. The journey is
-absolutely safe, if not absolutely sure, but until
-the individual learns the device, transport is ran-
-dom. Roll 1d6. On a 4-6, add 12 to the result of a
-1d12 roll (for a result between | and 24). Ona
-1-3 do not add 12 to a 1d12 roll. Figure the total
-and consult the following table to determine
-where the amulet holder goes:
+^ Roll ^ Planar Location |
+| 01-02 | Mount Celestia |
+| 03 | Bytopia |
+| 04 | Elysium |
+| 05 | The Beastlands |
+| 06-07 | Arborea |
+| 08 | Ysgard |
+| 09 | Limbo |
+| 10 | Pandemonium |
+| 11-12 | Abyss |
+| 13 | Carceri |
+| 14 | The Gray Waste |
+| 15 | Gehenna |
+| 16-17 | Baator |
+| 18 | Acheron |
+| 19 | Mechanus |
+| 20 | Arcadia |
+| 21-24 | Prime Material Plane* |
 
-Roll Planar Location
-01-02 Mount Celestia
-03 Bytopia
-04 Elysium
-55
+*As an alternative, the following may be substituted for totals between 22 and 24:
 
- 
+^ Roll ^ Planar Location |
+| 22 | Ethereal Plane |
+| 23 | Astral Plane |
+| 24 | Prime Material Plane, but alternate campaign world |
 
-38
-05 The Beastlands
+<wrap indent>**In a DRAGONLANCE Campaign:** The amulet of the planes does not exist on Ansalon.</wrap>\\
 
-06-07 Arborea
-
-08 Ysgard
-
-09 Limbo
-
-10 Pandemonium
-11-12 Abyss
-
-13 Carceri
-14 The Gray Waste
-
-15 Gehenna
-16-17 Baator
-18 Acheron
-19 Mechanus
-20 Arcadia
-21-24 Prime Material Plane*
-
-*As an alternative, the following may be substi-
-tuted for totals between 22 and 24:
-
-Roll Planar Location
-oe Ethereal Plane
-23 Astral Plane
-24 Prime Material Plane, but alternate cam-
-paign world
-
-In a DRAGONLANCE Campaign: The amulet of
-the planes does not exist on Ansalon.
-
-In Ravenloft: The amulet of the planes does
-not function in the Demiplane of Ravenloft.
+<wrap indent>**In Ravenloft:** The amulet of the planes does not function in the Demiplane of Ravenloft.</wrap>
 
 of Power
 **XP Value:** 12,000 **GP Value:** 60,000
 DRAGON Magazine 5
+Usable by all spellcasters, this object serves to periodically boost latent magical energy. One day each week, the number of spells (of each level) the caster may perform, and the range, duration, and power (dice, area, number affected, etc.) of those spells, is increased by 50%. An enchanter could, for example, do 643-1 spells on one day a week, rather than the usual 4-3--2-1. (Always round fractions down.) Due to the increase in spell capabilities, the target’s saving throw is augmented by +3.\\
+<wrap indent>Upon acquiring the //amulet of power//, a new user must wear it for 30 consecutive days before it melds properly to his or her mental capacities, After that period, the amulet becomes fully functional. Any attempts to make use of the power boost before the 30-day period is completed are all in vain.</wrap>
 
-Usable by all spellcasters, this object serves to
-periodically boost latent magical energy. One day
-each week, the number of spells (of each level)
-the caster may perform, and the range, duration,
-and power (dice, area, number affected, etc.) of
-those spells, is increased by 50%. An enchanter
-could, for example, do 643-1 spells on one day
-a week, rather than the usual 4-3--2-1. (Always
-round fractions down.) Due to the increase in
-spell capabilities, the target’s saving throw is aug-
-mented by +3.
-
-Upon acquiring the amulet of power, a new
-user must wear it for 30 consecutive days before
-it melds properly to his or her mental capacities,
-After that period, the amulet becomes fully func-
-tional. Any attempts to make use of the power
-boost before the 30-day period is completed are
-all in vain.
-
-Amulet of Protection from Crystal Balls and ESP
-
-of Proof Against Detection and
-
-Location
+of Proof Against Detection and Location
 **XP Value:** 4,000 **GP Value:** 15,000
-
-DUNGEON MASTER Guide, Ist Edition
-
-This device protects the wearer against all divina-
-tion and magical location and detection. The
-wearer cannot be detected through clairaudience,
-clairvoyance, ESP, telepathy, crystal balls, or any
-other scrying devices. No aura is discernible, and
-predictions cannot be made regarding the user
-unless a very powerful being is consulted.
+DUNGEON MASTER Guide, 1st Edition
+This device protects the wearer against all divination and magical location and detection. The wearer cannot be detected through //clairaudience//, //clairvoyance//, //ESP//, //telepathy//, //crystal balls//, or any other scrying devices. No aura is discernible, and predictions cannot be made regarding the user unless a very powerful being is consulted.
 
 of Protection
 **XP Value** **GP Value**
@@ -1713,45 +1481,19 @@ of Protection
 +4: 4,000 25,000
 +5: 5,000 30,000
 Drums on Fire Mountain
-
-This amulet, in the form of a distorted boar’s head
-on a fine gold chain, has been specially enchanted
-by KalnaKaa. It has the properties of a ring of
-protection +3, but it also protects any lycan-
-thrope wearing it from the effects of wolfsbane.
-KalnaKaa can wear it in both pig and human
-form.
+This amulet, in the form of a distorted boar’s head on a fine gold chain, has been specially enchanted by KalnaKaa. It has the properties of a //ring of protection +3//, but it also protects any lycanthrope wearing it from the effects of wolfsbane. KalnaKaa can wear it in both pig and human form.
 
 of Protection from Alignment Change
 **XP Value:** 3,000 **GP Value:** 30,000
 Old Empires
+This magical talisman has a ruby as its centerpiece. The amulet protects the wearer against the effects of magic designed to fundamentally alter a person’s alignment. While this does not protect characters from spells that //charm// them into actions that they wouldn’t normally perform, it does prevent the effects of a //helm of opposite alignment// and similar items. It cannot stop the alignment reversal process of an artifact or relic, but (DM’s option) it may slow it down.
 
-This magical talisman has a ruby as its center-
-piece. The amulet protects the wearer against the
-effects of magic designed to fundamentally alter
-a person’s alignment. While this does not protect
-characters from spells that charm them into
-actions that they wouldn’t normally perform, it
-does prevent the effects of a helm of opposite
-alignment and similar items. It cannot stop the
-alignment reversal process of an artifact or relic,
-but (DM’s option) it may slow it down.
-
-of Protection from Crystal Balls
-and ESP
+of Protection from Crystal Balls and ESP
 **XP Value:** 4,000 **GP Value:** 15,000
 Dunceons & Dracons Rules Cyclopedia
-The wearer of this item is protected from being
-spied upon with crystal balls and any type of
-ESP.
-
- 
-
-39
-Amulet of Protection From Good
+The wearer of this item is protected from being spied upon with //crystal balls// and any type of //ESP//.
 
 of Protection from Good
-
 **XP Value:** 600 **GP Value:** 3,000
 DUNGEON Magazine 11
 This item is worn by all temple guards and priests
