@@ -44,7 +44,7 @@ The aerial servant is a semi-intelligent form of an air elemental native to the 
 
 <fs large>**Animal, Herd**</fs>
 
-|       | Camel | Cattle | Buffalo | Antelope | Sheep |
+| | **Camel** | **Cattle** | **Buffalo** | **Antelope** | **Sheep** |
 ^ CLIMATE/TERRAIN: | Any land |Any Land | Tropical and\\ temperate plains | Tropical and\\ temperate plains | Any land |
 ^ FREQUENCY: | Common | Common | Uncommon | Common | Common |
 ^ ORGANIZATION: | Herd | Herd | Herd | Herd | Herd |
@@ -84,7 +84,7 @@ Herd animals live in all climates and terrain, from freezing tundra (bactrian ca
 ----
 <fs large>**Bat**</fs>
 
-|       | Common | Large (giant) | Huge (mobat) |
+| | **Common** | **Large (giant)** | **Huge (mobat)** |
 ^ CLIMATE/TERRAIN: | Any land | Any Land | Warm caves |
 ^ FREQUENCY: | Common | Uncommon | Rare |
 ^ ORGANIZATION: | Swarm | Flock | Flock |
@@ -130,7 +130,7 @@ Mobats prefer warm-blooded prey which they bite to death with their fangs. They 
 ----
 <fs large>**Bear**</fs>
 
-|       Black | Brown | Cave | Polar |
+| | **Black** | **Brown** | **Cave** | **Polar** |
 ^ CLIMATE/TERRAIN: | Temperate land | Temperate land | Any land | Any cold |
 ^ FREQUENCY: | Common | Uncommon | Uncommon | Rare |
 ^ ORGANIZATION: | Family | Family | Family | Family |
@@ -223,7 +223,7 @@ The behir is a snake-like reptilian monster whose dozen legs allow it to move wi
 
 <fs large>**Beholder**</fs>
 {{ :wiki:adnd2e:tsr2102:beholder.png?nolink&600|}}
-| | Beholder | Eye of the Deep |
+| | **Beholder** | **Eye of the Deep** |
 ^ CLIMATE/TERRAIN: | Subterranean | Any deep ocean |
 ^ FREQUENCY: | Very rare | Very rare |
 ^ ORGANIZATION: | Solitary | Solitary |
@@ -283,7 +283,7 @@ The evil eye of the deep dwells only at great depths, floating slowly about, and
 ----
 <fs large>**Boar**</fs>
 
-| | Wild | Giant (Elothere) | Warthog |
+| | **Wild** | **Giant (Elothere)** | **Warthog** |
 ^ CLIMATE/TERRAIN: | Any land | Any land | Tropical land |
 ^ FREQUENCY: | Common | Uncommon | Common |
 ^ ORGANIZATION: | Family | Family | Family |
@@ -825,90 +825,69 @@ The gorgimera has the hindquarters of a gorgon, forequarters of a lion, and body
 ^ MORALE: | Steady (11-12) | Steady (11-12) |
 ^ XP VALUE: | 650 | 1400 |
 
-The cockatrice is an eerie, repulsive hybrid of lizard, cock, and bat. It is infamous for its ability to turn flesh to stone.
+The cockatrice is an eerie, repulsive hybrid of lizard, cock, and bat. It is infamous for its ability to turn flesh to stone.\\
+<wrap indent>The cockatrice is about the size of a large goose or turkey, and has the head and body of a cock, with two bat-like wings and the long tail of a lizard tipped with a few feathers. Its feathers are golden brown, its beak yellow, its tail green, and its wings gray. The cockatrice’s wattles, comb, and eyes are bright red.</wrap>\\
+<wrap indent>Females, which are much rarer than males, differ only in that they have no wattles or comb.</wrap>
 
-The cockatrice is about the size of a large goose or turkey, and has the head and body of a cock, with two bat-like wings and the long tail of a lizard tipped with a few feathers. Its feathers are golden brown, its beak yellow, its tail green, and its wings gray. The cockatrice’s wattles, comb, and eyes are bright red.
+<fc #4169e1>**Combat:**</fc> The cockatrice will fiercely attack anything, human or otherwise, which it deems a threat to itself or its lair. When attacking, the cockatrice will attempt to grapple with its foe, touching exposed flesh and turning it to stone. Flocks of cockatrices will do their utmost to overwhelm and confuse their opponents, and they will sometimes fly directly into their victims’ faces.\\
+<wrap indent>While the fatal touch of a cockatrice’s beak will affect victims clothed in leather or fabric, it will not work through metal armor. The touch will, however, extend into the ethereal plane. The cockatrice is somewhat aware of the limits of its powers, and natural selection has taught it to strike only at exposed flesh. If large areas of the opponent's flesh are exposed, it should be assumed that the cockatrice automatically touches flesh. If the target is reasonably well armored, the base chance of a cockatrice striking an area which it can affect is equal to 10% times the adjusted Armor Class of the victim.</wrap>
 
-Females, which are much rarer than males, differ only in that they have no wattles or comb.
-
-<fc #4169e1>**Combat:**</fc> The cockatrice will fiercely attack anything, human or otherwise, which it deems a threat to itself or its lair. When attacking, the cockatrice will attempt to grapple with its foe, touching exposed flesh and turning it to stone. Flocks of cockatrices will do their utmost to overwhelm and confuse their opponents, and they will sometimes fly directly into their victims’ faces.
-
-While the fatal touch of a cockatrice’s beak will affect victims clothed in leather or fabric, it will not work through metal armor. The touch will, however, extend into the ethereal plane. The cockatrice is somewhat aware of the limits of its powers, and natural selection has taught it to strike only at exposed flesh. If large areas of the opponent's flesh are exposed, it should be assumed that the cockatrice automatically touches flesh. If the target is reasonably well armored, the base chance of a cockatrice striking an area which it can affect is equal to 10% times the adjusted Armor Class of the victim.
-
-<fc #4169e1>**Habitat/Society:**</fc> The cockatrice is immune to the petrification powers of others of its kind.
-
-The diet of the cockatrice consists of insects, small lizards and the like. When it hunts these animals, the creature does not employ its power to petrify living things.
-
-It is distinguished from other avians by its unusual habits and nasty temperament. Since females are rare, they are the dominant sex, and will often have more than one mate. In fact, males will often fight or strut for the privilege of joining a female's harem. These mated groups usually build their nests in caves. Nest sites are permanent, and the cockatrice constantly seeks to decorate its nesting site by lining it with shining objects like coins and gems.
-
-Females lay 1 or 2 brownish red, rust speckled eggs per month.
-
-There is only a 25% chance that any given egg will hatch. Those that are fertile will hatch in 11-19 days. The young reach maturity and full power within 6 months. Once they achieve adulthood, the hatchlings are driven away from the nesting site by their parents. Larger groups of cockatrices encountered will frequently be young driven from the nest who have temporarily united for survival.
+<fc #4169e1>**Habitat/Society:**</fc> The cockatrice is immune to the petrification powers of others of its kind.\\
+<wrap indent>The diet of the cockatrice consists of insects, small lizards and the like. When it hunts these animals, the creature does not employ its power to petrify living things.</wrap>\\
+<wrap indent>It is distinguished from other avians by its unusual habits and nasty temperament. Since females are rare, they are the dominant sex, and will often have more than one mate. In fact, males will often fight or strut for the privilege of joining a female's harem. These mated groups usually build their nests in caves. Nest sites are permanent, and the cockatrice constantly seeks to decorate its nesting site by lining it with shining objects like coins and gems.</wrap>\\
+<wrap indent>Females lay 1 or 2 brownish red, rust speckled eggs per month.</wrap>\\
+<wrap indent>There is only a 25% chance that any given egg will hatch. Those that are fertile will hatch in 11-19 days. The young reach maturity and full power within 6 months. Once they achieve adulthood, the hatchlings are driven away from the nesting site by their parents. Larger groups of cockatrices encountered will frequently be young driven from the nest who have temporarily united for survival.</wrap>
 
 <fc #4169e1>**Ecology:**</fc> The cockatrice thrives in the wilderness. Its petrification power makes it immune to most predators, and enables it to compete with other birds for food. The feathers of the cockatrice are prized by certain wizards as many magical scrolls must be inscribed with pens made from such quills. Many people also seek unhatched eggs, or even a live cockatrice, as unusual pets or guardians.
 
-Pyrolisk
-Frequently mistaken for its less malignant relative, the pyrolisk is virtually identical to the cockatrice except for the single red feather in its tail and the reddish cast of its wings. Whereas the cockatrice is motivated by instinct alone, the pyrolisk revels in spreading mayhem. Any victims who fail to save versus death magic when meeting its gaze will instantly burst into flames, dying in agony. If the save is made, they are still burnt for 2-13 (1d12 +1) points of damage. Any creature innately or magically immune to fire will not be affected by its gaze, and anyone who makes their saving throw is thereafter immune to the gaze of that particular pyrolisk.
-
-The creature can cause any fire source within 30 yards to explode in fireworks (as a pyrotechnics spell) once per round.
-
-The pyrolisk is itself immune to all fire-based spells and attacks.
-
-The pyrolisk’s mortal enemy is the phoenix, although any creature which the monster encounters is likely to be attacked.
+<fx #4169e1>**Pyrolisk**</fc>\\
+Frequently mistaken for its less malignant relative, the pyrolisk is virtually identical to the cockatrice except for the single red feather in its tail and the reddish cast of its wings. Whereas the cockatrice is motivated by instinct alone, the pyrolisk revels in spreading mayhem. Any victims who fail to save versus death magic when meeting its gaze will instantly burst into flames, dying in agony. If the save is made, they are still burnt for 2-13 (1d12 +1) points of damage. Any creature innately or magically immune to fire will not be affected by its gaze, and anyone who makes their saving throw is thereafter immune to the gaze of that particular pyrolisk.\\
+<wrap indent>The creature can cause any fire source within 30 yards to explode in fireworks (as a pyrotechnics spell) once per round.</wrap>\\
+<wrap indent>The pyrolisk is itself immune to all fire-based spells and attacks.</wrap>\\
+<wrap indent>The pyrolisk’s mortal enemy is the phoenix, although any creature which the monster encounters is likely to be attacked.</wrap>
 
 ----
 <fs large>**Couatl**</fs>
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: | Tropical and subtropical jungles |
+^ FREQUENCY: | Very rare |
+^ ORGANIZATION: | Solitary |
+^ ACTIVITY CYCLE: | Any |
+^ DIET: | Carnivorous |
+^ INTELLIGENCE: | Genius (17-18) |
+^ TREASURE: | B, I |
+^ ALIGNMENT: | Lawful good |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: | 1-4 |
+^ ARMOR CLASS: | 5 |
+^ MOVEMENT: | 6, Fl 18 (A) |
+^ HIT DICE: | 9 |
+^ THAC0: | 11 |
+^ NO. ATTACKS: | 2 |
+^ DAMAGE/ATTACK: | 1-3/2-8 (2d4) |
+^ SPECIAL ATTACK: | Poison, magic use |
+^ SPECIAL DEFENSES: | Etherealness |
+^ MAGIC RESISTANCE: | Nil |
+^ SIZE: | L (12' long) |
+^ MORALE: | Elite (13-14) |
+^ XP VALUE: | 6000
 
-The couatl are feathered serpents of myth and lore. It is believed that they are distant relatives of dragons, although this remains unproven.
+The couatl are feathered serpents of myth and lore. It is believed that they are distant relatives of dragons, although this remains unproven.\\
+<wrap indent>So rare as to be considered almost legendary, the couatl is one of the most beautiful creatures in existence. It has the body of a long serpent and feathered wings the color of the rainbow. Since it has the ability to polymorph, the couatl will sometimes appear in the form of other creatures (always of good alignment).</wrap>\\
+<wrap indent>Couatl are able to communicate via telepathy with almost any intelligent creature which they encounter. In addition, they can speak common and most serpent and avian languages.</wrap>
 
-So rare as to be considered almost legendary, the couatl is one of the most beautiful creatures in existence. It has the body of a long serpent and feathered wings the color of the rainbow. Since it has the ability to polymorph, the couatl will sometimes appear in the form of other creatures (always of good alignment).
+<fc #4169e1>**Combat:**</fc> A couatl will seldom attack without provocation, though it will always attack evildoers caught red-handed. Whenever possible, a couatl will attack from the air.\\
+<wrap indent>Since it is highly intelligent, the couatl will frequently use its spells from a distance before closing with its foes. If more than one couatl is involved, they will discuss their strategy before a battle. The couatl will also not hesitate to polymorph into another, more effective form in combat.</wrap>\\
+<wrap indent>The couatl have a variety of abilities which make them more than a match for most other creatures, In addition to being able to polymorph themselves at will, a couatl can use magic. Fully 45% will be 5th level wizards, while 35% can act as 7th level priests. The remaining 20% are able to use both types of abilities.</wrap>\\
+<wrap indent>In addition to their other magical abilities, couatl can render themselves and up to 450 pounds of additional matter ethereal at will, Further, they can //detect good/evil//, //detect magic//, //turn invisible//, and employ //ESP// whenever they desire to do so. The oldest and most powerful of couatl can also use a //plane shift// on themselves and up to 8 others. This ability has a 90% chance of reaching the desired plane.</wrap>\\
+<wrap indent>The couatl uses its poisonous bite and constriction when forced into melee combat. When it bites it does 1-3 points of damage and injects a deadly toxin. If the victim fails a save versus poison it is killed instantly. If the constriction attack succeeds, the victim takes 2-8 points damage each round until it or the couatl is killed.</wrap>
 
-Couatl are able to communicate via telepathy with almost any intelligent creature which they encounter. In addition, they can speak common and most serpent and avian languages.
-
-<fc #4169e1>**Combat:**</fc> A couatl will seldom attack without provocation, though it will always attack evildoers caught red-handed. Whenever possible, a couatl will attack from the air.
-
-Since it is highly intelligent, the couat] will frequently use its spells from a distance before closing with its foes. If more than one couatl is involved, they will discuss their strategy before a battle. The couatl will also not hesitate to polymorph into another, more effective form in combat.
-
-The couatl have a variety of abilities which make them more than a match for most other creatures, In addition to being able to polymorph themselves at will, a couatl can use magic. Fully 45% will be 5th level wizards, while 35% can act as 7th level priests. The remaining 20% are able to use both types of abilities.
-
-In addition to their other magical abilities, couatl can render themselves and up to 450 pounds of additional matter ethereal at will, Further, they can detect good/evil, detect magic, turn invisible, and employ ESP whenever they desire to do so. The oldest and most powerful of couatl can also use a plane shift on themselves and up to 8 others. This ability has a 90% chance of reaching the desired plane.
-
-The couatl uses its poisonous bite and constriction when forced into melee combat. When it bites it does 1-3 points of damage and injects a deadly toxin. If the victim fails a save versus poison it is killed instantly. If the constriction attack succeeds, the victim takes 2-8 points damage each round until it or the couatl is killed.
-
-<fc #4169e1>**Habitat/Society:**</fc> This winged serpent is native to warm, jungle-like regions but can also be found flying through the ether. Their intelligence and goodness has made them objects of reverence by the natives of the regions which they inhabit. Considered to be divine, there are many legends in which the couatl is the benefactor of mankind and the bestower of such precious gifts as agriculture and medicine. There are even shrines in certain areas dedicated to the couatl, and any who attack or harm a couatl are automatically viewed as the blackest of villains,
-
-Although solitary in nature, couatl think of themselves as a single, extended clan. This clan is led by the oldest and wisest of their numbers but assembles only in dire emergencies.
-
-Most couatl dwell alone, making their lairs in caves and abandoned buildings in remote, uninhabited regions. They hunt jungle animals for food once every fortnight or so. Many enjoy traveling, often undertaking long journeys of exploration.
-
-On rare occasions, a pair will mate for life and establish a joint lair. Unlike many other reptiles, the couat! bear live young. Births are rare, averaging only one per couple each century. Both parents participate in the rearing and education of the single offspring, and will fight to the death if their child is threatened. Young couatl reach maturity in thirty or forty years and, though some will elect to remain with their parents for as long as a century, will eventually set off in search of the couatl’s never-ending quest for wisdom.
-
-Intellectually curious, all couatl have vast stores of information and enjoy learning more. When one of them learns some new and fascinating fact he will inevitably set out in search of his brethren to share and discuss it.
-
-Couatl can sometimes be persuaded to help good adventurers or give sound council. If they feel that they are being sought for frivolous reasons, they will simply fly away. They are not greedy and do not seek treasure for its own sake. Aid from a couatl may well take the form of a magical item from its hoard.
+<fc #4169e1>**Habitat/Society:**</fc> This winged serpent is native to warm, jungle-like regions but can also be found flying through the ether. Their intelligence and goodness has made them objects of reverence by the natives of the regions which they inhabit. Considered to be divine, there are many legends in which the couatl is the benefactor of mankind and the bestower of such precious gifts as agriculture and medicine. There are even shrines in certain areas dedicated to the couatl, and any who attack or harm a couatl are automatically viewed as the blackest of villains.\\
+<wrap indent>Although solitary in nature, couatl think of themselves as a single, extended clan. This clan is led by the oldest and wisest of their numbers but assembles only in dire emergencies.</wrap>\\
+<wrap indent>Most couatl dwell alone, making their lairs in caves and abandoned buildings in remote, uninhabited regions. They hunt jungle animals for food once every fortnight or so. Many enjoy traveling, often undertaking long journeys of exploration.</wrap>\\
+<wrap indent>On rare occasions, a pair will mate for life and establish a joint lair. Unlike many other reptiles, the couat! bear live young. Births are rare, averaging only one per couple each century. Both parents participate in the rearing and education of the single offspring, and will fight to the death if their child is threatened. Young couatl reach maturity in thirty or forty years and, though some will elect to remain with their parents for as long as a century, will eventually set off in search of the couatl’s never-ending quest for wisdom.</wrap>\\
+<wrap indent>Intellectually curious, all couatl have vast stores of information and enjoy learning more. When one of them learns some new and fascinating fact he will inevitably set out in search of his brethren to share and discuss it.</wrap>\\
+<wrap indent>Couatl can sometimes be persuaded to help good adventurers or give sound council. If they feel that they are being sought for frivolous reasons, they will simply fly away. They are not greedy and do not seek treasure for its own sake. Aid from a couatl may well take the form of a magical item from its hoard.</wrap>
 
 <fc #4169e1>**Ecology:**</fc> The couatl usually reigns supreme in its jungle, having little to fear from most other monsters.
 
