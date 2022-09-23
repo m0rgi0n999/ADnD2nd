@@ -1843,79 +1843,27 @@ When locked on an ankle, this item causes the victim to move at ‘4 normal rate
 of Levitation
 **XP Value:** 2,500 **GP Value:** 17,000
 The Book of Marvelous Magic
-This item can be locked and commanded to rise.
-It stops and goes upon command of the person
-who locked it. If one anklet is used, the wearer is
-hoisted by one leg, in a most inconvenient pos-
-ture; if two are used, normal /evitation is obtained.
-It is controlled within a range of 60 feet, but the
-effect is otherwise identical to the wizards’ spell
-levitate, bestowing vertical movement at the rate
-of 20 feet per round. The victim cannot be
-“dropped” unless the anklet is suddenly unlocked
-or destroyed.
+This item can be locked and commanded to rise. It stops and goes upon command of the person who locked it. If one anklet is used, the wearer is hoisted by one leg, in a most inconvenient posture; if two are used, normal //levitation// is obtained. It is controlled within a range of 60 feet, but the effect is otherwise identical to the wizards’ spell //levitate//, bestowing vertical movement at the rate of 20 feet per round. The victim cannot be “dropped” unless the anklet is suddenly unlocked or destroyed.
 
 of Sinking
 **XP Value:** — **GP Value:** 600
 The Book of Marvelous Magic
-
-This anklet appears and functions as an anklet of
-walking in all respects. However, when used to
-walk on acid, or on water more than 30 feet deep,
-the anklet stops functioning at some inconvenient
-point, suddenly becoming as heavy as a 100—pound
-weight (per anklet). When the malfunction occurs,
-the anklet also negates all other water walking
-spells and effects. The wearer sinks like a stone
-until the anklet is removed, although feather fall or
-other spell effects may slow the victim for a time.
-
-**XP Value:** —
-
-” i geenaetemeeenemeeseentnemeniaeseereensaeesemeees saa seaeaaeemmmansaaaiaaeessaamcammcmcmsl
+This anklet appears and functions as an //anklet of walking// in all respects. However, when used to walk on acid, or on water more than 30 feet deep, the anklet stops functioning at some inconvenient point, suddenly becoming as heavy as a 100—pound weight (per anklet). When the malfunction occurs, the anklet also negates all other //water walking// spells and effects. The wearer sinks like a stone until the anklet is removed, although //feather fall// or other spell effects may slow the victim for a time.
 
 of Sure Footing
 **XP Value:** 2,000 **GP Value:** 16,000
 POLYHEDRON Newszine 90
-
-It is popularly believed by most sages that the
-wizard who invented these items served ona
-pirate ship based in the Corsair Domains. Legend
-has it that the wizard did not adapt well to life at
-sea; the ship’s pitching and rolling as it rode the
-waves made it impossible for the wizard to cast
-spells. After months of research, he enchanted a
-pair of anklets that would make his life at sea eas-
-ier. The anklets were woven from kelp, and the
-wizard dubbed them anklets of sure footing.
-
-Both anklets must be worn, and they do not
-function if covered by footwear or cloth. The
-wearer is never affected by seasickness and can
-move at normal speeds across ship decks, even
-under treacherous conditions such as mountain-
-ous waves and gale force winds. Spellcasting is
-not hampered by the ship’s movement, because
-the anklets ensure the caster’s steadiness.
-
-In addition, the wearer can climb rigging as
-easily as walk, and fight and cast spells from the
-rigging as if standing on solid ground.
-
-Although the anklets can be worn by any race
-and class, they are highly sought after by seafar-
-ing rogues and spellcasters.
+It is popularly believed by most sages that the wizard who invented these items served on a pirate ship based in the Corsair Domains. Legend has it that the wizard did not adapt well to life at sea; the ship’s pitching and rolling as it rode the waves made it impossible for the wizard to cast spells. After months of research, he enchanted a pair of anklets that would make his life at sea easier. The anklets were woven from kelp, and the wizard dubbed them //anklets of sure footing//.\\
+<wrap indent>Both anklets must be worn, and they do not function if covered by footwear or cloth. The wearer is never affected by seasickness and can move at normal speeds across ship decks, even under treacherous conditions such as mountainous waves and gale force winds. Spellcasting is not hampered by the ship’s movement, because the anklets ensure the caster’s steadiness.</wrap>\\
+<wrap indent>In addition, the wearer can climb rigging as easily as walk, and fight and cast spells from the rigging as if standing on solid ground.</wrap>\\
+<wrap indent>Although the anklets can be worn by any race and class, they are highly sought after by seafar- ing rogues and spellcasters.</wrap>
 
 of Walking
 **XP Value:** 1,200 **GP Value:** 6,000
 The Book of Marvelous Magic
-When locked, this anklet enables the wearer to
-walk upon any fluid, water, oil, acid, etc., without
-actually touching it. Feet or boots hover a fraction
-of an inch above the fluid. One anklet can support
-200 pounds in weight; two support 500 pounds.
+When locked, this anklet enables the wearer to walk upon any fluid, water, oil, acid, etc., without actually touching it. Feet or boots hover a fraction of an inch above the fluid. One anklet can support 200 pounds in weight; two support 500 pounds.
 
-Antennae of Triangulation
+===== Antennae of Triangulation =====
 **GP Value:** 55,000
 Realmspace
 These antennae are usually over 8 feet in width
