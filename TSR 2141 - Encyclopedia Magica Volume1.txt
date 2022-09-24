@@ -2469,281 +2469,58 @@ This is magical armor so fine and light that it can be worn under normal clothin
 | 11-15 | Dwarf/Halfling (Stout or Tallfellow) |
 | 16-80 | Elf/Half Elf |
 | 81-95 | Human size, normal (up to 6’, 200 pounds) |
-| 96-00 | Human size, large (up to 64’, 250 pounds) |
+| 96-00 | Human size, large (up to 6½’, 250 pounds) |
 
 of Energy Drain
 **XP Value:** 1,500 **GP Value:** 15,000
 DUNGEONS & DRAGONS Rules Cyclopedia
-The armor can become “charged” on command
-(as described under the electricity special power),
-but instead of inflicting damage, it causes the loss
-of one of the opponent’s levels or Hit Dice (as ifa
-wight). The same saving throw as the electricity
-power applies (possibly with bonuses); if success-
-ful, the energy drain does not occur. The item can
-drain one level or Hit Die per day, but any num-
-ber of saving throws may be made before this
-occurs.
+The armor can become “charged” on command (as described under the electricity special power), but instead of inflicting damage, it causes the loss of one of the opponent’s levels or Hit Dice (as if a wight). The same saving throw as the electricity power applies (possibly with bonuses); if successful, the energy drain does not occur. The item can drain one level or Hit Die per day, but any number of saving throws may be made before this occurs.
 
 of Ethereality
 **XP Value:** 5,000 **GP Value:** 30,000
 Dunceons & Dracons Rules Cyclopedia
-
-The user may become ethereal on command and
-remain so for as long as desired. The user may
-return to the Prime Material Plane when a second
-command word is spoken. Each command word
-may be used once per day.
+The user may become //ethereal// on command and remain so for as long as desired. The user may return to the Prime Material Plane when a second command word is spoken. Each command word may be used once per day.
 
 of Etherealness
-
 **XP Value:** 5,000 **GP Value:** 30,000
 GREYHAWK
-The most magical of all forms of armor, this suit
-of plate allows the wearer to take either of two
-options—wear it as armor +3, or decide to
-become ethereal. In the latter case, the wearer can
-move through solid objects and is subject to
-attack only by creatures that are able to come out
-of phase. Only spells such as phase door negate
-the etherealness of the armor. Attacks while ethe-
-real are not possible. The armor can be made
-ethereal a total of 49 times, and then it becomes
-merely armor +3. It can never be recharged or
-restored.
+The most magical of all forms of armor, this suit of plate allows the wearer to take either of two options—wear it as //armor +3//, or decide to become ethereal. In the latter case, the wearer can move through solid objects and is subject to attack only by creatures that are able to come out of phase. Only spells such as //phase door// negate the etherealness of the armor. Attacks while ethereal are not possible. The armor can be made ethereal a total of 49 times, and then it becomes merely //armor +3//. It can never be recharged or restored.
 
 of Etherealness II
 **XP Value:** 5,000 **GP Value:** 30,000
 DUNGEON MAsTER Guide
-This is seemingly normal armor +5, but if a com-
-mand word is spoken, the suit enables its wearer
-and all nonliving items either worn or carried to
-become ethereal, as if oi/ of etherealness had
-
-been used. While in the ethereal state the wearer
-165
-
- 
-
-74
-
-XN
-cannot attack material creatures. A phase door
-spell negates the ethereal state and prevents the
-armor from functioning for one day.
-
-There are 20 charges placed upon armor of
-etherealness. Once used, the armor cannot be
-recharged. Furthermore, every five uses reduces
-the bonus of the armor by one—if five charges
-are used to become ethereal, the armor is +4, if
-10 are used it is +3, +2 if 15 are used, and only +1
-if all 20 are exhausted.
-
- 
+This is seemingly normal //armor +5//, but if a command word is spoken, the suit enables its wearer and all nonliving items either worn or carried to become ethereal, as if //oil of etherealness// had been used. While in the ethereal state the wearer cannot attack material creatures. A //phase door// spell negates the ethereal state and prevents the armor from functioning for one day.\\
+<wrap indent>There are 20 charges placed upon //armor of etherealness//. Once used, the armor cannot be recharged. Furthermore, every five uses reduces the bonus of the armor by one—if five charges are used to become ethereal, the armor is +4, if 10 are used it is +3, +2 if 15 are used, and only +1 if all 20 are exhausted.</wrap>
 
 Evil Dragon
-
 **XP Value:** 1,000 **GP Value:** 7,500
-
 DRAGON Magazine 62
-In an era long past, an intrepid dragon-hunter
-and his wizard friend discovered that the hide of
-an evil dragon, if properly prepared, could be cut
-and formed into a suit of armor that provides
-protection against attack forms resembling the
-breath weapon of the dragon from which it was
-made.
-
-To begin the process, an evil dragon (white,
-black, red, blue, or green) of at least adult age
-must be killed, without the use of magic and
-preferably by means of repeated attacks with
-blunt weapons. Even a single magical attack
-directed against a dragon, whether or not the
-spellcasting succeeds and whether or not the
-
-Evil Dragon Armor
-
-Tiana
-
-spell causes damage to the dragon, ruins the
-protective potential of the creature’s hide and
-makes later attempts at enchantment ineffective.
-If the dragon is hit with edged weapons, there is
-a chance that the hide is cut and marred to such
-an extent that it becomes unusable as armor. For
-each successful hit on the dragon with an edged
-weapon (regardless of the amount of damage
-done), add 5% to the chance of the hide being
-damaged beyond use. (Thus, if a dragon takes
-20 hits from edged weapons, there is no chance
-that the hide can be used as armor.) If and when
-the dragon is killed, the chance that the hide is
-spoiled must be exceeded on a percentage die
-roll in order for the armor-making process to
-continue,
-
-The hide must be removed with care, and at
-this juncture a very sharp edged weapon is essen-
-tial to trim the hide as cleanly and efficiently as
-possible. The instrument must be able to be con-
-trolled with precision, which means it can’t be
-any larger than a standard dagger blade. If the
-character doing the skinning uses a normal (non-
-magical) blade, there is a 30% chance that,
-despite his or her best efforts, the hide does not
-separate cleanly from the body and the resulting
-scraps of dragon skin are unusable as armor. If an
-enchanted blade is employed, the chance of fail-
-ure at this step of the process decreases by 10%
-for each “plus” of the instrument; thus, with any
-blade of +3 or greater, successful skinning is
-assured.
-
-Once the hide is removed and transported to
-civilization (assuming the dragon wasn’t killed in
-the village square), the services of skilled armor-
-ers, leather-workers, and tailors must be employed
-to fashion the hide into armor. This process takes
-1d10+20 days for each suit of armor, and prices
-for the needed services are three times the stan-
-dard rate. Only one set of armor may be fash-
-ioned from the hide of a single dragon.
-
-The resulting suit of armor is equivalent to nor-
-mal} scale mail in Armor Class (6), maximum
-movement rate (6), and bulk (fairly bulky). It
-weighs about 30 pounds, compared to 40 pounds
-for normal scale mail. Unenchanted armor can be
-worn “as is,” but if the nonmagical armor is hit
-even once by an edged weapon, it cannot be
-enchanted again.
-
-Enchanting the armor must be done by a
-magic-user of at least 16th level, who insists on a
-
-generous payment in gold pieces, or the promise
-166
-
- 
-
-75
-
-Ne
-(and proof) of some other benefit that might be
-offered. At least half the payment must be sup-
-plied in advance, with the rest due when the
-armor is delivered.
-
-The magic-user must first successfully cast
-enchant an item on the armor, and then apply a
-second spell (which varies depending on the
-armor type) to act as a catalyst, triggering the
-armor’s capability to resist a particular attack
-form. This second spell must be applied (the cast-
-ing must have been begun) within 12 hours after
-the completion of enchant an item. If the enchant-
-ing process fails, either because the casting of
-enchant an item is unsuccessful or because the
-second spell is not applied within the required
-time, the wizard is under no obligation to make
-another attempt free of charge.
-
-The second step in the process depends on the
-type (color) of dragon hide used. To complete
-white dragon armor, an ice storm spell must be
-cast on the hide; for black dragon armor, the fin-
-ished hide must be immersed in acid for 1d12+12
-hours; to complete green dragon armor, a stink-
-ing cloud spell must be cast on (around) the hide;
-for blue dragon armor, a shocking grasp spell is
-needed, and for red dragon armor, burning
-hands. None of these spells or substances damage
-the armor when they are applied, their function is
-to activate the innate resistance in the hide that
-has already been “brought to the surface” by the
-enchant an item spell.
-
-When the enchantment is complete, the armor
-is the equivalent to scale mail +/: Armor Class 5,
-movement 9, weight 15 pounds. In addition, each
-colored armor type affords the wearer resistance
-or immunity to a particular attack form. The spe-
-cial properties of each type are:
-
-White dragon armor—Resistance against
-white dragon breath, winter wolf breath, cone of
-cold spells, and other attack forms involving cold,
-ice, or frost.
-
-Black dragon armor—Resistance against black
-dragon breath, giant slug spittle, anhkheg diges-
-tive acid, and other attack forms using acid or
-acid like effects.
-
-Green dragon armor—Resistance against
-green dragon breath, iron golem breath, cloudkill
-spells, and other attack forms using poisonous
-gases.
-
-Blue dragon armor—Resistance against blue
-dragon breath, lightning bolt spells, storm giant’s
-lightning attack, and other sorts of natural or
-
-~ Armor of Fear r
-
-magical lightning or electricity.
-
-Red dragon armor—Resistance against red
-dragon breath, fireball spells, and other attacks
-using heat or fire.
-
-“Resistance” includes these benefits: The
-wearer of the armor gains +1 on all saving throws
-against the specified attack form; the wearer is
-unaffected by any attack of the specified type that
-does six points of damage or less in a round. In
-all cases, the wearer is entitled to a-1 modifier
-on each and every damage die rolled (with a min-
-imum of one point of damage per die). If the
-application of this modifier reduces damage
-taken in a round to six points or less, the wearer
-takes no damage (as stipulated above).
-
-Although these suits of armor come from evil
-dragons, priests and fighters of all alignments
-may wear them.
+In an era long past, an intrepid dragon-hunter and his wizard friend discovered that the hide of an evil dragon, if properly prepared, could be cut and formed into a suit of armor that provides protection against attack forms resembling the breath weapon of the dragon from which it was made.\\
+<wrap indent>To begin the process, an evil dragon (white, black, red, blue, or green) of at least adult age must be killed, without the use of magic and preferably by means of repeated attacks with blunt weapons. Even a single magical attack directed against a dragon, whether or not the spellcasting succeeds and whether or not the spell causes damage to the dragon, ruins the protective potential of the creature’s hide and makes later attempts at enchantment ineffective. If the dragon is hit with edged weapons, there is a chance that the hide is cut and marred to such an extent that it becomes unusable as armor. For each successful hit on the dragon with an edged weapon (regardless of the amount of damage done), add 5% to the chance of the hide being damaged beyond use. (Thus, if a dragon takes 20 hits from edged weapons, there is no chance that the hide can be used as armor.) If and when the dragon is killed, the chance that the hide is spoiled must be exceeded on a percentage die roll in order for the armor-making process to continue.</wrap>\\
+<wrap indent>The hide must be removed with care, and at this juncture a very sharp edged weapon is essential to trim the hide as cleanly and efficiently as possible. The instrument must be able to be controlled with precision, which means it can’t be any larger than a standard dagger blade. If the character doing the skinning uses a normal (non-magical) blade, there is a 30% chance that, despite his or her best efforts, the hide does not separate cleanly from the body and the resulting scraps of dragon skin are unusable as armor. If an enchanted blade is employed, the chance of failure at this step of the process decreases by 10% for each “plus” of the instrument; thus, with any blade of +3 or greater, successful skinning is assured.</wrap>\\
+<wrap indent>Once the hide is removed and transported to civilization (assuming the dragon wasn’t killed in the village square), the services of skilled armorers, leather-workers, and tailors must be employed to fashion the hide into armor. This process takes 1d10+20 days for each suit of armor, and prices for the needed services are three times the standard rate. Only one set of armor may be fashioned from the hide of a single dragon.</wrap>\\
+<wrap indent>The resulting suit of armor is equivalent to normall scale mail in Armor Class (6), maximum movement rate (6), and bulk (fairly bulky). It weighs about 30 pounds, compared to 40 pounds for normal scale mail. Unenchanted armor can be worn “as is,” but if the nonmagical armor is hit even once by an edged weapon, it cannot be enchanted again.</wrap>\\
+<wrap indent>Enchanting the armor must be done by a magic-user of at least 16th level, who insists on a generous payment in gold pieces, or the promise (and proof) of some other benefit that might be offered. At least half the payment must be supplied in advance, with the rest due when the armor is delivered.</wrap>\\
+<wrap indent>The magic-user must first successfully cast //enchant an item// on the armor, and then apply a second spell (which varies depending on the armor type) to act as a catalyst, triggering the armor’s capability to resist a particular attack form. This second spell must be applied (the casting must have been begun) within 12 hours after the completion of //enchant an item//. If the enchanting process fails, either because the casting of //enchant an item// is unsuccessful or because the second spell is not applied within the required time, the wizard is under no obligation to make another attempt free of charge.</wrap>\\
+<wrap indent>The second step in the process depends on the type (color) of dragon hide used. To complete //white dragon armor//, an //ice storm// spell must be cast on the hide; for //black dragon armor//, the finished hide must be immersed in acid for 1d12+12 hours; to complete //green dragon armor//, a //stinking cloud// spell must be cast on (around) the hide; for //blue dragon armor//, a //shocking grasp spell// is needed, and for //red dragon armor//, //burning hands//. None of these spells or substances damage the armor when they are applied, their function is to activate the innate resistance in the hide that has already been “brought to the surface” by the //enchant an item// spell.</wrap>\\
+<wrap indent>When the enchantment is complete, the armor is the equivalent to //scale mail +1//: Armor Class 5, movement 9, weight 15 pounds. In addition, each colored armor type affords the wearer resistance or immunity to a particular attack form. The special properties of each type are:</wrap>\\
+<wrap indent>//White dragon armor//—Resistance against white dragon breath, winter wolf breath, cone of cold spells, and other attack forms involving cold, ice, or frost.</wrap>\\
+<wrap indent>//Black dragon armor//—Resistance against black dragon breath, giant slug spittle, anhkheg diges- tive acid, and other attack forms using acid or acid like effects.</wrap>\\
+<wrap indent>//Green dragon armor//—Resistance against green dragon breath, iron golem breath, cloudkill spells, and other attack forms using poisonous gases.</wrap>\\
+<wrap indent>//Blue dragon armor//—Resistance against blue dragon breath, lightning bolt spells, storm giant’s lightning attack, and other sorts of natural or magical lightning or electricity.</wrap>\\
+</wrap indent>//Red dragon armor//—Resistance against red dragon breath, fireball spells, and other attacks using heat or fire.</wrap>\\
+<wrap indent>“Resistance” includes these benefits: The wearer of the armor gains +1 on all saving throws against the specified attack form; the wearer is unaffected by any attack of the specified type that does six points of damage or less in a round. In all cases, the wearer is entitled to a-1 modifier on each and every damage die rolled (with a minimum of one point of damage per die). If the application of this modifier reduces damage taken in a round to six points or less, the wearer takes no damage (as stipulated above).</wrap>\\
+<wrap indent>Although these suits of armor come from evil dragons, priests and fighters of all alignments may wear them.</wrap>
 
 of Fear
 **XP Value:** 4,000 **GP Value:** 40,000
 Oriental Adventures
-
-This armor looks like normal armor and detect
-magic only reveals that it is magical. However,
-the armor contains 2d10 fear charges when
-found. Upon uttering the command word, the
-wearer radiates a fear aura to a 30-foot radius. All
-creatures within that radius must make a saving
-throw vs. spell or flee in panic for one turn. The
-wearer is immune to this effect. Each use expends
-one charge. When all charges are spent, the armor
-functions as normal armor. It cannot be
-recharged.
+This armor looks like normal armor and //detect magic// only reveals that it is magical. However, the armor contains 2d10 //fear// charges when found. Upon uttering the command word, the wearer radiates a //fear// aura to a 30-foot radius. All creatures within that radius must make a saving throw vs. spell or flee in panic for one turn. The wearer is immune to this effect. Each use expends one charge. When all charges are spent, the armor functions as normal armor. It cannot be recharged.
 
 of Fear II
-
 **XP Value:** 3,000 **GP Value:** 30,000
 DUNGEON MASTER Guide
-This armor functions as normal plate mail +1,
-However, it is imbued with 2d2 fear charges.
-Upon uttering the command, a charge is spent
-and the wearer radiates a 30—foot aura of fear. All
-creatures (except the one wearing the armor)
-must save vs. spell or flee in panic for 1d4+1
-rounds. When all charges are spent, the armor
-functions as normal armor +1. It cannot be
-recharged.
+This armor functions as normal //plate mail +1//, However, it is imbued with 2d2 fear charges. Upon uttering the command, a charge is spent and the wearer radiates a 30—foot aura of //fear//. All creatures (except the one wearing the armor) must save vs. spell or flee in panic for 1d4+1 rounds. When all charges are spent, the armor functions as normal armor +1. It cannot be recharged.
 
 of Flight
 **XP Value:** 1,000 **GP Value:** 7,500
