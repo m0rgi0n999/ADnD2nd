@@ -2118,1084 +2118,341 @@ This scaled, taloned, reptilian limb is believed to have been severed from a liz
 Silver Arm of Ergoth
 **XP Value:** 10,000 **GP Value:** 50,000
 Dragons of Light
-
-The silver arm of Ergoth was forged by dragon,
-elf, man, and dwarf during the creation of the
-original dragonlances. This artifact is able to
-guide the hammer of Kharas to the exact location
-of the dragonmetal to create a perfect lance. Only
-with pure dragonmetal, the si/ver arm, and the
-hammer of Kharas, can lasting dragonlances be
-crafted. The silver arm also acts as a ring of
-regeneration for its owner.
+The //silver arm of Ergoth// was forged by dragon, elf, man, and dwarf during the creation of the original dragonlances. This artifact is able to guide the //hammer of Kharas// to the exact location of the dragonmetal to create a perfect lance. Only with pure dragonmetal, the //silver arm//, and the //hammer of Kharas//, can lasting dragonlances be crafted. The //silver arm// also acts as a //ring of regeneration// for its owner.
 
 Silver Arm of Ergoth II
 **XP Value:** 9,000 **GP Value:** 45,000
 Tales of the Lance
-
-The silver arm of Ergoth was created by dwarves,
-elves, men, and good dragons during the Third
-Dragon War. Used to forge the original drag-
-onlances, it was used again during the recent war
-against the Dragon Empire.
-
-The arm must be attached to a humanoid with
-a Strength of at least 17. The person must be of
-good alignment and be missing his or her right
-arm. When a proper wearer places the arm to his
-or her right shoulder, the arm grafts itself to the
-character and becomes a normal arm for all com-
-mon tasks.
-
-When used with the hammer of Kharas, how-
-ever, the silver arm of Ergoth has the power to
-properly forge dragonlances from dragonmetal.
-Only with the hammer of Kharas, the silver arm of
-Ergoth, pure dragonmetal, and the skill of a black-
-smith or weaponsmith can true dragonilances be
-forged. The arm acts as a ring of regeneration.
+The //silver arm of Ergoth// was created by dwarves, elves, men, and good dragons during the Third Dragon War. Used to forge the original //dragonlances//, it was used again during the recent war against the Dragon Empire.\\
+<wrap indent>The arm must be attached to a humanoid with a Strength of at least 17. The person must be of good alignment and be missing his or her right arm. When a proper wearer places the arm to his or her right shoulder, the arm grafts itself to the character and becomes a normal arm for all common tasks.</wrap>\\
+<wrap indent>When used with the //hammer of Kharas//, however, the //silver arm of Ergoth// has the power to properly forge //dragonlances// from dragonmetal. Only with the //hammer of Kharas//, the //silver arm of Ergoth//, pure dragonmetal, and the skill of a blacksmith or weaponsmith can true //dragonlances// be forged. The arm acts as a //ring of regeneration//.</wrap>
 
 of Valor
 **XP Value:** 8,000 **GP Value:** 40,000
 The Ruins of Myth Drannor
-This priceless item is one of two known surviving
-power arms in the Realms (the other is in the keep-
-ing of the Heralds, in the Herald’s Holdfast)—and
+This priceless item is one of two known surviving //power arms// in the Realms (the other is in the keeping of the Heralds, in the Herald’s Holdfast)—and only certain senior Harpers and powerful wizards such as Elminster know about the other one.\\
+<wrap indent>Made by a cabal of mighty archmages when Myth Drannor was strong, the //arm of valor// takes the form of five pieces of full, adamantite plate armor. Together, the five pieces form a complete covering for one arm (they alter size and shape to fit either arm of any M-sized creature), There is no known way to dispel the magic instilled in them, and they make all saving throws at | on 1d20. (If three or more pieces are worn together, the save drops to 0 or automatic.)</wrap>\\
+<wrap indent>Whenever any power of any piece of the arm is used, there is a 1% chance (not cumulative) that one of the pieces vanishes, //teleporting// far away (despite the mythal), and draining the life—force from the wearer. The power that was used takes full effect, but the wearer suffers 1d12 hp damage, and permanently loses an additional 1d2 hit points, The arm was designed for use by champions defending Myth Drannor; its powers override all mythal powers and aren’t subject to wild magic.</wrap>\\
+<wrap indent>The pieces are a //gauntlet//, //vambrace// (tubular covering for the forearm), //couter// (a winged, hinged elbow-—covering), //rerebrace// (tubular cover for the upper arm), and a //pauldron// (shoulder cover, flaring up into a raised half—collar, and over to cover much of the chest and shoulder blade at the back). The //rerebrace// and //vambrace// each contain small (4 by 6 by 2 inches) storage compartments that latch shut, and are shielded against magical scrying.</wrap>\\
+<wrap indent>Whenever any piece of the arm is first brought to within 200 feet of another, both pieces glow with a blue-white faerie fire for four rounds (this won’t happen again until the two pieces are farther apart, and then moved together again; it doesn’t happen continuously when the pieces are very close together or actually touching). When worn (“worn together” in this context means strapped onto the same arm of the same being), the pieces of armor confer the following powers:</wrap>
 
-only certain senior Harpers and powerful wizards
-such as Elminster know about the other one.
+**Gauntlet**
+* immunity to //charm//, //hold//, and //sleep// (and all related spells and psionics).
+* punch does 1d4+1 points of damage, and can strike creatures only hit by +1 or better magical weapons,
+* power smash (3d6 points of damage plus “crushing blow” saving throw forced on items struck) once per turn.
+* //feather fall// at will.
+* jump once per turn (range as the spell, but safe landing guaranteed).
+* all weapons wielded solely by the arm wearing the vambrace strike at +1 damage.
+* immunity to //ESP// spells, spell—like powers, and psionics.
+* wearer can see invisible beings and objects (30-foot range).
 
-Made by a cabal of mighty archmages when
-Myth Drannor was strong, the arm of valor takes
-the form of five pieces of full, adamantite plate
-armor. Together, the five pieces form a complete
-covering for one arm (they alter size and shape to
-fit either arm of any M-sized creature), There is
-no known way to dispel the magic instilled in
-them, and they make all saving throws at | on
-1d20. (If three or more pieces are worn together,
-the save drops to 0 or automatic.)
+**Couter**
+* //dimension door// once per turn
+* //airy water// (creates airy water automatically around the wearer, whenever submerged)
+* wearer can see dweomers within 30 feet and distinguish between spell areas of effect, enchanted beings, and permanent magical auras.
 
-Whenever any power of any piece of the arm is
-used, there is a 1% chance (not cumulative) that
-one of the pieces vanishes, ‘eleporting far away
-(despite the mythal), and draining the life—force
-from the wearer. The power that was used takes
-full effect, but the wearer suffers 1d12 hp damage,
-and permanently loses an additional 1d2 hit points,
-The arm was designed for use by champions
-defending Myth Drannor; its powers override all
-mythal powers and aren’t subject to wild magic.
+**Rerebrace**
+* temporarily raises the status of all weapons wielded by the wearer to the status of +2 magical weapons—+2 on damage and attack rolls, and can be used to hit beings struck only by magical weapons; these bonuses are not cumulative with magical weapon bonuses, (a +1 sword would be raised to +2, but a +2 sword doesn’t become +4), but are cumulative with vambrace bonuses, if both are worn together.
+* immunity to all //illusion// and //phantasm// spells.
 
-The pieces are a gauntlet, vambrace (tubular
-covering for the forearm), couter (a winged,
-hinged elbow-—covering), rerebrace (tubular cover
-for the upper arm), and a pauldron (shoulder
-cover, flaring up into a raised half—collar, and
-over to cover much of the chest and shoulder
-blade at the back). The rerebrace and vambrace
-each contain small (4 by 6 by 2 inches) storage
-compartments that latch shut, and are shielded
-against magical scrying.
-
-Whenever any piece of the arm is first brought
-to within 200 feet of another, both pieces glow
-with a blue-white faerie fire for four rounds (this
-won’t happen again until the two pieces are far-
-ther apart, and then moved together again; it
-doesn’t happen continuously when the pieces are
-very close together or actually touching). When
-worn (“worn together” in this context means
-strapped onto the same arm of the same being),
-the pieces of armor confer the following powers:
-
-Gauntlet
-
-* immunity to charm, hold, and sleep (and all
-related spells and psionics).
-
-* punch does 1d4+1 points of damage, and can
-strike creatures only hit by +1 or better magi-
-cal weapons,
-
-* power smash (3d6 points of damage plus
-“crushing blow” saving throw forced on items
-
-struck) once per turn.
-123
-
- 
-
-Me
-Vambrace
-
-* feather fall at will.
-
-* jump once per turn (range as the spell, but safe
-landing guaranteed).
-
-* all weapons wielded solely by the arm wear-
-ing the vambrace strike at +1 damage.
-
-* immunity to ESP spells, spell—like powers,
-and psionics.
-
-* wearer can see invisible beings and objects
-(30-foot range).
-
-Couter
-
-* dimension door once per turn
-
-* airy water (creates airy water automatically
-around the wearer, whenever submerged)
-
-* wearer can see dweomers within 30 feet and dis-
-tinguish between spell areas of effect, enchanted
-beings, and permanent magical auras.
-
-Rerebrace
-
-* temporarily raises the status of all weapons
-wielded by the wearer to the status of +2 magi-
-cal weapons—+2 on damage and attack rolls,
-and can be used to hit beings struck only by
-magical weapons; these bonuses are not cumu-
-lative with magical weapon bonuses, (a +1
-sword would be raised to +2, but a +2 sword
-doesn’t become +4), but are cumulative with
-vambrace bonuses, if both are worn together.
-
-* immunity to all i//usion and phantasm spells.
-
-Pauldron
-
+**Pauldron**
 * wearer’s Armor Class improved by four points.
+* immunity to all //enchantment// and //charm// spells.
+* //force blast// once per turn (does 3d4 points of damage, neither has nor uses charges, additional impact powers as for a //ring of the ram//.
 
-* immunity to all enchantment and charm
-spells.
+The //arm of valor// also has some cumulative additional powers, conferred only by combinations of various pieces worn together, as follows:
 
-* force blast once per turn (does 3d4 points of
-damage, neither has nor uses charges, addi-
-tional impact powers as for a ring of the ram.
-
-The arm of valor also has some cumulative addi-
-tional powers, conferred only by combinations of
-various pieces worn together, as follows:
-
-Any Two Pieces Worn Together
-
-* immunity from all polymorph attacks.
-
+**Any Two Pieces Worn Together**
+* immunity from all //polymorph// attacks.
 * all system shock rolls automatically successful.
-* immunity from magical fear.
-
+* immunity from magical //fear//.
 * a bonus of +1 on all saving throws.
 
-Gauntlet, Vambrace, and Couter Worn
+**Gauntlet, Vambrace, and Couter Worn Together**
+* //dispel magic// (90-foot range, 90-arc ray, once per turn).
+* magic missile (5 missiles, 1d4+1 points of damage each, one missile from each digit of gauntlet, one unleashed per turn, of all five missiles in the same round).
+* immunity from //petrification//.
 
-Together
-
-¢ dispel magic (90-foot range, 90-arc ray, once
-per turn).
-
-Armband of Healing
-
-"ieee eee eerie
-
-* magic missile (5 missiles, 1d4+1 points of
-damage each, one missile from each digit of
-gauntlet, one unleashed per turn, of all five
-missiles in the same round).
-
-* immunity from petrification.
-
-Entire Arm Worn Together
-
+**Entire Arm Worn Together**
 * additional +2 bonus on all saving throws.
+* //fly// (four rounds maximum burst, one use per turn).
+* //minor creation// once per day.
+* //wizard eye// once per day.
+* If all five pieces of the arm are worn together, they fuse into a flexible but solidly linked unit that can be readily separated at the wearer’s will, but not otherwise.
 
-* fly (four rounds maximum burst, one use per
-turn).
-
-* minor creation once per day.
-
-* wizard eye once per day.
-
-* Ifall five pieces of the arm are worn together,
-they fuse into a flexible but solidly linked unit
-that can be readily separated at the wearer’s
-will, but not otherwise.
-
-Armband
-
-Armbands appear and function almost exactly
-like anklets, but are usually made of sturdier
-materials. In use, an armband is fastened about
-the upper arm— it does not function if attached to
-any other body part. It may not be used by an
-armless creature, although it may function on a
-tentacle. All other details for Anklet (command
-words, resistance, hit points, and so on) apply
-also to armbands.
+===== Armband =====
+Armbands appear and function almost exactly like anklets, but are usually made of sturdier materials. In use, an armband is fastened about the upper arm— it does not function if attached to any other body part. It may not be used by an armless creature, although it may function on a tentacle. All other details for **Anklet** (command words, resistance, hit points, and so on) apply also to armbands.
 
 Comfort of Sleep
 **XP Value:** 300 **GP Value:** 1,500
 DRAGON Magazine 73
-These are black arm wrappings. An insomniac (or
-anyone else) wearing these bands sleeps soundly
-and comfortably.
+These are black arm wrappings. An insomniac (or anyone else) wearing these bands sleeps soundly and comfortably.
 
 of Death
 **XP Value:** 250 **GP Value:** 1,200
 The Book of Marvelous Magic
-
-This armband appears to be an armband of heal-
-ing, but when locked on the arm, the snakes of its
-insignia animate and bite the wearer. Both hit
-each round, with no attack roll required. Each
-inflicts one point of damage per bite and requires
-a saving throw vs. poison per bite—failure results
-in death. After the snakes are animated, the arm-
-band cannot unlock until destroyed.
+This armband appears to be an //armband of healing//, but when locked on the arm, the snakes of its insignia animate and bite the wearer. Both hit each round, with no attack roll required. Each inflicts one point of damage per bite and requires a saving throw vs. poison per bite—failure results in death. After the snakes are animated, the armband cannot unlock until destroyed.
 
 of Healing
 **XP Value:** 1,500 **GP Value:** 9,000
 The Book of Marvelous Magic
-This item bears the insignia of a caduceus—two
-snakes entwined about a staff. When locked on
-
- 
-
-65
-
-126
-XN
-Armband of Music
-
-the arm of a priest, it causes any three curing
-spells cast by that priest to cure the maximum
-possible damage: seven points for a cure light
-wounds, 14 for a cure serious wounds, etc. Only
-three spells per day are affected.
+This item bears the insignia of a caduceus—two snakes entwined about a staff. When locked on the arm of a priest, it causes any three //curing// spells cast by that priest to cure the maximum possible damage: seven points for a //cure light wounds//, 14 for a //cure serious wounds//, etc. Only three spells per day are affected.
 
 of Music
 **XP Value:** 700 **GP Value:** 7,000
 The Book of Marvelous Magic
-
-This item appears to be and functions in all
-respects as either an armband of healing or an
-armband of strength. However, each time it is
-activated, the armband emits the sounds of a
-brass band (with drums). The band plays a rous-
-ing march for one turn. These “concerts” don’t
-overlap if the armband is used while the music is
-playing; if the armband is activated three times in
-three successive rounds, the music lasts for three
-turns. The armband cannot be unlocked while it is
-producing music. The noise can be heard clearly
-within a 60-foot range, regardless of intervening
-walls, doors, etc., and may attract the attention of
-monsters within that area. Note that a silence 15'
-radius spell only dampens the effect slightly,
-reducing the range to 30 feet.
+This item appears to be and functions in all respects as either an //armband of healing// or an //armband of strength//. However, each time it is activated, the armband emits the sounds of a brass band (with drums). The band plays a rousing march for one turn. These “concerts” don’t overlap if the armband is used while the music is playing; if the armband is activated three times in three successive rounds, the music lasts for three turns. The armband cannot be unlocked while it is producing music. The noise can be heard clearly within a 60-foot range, regardless of intervening walls, doors, etc., and may attract the attention of monsters within that area. Note that a //silence 15' radius// spell only dampens the effect slightly, reducing the range to 30 feet.
 
 of Salutation
 **XP Value:** — **GP Value:** 1,500
 The Book of Marvelous Magic
-This armband bears the symbol of a fleur-de-lis.
-When locked on the arm, it causes the wearer to
-salute an opponent, bending the arm and raising
-hand to the eyebrow, before engaging in hand-to-
-hand combat. It has no effect on missile fire com-
-bat. The victim must hold the salute for one
-round, The opponent may attack during that
-round, gaining a +2 bonus on attack rolls. There
-is, however, a 50% chance that the opponent is so
-surprised it fails to attack that round. The wearer
-is never forced to salute an opponent more than
-once in any melee. Once the first salute is made,
-the armband cannot unlock unless a wish is used.
+This armband bears the symbol of a fleur-de-lis. When locked on the arm, it causes the wearer to salute an opponent, bending the arm and raising hand to the eyebrow, before engaging in hand-to-hand combat. It has no effect on missile fire combat. The victim must hold the salute for one round, The opponent may attack during that round, gaining a +2 bonus on attack rolls. There is, however, a 50% chance that the opponent is so surprised it fails to attack that round. The wearer is never forced to salute an opponent more than once in any melee. Once the first salute is made, the armband cannot unlock unless a //wish// is used.
 
 of Snake Changing
 **XP Value:** 500 **GP Value:** 2,500
 POLYHEDRON Newszine 17
-These armbands, found in pairs, allow the user to
-cast an equivalent of the polymorph self spell, but
-the user can only change to some form of snake.
-Both bands must be worn and the power can be
-invoked once a day.
-
-ieee neni nna iaiiaa tail
+These armbands, found in pairs, allow the user to cast an equivalent of the //polymorph self// spell, but the user can only change to some form of snake. Both bands must be worn and the power can be invoked once a day.
 
 of Strength
 **XP Value:** 750 **GP Value:** 8,000
 The Book of Marvelous Magic
-This band bears the symbol of a lion. When
-locked on the arm, it may be commanded to raise
-the wearer’s Strength score to 18 for one turn. It
-functions three times per day.
+This band bears the symbol of a lion. When locked on the arm, it may be commanded to raise the wearer’s Strength score to 18 for one turn. It functions three times per day.
 
 Trueheart’s Warding
 **XP Value:** 6,900 **GP Value:** 42,000
 Tales of the Lance
-This armband of bronze is etched with a hawk
-that bears arrows in its talons and four roses upon
-its breast. Its tale is a twisted web of intrigue and
-tragedy.
-
-The armband’s origins are clouded in mystery
-to mortal inquirers. Eventually, it passed into the
-hands of Khantal Krellick “Oathbreaker,” who
-maintained a bloody feud with his brother. At
-last, weary of war, Khantal bequeathed the arm-
-band to his brother Novace to end their feud.
-Among the ranks of mercenaries, however,
-Novace’s magic armband became coveted by
-many. A soldier who desired the armband used a
-peculiar dagger of venom to slay Novace from
-behind. While the coward looted the body, the
-warrior Vanderjack who had witnessed the
-betrayal, confronted the villain with his crime. In
-the ensuing skirmish, Vanderjack slew the man.
-Vanderjack swore an oath to one day return the
-armband to its family.
-
-In the years that followed, Vanderjack’s path
-crossed that of the legendary Gregor Uth Matar.
-Seeing a similarity in the crests on the armband
-and Sir Gregor’s armor, Vanderjack passed the
-armband to Sir Gregor, who promised to return it
-to his relatives, who had that very crest. Whether
-Gregor ever intended to honor the bargain
-remains uncertain, Gregor bequeathed the arm-
-band to his daughter Kitiara. She wore it proudly
-and began her own career as a warrior. As time
-passed, she bid farewell to her family and gave
-the armband to her warrior brother Caramon,
-who still holds it.
-
-This artifact detects only as simple magic, for
-the depths of its powers are drawn from the spirit
-bound within the metal: the armband provides its
-wearer with several enchantments. The wearer
-receives protection from normal missiles and a +3
-bonus to saves vs. magic and special attacks.
-Three times a day, the armband lets the wearer
-
-automatically avoid a special attack or reduce it
-131
-
- 
-
-66
-
-XN
- 
-
- 
-
- 
-
-to its minimal effect (DM’s option),
-
-The armband also works much like a ring of
-protection +3, improving the wearer’s Armor
-Class by 3. Further, only +2 weapons or better
-can strike the wearer for full damage. Other
-weapons only inflict | point of damage plus
-Strength and magical bonuses.
-
-The armband can heal the wearer of all
-wounds once per day. With all of these abilities,
-Trueheart'’s warding is proof against the blight
-of age, ill will, and curses, and the wearer is
-undying.
-
-This artifact is the third in the Circle of Love,
-created by Sirrion for the goddess Mishakal dur-
-ing the Age of Dreams. To prove the strength of
-love over deceit, Mishakal drew the girl Mirri to
-the young enemy warrior Trae. They fell in love.
-Allied with Trae’s brother Heris, the lovers set to
-establishing peace between their warring nations.
-The evil god Hiddukel, however, betrayed the
-lovers, imprisoning each of their spirits in one
-artifact from the Circle of Love. Trae is bound in
-the Trueheart’s warding. The armband opposes
-the dagger of vengeance in Hiddukel’s Triad of
-Betrayal.
-
-Armband of Variable Strength
+This armband of bronze is etched with a hawk that bears arrows in its talons and four roses upon its breast. Its tale is a twisted web of intrigue and tragedy.\\
+<wrap indent>The armband’s origins are clouded in mystery to mortal inquirers. Eventually, it passed into the hands of Khantal Krellick “Oathbreaker,” who maintained a bloody feud with his brother. At last, weary of war, Khantal bequeathed the armband to his brother Novace to end their feud. Among the ranks of mercenaries, however, Novace’s magic armband became coveted by many. A soldier who desired the armband used a peculiar //dagger of venom// to slay Novace from behind. While the coward looted the body, the warrior Vanderjack who had witnessed the betrayal, confronted the villain with his crime. In the ensuing skirmish, Vanderjack slew the man. Vanderjack swore an oath to one day return the armband to its family.</wrap>\\
+<wrap indent>In the years that followed, Vanderjack’s path crossed that of the legendary Gregor Uth Matar. Seeing a similarity in the crests on the armband and Sir Gregor’s armor, Vanderjack passed the armband to Sir Gregor, who promised to return it to his relatives, who had that very crest. Whether Gregor ever intended to honor the bargain remains uncertain, Gregor bequeathed the armband to his daughter Kitiara. She wore it proudly and began her own career as a warrior. As time passed, she bid farewell to her family and gave the armband to her warrior brother Caramon, who still holds it.</wrap>\\
+<wrap indent>This artifact detects only as simple magic, for the depths of its powers are drawn from the spirit bound within the metal: the armband provides its wearer with several enchantments. The wearer receives //protection from normal missiles// and a +3 bonus to saves vs. magic and special attacks. Three times a day, the armband lets the wearer automatically avoid a special attack or reduce it to its minimal effect (DM’s option).</wrap>\\
+<wrap indent>The armband also works much like a //ring of protection +3//, improving the wearer’s Armor Class by 3. Further, only +2 weapons or better can strike the wearer for full damage. Other weapons only inflict | point of damage plus Strength and magical bonuses.</wrap>\\
+<wrap indent>The armband can //heal// the wearer of all wounds once per day. With all of these abilities, //Trueheart'’s warding// is proof against the blight of age, ill will, and curses, and the wearer is undying.</wrap>\\
+<wrap indent>This artifact is the third in the //Circle of Love//, created by Sirrion for the goddess Mishakal during the Age of Dreams. To prove the strength of love over deceit, Mishakal drew the girl Mirri to the young enemy warrior Trae. They fell in love. Allied with Trae’s brother Heris, the lovers set to establishing peace between their warring nations. The evil god Hiddukel, however, betrayed the lovers, imprisoning each of their spirits in one artifact from the //Circle of Love//. Trae is bound in the Trueheart’s warding. The armband opposes the //dagger of vengeance// in Hiddukel’s //Triad of Betrayal//.<wrap>
 
 of Variable Strength
 **XP Value:** — **GP Value:** 750
 The Book of Marvelous Magic
-This armband is indistinguishable from an arm-
-band of strength but, when commanded to func-
-tion it drops the wearer’s Strength score to 3. The
-Strength score rises by one per turn, until 18 is
-reached, and drops again to 3 on the following
-turn. The victim’s original Strength returns only if
-a remove curse spell is applied by a spellcaster of
-15th level.
+This armband is indistinguishable from an //armband of strength// but, when commanded to function it drops the wearer’s Strength score to 3. The Strength score rises by one per turn, until 18 is reached, and drops again to 3 on the following turn. The victim’s original Strength returns only if a //remove curse// spell is applied by a spellcaster of 15th level.
 
-Armor
-In this section, there are descriptions of some
-very special kinds of armor. Before adding these
-to your campaign, however, be sure you are
-familiar with the armor gradation system:
+===== Armor =====
+In this section, there are descriptions of some very special kinds of armor. Before adding these to your campaign, however, be sure you are familiar with the armor gradation system:\\
+<wrap indent>For each +1 bonus to armor, regardless of the type of armor, the wearer’s Armor Class moves down (AC 2 to 1, to 0, -1, -2, and so on). A normal shield improves the Armor Class by 1. A magical shield improves Armor Class like magical armor—to -1, -2, etc. Note, however, that Armor Class can never be improved beyond -10.</wrap>\\
+<wrap indent>Thus, //chain mail +1// is like ordinary chain mail (AC 5), but one category better (AC 4). A shield +J is equal to Armor Class 8—two places better than no armor (+1 for bearing a shield, +1 for the magical bonus of the shield).</wrap>\\
+<wrap indent>When adding magical armor to the game, be aware of sizing problems: 65% of all armor (except elven chain mail) is human size, 20% is elf size, 10% is dwarf size, and only 5% is sized for gnomes or halflings. (Elven chain mail sizing is determined on the table below.)</wrap>\\
+<wrap indent>After determining the magical properties of the armor the character found, purchased, or traded for, roll on the two following tables to determine the type of armor and the construction materials. Please note that certain armor types do not require a roll on the materials table (for example, the different types of leather and padded armors). Roll on the table below to determine the type of item found.</wrap>\\
+<wrap indent>According to the first edition of the //DMG//, page 164:</wrap>
 
-For each +1 bonus to armor, regardless of the
-type of armor, the wearer’s Armor Class moves
-down (AC 2 to 1, to 0, -1, -2, and so on). A nor-
-mal shield improves the Armor Class by 1. A
-magical shield improves Armor Class like magi-
-cal armor—to -1, -2, etc. Note, however, that
-Armor Class can never be improved beyond -10.
-
-Thus, chain mail +1/ is like ordinary chain mail
-(AC 5), but one category better (AC 4). A shield
-+J is equal to Armor Class 8—two places better
-than no armor (+1 for bearing a shield, +1 for the
-magical bonus of the shield).
-
-When adding magical armor to the game, be
-aware of sizing problems: 65% of all armor
-(except elven chain mail) is human size, 20% is
-elf size, 10% is dwarf size, and only 5% is sized
-for gnomes or halflings. (Elven chain mail sizing
-is determined on the table below.)
-
-After determining the magical properties of the
-armor the character found, purchased, or traded
-for, roll on the two following tables to determine
-the type of armor and the construction materials.
-Please note that certain armor types do not
-require a roll on the materials table (for example,
-the different types of leather and padded armors).
-Roll on the table below to determine the type of
-item found.
-
-According to the first edition of the DMG,
-page 164:
-
-* Armor of +3 bonus is of special steel made
-from meteorite iron.
-
+* Armor of +3 bonus is of special steel made from meteorite iron.
 * +4 is mithral, alloyed with steel.
-
 * +5 is adamantite, alloyed with steel.
 
-132
+^ Roll ^ Armor |
+| 01-06 | Banded |
+| 07 | Batakari |
+| 08 | Brigadine |
+| 09 | Chahar-aina |
+| 10-14 | Chain |
+| 15-18 | Coin |
+| 19 | Cuir-Boulli |
+| 20 | Do-—maru |
+| 21 | Drow Chain |
+| 22 | Dwarven Plate |
+| | 23 | Elven Plate |
+| 24-28 | Field Plate |
+| 29-33 | Full Plate |
+| 34 | Gallic Armor |
+| 35 | Gnomish Leather |
+| 36 | Haidate |
+| 37 | Hara—ate |
+| 38 | Hara-ate-gawa |
+| 39 | Haramaki |
+| 40 | Haramaki—do |
+| 41-46 | Hide |
+| 47 | Horo |
+| 48 | Kot |
+| 49 | Lamellar |
+| 50-56 | Leather |
+| 51 | Leather Scale |
+| 52 | Lorica Hamata |
+| 53 | Lorica Segmenta |
+| 54 | Metal Scale |
+| 55 | O-Yoroi|
+| 56-61 | Padded |
+| 62-67 | Plate Mail |
+| 68-73 | Ring |
+| 74 | Samnite Armor |
+| 75-80 | Scale |
+| 81 | Sode |
+| 82-86 | Spiked Leather |
+| 87-91 | Splint |
+| 92-96 | Studded Leather |
+| 97 | Sune-ate |
+| 98 | Thracian Armor |
+| 99-00 | with Body spikes* |
 
- 
 
-67
- 
+^ Roll ^ Armor Material ^ Cost Multiplier |
+| 01 | Adamantite x 50 |
+| 02-05 | Bronze x .95 |
+| 06-08 | Copper x 9 |
+| 09-10 | Electrum x2.5 | 
+| 11-12 | Gold x 5 |
+| 13-62 | Iron x1 |
+| 63-72 | Obsidian x 75 |
+| 73 | Platinum * 25 |
+| 74-75 | Silver x5 |
+| 76-90 | Steel x9 |
+| 91-99 | Wood x5 |
+| 00 | Mithral x 100 |
 
- 
-Armor of Acidic Secretion
+Abbathor’s
+**XP Value:** — **GP Value:** -
+Monster Mythology
+Abbathor’s avatar’s leather armor +4 can cast blindness at one creature per round within 30 feet (save vs. spell at -6 to negate, -3 if looking away).
 
- 
+of Absorption
+**XP Value:** 5,000 **GP Value:** 25,000
+DUNGEONS & Dracons Rules Cyclopedia
+If the user is hit by a blow that would cause an energy drain, this armor absorbs the draining effect and only the normal damage affects the user. Each energy drain causes the loss of one AC bonus modifier from the armor. When reduced to zero bonuses, the item crumbles to dust. (For instance, //armor +3// that has absorbed two energy drain attacks is now //armor +1//. If it absorbs yet another energy drain, it is reduced to zero and disintegrates.) This special power is not under the control of the user; a character cannot choose to suffer the energy drain and leave the item intact. The normal limit of one use per day does not apply to this power.
 
-Roll Armor 73 Platinum * 25
-01-06 Banded 74-75 Silver «5
-
-07 Batakari 76-90 Steel x9
-
-08 Brigadine 91-99 Wood x5
-
-09 Chahar-aina 00 Mithral x 100
-10-14 Chain
-15-18 Coin Abbathor’s
-
-19 Cuir-Boulli **XP Value:** — **GP Value:**
-
-20 Do-—maru Monster Mythology
-
-21 Drow Chain Abbathor’s avatar’s leather armor +4 can cast
-
-22 Dwarven Plate blindness at one creature per round within 30 feet
-
-23 Elven Plate (save vs. spell at -6 to negate, -3 if looking
-24-28 Field Plate away).
-
-29-33 Full Plate
-
-34. ~~ Gallic Armor of Absorption
-
-35 Gnomish Leather **XP Value:** 5,000 **GP Value:** 25,000
-
-36 Haidate DUNGEONS & Dracons Rules Cyclopedia
-
-37 Hara—ate If the user is hit by a blow that would cause an
-
-38 Hara-ate-gawa energy drain, this armor absorbs the draining effect
-
-39 Haramaki and only the normal damage affects the user. Each
-
-40 Haramaki—do energy drain causes the loss of one AC bonus modi-
-4146_—s— Hide fier from the armor. When reduced to zero bonuses,
-
-47 Horo the item crumbles to dust. (For instance, armor +3
-
-48 Kot that has absorbed two energy drain attacks is now
-
-49 Lamellar armor +1. If it absorbs yet another energy drain, it
-50-56 Leather is reduced to zero and disintegrates.) This special
-
-51 Leather Scale power is not under the control of the user; a charac-
-
-52 Lorica Hamata ter cannot choose to suffer the energy drain and
-
-53 Lorica Segmenta leave the item intact. The normal limit of one use
-
-54 Metal Scale per day does not apply to this power.
-me dale of Acidic Secretion*
-
-62-67 Plate Mail **XP Value:** — **GP Value:** +2,000
-68-73 Ring DRAGON Magazine 99
-
-74 Samnite Armor This cursed armor appears to be normal, magical
-75-80 Scale armor, but it gives no benefit to the wearer in com-
-
-81 Sode bat (though this is not known by the wearer). From
-82-86 Spiked Leather the moment that the wearer first suffers damage
-87-91 Splint while using this suit, the armor and any padding
-92-96 Studded Leather used with it secretes a corrosive acid for 1d20
-
-o7 Sune-ate rounds, causing 1d4 points of damage to the
-
-98 Thracian Armor wearer each round (no saving throw). It takes a full
-99-00 with Body spikes* turn (10 rounds) to remove this suit of armor, and
-
-it continues doing acidic damage during that entire
-Roll Armor Material Cost Multiplier time (if the secretion duration is still in effect).
-
-01 Adamantite x 50 Due to the nature of the acid, the burns and
-02-05 Bronze x .95 blisters left by such wounds cannot be removed
-06-08 Copper x 9 except by a wish, alter reality, or tempus fugit
-09-10 Electrum ES spell, although normal rest and healing does
-11-12 Gold x 5 recover lost hit points. Once the 1d20 round,
-13-62 Iron x1 acid-secretion period is past, the armor is once
-63-72 Obsidian x 75 again safe to wear.
-
-140
-
- 
-
-69
-
-XN
-Anything Armor
+of Acidic Secretion*
+**XP Value:** — **GP Value:** +2,000
+DRAGON Magazine 99
+This //cursed armor// appears to be normal, magical armor, but it gives no benefit to the wearer in combat (though this is not known by the wearer). From the moment that the wearer first suffers damage while using this suit, the armor and any padding used with it secretes a corrosive acid for 1d20 rounds, causing 1d4 points of damage to the wearer each round (no saving throw). It takes a full turn (10 rounds) to remove this suit of armor, and it continues doing acidic damage during that entire time (if the secretion duration is still in effect).</wrap>\\
+<wrap indent>Due to the nature of the acid, the burns and blisters left by such wounds cannot be removed except by a //wish//, //alter reality//, or //tempus fugit// spell, although normal rest and healing does recover lost hit points. Once the 1d20 round, acid-secretion period is past, the armor is once again safe to wear.</wrap>
 
 Anything
 **XP Value:** 4,500 **GP Value:** 45,000
 Unearthed Arcana
-Anything armor can be of any construction, from
-leather to plate. Initially, it has a +1 dweomer,
-but, on command, it can become any sort of other
-normal magical armor—one of the types listed on
-the tables, and not necessarily of the same con-
-struction as the anything armor in its unchanged
-form (for example, anything armor that appears
-as leather can change into plate, or vice versa).
-However, each such change is singular; anything
-armor never forms into a specific type of armor
-more than once. A change into a nonspecial sort
-of armor lasts for one day (24 hours) before any-
-thing armor reverts to its usual +1 status. A
-change into armor with a special function (such
-as plate mail of etherealness) lasts but one hour.
-After the owner has commanded the anything
-armor to change three different times, the armor
-loses all of its magical properties.
+//Anything armor// can be of any construction, from leather to plate. Initially, it has a +1 dweomer, but, on command, it can become any sort of other normal magical armor—one of the types listed on the tables, and not necessarily of the same construction as the //anything armor// in its unchanged form (for example, //anything armor// that appears as leather can change into plate, or vice versa). However, each such change is singular; //anything armor// never forms into a specific type of armor more than once. A change into a nonspecial sort of armor lasts for one day (24 hours) before //anything armor// reverts to its usual +1 status. A change into armor with a special function (such as //plate mail of etherealness//) lasts but one hour. After the owner has commanded the //anything armor// to change three different times, the armor loses all of its magical properties.
 
 Aquatic Armor*
 **XP Value** **GP Value**
 With free action: -25% -25%
 Without free action: -50% -50%
-
 DRAGON Magazine 181
-Ideal gear for fledgling underwater adventurers,
-these weapons and suits of armor have bonuses
-that apply only underwater. After all, since the
-PCs are out of their element underwater, they
-may need advantages that they would not need on
-dry land. Aquatic weapons and armor cost half as
-much as their normal counterparts.
-
-Free Action: The DM may provide these
-weapons and armor with /ree action ability
-(only while underwater, of course) for an XP
-value equal to that of a normal, magical weapon
-or suit of armor. Note that with free action, an
-aquatic long sword +1 is not difficult to swing
-undersea.
+Ideal gear for fledgling underwater adventurers, these weapons and suits of armor have bonuses that apply only underwater. After all, since the PCs are out of their element underwater, they may need advantages that they would not need on dry land. //Aquatic weapons// and armor cost half as much as their normal counterparts.\\
+<wrap indent>**Free Action:** The DM may provide these weapons and armor with //free action// ability (only while underwater, of course) for an XP value equal to that of a normal, magical weapon or suit of armor. Note that with //free action//, an //aquatic long sword +1// is not difficult to swing undersea.</wrap>
 
 Arcane
 **XP Value:** 3,000 **GP Value:** 20,000
 Lost Ships
-A few of these blue giants have been encountered
-wearing magical armor. The arcane do not sell or
-give away their armor, and its stability is often
-(75%) linked to the wearer’s life. If an arcane is
-slain, the armor slowly melts away, dissolving
-despite any magic used to try to stop the process.
-Armor of the arcane magically alters in size to
+A few of these blue giants have been encountered wearing magical armor. The arcane do not sell or give away their armor, and its stability is often (75%) linked to the wearer’s life. If an arcane is slain, the armor slowly melts away, dissolving despite any magic used to try to stop the process.\\
+<wrap indent>//Armor of the arcane// magically alters in size to fit the wearer, and confers AC 3 protection. Two hit points of every physical attack striking the wearer are suffered by the armor, and are not subtracted from the wearer’s hit points. It protects the wearer from all forms of natural or magical mental influence and control, and similarly makes him or her immune to the effects of poisonous vapors. It prevents //cantrips// and all spells of the 3rd or lower levels from affecting the wearer, absorbing the spell energy for its own maintenance.</wrap>\\
+<wrap indent>A suit of //armor of the arcane// can absorb 1d20+12 points of damage before dissipating. Consider the contact of any spell to give the armor additional hit points-2 per spell level—with a //cantrip// giving a single point, unless the spell is one that normally deals damage. In such cases, the damage the spell would have done is gained by the armor as additional hit points of its own. All damage dealt by spells of the 4th or higher levels is suffered directly by the armor, until it is destroyed. All other spell effects (such as spells that do not cause damage) of such higher level spells affect the wearer directly, bypassing the armor’s protection completely, unless they involve poisonous vapors or mental attacks.</wrap>\\
+<wrap indent>Finally, //armor of the arcane// confers 90-foot-range //infravision// upon any wearer who does not possess this power naturally. The armor itself saves as metal with a +3 bonus against all attack forms requiring a saving throw. An arcane who sees a nonarcane wearing such armor will challenge the individual. Anyone impersonating an arcane needs telepathic powers, not merely illusions, to be successful, and must know much of the arcane society, values, and aims. The challenging arcane offers the armor wearer whatever magical item he or she desires most in return for the armor—and the tale of how the being came to be wearing it. If the wearer refuses the deal, demands an artifact or too much magic in return, or offers the arcane an unbelievable tale, the arcane calls on other arcane, or its hired minions and directs them to attack the wearer. It then returns, invisible, following the wearer to see where the user goes and who he or she has dealings with, until the attack comes. The arcane continue to hire attackers until the armor is destroyed or surrendered. They don’t care if this involves the death of the wearer.</wrap>
 
-a ler neeeenelieiiele
-
-fit the wearer, and confers AC 3 protection. Two
-hit points of every physical attack striking the
-wearer are suffered by the armor, and are not sub-
-tracted from the wearer’s hit points. It protects the
-wearer from all forms of natural or magical men-
-tal influence and control, and similarly makes
-him or her immune to the effects of poisonous
-vapors. It prevents cantrips and all spells of the
-3rd or lower levels from affecting the wearer,
-absorbing the spell energy for its own mainte-
-nance.
-
-A suit of armor of the arcane can absorb
-1d20+12 points of damage before dissipating.
-Consider the contact of any spell to give the
-armor additional hit points-2 per spell level—
-with a cantrip giving a single point, unless the
-spell is one that normally deals damage. In such
-cases, the damage the spell would have done is
-gained by the armor as additional hit points of its
-own. All damage dealt by spells of the 4th or
-higher levels is suffered directly by the armor,
-until it is destroyed. All other spell effects (such
-as spells that do not cause damage) of such
-higher level spells affect the wearer directly,
-bypassing the armor’s protection completely,
-unless they involve poisonous vapors or mental
-attacks.
-
-Finally, armor of the arcane confers 90-foot-
-range infravision upon any wearer who does not
-possess this power naturally. The armor itself
-saves as metal with a +3 bonus against all attack
-forms requiring a saving throw. An arcane who
-sees a nonarcane wearing such armor will chal-
-lenge the individual. Anyone impersonating an
-arcane needs telepathic powers, not merely illu-
-sions, to be successful, and must know much of
-the arcane society, values, and aims. The chal-
-lenging arcane offers the armor wearer whatever
-magical item he or she desires most in return for
-the armor—and the tale of how the being came to
-be wearing it. If the wearer refuses the deal,
-demands an artifact or too much magic in return,
-or offers the arcane an unbelievable tale, the
-arcane calls on other arcane, or its hired minions
-and directs them to attack the wearer. It then
-returns, invisible, following the wearer to see
-where the user goes and who he or she has deal-
-ings with, until the attack comes. The arcane con-
-tinue to hire attackers until the armor is destroyed
-or surrendered. They don’t care if this involves
-the death of the wearer.
-
-142
-
- 
-
-70
-Arvoreen’s Chain Mail
+Arvoreen’s Chain Mail
 **XP Value:** — **GP Value:** —
 Monster Mythology
-Arvoreen’s avatar wears chain mail +3 that can
-cast all cure wounds spells on him once each day.
+Arvoreen’s avatar wears //chain mail +3// that can cast all cure wounds spells on him once each day.
 
 Aslyferund’s
 **XP Value:** 10,000 **GP Value:** 90,000
 POLYHEDRON Newszine 90
-Ages ago, when Myth Drannor was still a thriv-
-ing, elven metropolis, there lived an armorer
-named Aslyferund who fashioned fine elven
-chain mail.
+Ages ago, when Myth Drannor was still a thriving, elven metropolis, there lived an armorer named Aslyferund who fashioned fine elven chain mail.\\
+<wrap indent>One day, another armorer by the name of Grelifgray moved nearby. He, too, knew the secret of forging elven chain and soon started taking some of Aslyferund’s customers.</wrap>\\
+<wrap indent>Aslyferund became furious and started adding more design and detail to his armor. This in turn made Grelifgray also exceed his prior creations. Grelifgray even went so far as to have a wizard enchant his armor.</wrap>\\
+<wrap indent>Aslyferund knew at this point he could not better Grelifgray’s work and felt disgraced. He left Myth Drannor and traveled from town to town, doing odd jobs in exchange for food and lodging. While traveling overland one day during a terrible rainstorm, he sought shelter in a cave. After drying off, Aslyferund discovered that he was not alone.</wrap>\\
+<wrap indent>Peering at him from the back of the cave was a massive, ancient gold wyrm. Aslyferund fell to his knees, begging for his life. The dragon laughed and told Aslyferund that she was good and kind and did not eat elves. They talked for hours, and soon the dragon learned of Aslyferund’s woes.</wrap>\\
+<wrap indent>The dragon decided to help Aslyferund—but only if he could do her a favor. She explained to him that she had always wanted a crown, one that held the most beautiful gems from her horde. If he could fashion such a thing for her, she would show him how to make his armor rival Grelifgray’s.</wrap>\\
+<wrap indent>Aslyferund immediately set to work and in three months created a monstrous crown bedecked with the most exquisite gems and jewels from the dragon’s horde. As she touched the crown her eyes misted over, and huge tears rolled down her cheeks, landing on her stomach scales, glistening and sparkling as they went.</wrap>\\
+<wrap indent>Reaching down with a massive claw to her stomach, she tugged loose six of her golden scales—those that had been struck by her tears.</wrap>
 
-One day, another armorer by the name of Gre-
-lifgray moved nearby. He, too, knew the secret of
-forging elven chain and soon started taking some
-of Aslyferund’s customers.
-
-Aslyferund became furious and started adding
-more design and detail to his armor. This in turn
-made Grelifgray also exceed his prior creations.
-Grelifgray even went so far as to have a wizard
-enchant his armor.
-
-Aslyferund knew at this point he could not bet-
-ter Grelifgray’s work and felt disgraced. He left
-Myth Drannor and traveled from town to town,
-doing odd jobs in exchange for food and lodging.
-While traveling overland one day during a terrible
-rainstorm, he sought shelter in a cave. After drying
-off, Aslyferund discovered that he was not alone.
-
-Peering at him from the back of the cave was a
-massive, ancient gold wyrm. Aslyferund fell to
-his knees, begging for his life. The dragon
-laughed and told Aslyferund that she was good
-and kind and did not eat elves. They talked for
-hours, and soon the dragon learned of Aslyfer-
-und’s woes.
-
-The dragon decided to help Aslyferund—but
-only if he could do her a favor. She explained to
-him that she had always wanted a crown, one that
-held the most beautiful gems from her horde. If he
-could fashion such a thing for her, she would show
-him how to make his armor rival Grelifgray’s.
-
-Aslyferund immediately set to work and in
-three months created a monstrous crown
-bedecked with the most exquisite gems and jew-
-els from the dragon’s horde. As she touched the
-crown her eyes misted over, and huge tears rolled
-down her cheeks, landing on her stomach scales,
-glistening and sparkling as they went.
-
-Reaching down with a massive claw to her
-stomach, she tugged loose six of her golden
-scales—those that had been struck by her tears.
-
-Aslyferund’s Armor
-
-"2
-
- 
-
- 
-
- 
-
- 
-
-She gave the scales, the size of small shields, to
-Aslyferund and explained that by working each
-into breastplates, he could create armor that
-would make the wearer immune to natural and
-magical fire, chlorine gas—and more. The wearer
-of the armor would be like the ancient wyrm her-
-self, immune to nonmagical missile fire and
-impervious to blows by normal weapons. Only
-magical weapons would harm the wearer.
-
-Aslyferund thanked the dragon profusely and
-returned to Myth Drannor with his newfound
-knowledge. He spent the next year fashioning six
-suits of elven mail with gold dragon scale breast-
-plates. The suits of armor were like no others, and
-each bore Aslyferund’s mark—three holly berries
-etched in gold, in the center of the chest. The suits
-were as light as leather, but much stronger and
-considered chain mail +5.
-
-Grelifgray immediately offered a fortune for
-the secret of the armor’s making, but Aslyferund
-refused to share it with anyone. Soon the king
-heard of the armor’s existence and wished to
-purchase a suit for himself when he and his
-escort reached Myth Drannor, however, they
-found Aslyferund murdered and his home a
-wreck. All six suits of Aslyferund’s armor were
-missing, and to this day the whereabouts of the
-
-armor is a mystery.
-144
-
- 
-
-71
-
-XM
-Armor of Blackflame
+She gave the scales, the size of small shields, to Aslyferund and explained that by working each into breastplates, he could create armor that would make the wearer immune to natural and magical fire, chlorine gas—and more. The wearer of the armor would be like the ancient wyrm herself, immune to nonmagical missile fire and impervious to blows by normal weapons. Only magical weapons would harm the wearer.\\
+<wrap indent>Aslyferund thanked the dragon profusely and returned to Myth Drannor with his newfound knowledge. He spent the next year fashioning six suits of elven mail with gold dragon scale breastplates. The suits of armor were like no others, andeach bore Aslyferund’s mark—three holly berries etched in gold, in the center of the chest. The suits were as light as leather, but much stronger and considered //chain mail +5//.</wrap>\\
+<wrap indent>Grelifgray immediately offered a fortune for the secret of the armor’s making, but Aslyferund refused to share it with anyone. Soon the king heard of the armor’s existence and wished to purchase a suit for himself when he and his escort reached Myth Drannor, however, they found Aslyferund murdered and his home a wreck. All six suits of Aslyferund’s armor were missing, and to this day the whereabouts of the armor is a mystery.</wrap>
 
 of Blackflame
-
 **XP Value:** 30,000 **GP Value:** 200,000
 The Five Shires
-This is one the rarest and most special magical
-items. It can be worn by any single being of half-
-ling size or smaller, but cannot be worn over nor-
-mal or magical armor, bulky backpacks, or the
-like, It looks to be a rigid but weightless suit of
-full plate armor that, when empty, is a shimmer-
-ing black.
-
-When worn, it creates a vague, shifting aura of
-darkness, an other-than-solid garment. It confers
-no Armor Class protection, cannot be harmed,
-and does not stop physical attacks. It does not
-encumber or blind its wearer, may be worn by any
-class, and its darkness conceals the features of the
-wearer even against magical scrutiny.
-
-Armor of blackflame can be worn as long as
-desired and breathing is unrestricted. It cannot be
-removed unless the wearer does not resist, and
-can only be destroyed by a disintegrate or wish
-spell, or the touch of a rod of cancellation (no
-saving throw). If destroyed, the armor dissipates
-utterly; it cannot be repaired or magically
-restored.
-
-Armor of blackflame protects its wearer at all
-times from all natural and magical heat, flame,
-cold, and explosive attacks. A blast might hurl a
-wearer of armor of blackflame end over end, but
-no damage would be suffered. The armor’s
-weightlessness and total lack of encumbrance
-allows the wearer to swim, climb, and perform
-delicate tasks normally.
+This is one the rarest and most special magical items. It can be worn by any single being of halfling size or smaller, but cannot be worn over normal or magical armor, bulky backpacks, or the like, It looks to be a rigid but weightless suit of full plate armor that, when empty, is a shimmering black.\\
+<wrap indent>When worn, it creates a vague, shifting aura of darkness, an other-than-solid garment. It confers no Armor Class protection, cannot be harmed, and does not stop physical attacks. It does not encumber or blind its wearer, may be worn by any class, and its darkness conceals the features of the wearer even against magical scrutiny.</wrap>\\
+<wrap indent>//Armor of blackflame// can be worn as long as desired and breathing is unrestricted. It cannot be removed unless the wearer does not resist, and can only be destroyed by a //disintegrate// or //wish// spell, or the touch of a //rod of cancellation// (no saving throw). If destroyed, the armor dissipates utterly; it cannot be repaired or magically restored.</wrap>\\
+<wrap indent>//Armor of blackflame// protects its wearer at all times from all natural and magical heat, flame, cold, and explosive attacks. A blast might hurl a wearer of //armor of blackflame// end over end, but no damage would be suffered. The armor’s weightlessness and total lack of encumbrance allows the wearer to swim, climb, and perform delicate tasks normally.<\wrap>
 
 of Blending
 **XP Value:** 500 **GP Value:** 4,000
 Oriental Adventures
+This armor looks like normal armor and //detect magic// does not reveal its special property. However, when the command word is spoken, the armor changes shape and form, appearing to all as a set of normal clothing. The armor retains all of its properties and functions normally, even when disguised. Its true nature can be seen by the use of a //true seeing// spell.
 
-This armor looks like normal armor and detect
-magic does not reveal its special property. How-
-ever, when the command word is spoken, the
-armor changes shape and form, appearing to all
-as a set of normal clothing. The armor retains all
-of its properties and functions normally, even
-when disguised. Its true nature can be seen by the
-use of a true seeing spell.
-
-Blue Armor of the Crystalmist
-Mountains
+Blue Armor of the Crystalmist Mountains
 **XP Value:** 3,000 **GP Value:** 17,500
 GREYHAWK Adventures
-Cut from the hide of an adult blue dragon, this
-suit of armor +3 was fashioned for use by the
-
-"inseam enienasenienieeemeneensinnnensemmpeimeniieneessienitinmcnemematess
-
-mountain dwarves of the Crystalmist range. The
-armor can be loosely hung on a human-—sized
-character, though the character loses all dexterity
-bonuses to his or her Armor Class, and fights
-with a -2 attack penalty. Aside from the Armor
-Class bonus, the wearer saves against electrical
-attacks for half damage or none.
+Cut from the hide of an adult blue dragon, this suit of armor +3 was fashioned for use by the mountain dwarves of the Crystalmist range. The armor can be loosely hung on a human-sized character, though the character loses all dexterity bonuses to his or her Armor Class, and fights with a -2 attack penalty. Aside from the Armor Class bonus, the wearer saves against electrical attacks for half damage or none.
 
 Bradlie’s Leather
 **XP Value:** 250 **GP Value:** 2,500
 1993 Collector Card 352
-Bradlie’s suit of armor functions as a standard
-magical suit of /eather armor +1. It is, however,
-so incredibly ugly that anyone wearing it always
-suffers a negative reaction adjustment. Bradlie
-loathes to wear the armor and has been looking
-for another suit that fits his needs better but thus
-far has not found one.
+Bradlie’s suit of armor functions as a standard magical suit of //leather armor +1//. It is, however, so incredibly ugly that anyone wearing it always suffers a negative reaction adjustment. Bradlie loathes to wear the armor and has been looking for another suit that fits his needs better but thus far has not found one.
 
-Callarduran Smoothhands’s
-
-Chain Mail
-
+Callarduran Smoothhands’s Chain Mail
 **XP Value:** — **GP Value:**
 Monster Mythology
-The avatar’s chain +4 confers 80% magic resis-
-
-tance against spells cast by drow.
+The avatar’s //chain +4// confers 80% magic resistance against spells cast by drow.
 
 of Charm
-
- 
-
 **XP Value:** 1,000 **GP Value:** 7,500
 DUNGEONS & DraGons Rules Cyclopedia
-
-When the user is hit by an opponent, the oppo-
-nent must make a saving throw vs. spell or
-become charmed by the user of this special armor
-(like the wizard spells charm person or charm
-monster). If a hand held weapon is used in the
-attack, the opponent gains a +4 bonus to the sav-
-ing throw. Only one victim can be charmed each
-day, but any number of saving throws may be
-made before the charm is successful.
+When the user is hit by an opponent, the opponent must make a saving throw vs. spell or become //charmed// by the user of this special armor (like the wizard spells //charm person// or //charm monster//). If a hand held weapon is used in the attack, the opponent gains a +4 bonus to the saving throw. Only one victim can be //charmed// each day, but any number of saving throws may be made before the //charm// is successful.
 
 of Comfort*
 **XP Value:** +500 **GP Value:** +2,500
 DraGon Magazine 181
-Armor of comfort is as comfortable to wear as
-ordinary clothing, and it may be slept in with no
-problems. For someone adventuring in the wilder-
-ness and camping out where an attack can come
-at any time, this comes close to being the ultimate
-low-level lifesaver. A suit of mundane armor that
-you already have on is far superior to armor + 5
-that you don’t have time to put on before the noc-
-turnal raiders of your choice are in the middle of
+//Armor of comfort// is as comfortable to wear as ordinary clothing, and it may be slept in with no problems. For someone adventuring in the wilderness and camping out where an attack can come at any time, this comes close to being the ultimate low-level lifesaver. A suit of mundane armor that you already have on is far superior to //armor + 5// that you don’t have time to put on before the nocturnal raiders of your choice are in the middle of the camp.
 
-the camp.
-150
-
- 
-
-72
-
-a
-of Command
+of Command
 **XP Value:** 1,000 **GP Value:** 10,000
 DUNGEON MASTER Guide
-This finely crafted armor radiates a powerful aura
-of magic. When worn, the armor bestows a digni-
-fied and commanding aura upon its owner. The
-wearer is treated as if he or she had a Charisma of
-18 for all encounter reactions. Friendly troops
-within 360 feet of the user have their morale
-increased by +2. Since the effect arises in great
-part from the distinctiveness of the armor, the
-wearer cannot hide or be concealed in any way
-and still have the effect function.
-Bards wearing this armor are able to speak one
-command a day with the effects of the Ist-level
-priest spell command.
+This finely crafted armor radiates a powerful aura of magic. When worn, the armor bestows a dignified and commanding aura upon its owner. The wearer is treated as if he or she had a Charisma of 18 for all encounter reactions. Friendly troops within 360 feet of the user have their morale increased by +2. Since the effect arises in great part from the distinctiveness of the armor, the wearer cannot hide or be concealed in any way and still have the effect function.\\
+<wrap indent>Bards wearing this armor are able to speak one command a day with the effects of the Ist-level priest spell //command//.</wrap>
 
 of Concealed Wizardry*
 **XP Value:** +300 **GP Value:** +1,500
 Land of Fate
-These armor types have their magical nature con-
-cealed by powerful spells, such that they do not
-respond to defect magic or similar spells (see
-Weapon, of Concealed Wizardry).
+These armor types have their magical nature concealed by powerful spells, such that they do not respond to defect magic or similar spells (see **Weapon**, //of Concealed Wizardry//).
 
 of Continual Cleanliness
 **XP Value:** 1,200 **GP Value:** 12,000
-
 Realmspace
-This armor is believed to be unique. It is cur-
-rently worn by a paladin named Kyriel Alathar
-Pellinore, son of Chiros Pellinore, Third Lord of
-Everlund, and proud servant of Tyr. Being
-obsessed with cleanliness, he had Prismal cast a
-cleaning invocation onto his plate mail +2,
-adding permanency to it as well. This makes his
-armor continuously clean. It is never dirty, nor
-does it rust or show blemishes.
+This armor is believed to be unique. It is currently worn by a paladin named Kyriel Alathar Pellinore, son of Chiros Pellinore, Third Lord of Everlund, and proud servant of Tyr. Being obsessed with cleanliness, he had Prismal cast a cleaning invocation onto his //plate mail +2//, adding //permanency// to it as well. This makes his armor continuously clean. It is never dirty, nor does it rust or show blemishes.
 
 of Coolness
-
 **XP Value:** 250 **GP Value:** 1,250
 DRAGON Magazine 181
-Armor of coolness may be worn without any dis-
-comfort due to heat, and enables its wearer to
-operate in the hottest of natural environments (70
-to 150° F) as well as in a temperate climate. Note
-that the temperatures must be due to the weather
-and not to any attack by fire, magic, or monstrous
-abilities; the armor does not give fire resistance.
-At the DM’s option, the armor can give protection
-against the natural environments of the Elemental
-Plane of Fire.
-
-Eastern Wooden Armor
-
-Thin
+//Armor of coolness// may be worn without any discomfort due to heat, and enables its wearer to operate in the hottest of natural environments (70 to 150° F) as well as in a temperate climate. Note that the temperatures must be due to the weather and not to any attack by fire, magic, or monstrous abilities; the armor does not give fire resistance. At the DM’s option, the armor can give protection against the natural environments of the Elemental Plane of Fire.
 
 of Cure Wounds
 **XP Value:** 5,000 **GP Value:** 40,000
 DUNGEONS & Dracons Rules Cyclopedia
-This armor can cure half the damage the user has
-incurred, whatever that amount may be, once per
-day. It can only cure the user, not another crea-
-ture, and it cannot affect poison, disease, or any
-other damage except that caused by wounds,
+This armor can cure half the damage the user has incurred, whatever that amount may be, once per day. It can only cure the user, not another creature, and it cannot affect poison, disease, or any other damage except that caused by wounds.
 
 of the Desert Evening
 **XP Value:** 500 **GP Value:** 2,500
 DRAGON Magazine 179
-This lamellar armor has no magical bonus to
-Armor Class, but it may be worn in the desert
-heat without ill effect to the wearer.
+This lamellar armor has no magical bonus to Armor Class, but it may be worn in the desert heat without ill effect to the wearer.
 
 Dragonarmor
 **XP Value:** 3,000 **GP Value:** 30,000
 Tales of the Lance
-
-This armor consists of a padded tunic and leg-
-gings topped by breast and shoulder plates made
-of dragon scale and plate mail. The thighs and
-shins are protected by additional plates, these
-attached separately. The full-sized helm is a two-
-piece arrangement, granting protection to the
-back of the neck as well as the face.
-
-Dragonarmor is custom-fitted to its wearer,
-who suffers an encumbrance penalty when wear-
-ing it. Others may find a suit either too loose or
-too tight, suffering a -1 penalty on all attacks and
-all proficiency checks that depend on Dexterity.
-Dragonarmor was the invention of Sargonnas for
-his Dark Lady during the War of the Lance.
-
-Dragonarmor is considered scale armor +2.
-Those who wear the tunic and leggings subtract
-1d6 points from any cold— or fire—based attacks
-against them.
+This armor consists of a padded tunic and leggings topped by breast and shoulder plates made of dragon scale and plate mail. The thighs and shins are protected by additional plates, these attached separately. The full-sized helm is a two-piece arrangement, granting protection to the back of the neck as well as the face.\\
+<wrap indent>//Dragonarmor// is custom-fitted to its wearer, who suffers an encumbrance penalty when wearing it. Others may find a suit either too loose or too tight, suffering a -1 penalty on all attacks and all proficiency checks that depend on Dexterity. Dragonarmor was the invention of Sargonnas for his Dark Lady during the War of the Lance.</wrap>\\
+<wrap indent>//Dragonarmor// is considered scale armor +2. Those who wear the tunic and leggings subtract 1d6 points from any cold— or fire—based attacks against them.</wrap>
 
 Eastern Wooden
 **XP Value:** 750 **GP Value:** 7,500
-
 DRAGON Magazine 187
-This armor closely resembles banded mail,
-except that it is made from strips of highly flexi-
-ble wood, treated and enchanted to be no more
-cumbersome than leather armor. It offers protec-
-tion equivalent to chain mail + I (AC 4). In addi-
-tion to its protective value, the armor is silent and
-can be concealed beneath normal clothing. For
-these reasons, it is highly prized. This armor may
-be worn by characters others than druids. Priests
-and fighters may wear it to full effect; thieves
-may wear it, but may not perform thieving skills
-
- 
-
-73
-
-158
-X
-Armor of Eelix
-
-in it other than picking locks and listening at
-doors. The armor does not include a helm, but it
-is sometimes found along with a wooden shield
-+J/ of medium size.
+This armor closely resembles banded mail, except that it is made from strips of highly flexible wood, treated and enchanted to be no more cumbersome than leather armor. It offers protection equivalent to //chain mail +1// (AC 4). In addition to its protective value, the armor is silent and can be concealed beneath normal clothing. For these reasons, it is highly prized. This armor may be worn by characters others than druids. Priests and fighters may wear it to full effect; thieves may wear it, but may not perform thieving skills in it other than picking locks and listening at doors. The armor does not include a helm, but it is sometimes found along with a wooden //shield +1// of medium size.
 
 of Eelix
 **XP Value:** 1,000 **GP Value:** 5,000
 DRAGON Magazine 139
-
-This magical ring produces a suit of armor made
-of blue light around its wearer on demand. The
-armor is equivalent to chain mail but is weight-
-less. This item may be used by any class for an
-unlimited duration.
+This magical ring produces a suit of armor made of blue light around its wearer on demand. The armor is equivalent to chain mail but is weightless. This item may be used by any class for an unlimited duration.
 
 of Electricity
 **XP Value:** 1,500 **GP Value:** 15,000
 DunGeons & Dracons Rules Cyclopedia
-
-This armor can, on command of the user, become
-charged with magical, electrical force. If the user
-is hit while “charged,” the attacker takes 6d6
-points of electrical damage. The attacker may
-make a saving throw vs. spell to take half dam-
-age; if a weapon is used in the attack, a +4 bonus
-to the saving throw applies. The armor can be
-charged or neutralized as often as desired by
-using command words, but it can only cause
-damage (“discharge”) once per day.
+This armor can, on command of the user, become charged with magical, electrical force. If the user is hit while “charged,” the attacker takes 6d6 points of electrical damage. The attacker may make a saving throw vs. spell to take half damage; if a weapon is used in the attack, a +4 bonus to the saving throw applies. The armor can be charged or neutralized as often as desired by using command words, but it can only cause damage (“discharge”) once per day.
 
 Elven Chain Mail
 **XP Value** **GP Value**
@@ -3204,38 +2461,19 @@ Elven Chain Mail
 +3: 3,000 20,000
 +4: 5,000 30,000
 +5: 7,500 50,000
-
 DUNGEON MASTER Guide
+This is magical armor so fine and light that it can be worn under normal clothing without revealing its presence, Its lightness and flexibility allow even wizards and thieves to use it with few restrictions (see the //PHB//, Player Character Classes Chapter). Elven fighter/mages use it without restriction. However, it is rarely sized to fit anyone other than an elf or a half-elf. Roll percentile dice and consult the following table to ascertain what size character elven chain mail does fit:
 
-This is magical armor so fine and light that it can
-be worn under normal clothing without revealing
-its presence, Its lightness and flexibility allow
-even wizards and thieves to use it with few
-restrictions (see the PHB, Player Character
-Classes Chapter). Elven fighter/mages use it
-without restriction. However, it is rarely sized to
-fit anyone other than an elf or a half-elf. Roll per-
-centile dice and consult the following table to
-ascertain what size character elven chain mail
-does fit:
+^ Roll ^ Size of Elven Chain Mail |
+| 01-10 | Gnome/Halfling (Hairfoot) |
+| 11-15 | Dwarf/Halfling (Stout or Tallfellow) |
+| 16-80 | Elf/Half Elf |
+| 81-95 | Human size, normal (up to 6’, 200 pounds) |
+| 96-00 | Human size, large (up to 64’, 250 pounds) |
 
-Roll Size of Elven Chain Mail
-01-10 Gnome/Halfling (Hairfoot)
-
-11-15  Dwarf/Halfling (Stout or Tallfellow)
-16-80 —_Elf/Half Elf
-
-” 7am ingest
-
-81-95 Human size, normal (up to 6’, 200
-pounds)
-96-00 - Human size, large (up to 64’, 250
-pounds)
 of Energy Drain
-
 **XP Value:** 1,500 **GP Value:** 15,000
-
-DunGEons & Dracons Rules Cyclopedia
+DUNGEONS & DRAGONS Rules Cyclopedia
 The armor can become “charged” on command
 (as described under the electricity special power),
 but instead of inflicting damage, it causes the loss
