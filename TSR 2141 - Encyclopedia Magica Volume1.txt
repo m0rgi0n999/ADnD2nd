@@ -1974,769 +1974,146 @@ When found, this item is a large, sealed iron barrel, but it has a secret catch 
 
 of Spikey Owns
 **XP Value:** 7,000 **GP Value:** 32,000
-
 DRAGON Magazine 28
-This item exactly resembles the apparatus of
-Kwalish except that, when activated, it becomes
-a 10-piece one-man-band renowned for its
-cacophony. It enrages all who hear it, including
-party members, unless a saving throw vs. spell is
-made. Those who fail the saving throw will
-attempt to do harm to the operator until he or
-she stops playing the apparatus. Of course, the
-owner is charmed by the device and continues to
-operate it.
+This item exactly resembles the //apparatus of Kwalish// except that, when activated, it becomes a 10-piece one-man-band renowned for its cacophony. It enrages all who hear it, including party members, unless a saving throw vs. spell is made. Those who fail the saving throw will attempt to do harm to the operator until he or she stops playing the apparatus. Of course, the owner is //charmed// by the device and continues to operate it.
 
-110
-
- 
-
-57
-Apple of Bragi
-
-Apple
-
-Although they are extremely rare, two magical
-apples have been discovered,
+===== Apple =====
+Although they are extremely rare, two magical apples have been discovered.
 
 of Bragi
 **XP Value:** 500 **GP Value:** 2,500
 DUNGEONS & DRAGONS Master Set
-In Scandinavian legend, Bragi (son of Odin) had
-a magically inexhaustible supply of these apples.
-Each can cure weariness, decay of power, ill tem-
-per, or failing health.
+In Scandinavian legend, Bragi (son of Odin) had a magically inexhaustible supply of these apples. Each can cure weariness, decay of power, ill temper, or failing health.
 
 of Chaos
 **XP Value:** 300 **GP Value:** 3,000
 POLYHEDRON Newszine 26
+The apple of chaos is a 5-inch-diameter apple of gold. If thrown, its material form disappears where it lands, but its image remains (a phantasm), affecting all creatures within 40 feet of it. All victims are affected as if by the Sth-level wizard spell chaos, suffering confusion (as the druid spell). Normal fighters (not paladins or rangers), illusionists, creatures with Intelligence 4 or less, and monsters that do not use magic may each make a saving throw vs. spell to avoid the effect; no other creatures gain a saving throw. The confusion lasts for 20 rounds, until the phantasmal apple disappears. The image (and the effect) may be removed by a dispel magic spell, but checked against 20th-level magic use.
 
-The apple of chaos is a 5-inch-diameter apple of
-gold. If thrown, its material form disappears
-where it lands, but its image remains (a phan-
-tasm), affecting all creatures within 40 feet of it.
-All victims are affected as if by the Sth-level wiz-
-ard spell chaos, suffering confusion (as the druid
-spell). Normal fighters (not paladins or rangers),
-illusionists, creatures with Intelligence 4 or less,
-and monsters that do not use magic may each
-make a saving throw vs. spell to avoid the effect;
-no other creatures gain a saving throw. The confu-
-sion lasts for 20 rounds, until the phantasmal
-apple disappears. The image (and the effect) may
-be removed by a dispel magic spell, but checked
-against 20th-level magic use.
-
-Apron
-Aprons are used for a multitude of purposes.
-Mostly, they protect the wearer from the effects
-of heat, sparks, or haphazard knife wielding.
-Magical aprons, on the other hand, can be used to
-relieve fatigue, grant cooking proficiencies, or
-promote cleanliness.
+===== Apron =====
+Aprons are used for a multitude of purposes. Mostly, they protect the wearer from the effects of heat, sparks, or haphazard knife wielding. Magical aprons, on the other hand, can be used to relieve fatigue, grant cooking proficiencies, or promote cleanliness.
 
 of Comfort
 **XP Value:** 800 **GP Value:** 4,000
 POLYHEDRON Newszine 57
-This magical apron must be worn to be effective.
-It makes its wearer immune to heat and fatigue
-caused from long hours in the kitchen, or from
-prolonged adventuring in hot climes. The apron
-also catches spills and stains before they touch
-the wearer or the wearer’s clothing. Upon uttering
-the command word, the apron cleans itself and
-appears new. The apron increases the cooking
-proficiency of the wearer by +3. If the wearer
-
-scene mennsmastesiaimamle
-
-cannot cook, the apron taps natural talents and
-grants the basic proficiency in cooking.
+This magical apron must be worn to be effective. It makes its wearer immune to heat and fatigue caused from long hours in the kitchen, or from prolonged adventuring in hot climes. The apron also catches spills and stains before they touch the wearer or the wearer’s clothing. Upon uttering the command word, the apron cleans itself and appears new. The apron increases the cooking proficiency of the wearer by +3. If the wearer cannot cook, the apron taps natural talents and grants the basic proficiency in cooking.
 
 Flandal Steelskin’s
 **XP Value:** — **GP Value:** —
 Monster Mythology
-The avatar wears an apron of fire resistance that
-can cast stoneskin twice per day. Once per day, he
-can summon I|d4 16 HD fire elementals for six
-turns.
+The avatar wears an //apron of fire resistance// that can cast //stoneskin// twice per day. Once per day, he can summon 1d4 16 HD fire elementals for six turns.
 
 Leather
-**XP Value:** 300
-
-**GP Value:** 2,000
+**XP Value:** 300 **GP Value:** 2,000
 Day of Al’ Akbar
-This leather wrap is a magical leather apron +1
-that acts as leather armor.
+This leather wrap is a //magical leather apron +1// that acts as leather armor.
 
- 
-
-Arabel’s Huggable Bear
+===== Arabel’s Huggable Bear =====
 **XP Value:** 3,000 **GP Value:** 30,000
-
 POLYHEDRON Newszine 82
-This huggable, lovable stuffed magical bear is
-made of white ermine. It sports an onyx nose,
-sapphire eyes, and is stuffed with owlbear down.
-During the slumber hours, this small bear radiates
-a sphere of protection in a radius of 3 yards. The
-sphere keeps invading forces from entering the
+This huggable, lovable stuffed magical bear is made of white ermine. It sports an onyx nose, sapphire eyes, and is stuffed with owlbear down. During the slumber hours, this small bear radiates a //sphere of protection// in a radius of 3 yards. The sphere keeps invading forces from entering the mind of any sleeping person. //ESP// and mindaffecting spells, including psionics, do not work on any subjects sleeping within the bear’s domain. The stuffed animal also prevents those in its area of effect from suffering bad dreams. Because of the restful nature of sleep while slumbering near the bear, hit points are restored at twice the normal rate.
 
-mind of any sleeping person. ESP and mind-
-116
-
- 
-
-58
-
-OM
-affecting spells, including psionics, do not work
-on any subjects sleeping within the bear’s domain.
-The stuffed animal also prevents those in its area
-of effect from suffering bad dreams. Because of
-the restful nature of sleep while slumbering near
-the bear, hit points are restored at twice the nor-
-mal rate.
-
-Arcane Formula
-Arcane formulae are recipes for converting a vic-
-tim into another, often mystical, form. Generally,
-the formula converts living or recently deceased
-wizards and priests into undead versions of
-liches.
+===== Arcane Formula =====
+Arcane formulae are recipes for converting a victim into another, often mystical, form. Generally, the formula converts living or recently deceased wizards and priests into undead versions of liches.
 
 for a Dracolich
 XP\ Value: — **GP Value:** —
 FORGOTTEN REALMS MC Appendix
+The creation of a dracolich is a complex process involving the transformation of an evil dragon by arcane magical forces, the most notorious practi- tioners of which are members of the Cult of the Dragon. The process is usually a cooperative effort between the evil dragon and the wizards, but especially powerful wizards have been known to coerce an evil dragon to undergo transformation against its will.\\
+<wrap indent>Any evil dragon is a possible candidate for transformation, although old dragons or older with spellcasting abilities are preferred. Once a candidate is secured, the wizards first prepare the dragon’s host, an inanimate object that holds the dragon’s life force. The host must be a solid item of not less than 2,000 gp value, resistant to decay (wood, for instance, is unsuitable). A gemstone is commonly used as a host, particularly a ruby, pearl, carbuncle, and jet, and is often set in the hilt of a sword or other weapon. The host is prepared by casting //enchant an item// upon it and speaking the name of the evil dragon; the item may resist the spell by successfully saving vs. spell as an 11th-level wizard. If the spell is resisted, another item must be used for the host. If the spell is not resisted, the item can then function as a host. If desired, //glassteel// can be cast upon the host to protect it.</wrap>\\
+<wrap indent>Next, a special potion is prepared for the evil dragon to consume. The exact composition of the potion varies according to the age and type of dragon, but it must contain precisely seven ingredients, among them a //potion of evil dragon control//, a //potion of invulnerability//, and the blood of a vampire. When the evil dragon consumes the potion, the results are determined as follows (roll percentile dice):</wrap>
 
-The creation of a dracolich is a complex process
-involving the transformation of an evil dragon by
-arcane magical forces, the most notorious practi-
-tioners of which are members of the Cult of the
-Dragon. The process is usually a cooperative
-effort between the evil dragon and the wizards,
-but especially powerful wizards have been known
-to coerce an evil dragon to undergo transforma-
-tion against its will.
+^ Roll ^ Result |
+| O1-10 | No effect. |
+| 11-40 | Potion does not work. The dragon suf- fers 2d12 points of damage and is helpless with convulsions for 1d2 rounds. |
+| 41-50 | Potion does not work. The dragon dies. A full wish or similar spell is needed to restore the dragon to life; a wish to transform the dragon into a dracolich results in another roll on this table. |
+| 51-00 | Potion works |
 
-Any evil dragon is a possible candidate for
-transformation, although old dragons or older
-with spellcasting abilities are preferred. Once a
-candidate is secured, the wizards first prepare the
-dragon’s host, an inanimate object that holds the
-dragon’s life force. The host must be a solid item
-of not less than 2,000 gp value, resistant to decay
-(wood, for instance, is unsuitable). A gemstone is
-commonly used as a host, particularly a ruby,
-pearl, carbuncle, and jet, and is often set in the
-hilt of a sword or other weapon. The host is pre-
-pared by casting enchant an item upon it and
-speaking the name of the evil dragon; the item
-may resist the spell by successfully saving vs.
-spell as an 11th-level wizard. If the spell is
-resisted, another item must be used for the host. If
-the spell is not resisted, the item can then function
-as a host. If desired, glassteel can be cast upon
-the host to protect it.
+<wrap indent>If the potion works, the dragon’s spirit transfers to the host, despite the distance between the dragon’s body and the host. A dim light within the host indicates the presence of the spirit. While contained in the host, the spirit cannot take any actions; it cannot be contacted nor attacked by magic. The spirit can remain in the host indefinitely.</wrap>\\
+<wrap indent>Once the spirit is contained in the host, the host must be brought within 90 feet of a reptilian corpse; under no circumstances can the spirit possess a living body. The spirit’s original body is the ideal, but the corpse of any reptilian creature that died or was killed within the previous 30 days is suitable.</wrap>\\
+<wrap indent>The wizard who originally prepared the host must touch the host, cast a //magic jar// spell while speaking the name of the dragon, then touch the corpse. The corpse must fail a saving throw vs. spell for the spirit to successfully possess it; if it saves, it never accepts the spirit. The following modifiers apply to the roll:</wrap>
 
-Next, a special potion is prepared for the evil
-dragon to consume. The exact composition of the
-potion varies according to the age and type of
-dragon, but it must contain precisely seven ingre-
-dients, among them a potion of evil dragon con-
-trol, a potion of invulnerability, and the blood of a
+| -10 | If the corpse is the spirit’s own former body (which can be dead for any length of time)
+| -4 | If the corpse is of the same alignment as the dragon
+| -4 | If the corpse is that of a true dragon (any type)
+| -3 | If the corpse is that of a firedrake, ice lizard, wyvern, or fire lizard |
+| -1 | If the corpse is that of a dracolisk, dragonne, dinosaur, snake, or other reptile |
 
-Arcane Formula for a Dracolich
-
-"\ aia
-
-vampire. When the evil dragon consumes the
-potion, the results are determined as follows (roll
-percentile dice):
-
-Roll Result
-O1-10 = No effect.
-
-11-40 Potion does not work. The dragon suf-
-fers 2d12 points of damage and is help-
-less with convulsions for 1d2 rounds.
-Potion does not work. The dragon dies.
-A full wish or similar spell is needed to
-restore the dragon to life; a wish to
-transform the dragon into a dracolich
-results in another roll on this table.
-Potion works.
-
-41-50
-
-51-00
-
-If the potion works, the dragon’s spirit transfers
-to the host, despite the distance between the
-dragon’s body and the host. A dim light within
-the host indicates the presence of the spirit. While
-contained in the host, the spirit cannot take any
-actions; it cannot be contacted nor attacked by
-magic. The spirit can remain in the host indefi-
-nitely.
-
-Once the spirit is contained in the host, the host
-must be brought within 90 feet of a reptilian
-corpse; under no circumstances can the spirit
-possess a living body. The spirit’s original body is
-the ideal, but the corpse of any reptilian creature
-that died or was killed within the previous 30
-days is suitable.
-
-The wizard who originally prepared the host
-must touch the host, cast a magic jar spell while
-speaking the name of the dragon, then touch the
-corpse. The corpse must fail a saving throw vs.
-spell for the spirit to successfully possess it; if it
-saves, it never accepts the spirit. The following
-modifiers apply to the roll:
-
--10 ‘If the corpse is the spirit’s own former
-body (which can be dead for any length
-
-of time)
-
-4 If the corpse is of the same alignment as
-the dragon
-
--4 If the corpse is that of a true dragon (any
-type)
-
-3 If the corpse is that of a firedrake, ice
-lizard, wyvern, or fire lizard
-
--1 If the corpse is that of a dracolisk, drag-
-onne, dinosaur, snake, or other reptile
-
-If the corpse accepts the spirit, it becomes ani-
-117
-
- 
-
-59
-
-\
-mated by the spirit. If the animated corpse is the
-spirit’s former body, it immediately becomes a
-dracolich; however, it does not regain the use of
-its voice and breath weapon for another seven
-days (note that it is unable to cast spells with ver-
-bal components during this time). At the end of
-seven days, the dracolich regains the use of its
-voice and breath weapon.
-
-If the animated corpse is not the spirit’s former
-body, it immediately becomes a protodracolich. A
-protodracolich has the mind and memories of its
-original form, but the hit points, immunities to
-spells, and priestly turning of a dracolich. A pro-
-todracolich can neither speak nor cast spells. Fur-
-thermore, it cannot cause chilling damage, use a
-breath weapon, or cause fear as a dracolich. Its
-Strength, movement, and Armor Class are those
-of the possessed body.
-
-To become a full dracolich, a protodracolich
-must devour at least 10% of its original body.
-Unless the body has been dispatched to another
-plane of existence, a protodracolich can always
-sense the presence of its original body, whatever
-the distance. A protodracolich tirelessly seeks its
-original body to the exclusion of all other activi-
-ties. If its original body has been burned, dis-
-membered, or otherwise destroyed, the
-protodracolich need only devour the ashes or
-pieces equal to or exceeding 10% of its original
-body mass (total destruction of the original body
-is possible only through use of a disintegrate or
-similar spell; the body could be reconstructed
-with a wish or similar spell, so long as the spell is
-cast in the same plane as the disintegration). If a
-protodracolich is unable to devour its original
-body, it is trapped in its current form until slain.
-
-A protodracolich transforms into a full dracol-
-ich within seven days after it devours its original
-body. When the transformation is complete, the
-dracolich resembles its original body; it can now
-speak, cast spells, and employ the breath weapon
-of its original body, besides having all of the abil-
-ities of a dracolich.
-
-The procedure for possessing a new corpse is
-the same as explained above, except that the
-assistance of a wizard is no longer necessary
-(casting magic jar is required only for the first
-possessions). If the spirit successfully repos-
-sesses its original body, it again becomes a full
-dracolich. If the spirit possesses a different body,
-it becomes a protodracolich and must devour its
-former body to become a full dracolich.
-
-~, Arcane Formula for a Lich -
-
-A symbiotic relationship exists between a dra-
-colich and the wizards who create it. The wizards
-honor and aid their dracolich, and provide it with
-regular offerings of treasure items. In return, the
-dracolich defends its wizards against enemies and
-other threats, as well as assisting them in their
-various schemes. Like dragons, dracoliches are
-loners, but they take comfort in the knowledge
-that they have allies.
+<wrap indent>If the corpse accepts the spirit, it becomes animated by the spirit. If the animated corpse is the spirit’s former body, it immediately becomes a dracolich; however, it does not regain the use of its voice and breath weapon for another seven days (note that it is unable to cast spells with verbal components during this time). At the end of seven days, the dracolich regains the use of its voice and breath weapon.</wrap>\\
+<wrap indent>If the animated corpse is not the spirit’s former body, it immediately becomes a protodracolich. A protodracolich has the mind and memories of its original form, but the hit points, immunities to spells, and priestly turning of a dracolich. A protodracolich can neither speak nor cast spells. Furthermore, it cannot cause chilling damage, use a breath weapon, or cause fear as a dracolich. Its Strength, movement, and Armor Class are those of the possessed body.</wrap>\\
+<wrap indent>To become a full dracolich, a protodracolich must devour at least 10% of its original body. Unless the body has been dispatched to another plane of existence, a protodracolich can always sense the presence of its original body, whatever the distance. A protodracolich tirelessly seeks its original body to the exclusion of all other activities. If its original body has been burned, dis- membered, or otherwise destroyed, the protodracolich need only devour the ashes or pieces equal to or exceeding 10% of its original body mass (total destruction of the original body is possible only through use of a //disintegrate// or similar spell; the body could be reconstructed with a //wish// or similar spell, so long as the spell is cast in the same plane as the disintegration). If a protodracolich is unable to devour its original body, it is trapped in its current form until slain.</wrap>\\
+</wrap indent>A protodracolich transforms into a full dracolich within seven days after it devours its original body. When the transformation is complete, the dracolich resembles its original body; it can now speak, cast spells, and employ the breath weapon of its original body, besides having all of the abilities of a dracolich.</wrap>\\
+<wrap indent>The procedure for possessing a new corpse is the same as explained above, except that the assistance of a wizard is no longer necessary (casting //magic jar// is required only for the first possessions). If the spirit successfully repossesses its original body, it again becomes a full dracolich. If the spirit possesses a different body, it becomes a protodracolich and must devour its former body to become a full dracolich.</wrap>\\
+<wrap indent>A symbiotic relationship exists between a dracolich and the wizards who create it. The wizards honor and aid their dracolich, and provide it with regular offerings of treasure items. In return, the dracolich defends its wizards against enemies and other threats, as well as assisting them in their various schemes. Like dragons, dracoliches are loners, but they take comfort in the knowledge that they have allies.</wrap>
 
 for a Lich
-
 **XP Value:** — **GP Value:** —
 Lords of Darkness
-To become a lich, a wizard or wizard/priest must
-attain at least the 18th-level of experience as a
-wizard. A candidate for lichdom must have
-access to the spells magic jar, enchant an item,
-and trap the soul. Nulathoe’s ninemen, a Sth-level
-wizard spell that serves to preserve corpses
-against decay, keeping them as strong and supple
-as in life, is also required.
-
-The procedure for attaining lichdom is ruined if
-the candidate dies at any point during the process.
-Even if successful resurrection follows, the work-
-ings must be started anew. The procedure involves
-the preparation of a magical phylactery and a
-potion. Most candidates prepare the potion first
-and arrange for an apprentice or ally to raise them
-if ingestion of the potion proves fatal. Preparation
-of the phylactery is so expensive that most candi-
-dates do not wish to waste all the effort of its
-preparation by dying after it is completed but
-before they are prepared for lichdom.
-
-The nine ingredients of the potion are as fol-
-lows:
-
+To become a lich, a wizard or wizard/priest must attain at least the 18th-level of experience as a wizard. A candidate for lichdom must have access to the spells //magic jar//, //enchant an item//, and //trap the soul//. N//ulathoe’s ninemen//, a Sth-level wizard spell that serves to preserve corpses against decay, keeping them as strong and supple as in life, is also required.\\
+<wrap indent>The procedure for attaining lichdom is ruined if the candidate dies at any point during the process. Even if successful //resurrection// follows, the workings must be started anew. The procedure involves the preparation of a magical phylactery and a potion. Most candidates prepare the potion first and arrange for an apprentice or ally to raise them if ingestion of the potion proves fatal. Preparation of the phylactery is so expensive that most candidates do not wish to waste all the effort of its preparation by dying after it is completed but before they are prepared for lichdom.</wrap>\\
+<wrap indent>The nine ingredients of the potion are as follows:</wrap>\\
 * Arsenic (2 drops of the purest distillate).
-
 * Belladonna (1 drop of the purest distillate).
+* Blood (1 quart of blood from a dead pegasus foal, killed by wyvern venom).
+* Blood (1 quart from a dead demihuman slain by a phase spider).
+* Blood (1 quart from a vampire or a being infected with vampirism).
+* Heart (the intact heart of a humanoid killed by poisoning, a mixture of arsenic and belladonna must be used).
+* Reproductive glands (from seven giant moths, dead for less than 10 days, ground together).
+* Venom (1 pint or more, drawn from a phase spider less than 30 days prior)
+* Venom (1 pint or more, drawn from a wyvern less than 60 days prior)
 
-* Blood (1 quart of blood from a dead pegasus
-foal, killed by wyvern venom).
+<wrap indent>The ingredients are mixed in the order given, by the light of a full moon, and must be drunk within seven days after they combine into a sparkling black liquid that gleams with a bluish radiance. All of the potion must be drunk by the candidate, and within six rounds produces an effect as follows (roll percentile dice):</wrap>
 
-* Blood (1 quart from a dead demihuman slain
-by a phase spider).
+^ Roll ^ Effect |
+| 01-10 | All body hair falls out, but potion is ineffective (the candidate knows this). Another potion must be prepared if lichdom is desired. |
+| 11-40 | Candidate falls into a coma for 1d6+1 days, is physically helpless and immobile, mentally unreachable. Upon waking, potion works; the candidate knows this. |
+| 41-70 | Potion works, but candidate is //feebleminded//. Any failed attempt to cure the candidate’s condition is 20% likely to slay the candidate. |
+| 71-90 | Potion works, but candidate is //paralyzed// for 2d6+2 days (no saving throw, despite curative magic). There is a 30% chance for permanent loss of 1d6 Dexterity points. |
+| 91-96 | Potion works, but candidate is permanently: |
+| 01-33 Deaf |
+| 34-66 Dumb |
+| 67-00 Blind\\ The lost sense can only be regained by a //wish// or //limited wish//. |
+| 97-00 | Death of the candidate. Potion does not work. |
 
-* Blood (1 quart from a vampire or a being
-infected with vampirism).
+<wrap indent>The successfully prepared candidate for lichdom can exist for an indefinite number of years before becoming a lich. Lichdom is not achieved at death unless preparation of his or her phylactery is complete. A successfully prepared candidate may appear somewhat paler of skin than before imbibing the potion, but cannot be mentally or magically detected by others as ready for lichdom. The candidate, however, is always aware of readiness for lichdom, even if //charmed//, insane, or memory loss occurs. (A //charmed// candidate can never be made to reveal the location of the phylactery—although he or she could be com- pelled to identify what the phylactery is, if it is shown.)</wrap>\\
+<wrap indent>The phylactery may take any form—it may be a pendant, gauntlet, scepter, helm, crown, ring, or even a lump of stone. It must be of inorganic material, must be solid and of high-quality workmanship if made by humans and cannot be an item having other spells or magical properties in it. It may be decorated or carved in any fashion.</wrap>\\
+<wrap indent>//Enchant an item// is cast on the phylactery (this is one of the rare cases in which this spell can be cast on unworked material), a process requiring continual handling of the phylactery for a long time. The phylactery must successfully make its saving throw as noted in the spell description. It must be completely enchanted within nine days (not the 24 hours normally allowed by the spell). Note that the “additional spell” times given in the //enchant an item// spell description are required.</wrap\\
+<wrap indent>When the phylactery is made ready for enchantment, the candidate must cast trap the soul on it. Percentile dice are rolled; the spell has a 50% chance or working, plus 6% per level of the candidate (or caster, if it is another being) over 11th level. The phylactery glows with a flickering, blue-green //faerie fire// radiance for one round if it is successfully receptive for the candidate’s essence.</wrap>\\
+<wrap indent>The candidate then must cast //Nulathoe's ninemen// on the phylactery, and within one turn of doing so, cast //magic jar// on it and enter it with his or her life force. No victim is required for this use of the magic jar spell. Upon entering the phylactery, the candidate instantly loses one experience level along with its commensurate spells and hit points. The essence and lost hit points remain in the phylactery, which becomes AC 0 and maintains those hit points from now on. The candidate is now a lichnee, and must return to his or her own body to rest for 1d6+1 days. The ordeal of becoming a lichnee is so traumatic that the candidate forgets any memorized spells of the top three levels available, and cannot regain any spells of those levels until the rest period is completed. (Candidates usually resume a life of adventuring to regain the lost level.)</wrap>\\
+<wrap indent>The next time the lichnee candidate dies, despite the manner or planar location of death, or barriers of any sort between corpse and phylactery, the candidate’s life force goes into the phylactery. For it to emerge again, there must be a recently dead (less than 30 days) corpse within 90 feet of the phylactery. The corpse may be that of any creature, and must fail a saving throw vs. spell to be possessed. If it makes its saving throw, it never receives the lich. If the creature had 3 Hit Dice or fewer in life, it saves as a 0-level fighter. If it had 3+1 Hit Dice or greater in life, it saves as if it were alive, with the following alignment modifiers:</wrap>\\
+| LG, CG, NG: +0  |
+| LN, CN, N: -3  |
+| LE: 4  |
+| NE: -5  |
+| CE: -6  |
+The candidate’s own corpse, if within range, is at -10, and may have been dead for any length of time. The lichnee may attempt to enter its own corpse once per week until it succeeds. (A phylactery too well hidden might never offer the lichnee a corpse to enter. Many lichnee commit suicide to save themselves such troubles.) When the lichnee enters its own corpse, it rises in 1d4 turns as a full lich, with all memorized spells and all undead abilities described in the //Monstrous Manual™// accessory.
 
-* Heart (the intact heart of a humanoid killed by
-poisoning, a mixture of arsenic and bel-
-ladonna must be used).
-
-* Reproductive glands (from seven giant moths,
-dead for less than 10 days, ground together).
-
-* Venom (1 pint or more, drawn from a phase
-spider less than 30 days prior)
-
-* Venom (1 pint or more, drawn from a wyvern
-less than 60 days prior)
-
-118
-
- 
-
-60
-
-1
-The ingredients are mixed in the order given,
-by the light of a full moon, and must be drunk
-within seven days after they combine into a
-sparkling black liquid that gleams with a bluish
-radiance. All of the potion must be drunk by the
-candidate, and within six rounds produces an
-effect as follows (roll percentile dice):
-
-Roll Effect
-
-01-10 ~All body hair falls out, but potion is
-ineffective (the candidate knows this).
-Another potion must be prepared if
-lichdom is desired.
-
-Candidate falls into a coma for 1d6+1
-days, is physically helpless and tmmo-
-bile, mentally unreachable. Upon wak-
-ing, potion works; the candidate knows
-this.
-
-Potion works, but candidate 1s feeble-
-minded. Any failed attempt to cure the
-candidate’s condition is 20% likely to
-slay the candidate.
-
-Potion works, but candidate is para-
-lyzed for 2d6+2 days (no saving throw,
-despite curative magic). There is a 30%
-chance for permanent loss of 1d6 Dex-
-terity points.
-
-Potion works, but candidate is perma-
-nently:
-
-01-33 Deaf
-
-34-66 Dumb
-
-67-00 Blind
-
-The lost sense can only be regained by a
-wish or limited wish,
-
-Death of the candidate. Potion does not
-work.
-
-The successfully prepared candidate for lich-
-dom can exist for an indefinite number of years
-before becoming a lich. Lichdom is not achieved
-at death unless preparation of his or her phylac-
-tery is complete. A successfully prepared candi-
-date may appear somewhat paler of skin than
-before imbibing the potion, but cannot be men-
-tally or magically detected by others as ready for
-lichdom. The candidate, however, is always aware
-of readiness for lichdom, even if charmed, insane,
-or memory loss occurs. (A charmed candidate
-can never be made to reveal the location of the
-phylactery—although he or she could be com-
-pelled to identify what the phylactery is, if it is
-shown. )
-
-The phylactery may take any form—it may be
-
-11-40
-
-41~70
-
-71-90
-
-91-96
-
-97-00
-
-Arcane Formula for a Lich
-
-"i sodaeeseneseeeemeeniedeleeeemencinlaiedeneeenensesineneeiaeeieneeeeeniieniennmemmicimimmmmemmmmll
-
-a pendant, gauntlet, scepter, helm, crown, ring, or
-even a lump of stone. It must be of inorganic
-material, must be solid and of high-quality work-
-manship if made by humans and cannot be an
-item having other spells or magical properties in
-it. It may be decorated or carved in any fashion,
-
-Enchant an item is cast on the phylactery (this
-is one of the rare cases in which this spell can be
-cast on unworked material), a process requiring
-continual handling of the phylactery for a long
-time. The phylactery must successfully make its
-saving throw as noted in the spell description. It
-must be completely enchanted within nine days
-(not the 24 hours normally allowed by the spell).
-Note that the “additional spell” times given in the
-enchant an item spell description are required.
-
-When the phylactery is made ready for
-enchantment, the candidate must cast trap the
-soul on it. Percentile dice are rolled; the spell has
-a 50% chance or working, plus 6% per level of
-the candidate (or caster, if it is another being)
-over 11th level. The phylactery glows with a
-flickering, blue-green faerie fire radiance for one
-round if it is successfully receptive for the candi-
-date’s essence.
-
-The candidate then must cast Nulathoe & nine-
-men on the phylactery, and within one turn of
-doing so, cast magic jar on it and enter it with his
-or her life force. No victim is required for this use
-of the magic jar spell. Upon entering the phylac-
-tery, the candidate instantly loses one experience
-level along with its commensurate spells and hit
-points. The essence and lost hit points remain in
-the phylactery, which becomes AC 0 and main-
-tains those hit points from now on. The candidate
-is now a lichnee, and must return to his or her
-own body to rest for 1d6+1 days. The ordeal of
-becoming a lichnee is so traumatic that the candi-
-date forgets any memorized spells of the top three
-levels available, and cannot regain any spells of
-those levels until the rest period is completed.
-(Candidates usually resume a life of adventuring
-to regain the lost level.)
-
-The next time the lichnee candidate dies,
-despite the manner or planar location of death, or
-barriers of any sort between corpse and phylac-
-tery, the candidate’s life force goes into the phy-
-lactery. For it to emerge again, there must be a
-recently dead (less than 30 days) corpse within 90
-feet of the phylactery. The corpse may be that of
-any creature, and must fail a saving throw vs.
-
-spell to be possessed. If it makes its saving throw,
-118
-
- 
-
-61
-
-X
-it never receives the lich. If the creature had 3 Hit
-Dice or fewer in life, it saves as a 0-level fighter.
-If it had 3+1 Hit Dice or greater in life, it saves as
-if it were alive, with the following alignment
-modifiers:
-
-LG, CG, NG: +0
-
-LN, CN, N: -3
-
-LE: 4
-
-NE: -5
-
-CE: -6
-The candidate’s own corpse, if within range, is at
-~-10, and may have been dead for any length of
-time. The lichnee may attempt to enter its own
-corpse once per week until it succeeds. (A phy-
-lactery too well hidden might never offer the lich-
-nee a corpse to enter. Many lichnee commit
-suicide to save themselves such troubles.) When
-the lichnee enters its own corpse, it rises in 1d4
-turns as a full lich, with all memorized spells and
-all undead abilities described in the Monstrous
-Manual™ accessory.
-
-Ardraken’s Refreshment
-
-Simulacrum
+===== Ardraken’s Refreshment Simulacrum =====
 **XP Value:** — **GP Value:** 11,500
 The Book of Wondrous Inventions
-Ardraken, a wizard from Greyhawk adventuring
-in another dimension, first discovered the crea-
-ture named “Cola.” Cola was a rectangular,
-human-sized thing. It spoke few words, but was
-very friendly. For just two silver pieces, Cola
-gave a total stranger a refreshing elixir. Once
-back in Greyhawk, Ardraken resolved to create
-his own “cola.”
+Ardraken, a wizard from Greyhawk adventuring in another dimension, first discovered the creature named “Cola.” Cola was a rectangular, human-sized thing. It spoke few words, but was very friendly. For just two silver pieces, Cola gave a total stranger a refreshing elixir. Once back in Greyhawk, Ardraken resolved to create his own “cola.”\\
+<wrap indent>//Ardraken refreshment simulacrum// is a colorful box standing on one end. Its usual colors are red, white, and blue, Glowing runes read, “Cola,” “Drink,” “New Generation,” “Exact Change When Lit,” and other arcane sayings. A small opening large enough to accept a coin is located midway to the top, on the right. One foot from the bottom is a large aperture, almost as wide as the box. Ideally, the thing affably greets people, then offers its elixir for a mere two silver pieces.</wrap>\\
+<wrap indent>**Construction:** 11,500 gp; 17 days.</wrap>\\
+<wrap indent>A simulacrum is magically created to duplicate another living being. The process calls for an ice model of the creature to be duplicated. Thus, a refreshment simulacrum requires a block of ice with the dimensions given under Statistics. The water for the ice is mixed first with crushed red, white, and blue precious gems, Each gemstone must be valued at 100 gp. Three gems of each color are needed. The mixture is frozen around a container of that exotic potion Elixir of Cola, called simply “cola,” named for the creature that produces it. The cola is usually contained in metal cylinders. If found in Oerth markets, a 12-ounce cola is worth 600 gp. The ice model is carved with the proper runes. Finally, the spells //reincarnation// and //limited wish// or //create monster// are cast. These give the simulacrum life and the ability to imitate Cola’s talents.</wrap>\\
+<wrap indent>**Statistics:** Size: 2 x 4 x 6 feet. Weight: 300 pounds.</wrap>\\
+<wrap indent>Two silver pieces are put in the metal slot, and the simulacrum drops a potion in a metal cylinder through the lower aperture. It can also accept other coins and will make correct change. Both processes are magical conversions—silver to elixir.<\wrap>\\
+<wrap indent>Somehow these enchantments never malfunction for the wizard who casts them, so a cola always operates perfectly for the wizard that made it. For anyone else, any number of nasty things can happen. First, Cola may accept money, but not give any change due. Half the time, it dismisses the user with a simple taunt: “No drinks for you, scum.” Those less fortunate are either attacked or become the recipients of one of Cola’s Special Drinks. Each Special differs from the last and its effects are always malign. At best, a Special Drink is noxious and gives the imbiber an embarrassing acne problem. The worst Specials cause insanity, loss of hit points, or death. It is believed these hazards prove that simulacrums are inherently evil. Simulacrums are thought to fear their makers and therefore do them no mischief.<\wrap>\\
 
-Ardraken refreshment simulacrum is a color-
-ful box standing on one end. Its usual colors are
-red, white, and blue, Glowing runes read, “Cola,”
-“Drink,” “New Generation,” “Exact Change
-When Lit,” and other arcane sayings. A small
-opening large enough to accept a coin is located
-midway to the top, on the right. One foot from the
-bottom is a large aperture, almost as wide as the
-box. Ideally, the thing affably greets people, then
-offers its elixir for a mere two silver pieces.
+**Cola:** AC 2; 7 HD; hp 28; MV nil; AT 1d3, Range 16; Dmg 1d4+3; AL CE. The creature attacks by firing 1d3 of its drinks as missiles. If reduced to half its hit points or less, Cola gives up and offers its attackers the real elixir.
 
-Construction: 11,500 gp; 17 days.
-
-A simulacrum is magically created to duplicate
-another living being. The process calls for an ice
-model of the creature to be duplicated. Thus, a
-refreshment simulacrum requires a block of ice
-with the dimensions given under Statistics. The
-water for the ice is mixed first with crushed red,
-white, and blue precious gems, Each gemstone
-
-~,, Ardraken’s Refreshment Simulacrum -
-
- 
-
-must be valued at 100 gp. Three gems of each
-color are needed. The mixture is frozen around a
-container of that exotic potion Elixir of Cola,
-called simply “cola,” named for the creature that
-produces it. The cola is usually contained in
-metal cylinders. If found in Oerth markets, a 12-
-ounce cola is worth 600 gp. The ice model is
-carved with the proper runes. Finally, the spells
-reincarnation and limited wish or create monster
-are cast. These give the simulacrum life and the
-ability to imitate Cola’s talents.
-
-Statistics: Size: 2 x 4 x 6 feet. Weight: 300
-pounds.
-
-Two silver pieces are put in the metal slot, and
-the simulacrum drops a potion in a metal cylinder
-through the lower aperture. It can also accept
-other coins and will make correct change. Both
-processes are magical conversions—silver to
-elixir.
-
-Somehow these enchantments never malfunc-
-tion for the wizard who casts them, so a cola
-always operates perfectly for the wizard that
-made it. For anyone else, any number of nasty
-things can happen. First, Cola may accept money,
-but not give any change due. Half the time, it dis-
-misses the user with a simple taunt: “No drinks
-for you, scum.” Those less fortunate are either
-
-attacked or become the recipients of one of Cola’s
-119
-
- 
-
-62
-
-XK
-Special Drinks. Each Special differs from the last
-and its effects are always malign. At best, a Spe-
-cial Drink is noxious and gives the imbiber an
-embarrassing acne problem. The worst Specials
-cause insanity, loss of hit points, or death. It is
-believed these hazards prove that simulacrums
-are inherently evil. Simulacrums are thought to
-fear their makers and therefore do them no mis-
-chief.
-
-Cola: AC 2; 7 HD; hp 28; MV nil; AT 1d3, Range
-16; Dmg 1d4+3; AL CE. The creature attacks by
-firing 1d3 of its drinks as missiles. If reduced to
-half its hit points or less, Cola gives up and offers
-its attackers the real elixir.
-
-Arm
-
-Magical arms are prosthetics that are placed in an
-empty socket, such as an elbow or shoulder joint.
-The arm, once in place, grafts to the user, becom-
-ing an easily manipulated appendage. Prosthetics
-are often permanently attached until a dispel
-magic or remove curse is cast upon the item or
-user, but some can be removed by simply speak-
-ing the command word.
+===== Arm =====
+Magical arms are prosthetics that are placed in an empty socket, such as an elbow or shoulder joint. The arm, once in place, grafts to the user, becoming an easily manipulated appendage. Prosthetics are often permanently attached until a dispel magic or remove curse is cast upon the item or user, but some can be removed by simply speaking the command word.
 
 of Doom
 **XP Value:** 8,000 **GP Value:** 40,000
 New Item
-This scaled, taloned, reptilian limb is believed to
-have been severed from a lizard man long ago,
-and infused with powerful magic by a Calishite
-archmage who was later killed by an apprentice
-employing the arm. It grafts itself to the chest,
-back, pelvis, or shoulders of any creature who
-touches it and wills a union (and location of
-attachment). It becomes part of the body of the
-afflicted creature and is under the same muscular
-control as the creature’s own normal limbs.
-
-In the early days of Calimshan (when that
-country was a loose collection of warring satraps
-and self-styled pashas), a mountain stood near
-the city of Calimport. The Sunspire was a tall,
-needle-pointed cone honeycombed with internal
-passages. The subterranean depths beneath the
-peak were flooded, and home to many lizard men.
-These ‘scalyskins’ raided coastal Calimshan at
-will, retreating to their lightless, watery lair
-whenever strong forces rose to oppose them.
-
-One day, a local pasha looked out over his
-ruined city after one too many lizard man raids,
-and resolved to destroy the scalyskins of Sun-
-
-Arm of Doom
-
-” hese RR RNCNNaieeemeenll
-
-spire. The pasha, Thurongh Klazarr, hired all the
-wizards he could find, and they worked powerful
-spells together, blasting the Sunspire until it col-
-lapsed, crushing the lizard man colony inside.
-Only a few scalyskin raiding bands escaped; one
-was taken in by the evil, reclusive archmage
-Ilthoon Sarshimm. Ilthoon wanted guards for his
-home (now a long—vanished tower northwest of
-Calimport), but found his authority challenged by
-the leader of the lizard men—so he slew that
-scalyskin and took one of its arms as his own. He
-laid powerful spells on the limb, to preserve, ani-
-mate, and control it. He made it into a removable
-body part, which grafts itself onto the user and
-becomes a directly controlled limb (it need not
-replace a missing limb, but can function as an
-“extra”). Throughout the years that followed,
-Iithoon added magical powers to the arm, ruling
-the towns around his tower by fear. There were
-tales of the disembodied limb crawling about at
-night by itself, strangling folk, and it became
-known as the arm of doom. Ilthoon was ulti-
-mately slain by a treacherous apprentice employ-
-ing the arm—but that unfortunate wizardling fell
-afoul of brigands soon after, and the arm saw use
-in brigand ambushes and feuds throughout Cal-
-imshan for many years. It is believed to have
-since fallen into the possession of an agent of
-That, and to have traveled with him around the
-Heartlands, seeing use in night strangling and
-alley attacks. Its precise, current whereabouts
-(and its owner’s identity) are unknown.
-
-Powers: The arm of doom can punch and slash
-foes for 2d12 hp damage per round, and it can
-pass through metal barriers (such as armor,
-shields, shackles, and the bars of prison cells) as
-if they do not exist to attack targets (the metal is
-not affected in any way by the passage of the
-arm). It is immune to all magical attacks and
-effects, even those that the host body may suc-
-cumb to (a Aeld being would be frozen, but not
-the arm of doom).
-
-The touch of the arm of doom, on any item
-bearing a dweomer suspends the operation of all
-item magic for one turn, one time only. (That par-
-ticular item can never again be affected by the
-arm; its magic isn’t ruined, nor does its duration
-“run out,” it simply doesn’t work for one turn.)
-
-The arm serves until the being it is attached to
-is slain or it has taken 50 lives while attached to a
-single being. Whenever either of these states is
-
-reached, the arm tears free, and crawls away at
-120
-
- 
-
-63
-
-X
-Silver Arm of Ergoth
-
-”"ncntnnstnnidnn Eel
-
-MV 9 (can jump to 20 feet horizontally), seeking
-another living being. If the arm tears free, it does
-4d6 damage, and forces a system shock roll.
-
-The arm is rumored to have other powers, and
-perhaps even a destiny (to slay particular types,
-nationalities, or classes of beings, regardless of
-the wishes of the being attached to it), but these
-are the subject of great controversy among sages,
-and have not yet been clearly established.
+This scaled, taloned, reptilian limb is believed to have been severed from a lizard man long ago, and infused with powerful magic by a Calishite archmage who was later killed by an apprentice employing the arm. It grafts itself to the chest, back, pelvis, or shoulders of any creature who touches it and wills a union (and location of attachment). It becomes part of the body of the afflicted creature and is under the same muscular control as the creature’s own normal limbs.\\
+<wrap indent>In the early days of Calimshan (when that country was a loose collection of warring satraps and self-styled pashas), a mountain stood near the city of Calimport. The Sunspire was a tall, needle-pointed cone honeycombed with internal passages. The subterranean depths beneath the peak were flooded, and home to many lizard men. These ‘scalyskins’ raided coastal Calimshan at will, retreating to their lightless, watery lair whenever strong forces rose to oppose them.</wrap>\\
+<wrap indent>One day, a local pasha looked out over his ruined city after one too many lizard man raids, and resolved to destroy the scalyskins of Sunspire. The pasha, Thurongh Klazarr, hired all the wizards he could find, and they worked powerful spells together, blasting the Sunspire until it collapsed, crushing the lizard man colony inside. Only a few scalyskin raiding bands escaped; one was taken in by the evil, reclusive archmage Ilthoon Sarshimm. Ilthoon wanted guards for his home (now a long—vanished tower northwest of Calimport), but found his authority challenged by the leader of the lizard men—so he slew that scalyskin and took one of its arms as his own. He laid powerful spells on the limb, to preserve, animate, and control it. He made it into a removable body part, which grafts itself onto the user and becomes a directly controlled limb (it need not replace a missing limb, but can function as an “extra”). Throughout the years that followed, Iithoon added magical powers to the arm, ruling the towns around his tower by fear. There were tales of the disembodied limb crawling about at night by itself, strangling folk, and it became known as the arm of doom. Ilthoon was ultimately slain by a treacherous apprentice employing the arm—but that unfortunate wizardling fell afoul of brigands soon after, and the arm saw use in brigand ambushes and feuds throughout Calimshan for many years. It is believed to have since fallen into the possession of an agent of That, and to have traveled with him around the Heartlands, seeing use in night strangling and alley attacks. Its precise, current whereabouts (and its owner’s identity) are unknown.</wrap>\\
+<wrap indent>**Powers:** The arm of doom can punch and slash foes for 2d12 hp damage per round, and it can pass through metal barriers (such as armor, shields, shackles, and the bars of prison cells) as if they do not exist to attack targets (the metal is not affected in any way by the passage of the arm). It is immune to all magical attacks and effects, even those that the host body may succumb to (a Aeld being would be frozen, but not the arm of doom).</wrap>\\
+<wrap indent>The touch of the arm of doom, on any item bearing a dweomer suspends the operation of all item magic for one turn, one time only. (That particular item can never again be affected by the arm; its magic isn’t ruined, nor does its duration “run out,” it simply doesn’t work for one turn.)</wrap>\\
+<wrap indent>The arm serves until the being it is attached to is slain or it has taken 50 lives while attached to a single being. Whenever either of these states is reached, the arm tears free, and crawls away at MV 9 (can jump to 20 feet horizontally), seeking another living being. If the arm tears free, it does 4d6 damage, and forces a system shock roll.</wrap>\\
+<wrap indent>The arm is rumored to have other powers, and perhaps even a destiny (to slay particular types, nationalities, or classes of beings, regardless of the wishes of the being attached to it), but these are the subject of great controversy among sages, and have not yet been clearly established.</wrap>
 
 Silver Arm of Ergoth
 **XP Value:** 10,000 **GP Value:** 50,000
