@@ -1864,763 +1864,113 @@ The Book of Marvelous Magic
 When locked, this anklet enables the wearer to walk upon any fluid, water, oil, acid, etc., without actually touching it. Feet or boots hover a fraction of an inch above the fluid. One anklet can support 200 pounds in weight; two support 500 pounds.
 
 ===== Antennae of Triangulation =====
-**GP Value:** 55,000
+**XP Value:** -- **GP Value:** 55,000
 Realmspace
-These antennae are usually over 8 feet in width
-and can be 20 feet or more in length. They appear
-to be antennae removed from some gargantuan
-insect. There is a helmet of liaison that accompa-
-nies the antennae when it is first purchased—
-assuming one is for sale—that links the antennae
-and the wearer of the helmet. The helmet relays
-the information found by the antennae in exact
-detail to the wearer. When the helmet is put on,
-the wearer immediately gets a complete picture of
-the space around him. The operator sees every-
+These antennae are usually over 8 feet in width and can be 20 feet or more in length. They appear to be antennae removed from some gargantuan insect. There is a helmet of liaison that accompanies the antennae when it is first purchased— assuming one is for sale—that links the antennae and the wearer of the helmet. The helmet relays the information found by the antennae in exact detail to the wearer. When the helmet is put on, the wearer immediately gets a complete picture of the space around him. The operator sees everything in a 360-degree, 10,000 yard sphere. Every little detail can be viewed mentally. The positioning of these items changes whenever the ship’s heading changes, or if the objects in sight change. These antennae make it impossible for anyone to surprise the ship, as long as someone is wearing the helmet. The antennae can be used to tell the wearer where an approaching spelljamming ship or an asteroid is in relation to the vessel’s current location. The items, having no charges, can be used an unlimited number of times.
 
-thing in a 360-degree, 10,000 yard sphere. Every
-102
-
- 
-
-50
-
-XN
-little detail can be viewed mentally. The position-
-ing of these items changes whenever the ship’s
-heading changes, or if the objects in sight change.
-These antennae make it impossible for anyone to
-surprise the ship, as long as someone is wearing
-the helmet. The antennae can be used to tell the
-wearer where an approaching spelljamming ship
-or an asteroid is in relation to the vessel’s current
-location. The items, having no charges, can be
-used an unlimited number of times.
-
-Anvil
-
-An anvil is a heavy iron block that has a flat top
-and a round, horn-shaped end. Blacksmiths heat
-metals until they soften, and use the anvil’s sur-
-face to hammer the metal into the desired shape.
-Magical anvils, however, can be of any size,
-shape, or weight, and they are commonly used to
-perform functions other than those performed by
-their nonmagical counterparts.
+===== Anvil =====
+An anvil is a heavy iron block that has a flat top and a round, horn-shaped end. Blacksmiths heat metals until they soften, and use the anvil’s surface to hammer the metal into the desired shape. Magical anvils, however, can be of any size, shape, or weight, and they are commonly used to perform functions other than those performed by their nonmagical counterparts.
 
 High Anvil of the Dwarves
-
 **XP Value:** 5,000 **GP Value:** 50,000
 DRAGON Magazine 58
-The skill of dwarf metalcrafters is legendary, and
-through the ages they have continued to find
-ways of improving their smithing abilities. At
-some time within the last several centuries,
-dwarves learned how to create a magical device
-that would make them even more skilled as
-armorers, weapon makers, and smiths. The great
-cost of creating a high anvil, however, has kept
-the number of these items down to a precious few.
-Only a very large enclave can afford to make
-one—high anvils are never found in the shops of
-dwarven armorers, weapon makers, or smiths
-located in cities and towns—the danger of theft is
-too great.
-
-High anvils are large, elaborately carved, and
-forged from an alloy of adamantite and steel.
-They radiate a faint aura of magic. The anvils
-weigh about 175 pounds and cannot be easily
-moved or carried, and are often fixed or welded to
-the floor of the main armory of dwarven colonies.
-
-The workmanship involved in the forging and
-decoration of a high anvil represents the best that
-the dwarves of the clan can offer, frequently
-adorned with depictions of great events in the
-clan’s history. While dwarves hold their high
-anvils to be beyond price, a realistic appraisal of
-one’s worth would probably range from 30,000 to
-60,000 gold pieces.
-
-Iron Anvil of the Armies
-
-When used for metalworking, a high anvil adds
-+50% to the skill level of dwarven armorers, and
-doubles their efficiency, effectively cutting armor
-construction time in half. Dwarven smiths using a
-high anvil have doubled efficiency when forging
-any item, and weapon makers may construct
-axes, swords, and the like at three times the nor-
-mal rate, working them on a high anvil. Nond-
-warf characters or creatures who use a high anvil
-(a very rare event, since dwarves are extremely
-protective of their treasures) have +25% added to
-their skill as armorers but enjoy no other benefits.
-
-The increase in skill level and decrease in con-
-struction time are not permanent and only apply
-when a high anvil is used. Mithral and adamantite
-alloys can be worked with greater ease on a high
-anvil, and anything forged on one is of the high-
-est quality.
-
-A high anvil is created by a long and involved
-process of crafting and enchantment. The physi-
-cal work upon the Anvil takes between 24 and 36
-months, and can only begin after the members of
-the clan have taken 6d4 months to decide on the
-anvil’s shape, design, and decorations. Once the
-anvil has been forged, it must undergo a ritual
-blessing by the most powerful dwarven priest in
-the clan, and 4d4 other priestal assistants. (The
-main priest must be at least 6th level, and a mem-
-ber of the same clan as the dwarves who forged
-the anvil.) The blessing takes 1d4+4 days, and the
-clan’s patron deity is invoked during the final
-enchantments.
-
-High anvils are not commonly found in trea-
-sure hoards. One might be discovered in the ruins
-of a dwarven stronghold, but even if the clan had
-been destroyed or driven off, another clan would
-try to recover the anvil to keep it from falling into
-the hands of another race. Dwarves who do man-
-age to gain possession of a high anvil (from
-nondwarves, of course, since dwarves do not
-steal from each other) gain 10,000 experience
-points; the award is half as great for nondwarves
-who come to own one.
+The skill of dwarf metalcrafters is legendary, and through the ages they have continued to find ways of improving their smithing abilities. At some time within the last several centuries, dwarves learned how to create a magical device that would make them even more skilled as armorers, weapon makers, and smiths. The great cost of creating a //high anvil//, however, has kept the number of these items down to a precious few. Only a very large enclave can afford to make one—//high anvils// are never found in the shops of dwarven armorers, weapon makers, or smiths located in cities and towns—the danger of theft is too great.\\
+<wrap indent>//High anvils// are large, elaborately carved, and forged from an alloy of adamantite and steel. They radiate a faint aura of magic. The anvils weigh about 175 pounds and cannot be easily moved or carried, and are often fixed or welded to the floor of the main armory of dwarven colonies.</wrap>\\
+<wrap indent>The workmanship involved in the forging and decoration of a //high anvil// represents the best that the dwarves of the clan can offer, frequently adorned with depictions of great events in the clan’s history. While dwarves hold their //high anvils// to be beyond price, a realistic appraisal of one’s worth would probably range from 30,000 to 60,000 gold pieces.</wrap>\\
+<wrap indent>When used for metalworking, a //high anvil// adds +50% to the skill level of dwarven armorers, and doubles their efficiency, effectively cutting armor construction time in half. Dwarven smiths using a //high anvil// have doubled efficiency when forging any item, and weapon makers may construct axes, swords, and the like at three times the normal rate, working them on a //high anvil//. Nondwarf characters or creatures who use a //high anvil// (a very rare event, since dwarves are extremely protective of their treasures) have +25% added to their skill as armorers but enjoy no other benefits.</wrap>\\
+<wrap indent>The increase in skill level and decrease in construction time are not permanent and only apply when a high anvil is used. Mithral and adamantite alloys can be worked with greater ease on a //high anvil//, and anything forged on one is of the highest quality.</wrap>\\
+<wrap indent>A //high anvil// is created by a long and involved process of crafting and enchantment. The physical work upon the Anvil takes between 24 and 36 months, and can only begin after the members of the clan have taken 6d4 months to decide on the anvil’s shape, design, and decorations. Once the anvil has been forged, it must undergo a ritual blessing by the most powerful dwarven priest in the clan, and 4d4 other priestal assistants. (The main priest must be at least 6th level, and a member of the same clan as the dwarves who forged the anvil.) The blessing takes 1d4+4 days, and the clan’s patron deity is invoked during the final enchantments.</wrap>\\
+<wrap indent>//High anvils// are not commonly found in treasure hoards. One might be discovered in the ruins of a dwarven stronghold, but even if the clan had been destroyed or driven off, another clan would try to recover the anvil to keep it from falling into the hands of another race. Dwarves who do manage to gain possession of a //high anvil// (from nondwarves, of course, since dwarves do not steal from each other) gain 10,000 experience points; the award is half as great for nondwarves who come to own one.</wrap>
 
 Iron Anvil of the Armies
 **XP Value:** 1,750 **GP Value:** 17,500
 DRAGON Magazine 178
-This is a great, black, iron anvil, embossed with
-runes of power in gold and brass. Any competent
-smith will find nonmagical tasks uncannily easy
-when using this anvil. Bent swords straighten
-
-with a single tap, having lost none of their
-104
-
- 
-
-51
-
-XxX
-Anvil of the Lortmil Mountains
-
-strength; horse shoes are just the right size; and
-everything worked on this anvil has a little extra
-shine and a cleaner finish. In actual game terms,
-the smith works at six times the usual speed.
-
-The anvil is too massive to transport except
-with the most elaborate methods, and using it is
-hard work. The smith must have a minimum
-Strength of 15 and can work only as many days in
-one stretch as his or her Constitution score
-divided by five (rounded down) before resting for
-a like period of time.
+This is a great, black, iron anvil, embossed with runes of power in gold and brass. Any competent smith will find nonmagical tasks uncannily easy when using this anvil. Bent swords straighten with a single tap, having lost none of their strength; horse shoes are just the right size; and everything worked on this anvil has a little extra shine and a cleaner finish. In actual game terms, the smith works at six times the usual speed.\\
+<wrap indent>The anvil is too massive to transport except with the most elaborate methods, and using it is hard work. The smith must have a minimum Strength of 15 and can work only as many days in one stretch as his or her Constitution score divided by five (rounded down) before resting for a like period of time.</wrap>
 
 of the Lortmil Mountains
 **XP Value:** 3,000 **GP Value:** 30,000
 GREYHAWK Adventures
+This blacksmith’s tool was enchanted in a shrine of Moradin, king of the dwarven gods. It allows a dwarven weaponsmith to create extremely strong and sharp blades. Each weapon takes twice as long to create, but, when finished, is either a normal weapon (on an unsuccessful proficiency check) or a weapon of fine quality (on a successful proficiency check). All weapons of fine quality created by this anvil are worth 100 times the cost of a normal weapon of the same type. It is rumored that this anvil forged legendary magical weapons for the dwarves.
 
-This blacksmith’s tool was enchanted in a shrine
-of Moradin, king of the dwarven gods. It allows a
-dwarven weaponsmith to create extremely strong
-and sharp blades. Each weapon takes twice as
-long to create, but, when finished, is either a nor-
-mal weapon (on an unsuccessful proficiency
-check) or a weapon of fine quality (on a success-
-ful proficiency check). All weapons of fine qual-
-ity created by this anvil are worth 100 times the
-cost of a normal weapon of the same type. It is
-rumored that this anvil forged legendary magical
-weapons for the dwarves.
-
-Apparatus
-
-“Apparatus” is an all-encompassing term used to
-describe a machine so complex, it is impossible
-to associate a name with its function. Other terms
-that could work as well are “magical machine,”
-“contraption,” or “mechanism.” Most apparati are
-too large to move or relocate due to the possibil-
-ity of breakage.
+===== Apparatus =====
+“Apparatus” is an all-encompassing term used to describe a machine so complex, it is impossible to associate a name with its function. Other terms that could work as well are “magical machine,” “contraption,” or “mechanism.” Most apparati are too large to move or relocate due to the possibility of breakage.
 
 The Apparatus
-
 **XP Value:** — **GP Value:** —
 RAVENLOFT Campaign Set
-This huge machine stands over 30 feet tall and it
-is 20 feet wide at the base. A glass globe, 15 feet
-high, rests upon a massive tripod made of wood
-and steel. The tripod lifts the globe over 15 feet
-from the floor. The globe encases a great, spin-
-ning ball of sulphur. A network of rings, made of
-cold—forged steel, tops the enormous glass
-sphere.
-
-Two smaller globes, each the height of a man,
-are suspended below the large one. The pair,
-linked by a narrow glass neck, looks like an hour-
-glass on its side. A 3-foot-wide trap door opens
-
-” seem eeneniieeeeeemeemaeceamnammasaasamararmrsmrmmansrmramatniteeamcaiae
-
-from the bottom of each smaller globe. A steel,
-tubular arch links each smaller globe to the
-mother sphere above.
-
-A third, and still smaller series of globes rings
-the entire base of the tripod, linked together like a
-chain by thin glass tubes. A bewildering array of
-metal and glass—rods, wires, and plates—joins
-the circle of spheres to the two human-sized glass
-chambers.
-
-Lightning energizes the apparatus. The steel
-rings on top focus electricity into the mother
-globe. To fully charge, the apparatus requires 12
-lightning strikes within the span of three hours;
-over a longer period, the charge fades. The energy
-is converted into a magical force by the spinning
-ball of sulphur within the globe.
-
-This contraption can perform a number of
-monstrous and misguided tasks. The first is a
-“transpossession.” It can cause the exchange of
-minds, between two intelligent subjects—even an
-intelligent creature and a man. The subjects must
-stand in the formidable glass chambers. On the
-12th lightning strike, the psyches of the two indi-
-viduals are exchanged. All mental abilities go
-with the psyche, all physical abilities stay with
-the body. Both subjects fall unconscious for 1d3
-turns, Any attempts to determine the alignment or
-true nature of a transpossessed subject fails.
-Spells such as know alignment, detect evil or true
-seeing act as if the subject had a truly neutral
-alignment.
-
-The second function of this machine requires
-the rod of Rastinon. When the rod is placed in the
-glass tube connecting the two large chambers, a
-subject’s personality can be split in two. An intel-
-ligent subject must stand in one of the big globes.
-On the 12th lightning strike, the psyche splits. In
-a flash, a duplicate of the subject appears in the
-adjacent chamber. Physically, they are almost
-twins. Mentally, they are unique. As of this writ-
-ing, the split has involved only good and evil,
-separating the dark side from the light. Other
-divisions may be possible.
-
-The “dark side” is a being of such evil that
-Ravenloft’s dark powers envelop him or her,
-granting a lordship and a domain. They may also
-give great powers, and transform the character
-physically. The individual immediately seeks to
-destroy the other half, because only then is he or
-she secure.
-
-According to legend, the apparatus can also
-
-rejoin the psyches it has divided. Both halves
-107
-
- 
-
-52
-
-Me
-Alchemist’s Apparatus
-
-~T sccosteneenssanesshinen esientiaeeieenetintstbisieinsineneninatnnieetememeeenimimiiesmemmimniccaall
-
-must occupy the globes, with the rod of Rastinon
-in place. On the 12th strike, their psyches join,
-and the original subject is restored. Theoretically,
-two normal subjects—each unique and whole—
-might be forced to share one body through this
-process. The stronger body would harbor the two
-psyches, while the weaker body would become a
-withered, empty shell.
+This huge machine stands over 30 feet tall and it is 20 feet wide at the base. A glass globe, 15 feet high, rests upon a massive tripod made of wood and steel. The tripod lifts the globe over 15 feet from the floor. The globe encases a great, spinning ball of sulphur. A network of rings, made of cold—forged steel, tops the enormous glass sphere.\\
+<wrap indent>Two smaller globes, each the height of a man, are suspended below the large one. The pair, linked by a narrow glass neck, looks like an hourglass on its side. A 3-foot-wide trap door opens from the bottom of each smaller globe. A steel, tubular arch links each smaller globe to the mother sphere above.</wrap>\\
+<wrap indent>A third, and still smaller series of globes rings the entire base of the tripod, linked together like a chain by thin glass tubes. A bewildering array of metal and glass—rods, wires, and plates—joins the circle of spheres to the two human-sized glass chambers.</wrap>\\
+<wrap indent>Lightning energizes the apparatus. The steel rings on top focus electricity into the mother globe. To fully charge, the //apparatus// requires 12 lightning strikes within the span of three hours; over a longer period, the charge fades. The energy is converted into a magical force by the spinning ball of sulphur within the globe.</wrap>\\
+<wrap indent>This contraption can perform a number of monstrous and misguided tasks. The first is a “transpossession.” It can cause the exchange of minds, between two intelligent subjects—even an intelligent creature and a man. The subjects must stand in the formidable glass chambers. On the 12th lightning strike, the psyches of the two individuals are exchanged. All mental abilities go with the psyche, all physical abilities stay with the body. Both subjects fall unconscious for 1d3 turns, Any attempts to determine the alignment or true nature of a transpossessed subject fails. Spells such as //know alignment//, //detect evil// or //true seeing// act as if the subject had a truly neutral alignment.</wrap>\\
+<wrap indent>The second function of this machine requires the //rod of Rastinon//. When the rod is placed in the glass tube connecting the two large chambers, a subject’s personality can be split in two. An intelligent subject must stand in one of the big globes. On the 12th lightning strike, the psyche splits. In a flash, a duplicate of the subject appears in the adjacent chamber. Physically, they are almost twins. Mentally, they are unique. As of this writing, the split has involved only good and evil, separating the dark side from the light. Other divisions may be possible.</wrap>\\
+<wrap indent>The “dark side” is a being of such evil that Ravenloft’s dark powers envelop him or her, granting a lordship and a domain. They may also give great powers, and transform the character physically. The individual immediately seeks to destroy the other half, because only then is he or she secure.</wrap>\\
+<wrap indent>According to legend, the //apparatus// can also rejoin the psyches it has divided. Both halves must occupy the globes, with the //rod of Rastinon// in place. On the 12th strike, their psyches join, and the original subject is restored. Theoretically, two normal subjects—each unique and whole—might be forced to share one body through this process. The stronger body would harbor the two psyches, while the weaker body would become a withered, empty shell.</wrap>
 
 Alchemist’s Apparatus
 **XP Value:** — **GP Value:** —
 Book of Artifacts
-The apparatus, or the alchemists apparatus as it
-is sometimes known, is best described from the
-notebooks of Meister Dettrick.
+The apparatus, or the alchemists apparatus as it is sometimes known, is best described from the notebooks of Meister Dettrick.
 
-The very sight of it [the Apparatus/ inspired a ter-
-ror within me, for its very shape spoke of the
-unholy researches that planned it. It filled Herr
-Gustav s great hall, o'er-reaching even the bal-
-conies that looked upon the floor below. The main
-part consisted of a great glass sphere of sul-
-phurous fumes, madly churning as the lightning
-teased the steel receptors set atop it. The whole is
-supported in a tripod of oppressive wood and
-iron, beneath which were suspended two smaller
-globes, each the height of a man. Piping arced
-from these to the sulphurous orb. Ringing these
-were yet smaller orbs, interwoven by tubes
-through which flowed streams of noxious yellow
-gas. To my trepidation, Herr Gustav already
-stood among the wires and pipes of the platform,
-priming the foul device for the coming storm.
-Then I saw that each contained a beast—one a
-quivering fawn, the other a ravening dire wolf.
-“Behold the test!” he cried to me, frantic with his
-madness as he gestured to the orbs. From his
-robes he produced a crystal rod, no more than 2
-feet long, that throbbed with crystal fire. “The
-rod!” he shouted above the enraged storm. “With
-the rod I shall...”
-No more of his madness could I bear, and so
-risking the fury of the elements I fled the sage’s
-halls, out into the night... .
+//The very sight of it [the Apparatus] inspired a terror within me, for its very shape spoke of the unholy researches that planned it. It filled Herr Gustav s great hall, o'er-reaching even the balconies that looked upon the floor below. The main part consisted of a great glass sphere of sulphurous fumes, madly churning as the lightning teased the steel receptors set atop it. The whole is supported in a tripod of oppressive wood and iron, beneath which were suspended two smaller globes, each the height of a man. Piping arced from these to the sulphurous orb. Ringing these were yet smaller orbs, interwoven by tubes through which flowed streams of noxious yellow gas. To my trepidation, Herr Gustav already stood among the wires and pipes of the platform, priming the foul device for the coming storm. Then I saw that each contained a beast—one a quivering fawn, the other a ravening dire wolf. “Behold the test!” he cried to me, frantic with his madness as he gestured to the orbs. From his robes he produced a crystal rod, no more than 2 feet long, that throbbed with crystal fire. “The rod!” he shouted above the enraged storm. “With the rod I shall...”\\
+<wrap indent>No more of his madness could I bear, and so risking the fury of the elements I fled the sage’s halls, out into the night... .</wrap>//
 
-It is unclear whether the apparatus is a single
-device or a set of plans and concepts so infernal
-in their execution that the result is the diabolic
-machine known by that name. The doubt exists
-because several times this artifact is said to have
-been both invented and destroyed, and yet, some-
-how it seems to recreate itself elsewhere to once
+<wrap indent>It is unclear whether the apparatus is a single device or a set of plans and concepts so infernal in their execution that the result is the diabolic machine known by that name. The doubt exists because several times this artifact is said to have been both invented and destroyed, and yet, somehow it seems to recreate itself elsewhere to once again wreak havoc upon those who experiment with it.<\wrap>\\
+<wrap indent>The first known construction of the apparatus was by one known as the Alchemist of Mordentshire, sometimes confused with Count Strahd Von Zarovich, another player in this tale. The story is that the alchemist created the apparatus in order to divide a soul and purge it of evil or, as others maintain, to fuse his own incomplete soul with that of another. Whatever his goal, his ambitions became entangled in those of Strahd and led to disaster, destroying the apparatus and its maker.</wrap>\\
+<wrap indent>The monstrous apparatus had more of a life than its maker, it seems, for it has reappeared in other lands, sometimes as it was and sometimes changed and improved. Thus it is that some sages maintain that the true artifact is not the apparatus itself but the supposed notebooks of the original alchemist, and that it is from these plans that the physical apparatus is built. No one, however, can ever testify to seeing a copy of these notes.</wrap>\\
+<wrap indent>One important feature of the apparatus is the //rod of Rastinon//. This magical item, although not an artifact in its own right, is vital to several of the apparatus’s powers. It must be set in place between the two chamber orbs and then powered by lightning—or so that is how the story goes.</wrap>\\
+<wrap indent>The apparatus is a wonderful artifact with which to threaten PCs, because its powers of //transpossession// and //soul-splitting// strike at the very essence of the player character. The thought of having one’s mind and psyche transferred into that of an orc or, perhaps worse, a goat should be enough to rouse fear in the heart of any PC.</wrap>\\
+</wrap indent>Since the apparatus is not small, portable, or even quick to use, any adventure involving it must have a strong villain, one who can trap the PCs and then operate the device. A strong villain needs strong ambitions, too. The goals of this villain are certainly more than just tormenting the PCs. They are only attacked because they are useful in some experiments or because they threaten, knowingly or not, greater plans.</wrap>\\
+<wrap indent>Should the characters manage to avoid the threats posed by the apparatus, they may still have problems. Friends and allies may suddenly become enemies through //transpossession//. Innocents may need to be restored or //transpossessed// spies ferreted out. This might require that the characters to seize and operate the apparatus, all at great peril to themselves!</wrap>\\
+<wrap indent>Among all of the artifacts, this apparatus is the easiest to remove from any campaign, for it has a history of overloading, exploding, and otherwise destroying itself. Whenever the device’s time has passed, it is a simple matter to demolish it in a dramatic stroke of lightning. Another apparatus, should it ever be needed, can always conveniently appear elsewhere, for like true science, once released from Pandora’s box, it can never be banished completely.</wrap>\\
+<wrap indent>Unlike many other artifacts, the powers of the apparatus cannot be utilized at will. Although magical in nature, the device operates more like a machine. To run, it must be energized by lightning. No other electrical source can suffice, for the apparatus requires not only the voltage, but the elemental power that the lightning provides. The metal receptor plate in the top must be struck 12 times in the space of three hours for the device to build up the necessary charge. Only one charge can be held at a time and beyond the time limit, the stored energies fade. The charge is enough to feed a single power of the apparatus. Which power is used is determined by the operator, who must constantly supervise the machine’s operation. //Transpossession// can be used without additional preparation, but the remaining powers of the apparatus require the use of the //rod of Rastinon//, set in its place between the two globes.</wrap>\\
+<wrap indent>**Invoked Powers:** The simplest power is //transpossession//, the complete exchange of minds between two creatures. The subjects are placed in the two globes and, amid swirls of gas and glowing blue sparks, the transfer is made. All mental, spellcasting, and psionic abilities are transferred between the two bodies. The new form has the Strength, Constitution, Dexterity, and Charisma of the host, but the Intelligence and Wisdom of the transferred mind. The subjects are struck unconscious for 1d3 turns. //Transpossessed// subjects detect as neutral to all spells and psionics that would reveal alignment, ethos, or personality.</wrap>\\
+<wrap indent>The second power, //soul splitting//, divides a single subject into two personalities. The split separates some property of the psyche into its opposing elements—good vs. evil, law vs. chaos, wisdom vs. folly, and other opposing forces. The two persons are physically similar, differing only in ways that characterize the nature of the split and the strength of each trait. The good personality may be fair and strong, if the original subject was filled with good, or sickly and pale if the subject was less than noble. Each personality has the full knowledge and abilities (within the limits of the separation) of the original body.</wrap>\\
+<wrap indent>The two forms are also utterly opposed to each other, so that cooperation is impossible. Depending on the nature of the separation, one seeks to destroy the other or reverse the //soul splitting// process. An evil twin would seek its counterpart’s death while the good one tries for reunion. A wise twin might revel in freedom from the foolish half. A foolish twin is likely to become wild and bestial, filled with more-than-animal cunning. In all cases, the two separated properties become concentrated and exaggerated in each individual until the distilled trait dominates their personalities. It radiates with astonishing intensity to detection spells revealing that trait.</wrap>\\
+<wrap indent>The third power is that of //soul fusing//. Here, two personalities are joined in one body. Normally this is done to reverse the process of //soul splitting//, but it is possible to merge two unrelated personalities into a single creature. The merged form now has two separate minds within it. Each retains its own personality, including all class, mental, spellcasting, and psionic powers, One personality, however, cannot use the powers of the other.</wrap>\\
+<wrap indent>The result of this fusion is seldom harmonious, for unless the two minds are in perfect agreement on all things, they vie for control of the body. Any time there is a disagreement over a course of action, an Intelligence check is made for each mind. Should one succeed and the other fail, that personality seizes physical control. The subject’s mannerisms, voice, accent, likes, and dislikes are instantly those of the dominant personality. Should both fail, the subject is racked by fearsome headaches so severe that any action is impossible. If both succeed, the subject’s body is the battleground for control. Movements become confused and jerky, behavior erratic from moment to moment, as each tries to assert itself.</wrap>\\
+<wrap indent>Attempts to detect the mental nature of such a person reveal details of the current dominant personality. If there is no dominant force, the result is a confused blur that might be mistaken for neutrality.</wrap>\\
+<wrap indent>**Curse:** With the apparatus there are perils both for those subjected to its horrible transformations and for those who would use it upon themselves or others.</wrap>\\
+<wrap indent>For subjects, beyond the perils described above, there is a chance that, unable to reconcile oneself to the alteration, madness results. The subject (or subjects in the case of a split) must immediately roll a successful saving throw vs. death magic or succumb to incurable madness. After that, the subject must roll a successful saving throw every day for a full week. Only after this time is the subject able to come to terms with the situation. Note that for those subjected to //soul fusing//, each personality must roll a separate saving throw and it is perfectly possible for one personality to be sane and the other to be utterly mad.</wrap>\\
+<wrap indent>The experimenter risks other fates each time the apparatus is used. There is a 20% chance (noncumulative) that the energies of the apparatus create a field that transfers the device and surrounding locale (such as the building housing it), along with all characters, into Ravenloft. (Players familiar with the demiplane know this is a serious curse.)</wrap>\\
+<wrap indent>**In Ravenloft:** Where the device was originally found, the operator must roll a dark powers check each time the device is used—even if the operator is the subject. Evil “twins” created by the apparatus are immediately adopted by the land.</wrap>\\
 
-again wreak havoc upon those who experiment
-with it.
-
-The first known construction of the apparatus
-was by one known as the Alchemist of Mor-
-dentshire, sometimes confused with Count Strahd
-Von Zarovich, another player in this tale. The
-story is that the alchemist created the apparatus in
-order to divide a soul and purge it of evil or, as
-others maintain, to fuse his own incomplete soul
-with that of another. Whatever his goal, his ambi-
-tions became entangled in those of Strahd and led
-to disaster, destroying the apparatus and its
-maker.
-
-The monstrous apparatus had more of a life
-than its maker, it seems, for it has reappeared in
-other lands, sometimes as it was and sometimes
-changed and improved. Thus it is that some sages
-maintain that the true artifact is not the apparatus
-itself but the supposed notebooks of the original
-alchemist, and that it is from these plans that the
-physical apparatus is built. No one, however, can
-ever testify to seeing a copy of these notes.
-
-One important feature of the apparatus is the
-rod of Rastinon. This magical item, although not
-an artifact in its own right, is vital to several of
-the apparatus’s powers. It must be set in place
-between the two chamber orbs and then powered
-by lightning—or so that is how the story goes.
-
-The apparatus is a wonderful artifact with
-which to threaten PCs, because its powers of
-transpossession and soul-splitting strike at the
-very essence of the player character. The thought
-of having one’s mind and psyche transferred into
-that of an orc or, perhaps worse, a goat should be
-enough to rouse fear in the heart of any PC.
-
-Since the apparatus is not small, portable, or
-even quick to use, any adventure involving it
-must have a strong villain, one who can trap the
-PCs and then operate the device. A strong villain
-needs strong ambitions, too. The goals of this vil-
-lain are certainly more than just tormenting the
-PCs. They are only attacked because they are use-
-ful in some experiments or because they threaten,
-knowingly or not, greater plans.
-
-Should the characters manage to avoid the
-threats posed by the apparatus, they may still
-have problems. Friends and allies may suddenly
-become enemies through transpossession. Inno-
-cents may need to be restored or franspossessed
-spies ferreted out. This might require that the
-characters to seize and operate the apparatus, all
-
-at great peril to themselves!
-108
-
- 
-
-53
-
-Ne
-Alchemist’s Apparatus
-
-Among all of the artifacts, this apparatus is the
-easiest to remove from any campaign, for it has a
-history of overloading, exploding, and otherwise
-destroying itself. Whenever the device’s time has
-passed, it is a simple matter to demolish it in a
-dramatic stroke of lightning. Another apparatus,
-should it ever be needed, can always conveniently
-appear elsewhere, for like true science, once
-released from Pandora’s box, it can never be ban-
-ished completely.
-
-Unlike many other artifacts, the powers of the
-apparatus cannot be utilized at will. Although
-magical in nature, the device operates more like a
-machine. To run, it must be energized by light-
-ning. No other electrical source can suffice, for
-the apparatus requires not only the voltage, but
-the elemental power that the lightning provides.
-The metal receptor plate in the top must be struck
-12 times in the space of three hours for the device
-to build up the necessary charge. Only one charge
-can be held at a time and beyond the time limit,
-the stored energies fade. The charge is enough to
-feed a single power of the apparatus. Which
-power is used is determined by the operator, who
-must constantly supervise the machine’s opera-
-tion. Transpossession can be used without addi-
-tional preparation, but the remaining powers of
-the apparatus require the use of the rod of Rasti-
-non, set in its place between the two globes.
-
-Invoked Powers: The simplest power is trans-
-possession, the complete exchange of minds
-between two creatures. The subjects are placed in
-the two globes and, amid swirls of gas and glow-
-ing blue sparks, the transfer is made. All mental,
-spellcasting, and psionic abilities are transferred
-between the two bodies. The new form has the
-Strength, Constitution, Dexterity, and Charisma
-of the host, but the Intelligence and Wisdom of
-the transferred mind. The subjects are struck
-unconscious for 1d3 turns. Transpossessed sub-
-jects detect as neutral to all spells and psionics
-that would reveal alignment, ethos, or personality.
-
-The second power, soul splitting, divides a sin-
-gle subject into two personalities. The split sepa-
-rates some property of the psyche into its
-opposing elements—good vs. evil, law vs. chaos,
-wisdom vs. folly, and other opposing forces. The
-two persons are physically similar, differing only
-in ways that characterize the nature of the split
-and the strength of each trait. The good personal-
-ity may be fair and strong, if the original subject
-was filled with good, or sickly and pale if the sub-
-
-"eae nail
-
-ject was less than noble. Each personality has the
-full knowledge and abilities (within the limits of
-the separation) of the original body.
-
-The two forms are also utterly opposed to each
-other, so that cooperation is impossible. Depend-
-ing on the nature of the separation, one seeks to
-destroy the other or reverse the soul splitting
-process. An evil twin would seek its counterpart’s
-death while the good one tries for reunion. A wise
-twin might revel in freedom from the foolish half.
-A foolish twin is likely to become wild and bes-
-tial, filled with more-than-animal cunning. In all
-cases, the two separated properties become con-
-centrated and exaggerated in each individual until
-the distilled trait dominates their personalities. It
-radiates with astonishing intensity to detection
-spells revealing that trait.
-
-The third power is that of soul fusing. Here,
-two personalities are joined in one body. Nor-
-mally this is done to reverse the process of soul
-Splitting, but it is possible to merge two unrelated
-personalities into a single creature. The merged
-form now has two separate minds within it. Each
-retains its own personality, including all class,
-mental, spellcasting, and psionic powers, One
-personality, however, cannot use the powers of
-the other.
-
-The result of this fusion is seldom harmonious,
-for unless the two minds are in perfect agreement
-on all things, they vie for control of the body. Any
-time there is a disagreement over a course of
-action, an Intelligence check is made for each
-mind. Should one succeed and the other fail, that
-personality seizes physical control. The subject’s
-mannerisms, voice, accent, likes, and dislikes are
-instantly those of the dominant personality.
-Should both fail, the subject is racked by fear-
-some headaches so severe that any action is
-impossible. If both succeed, the subject’s body is
-the battleground for control. Movements become
-confused and jerky, behavior erratic from moment
-to moment, as each tries to assert itself.
-
-Attempts to detect the mental nature of such a
-person reveal details of the current dominant per-
-sonality. If there is no dominant force, the result
-is a confused blur that might be mistaken for neu-
-trality.
-
-Curse: With the apparatus there are perils both
-for those subjected to its horrible transformations
-and for those who would use it upon themselves
-or others.
-
-For subjects, beyond the perils described
-108
-
- 
-
-54
-
-Ne
-'
-
- 
-
- 
-
- 
-
-Tey dd
-
-55
-
- 
-above, there is a chance that, unable to reconcile
-oneself to the alteration, madness results. The
-subject (or subjects in the case of a split) must
-immediately roll a successful saving throw vs.
-death magic or succumb to incurable madness.
-After that, the subject must roll a successful sav-
-ing throw every day for a full week. Only after
-this time is the subject able to come to terms with
-the situation. Note that for those subjected to soul
-fusing, each personality must roll a separate sav-
-ing throw and it is perfectly possible for one per-
-sonality to be sane and the other to be utterly
-mad.
-
-The experimenter risks other fates each time
-the apparatus is used. There is a 20% chance
-(noncumulative) that the energies of the appara-
-tus create a field that transfers the device and sur-
-rounding locale (such as the building housing it),
-along with all characters, into Ravenloft. (Players
-familiar with the demiplane know this is a serious
-curse.)
-
-In Ravenloft: Where the device was originally
-found, the operator must roll a dark powers check
-each time the device is used—even if the operator
-is the subject. Evil “twins” created by the appara-
-tus are immediately adopted by the land.
-
-Suggested Means of Destruction:
-
-* The machine itself is quite fragile and can be
-easily destroyed. However, it recreates itself at
-some other place and time.
-
-* The characters must travel back in time to the
-workshops of the original alchemist and there
-destroy him, his works, and all his notes.
-
-* Mystical barriers blocking the blend of sci-
-ence and magic must be built to protect each
-world in the Prime Material Plane. This does
-not destroy it. It merely prevents its appear-
-ance in that world.
+**Suggested Means of Destruction:**
+* The machine itself is quite fragile and can be easily destroyed. However, it recreates itself at some other place and time.
+* The characters must travel back in time to the workshops of the original alchemist and there destroy him, his works, and all his notes.
+* Mystical barriers blocking the blend of science and magic must be built to protect each world in the Prime Material Plane. This does not destroy it. It merely prevents its appearance in that world.
 
 of Dreadful Construction
 **XP Value:** — **GP Value:** —
-
 New Item
-Reports have surfaced from those who visit
-other worlds of the appearance of a bizarre
-device that disrupts the tranquility of civilized
-life. Sages who collect and study such reports
-say that a large wheeled mechanism, reputed to
-be made of adamantite-alloyed iron, has briefly
-appeared on certain worlds at random to leave a
-trail of chaos in its wake. The purpose and ori-
-gins of the device are a mystery, but a few facts
-
-~~, Apparatus of Dreadful Construction ar
-
-are known about it.
-
-The apparatus of dreadful construction, as it
-has come to be known, resembles a huge, iron,
-fully enclosed, two-wheeled chariot lacking the
-front bar to which horses would be harnessed. It
-stands about 15 feet high, 20 feet wide, and 25
-feet long. Its weight is guessed to be 15 to 30
-tons. Three great metal chimneys rear from its
-stern, spewing sparks and flames up to 30 feet
-into the air. (The fires cause any flammable mate-
-rial within 30 feet of the device to save vs. normal
-fire or burn.) Two monstrous studded wheels
-enable the apparatus to cross any terrain at a con-
-stant speed (MV 24, or 8.182 miles per hour),
-night or day. Most fearsome, however, are the
-eight human-sized metal teeth at its front, each
-driven by a great piston, which chew through
-every kind of stone, metal, or other substance. If
-the apparatus runs into a cliff or mountainside, it
-digs its way through at a reduced but still rapid
-speed (MV 18), leaving a permanent tunnel
-behind it. Any being run over by this device,
-whether crushed by a wheel or “bitten” by a metal
-tooth, takes 10d12 points of crushing damage and
-6d6 points of heat damage (no saving throw), and
-must pass a system shock roll or die at once.
-
-As the apparatus travels across the landscape,
-it destroys everything before it in a path 20 feet
-wide, moving in a perfectly straight (if not
-entirely level) line. Nothing, not even a wish
-spell, can turn it aside or direct its movements.
-Witnesses report that the apparatus is able to sur-
-vive falls from considerable heights without dam-
-age, observing that it continued on its journey as
-if nothing happened. The single mindedness of
-the apparatus’s movements and feats leads most
-observers to believe that it has escaped its origi-
-nal owner or creator and is now running without
-any intelligent control.
-
-As it moves, part of the mechanism takes the
-rocky material it destroys, draws the debris into
-the vehicle, and leaves it behind in the form of a
-black paved road measuring 12 feet wide, with
-churned earth and ground rock littering either
-side. The created road is exceptionally durable,
-making all saving throws as metal +4. Immedi-
-ately after the passage of the apparatus, however,
-the roadway is extremely hot, doing 6d6 points of
-damage to anyone who touches it; it cools by one
-die of damage for every hour that passes after it
-begins to cool. Furthermore, the road contains
-
-poisonous substances that kill all plant life within
-109
-
- 
-
-56
-
-X
-50 yards for a full year. This road, though of high
-quality, of course leads nowhere in particular
-except by random chance. Any city unlucky
-enough to be in the path of the device must be
-abandoned until it has departed, leaving road and
-ruin behind it.
-
-The apparatus travels from world to world as a
-result of a random plane shift power, 1-20 rounds
-after it is fully submerged in water—ocean, lake,
-or river. After its plane shift, it reappears out of
-the deep waters of another world, in another crys-
-tal sphere, to drive across the landscape until it
-reaches water again. A few wizards and priests
-discovered this aspect of its nature and exploited
-it by having lakes dug and filled in its path to pro-
-tect cities, causing the device to leave their world
-for another.
-
-Though the device has caused destruction in its
-passage across inhabited lands, the ruin is very
-limited in scope and the damage is eventually
-reversed (though the roadway it creates remains).
-In some cases, its passage has even been benefi-
-cial, as it opens tunnels through the most impass-
-able mountains and builds roads across the worst
-terrain. It is more an annoyance than a real threat.
-The device radiates enormous, powerful magic,
-and its invulnerability to all forms of magical and
-physical attack certainly indicate that it is an arti-
-fact. Because the upper part of the apparatus has
-the appearance of a beast’s head, complete with
-fiery nostrils and smokestack “horns,” it is some-
-times called the Iron Bull, as well as Ground-
-Eater, Road-Maker, the Starving Juggernaut, and
-a few less pleasant epithets (particularly thrown
-by those who have lost farms and forests to its
-flames).
-
-Certain elements of its appearance have led to
-speculations that it was built with the assistance
-of Krynnish tinker gnomes (Minoi), though there
-is neither record nor proof of this. (Indeed, some
-tinker gnomes actively pursue the device in order
-to learn more about it.) Another theory is that it is
-a reactivated relic from the ancient empire of
-Blackmoor—of Mystara, not of Oerth. The truth
-cannot be known at this time. As its first appear-
-ance in the Known Spheres dates back to only
-130 years, the assumption of scholarly sages is
-that the device is either of recent construction or
-lay dormant until accidentally activated by a curi-
-ous (and no doubt now deceased) discoverer.
-
-Apparatus of Spikey Owns
+Reports have surfaced from those who visit other worlds of the appearance of a bizarre device that disrupts the tranquility of civilized life. Sages who collect and study such reports say that a large wheeled mechanism, reputed to be made of adamantite-alloyed iron, has briefly appeared on certain worlds at random to leave a trail of chaos in its wake. The purpose and origins of the device are a mystery, but a few facts are known about it.\\
+<wrap indent>The //apparatus of dreadful construction//, as it has come to be known, resembles a huge, iron, fully enclosed, two-wheeled chariot lacking the front bar to which horses would be harnessed. It stands about 15 feet high, 20 feet wide, and 25 feet long. Its weight is guessed to be 15 to 30 tons. Three great metal chimneys rear from its stern, spewing sparks and flames up to 30 feet into the air. (The fires cause any flammable material within 30 feet of the device to save vs. normal fire or burn.) Two monstrous studded wheels enable the apparatus to cross any terrain at a constant speed (MV 24, or 8.182 miles per hour), night or day. Most fearsome, however, are the eight human-sized metal teeth at its front, each driven by a great piston, which chew through every kind of stone, metal, or other substance. If the apparatus runs into a cliff or mountainside, it digs its way through at a reduced but still rapid speed (MV 18), leaving a permanent tunnel behind it. Any being run over by this device, whether crushed by a wheel or “bitten” by a metal tooth, takes 10d12 points of crushing damage and 6d6 points of heat damage (no saving throw), and must pass a system shock roll or die at once.</wrap>\\
+<wrap indent>As the apparatus travels across the landscape, it destroys everything before it in a path 20 feet wide, moving in a perfectly straight (if not entirely level) line. Nothing, not even a wish spell, can turn it aside or direct its movements. Witnesses report that the apparatus is able to survive falls from considerable heights without dam- age, observing that it continued on its journey as if nothing happened. The single mindedness of the apparatus’s movements and feats leads most observers to believe that it has escaped its original owner or creator and is now running without any intelligent control.</wrap>\\
+<wrap indent>As it moves, part of the mechanism takes the rocky material it destroys, draws the debris into the vehicle, and leaves it behind in the form of a black paved road measuring 12 feet wide, with churned earth and ground rock littering either side. The created road is exceptionally durable, making all saving throws as metal +4. Immediately after the passage of the apparatus, however, the roadway is extremely hot, doing 6d6 points of damage to anyone who touches it; it cools by one die of damage for every hour that passes after it begins to cool. Furthermore, the road contains poisonous substances that kill all plant life within 50 yards for a full year. This road, though of high quality, of course leads nowhere in particular except by random chance. Any city unlucky enough to be in the path of the device must be abandoned until it has departed, leaving road and ruin behind it.</wrap>\\
+<wrap indent>The apparatus travels from world to world as a result of a random //plane shift// power, 1-20 rounds after it is fully submerged in water—ocean, lake, or river. After its //plane shift//, it reappears out of the deep waters of another world, in another crystal sphere, to drive across the landscape until it reaches water again. A few wizards and priests discovered this aspect of its nature and exploited it by having lakes dug and filled in its path to protect cities, causing the device to leave their world for another.</wrap>\\
+<wrap indent>Though the device has caused destruction in its passage across inhabited lands, the ruin is very limited in scope and the damage is eventually reversed (though the roadway it creates remains). In some cases, its passage has even been beneficial, as it opens tunnels through the most impassable mountains and builds roads across the worst terrain. It is more an annoyance than a real threat. The device radiates enormous, powerful magic, and its invulnerability to all forms of magical and physical attack certainly indicate that it is an artifact. Because the upper part of the apparatus has the appearance of a beast’s head, complete with fiery nostrils and smokestack “horns,” it is sometimes called the Iron Bull, as well as Ground-Eater, Road-Maker, the Starving Juggernaut, and a few less pleasant epithets (particularly thrown by those who have lost farms and forests to its flames).</wrap>\\
+<wrap indent>Certain elements of its appearance have led to speculations that it was built with the assistance of Krynnish tinker gnomes (Minoi), though there is neither record nor proof of this. (Indeed, some tinker gnomes actively pursue the device in order to learn more about it.) Another theory is that it is a reactivated relic from the ancient empire of Blackmoor—of Mystara, not of Oerth. The truth cannot be known at this time. As its first appearance in the Known Spheres dates back to only 130 years, the assumption of scholarly sages is that the device is either of recent construction or lay dormant until accidentally activated by a curious (and no doubt now deceased) discoverer.</wrap>
 
 of Kwalish
 **XP Value:** 8,000 **GP Value:** 35,000
 DUNGEON MastTER Guide, Ist Edition
-When found, this item is a large, sealed iron bar-
-rel, but it has a secret catch that opens a hatch in
-one end. Inside are 10 levers:
+When found, this item is a large, sealed iron barrel, but it has a secret catch that opens a hatch in one end. Inside are 10 levers:
 
-Level Effect
-l Extend/retract legs and tail
+^ Level ^ Effect |
+| 1 | Extend/retract legs and tail |
+| 2 | Uncover/cover forward porthole |
+| 3 | Uncover/cover side portholes |
+| 4 | Extend/retract pincers and feelers |
+| 5 | Snap pincers |
+| 6 | Forward/left or right |
+| 7 | Backward/left or right |
+| 8 | Open “eyes” with continual light inside/close “eyes” |
+| 9 | Raise (levitate) or sink |
+| 10 | Open/close hatch |
 
-2 Uncover/cover forward porthole
-3 Uncover/cover side portholes
-
-4 Extend/retract pincers and feelers
-3 Snap pincers
-
-6  Forward/left or right
-
-7 Backward/left or right
-
-8
-
-Open “eyes” with continual light
-inside/close “eyes”
-
-9 Raise (levitate) or sink
-10 Open/close hatch
-
-The apparatus moves forward at a speed of
-three, backward at six. Two pincers extend for-
-ward 4 feet and snap for 2d6 points of damage
-each if they hit a creature-25% chance, no
-reduction for armor, but Dexterity reduction
-applies (5% per bonus point). The device can
-operate in water up to 900 feet deep. It can hold
-two human-sized characters and enough air to
-operate for 1d4+1 hours at maximum capacity.
-The apparatus is AC 0 and requires 100 points of
-damage to cause a leak, 200 to stave in a side.
-When the device is operating it looks something
-like a giant lobster.
-
-In a DRAGONLANCE Campaign: The appara-
-tus of Kwalish does not exist on Ansalon.
+<wrap indent>The apparatus moves forward at a speed of three, backward at six. Two pincers extend forward 4 feet and snap for 2d6 points of damage each if they hit a creature-25% chance, no reduction for armor, but Dexterity reduction applies (5% per bonus point). The device can operate in water up to 900 feet deep. It can hold two human-sized characters and enough air to operate for 1d4+1 hours at maximum capacity. The apparatus is AC 0 and requires 100 points of damage to cause a leak, 200 to stave in a side. When the device is operating it looks something like a giant lobster.</wrap>\\
+<wrap indent>**In a DRAGONLANCE Campaign:** The //apparatus of Kwalish// does not exist on Ansalon.</wrap>
 
 of Spikey Owns
 **XP Value:** 7,000 **GP Value:** 32,000
