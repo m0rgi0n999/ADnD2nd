@@ -3284,149 +3284,45 @@ This arrow is made of a special, magical metal. When used by an archer of at lea
 <wrap indent>This arrow actually bounces off any fleshy creature at which it is fired (doing no damage), but it acts as an //arrow +5// against any living or animated target composed of stone (stone golem, crystal warrior—others). Additionally, it slays instantly any creature that has been petrified (treat stone as AC 0), if a saving throw vs. death magic is failed; a successful save means only double damage.</wrap>
 
 of Roping
-
-**GP Value:** 120
+**XP Value:** 20 **GP Value:** 120
 DRAGON Magazine 135
-When used, this magical arrow leaves behind a
-smoky brown trail through the entire arc of its
-flight. The trail solidifies into a material brown
-rope when the arrow strikes its target, bonding
-to the bow that fired it. The arrow bonds to any
-type of wood it hits, and has a 70% chance of
-penetrating and bonding to stone or metal.
-Once bonded, the arrow never pulls free (unless
-excessive weight is applied), and only bends if a
-successful bend bars roll is made. The rope can
-support up to 500 pounds of weight at once
-before it breaks or the arrow pulls free (50%
-chance of either).
-
-**XP Value:** 20
+When used, this magical arrow leaves behind a smoky brown trail through the entire arc of its flight. The trail solidifies into a material brown rope when the arrow strikes its target, bonding to the bow that fired it. The arrow bonds to any type of wood it hits, and has a 70% chance of penetrating and bonding to stone or metal. Once bonded, the arrow never pulls free (unless excessive weight is applied), and only bends if a successful bend bars roll is made. The rope can support up to 500 pounds of weight at once before it breaks or the arrow pulls free (50% chance of either).
 
 of Scent Detection
 **XP Value:** 20 **GP Value:** 120
 DraGon Magazine 135
-This arrow allows its user to smell odors from
-the location at which the arrow landed, similar
-to the arrows of clairaudience and clairvoy-
-ance. This ability is activated by uttering the
-command word (“Scent!”), and shooting the
-arrow. The archer can then smell odors around
-the arrow’s location by plugging his nose and
-inhaling. In so doing, the archer is able to
-breath normally, inhaling air from the arrow’s
-location. One major drawback of the arrow’s
-use is that poisonous or harmful gases may be
-
-~, Arrow of Roping -
-
-inhaled in this manner, affecting the archer as
-if he or she were breathing the gases normally.
-If the arrow is entirely buried in water or mud,
-the arrow’s user coughs and chokes for one
-round, being unable for that time to breath,
-fight, or even move. This effect wears off
-immediately afterward, leaving the archer no
-worse for the experience. Odors within 30 feet
-of the arrow may be inhaled and sensed. Few
-archers use this arrow, but some rangers and
-scouts have detected monsters with especially
-strong scents.
+This arrow allows its user to smell odors from the location at which the arrow landed, similar to the //arrows of clairaudience// and //clairvoyance//. This ability is activated by uttering the command word (“Scent!”), and shooting the arrow. The archer can then smell odors around the arrow’s location by plugging his nose and inhaling. In so doing, the archer is able to breath normally, inhaling air from the arrow’s location. One major drawback of the arrow’s use is that poisonous or harmful gases may be inhaled in this manner, affecting the archer as if he or she were breathing the gases normally. If the arrow is entirely buried in water or mud, the arrow’s user coughs and chokes for one round, being unable for that time to breath, fight, or even move. This effect wears off immediately afterward, leaving the archer no worse for the experience. Odors within 30 feet of the arrow may be inhaled and sensed. Few archers use this arrow, but some rangers and scouts have detected monsters with especially strong scents.
 
 of Screaming
 **XP Value:** 20 **GP Value:** 120
 DuNGEONS & DRAGONS Rules Cyclopedia
-
-This arrow’s effect occurs when the missile is
-fired, even if it misses the target. As it travels
-through the air, the missile produces a loud cry,
-causing all within 30 feet of its path to check
-morale. If the morale check fails, the victims
-retreat in fear for 1d8 rounds.
+This arrow’s effect occurs when the missile is fired, even if it misses the target. As it travels through the air, the missile produces a loud cry, causing all within 30 feet of its path to check morale. If the morale check fails, the victims retreat in fear for 1d8 rounds.
 
 of Screaming II
-
-**GP Value:** 120
+**XP Value:** 20 **GP Value:** 120
 DRAGON Magazine 135
-When this missile is fired, it emits an ear-shat-
-tering scream that deafens all beings within 30
-feet of its flight path for 1d4+2 rounds—includ-
-ing the archer, unless protected. In addition,
-those affected drop everything and cover their
-ears during the melee round in which the arrow
-is in flight. Any spellcasters lose their concen-
-tration, so all spells to be cast during this time
-are lost. There is a 15% chance that a set of ear
-plugs are found with these arrows, to protect the
-archer.
-
-**XP Value:** 20
+When this missile is fired, it emits an ear-shat-tering scream that deafens all beings within 30 feet of its flight path for 1d4+2 rounds—includ-ing the archer, unless protected. In addition, those affected drop everything and cover their ears during the melee round in which the arrow is in flight. Any spellcasters lose their concentration, so all spells to be cast during this time are lost. There is a 15% chance that a set of ear plugs are found with these arrows, to protect the archer.
 
 of Seeking
-
 **XP Value:** 100 **GP Value:** 500
 Dunceons & Dracons Rules Cyclopedia
-This talent only functions when the missile is
-fired at an object; it is not usable against crea-
-tures. It automatically hits any one target object
-within range as long as the path of travel is clear.
-It may be used as a missile of disarming, if
-desired, or it can be used to sever a normal rope,
-pierce a sack, push a button, trigger a trap, etc. It
-automatically misses any creature at which it is
-aimed.
+This talent only functions when the missile is fired at an object; it is not usable against creatures. It automatically hits any one target object within range as long as the path of travel is clear. It may be used as a //missile of disarming//, if desired, or it can be used to sever a normal rope, pierce a sack, push a button, trigger a trap, etc. It automatically misses any creature at which it is aimed.
 
- 
-
-96
-of Seeking II
+of Seeking II
 **XP Value:** 100 **GP Value:** 500
 The Complete Book of Elves
-This is a more powerful version of an arrow
-imbued with a seeking spell. Not only does it
-round corners in pursuit of its prey, it also gains a
-bonus of +2 damage. These arrows are usually
-found in groups of 1d10, although sometimes as
-many as 2d8 can be found.
+This is a more powerful version of an arrow imbued with a //seeking// spell. Not only does it round corners in pursuit of its prey, it also gains a bonus of +2 damage. These arrows are usually found in groups of 1d10, although sometimes as many as 2d8 can be found.
 
 of Set
 **XP Value:** 250 **GP Value:** 1,500
-
 DRAGON Magazine 135
-At first glance, this appears to be an ordinary
-arrow. Closer examination reveals the arrowhead
-to be made of bone and carved to resemble the
-head of a serpent. An arrow of Set is +1 to attack
-and damage. Anyone hit by one of these arrows
-must save vs. poison at -1 or die within 1d4
-rounds. A character whose saving throw is suc-
-cessful takes 2d6 hit points damage from the
-venom in addition to the damage taken when hit.
-The arrow disintegrates on impact.
-
-Making an arrow of Set requires bone from a
-poisonous snake (for the arrowhead) plus the
-snake’s venom (the arrowhead is steeped in it). A
-priest must cast poison on the arrowhead during
-the enchantment. Only one is found at a time.
+At first glance, this appears to be an ordinary arrow. Closer examination reveals the arrowhead to be made of bone and carved to resemble the head of a serpent. An //arrow of Set// is +1 to attack and damage. Anyone hit by one of these arrows must save vs. poison at -1 or die within 1d4 rounds. A character whose saving throw is successful takes 2d6 hit points damage from the venom in addition to the damage taken when hit. The arrow disintegrates on impact.\\
+<wrap indent>Making an //arrow of Set// requires bone from a poisonous snake (for the arrowhead) plus the snake’s venom (the arrowhead is steeped in it). A priest must cast //poison// on the arrowhead during the enchantment. Only one is found at a time.</wrap>
 
 of Signaling
 **XP Value:** 20 **GP Value:** 120
 DRAGON Magazine 135
-This magical arrow has a brightly colored shaft,
-usually red, orange, or yellow in color, It sports a
-crystalline point. If used as a weapon, it does nor-
-mal damage. However, if fired directly into the
-air, at least 100 yards over the head of the bow-
-man, it leaves a trail of glittering sparks behind it
-from the 100-yard height up to a height of 500
-yards, regardless of the type of bow from which it
-was fired. When the arrow is 500 yards above the
-archer, the arrowhead explodes in a sphere of
-light 100 yards across—of the same color as the
-arrow’s shaft. The ball of light is visible for many
-miles and lasts for 2d4 melee rounds before fad-
-ing. The arrow disintegrates upon bursting.
+This magical arrow has a brightly colored shaft, usually red, orange, or yellow in color, It sports a crystalline point. If used as a weapon, it does normal damage. However, if fired directly into the air, at least 100 yards over the head of the bowman, it leaves a trail of glittering sparks behind it from the 100-yard height up to a height of 500 yards, regardless of the type of bow from which it was fired. When the arrow is 500 yards above the archer, the arrowhead explodes in a sphere of light 100 yards across—of the same color as the arrow’s shaft. The ball of light is visible for many miles and lasts for 2d4 melee rounds before fading. The arrow disintegrates upon bursting.
 
 of Silence
 **XP Value:** 20 **GP Value:** 120
