@@ -3236,66 +3236,16 @@ An //arrow of polymorphing//is as rare as an //arrow of slaying//, and is thus i
 of Pursuit
 **XP Value:** 85 **GP Value:** 500
 DRAGON Magazine 135
-An arrow of pursuit is +3 to hit and damage.
-When shot from a bow, the arrow unerringly
-seeks out the living being with the greatest num-
-ber of hit points within its range, then heads for
-that individual—no matter what the original tar-
-get. In addition, if the arrow misses on its first
-pass, it returns on the following round, after a
-long curved, flight and attempts to hit the target a
-second time, now with a +2 bonus to attack and
-damage rolls. If the second pass misses, it tries
-one last time on the following round with a +1
-bonus. If it fails then, it crashes into the earth and
-is destroyed. This arrow has a range of 3 miles,
-though it does not often need to follow its target
-
-that far.
-277
-
- 
-
-94
-
-Me
-An arrow of pursuit is very useful when a char-
-acter wants to pick off a group leader who is
-moving about in an army, protected by troops. In
-this case, the arrow winds its way in and out of
-the troops until it hits its target. Only one such
-arrow may be found at a time.
+An //arrow of pursuit// is +3 to hit and damage. When shot from a bow, the arrow unerringly seeks out the living being with the greatest number of hit points within its range, then heads for that individual—no matter what the original target. In addition, if the arrow misses on its first pass, it returns on the following round, after a long curved, flight and attempts to hit the target a second time, now with a +2 bonus to attack and damage rolls. If the second pass misses, it tries one last time on the following round with a +1 bonus. If it fails then, it crashes into the earth and is destroyed. This arrow has a range of 3 miles, though it does not often need to follow its target that far.\\
+<wrap indent>An //arrow of pursuit// is very useful when a character wants to pick off a group leader who is moving about in an army, protected by troops. In this case, the arrow winds its way in and out of the troops until it hits its target. Only one such arrow may be found at a time.</wrap>
 
 Quarrel of Biting
 **XP Value** **GP Value**
 Acid: 150 400
 Normal: 100 300
 Poison: 150 400
-
 The Ruins of Undermountain
-
-This rare type of magical crossbow bolt does 1d6
-damage when striking, turning into a small
-winged snake upon impact. The snake immedi-
-ately hits and bites for an additional 1d4+1 points
-of damage. It then flies about for another two
-rounds, biting at the same target, before dissipat-
-ing into a plume of harmless smoke. Quarrel
-snakes can damage creatures vulnerable to +1
-weapons. Such snakes are unintelligent and
-uncontrollable by magical means. Their combat
-statistics are: AC 3; MV FI 12 (B); HD 1+1; 9 hp;
-THACO 19, #AT 1. Quarrels of biting are more
-common in eastern and southern lands of the
-Realms, but the costs listed above apply to their
-creation and sale prices in the North. Rumors per-
-sist across Faerun of poisonous and even acid-
-spitting specimens of these weapons. Poisonous
-or not, most guilds, factions, and priesthoods do
-not consider the use of these weapons a good act
-(or, in the case of the priests and worshipers of
-Tempus, an “honorable” act). Quarrels of biting
-are usually found in bundles of 1d12.
+This rare type of magical crossbow bolt does 1d6 damage when striking, turning into a small winged snake upon impact. The snake immediately hits and bites for an additional 1d4+1 points of damage. It then flies about for another two rounds, biting at the same target, before dissipating into a plume of harmless smoke. Quarrel snakes can damage creatures vulnerable to +1 weapons. Such snakes are unintelligent and uncontrollable by magical means. Their combat statistics are: AC 3; MV FI 12 (B); HD 1+1; 9 hp; THACO 19, #AT 1. //Quarrels of biting// are more common in eastern and southern lands of the Realms, but the costs listed above apply to their creation and sale prices in the North. Rumors persist across Faerun of poisonous and even acid-spitting specimens of these weapons. Poisonous or not, most guilds, factions, and priesthoods do not consider the use of these weapons a good act (or, in the case of the priests and worshipers of Tempus, an “honorable” act). //Quarrels of biting// are usually found in bundles of 1d12.
 
 Red
 **XP Value** **GP Value**
@@ -3306,105 +3256,32 @@ Red
 +5: 150 900
 -l:— 50
 Kingdom of Nithia
+Red shafted arrows are not uncommon in Nithia. Some are made from red-colored reeds while others are dyed. The common belief is that a red arrow seeks blood, making it more likely to hit and cause damage. This belief is backed by the fact that truly magical //red arrows// do exist in Nithia. Their source is uncertain. Perhaps a nomadic archer, a sect of priests, or an elderly scribe created them. In any event, a true (magical) //red arrow// provides an equal bonus to attack and damage rolls. Bonuses are as follows:
 
-Red shafted arrows are not uncommon in Nithia.
-Some are made from red-colored reeds while
-others are dyed. The common belief is that a red
-arrow seeks blood, making it more likely to hit
-and cause damage. This belief is backed by the
-fact that truly magical red arrows do exist in
-Nithia. Their source is uncertain. Perhaps a
+^ Roll ^ Bonus |
+| 1 | +1 |
+| 2 | +2 |
+| 3 | +3 |
+| 4 | +4 |
+| 5 | +5 |
+| 6 | cursed, -1 |
 
-Arrow of Rock Piercing
-
-nomadic archer, a sect of priests, or an elderly
-scribe created them. In any event, a true (magi-
-cal) red arrow provides an equal bonus to attack
-and damage rolls. Bonuses are as follows:
-
-Roll Bonus
-1 +]
-2 +2
-3 +3
-4 +4
-5 +5
-6 cursed, -1
 of Refilling
 **XP Value:** 100 **GP Value:** 400
-
 DunNGEoNS & DRAGONS Rules Cyclopedia
-
-This talent gives no special effects to a missile
-when fired. If left in a container with other mis-
-siles of the same type (that is, a refilling arrow
-with normal arrows or a refilling sling stone with
-normal sling stones), however, it magically cre-
-ates 1d20 more missiles of the normal ‘type each
-day.
+This talent gives no special effects to a missile when fired. If left in a container with other missiles of the same type (that is, a //refilling arrow// with normal arrows or a //refilling sling stone// with normal sling stones), however, it magically creates 1d20 more missiles of the normal ‘type each day.
 
 of Returning
-
-**GP Value:** 240
+**XP Value:** 40 **GP Value:** 240
 DRAGON Magazine 135
-Once fired, this arrow returns to the archer’s
-quiver after an unsuccessful attempt to strike its
-target has been made. An arrow of returning is +1
-to attack and damage rolls. It returns at the end of
-the round in which it was fired. For example, a
-ranger fires an arrow of returning at a dragon. Its
-attack roll is not high enough to damage the
-dragon, so the arrow returns to the ranger’s
-quiver, where it can be used again on the ranger’s
-very next shot.
-
-**XP Value:** 40
+Once fired, this arrow returns to the archer’s quiver after an unsuccessful attempt to strike its target has been made. An //arrow of returning// is +1 to attack and damage rolls. It returns at the end of the round in which it was fired. For example, a ranger fires an //arrow of returning// at a dragon. Its attack roll is not high enough to damage the dragon, so the arrow returns to the ranger’s quiver, where it can be used again on the ranger’s very next shot.
 
 of Rock Piercing
-
-**GP Value:** 300
+**XP Value:** 50 **GP Value:** 300
 DRAGON Magazine 135
-This arrow is made of a special, magical metal.
-When used by an archer of at least 16 Strength,
-this missile automatically hits its intended tar-
-get—which is a specific point of nonliving rock
-into which the arrow sinks, leaving around 6
-inches of the rear of its shaft exposed. A small
-steel ring is set into the rear of the arrow, to which
-can be tied a thin line or cord. If an archer with an
-arrow of piercing encounters a deep chasm with
-no way across, he or she needs only to tie a rope
-to the end of the arrow and shoot the arrow at the
-
-**XP Value:** 50
-
- 
-
-95
-
-282
-XN
-intended target. The arrow automatically hits its
-target dead center, and the archer can now cross
-the chasm. If a character of less than 16 Strength
-attempts to fire the arrow, it bounces off the
-rocky surface at which it was fired.
-
-The arrow of piercing is reusable; in order to
-retrieve the arrow, the archer simply grasps it
-with both hands and pulls it from the target. The
-arrow then slides out if an open doors roll is suc-
-cessful. If the roll fails, another attempt may be
-made one turn later.
-
-This arrow actually bounces off any fleshy
-creature at which it is fired (doing no damage),
-but it acts as an arrow +5 against any living or
-animated target composed of stone (stone golem,
-crystal warrior—others). Additionally, it slays
-instantly any creature that has been petrified
-(treat stone as AC 0), if a saving throw vs. death
-magic is failed; a successful save means only
-double damage.
+This arrow is made of a special, magical metal. When used by an archer of at least 16 Strength, this missile automatically hits its intended target—which is a specific point of nonliving rock into which the arrow sinks, leaving around 6 inches of the rear of its shaft exposed. A small steel ring is set into the rear of the arrow, to which can be tied a thin line or cord. If an archer with an //arrow of piercing// encounters a deep chasm with no way across, he or she needs only to tie a rope to the end of the arrow and shoot the arrow at the intended target. The arrow automatically hits its target dead center, and the archer can now cross the chasm. If a character of less than 16 Strength attempts to fire the arrow, it bounces off the rocky surface at which it was fired.\\
+<wrap indent>The //arrow of piercing// is reusable; in order to retrieve the arrow, the archer simply grasps it with both hands and pulls it from the target. The arrow then slides out if an open doors roll is successful. If the roll fails, another attempt may be made one turn later.</wrap>\\
+<wrap indent>This arrow actually bounces off any fleshy creature at which it is fired (doing no damage), but it acts as an //arrow +5// against any living or animated target composed of stone (stone golem, crystal warrior—others). Additionally, it slays instantly any creature that has been petrified (treat stone as AC 0), if a saving throw vs. death magic is failed; a successful save means only double damage.</wrap>
 
 of Roping
 
