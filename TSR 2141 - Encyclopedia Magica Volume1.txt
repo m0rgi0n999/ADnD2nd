@@ -2971,673 +2971,231 @@ This typically appears to be a normal arrow. However, its magical properties mak
 of Disarmin
 **XP Value:** 400 **GP Value:** 700
 DUNGEONS & DRAGONS Rules Cyclopedia
-
-This arrow only functions if the victim is holding
-a weapon or other item. The victim must make a
-saving throw vs. spell or drop the item. A dropped
-item may be normally recovered in | round
-(unless that is impossible).
+This arrow only functions if the victim is holding a weapon or other item. The victim must make a saving throw vs. spell or drop the item. A dropped item may be normally recovered in | round (unless that is impossible).
 
 of Disintegration
-
-**GP Value:** 360
+**XP Value:** 60 **GP Value:** 360
 Dracon Magazine 135
-This arrow is +1 to attack but has -4 on its saving
-throws. The arrow’s effect is the same as the 6th-
-
-**XP Value:** 60
-
-75sec ceeeceeeeedeeeeeeeneneenenl
-
-level magic-user spell disintegrate, except that it
-does not affect targets of a magical nature. The
-effects of the arrow also differ from the spell in
-that only nonliving material, up to 20 cubic feet
-in volume, may be obliterated. If the arrow
-misses its target, nothing is disintegrated and the
-arrow turns to dust. If a living victim is struck by
-this arrow, the victim takes normal damage (1d6
-hit points) but can only be healed by magical
-spells, potions, or powers; normal healing is inef-
-fective.
-
-The arrow of disintegration is made of a long
-shaft of oak with a lodestone arrowhead. The
-flights are usually made from the feathers of rare
-birds. Often, magical words are inscribed on the
-shaft; these must be repeated before the arrow is
-fired. Only one such arrow may be found at a
-time.
+This arrow is +1 to attack but has -4 on its saving throws. The arrow’s effect is the same as the 6th-level magic-user spell //disintegrate//, except that it does not affect targets of a magical nature. The effects of the arrow also differ from the spell in that only nonliving material, up to 20 cubic feet in volume, may be obliterated. If the arrow misses its target, nothing is //disintegrated// and the arrow turns to dust. If a living victim is struck by this arrow, the victim takes normal damage (1d6 hit points) but can only be healed by magical spells, potions, or powers; normal healing is ineffective.\\
+<wrap indent>The //arrow of disintegration// is made of a long shaft of oak with a lodestone arrowhead. The flights are usually made from the feathers of rare birds. Often, magical words are inscribed on the shaft; these must be repeated before the arrow is fired. Only one such arrow may be found at a time.</wrap>
 
 of Dispelling
 **XP Value:** 200 **GP Value:** 400
 DUNGEONS & DRAGONS Rules Cyclopedia
-When a missile with this talent hits, it creates a
-dispel magic effect centered on the point of
-impact (a 20-foot-cube) as if cast by a 1Sth-level
-caster.
+When a missile with this talent hits, it creates a //dispel magic// effect centered on the point of impact (a 20-foot-cube) as if cast by a 1Sth-level caster.
 
 Distance
 **XP Value:** 25 **GP Value:** 150
 DRAGON Magazine 135
-When loosed, this arrow has a range equal to
-twice that of a normal arrow, depending upon the
-type of bow used to fire the arrow. This extended
-range does not, however, affect distances of short
-and medium range, so all distances beyond nor-
-mal are considered long range. The arrow has a
-
-+1 bonus on attack and damage rolls.
+When loosed, this arrow has a range equal to twice that of a normal arrow, depending upon the type of bow used to fire the arrow. This extended range does not, however, affect distances of short and medium range, so all distances beyond normal are considered long range. The arrow has a +1 bonus on attack and damage rolls.
 
 of Draconian Slaying
 **XP Value:** 250 **GP Value:** 2,500
 Dwarven Kingdoms of Krynn
-These arrows serve as normal arrows of slaying,
-but against all types of draconians.
-Note: These arrows only exist in the DRAG-
-ONLANCE" campaign world of Ansalon.
+These arrows serve as normal //arrows of slaying//, but against all types of draconians. Note: These arrows only exist in the DRAGONLANCE(c) campaign world of Ansalon.
 
 Elven
 **XP Value:** 20 **GP Value:** |20
 The Elves of Alfheim
-Elven arrows are made from the limbs of the tree
-of life; the stone points are tempered in the sap of
-
-the tree of life. Since both superfluous branches
-241
-
- 
-
-88
-
-XN
-and sap come available only a few times ina
-decade, elven arrows are rare.
-
-They are unique in that they have no pluses
-(unless they are further enchanted), but they are
-permanently magical. The arrow always counts as
-a magical weapon, affecting creatures that can
-only be affected by magic. There is a 10% chance
-the arrow breaks after each time it is used. The
-cost of an elven arrow in human markets is usu-
-ally around 1,000 gp.
-
-These arrows are only used for special mis-
-sions. Elven army archers who know they may be
-facing enchanted monsters generally have one or
-two in their quivers along with their usual non-
-magical stone or metal-tipped arrows.
+//Elven arrows// are made from the limbs of the //tree of life//; the stone points are tempered in the sap of the //tree of life//. Since both superfluous branches and sap come available only a few times ina decade, elven arrows are rare.\\
+<wrap indent>They are unique in that they have no pluses (unless they are further enchanted), but they are permanently magical. The arrow always counts as a magical weapon, affecting creatures that can only be affected by magic. There is a 10% chance the arrow breaks after each time it is used. The cost of an elven arrow in human markets is usually around 1,000 gp.<wrap>\\
+<wrap indent>These arrows are only used for special missions. Elven army archers who know they may be facing enchanted monsters generally have one or two in their quivers along with their usual non-magical stone or metal-tipped arrows.</wrap>
 
 of Enchantment
 **XP Value:** 20 **GP Value:** 120
 DRAGON Magazine 181
-These magical arrows possess a dweomer that
-allows them to penetrate the magical defenses of
-creatures that can be struck only by enchanted
-weapons. No bonuses for attacks or damage
-occur; such a weapon has the same chance to hit a
-highly magical monster as an ordinary arrow has
-to hit a normal, flesh-and-blood creature, doing
-as much damage as a regular arrow.
-
-Missile weapons are a bit different. Actual mis-
-siles of enchantment (bolts, arrows, sling bullets,
-etc.) are the same as melee weapons, However,
-bows, crossbows, and slings of enchantment cast
-a magical aura on any mundane ammunition with
-which they are loaded (no extra bonus for using
-missiles and bows of enchantment together).
-
-For all weapons of enchantment, the XP cost is
-that of a regular +1 version of that weapon type,
-or whatever other official magical weapon exists
-of that type that is of low value. These weapons
-do not lose their abilities when taken to other
-planes, and the missile launchers can provide
-their owners with a virtually unlimited supply of
-“magical” missiles. Just remember that the dam-
-age done is the same as for ordinary weapons.
-The magic doesn’t add to the weapon’s attack
-capabilities; it negates a monster’s defensive
-capabilities.
+These magical arrows possess a dweomer that allows them to penetrate the magical defenses of creatures that can be struck only by enchanted weapons. No bonuses for attacks or damage occur; such a weapon has the same chance to hit a highly magical monster as an ordinary arrow has to hit a normal, flesh-and-blood creature, doing as much damage as a regular arrow.\\
+<wrap indent>Missile weapons are a bit different. Actual //missiles of enchantment// (bolts, arrows, sling bullets, etc.) are the same as melee weapons, However, bows, crossbows, and //slings of enchantment// cast a magical aura on any mundane ammunition with which they are loaded (no extra bonus for using //missiles// and //bows of enchantment// together).</wrap>\\
+<wrap indent>For all weapons of enchantment, the XP cost is that of a regular +1 version of that weapon type, or whatever other official magical weapon exists of that type that is of low value. These weapons do not lose their abilities when taken to other planes, and the missile launchers can provide their owners with a virtually unlimited supply of “magical” missiles. Just remember that the damage done is the same as for ordinary weapons. The magic doesn’t add to the weapon’s attack capabilities; it negates a monster’s defensive capabilities.</wrap>
 
 of Explosions
-**GP Value:** 500
+**XP Value:** — **GP Value:** 500
 DRAGON Magazine 135
-When nocked into a bow, this arrow explodes into
-a 6 HD fireball (as if cast by a 6th-level wizard).
-
-**XP Value:** —
-
-Fire Seed Arrow
-
-i ereeneleneeeieeeienmiememeeimmiaie
-
-There is no saving throw against the effect, and
-the personal possessions the archer carries must
-save vs. magical fire at -4.
+When nocked into a bow, this arrow explodes into a 6 HD //fireball// (as if cast by a 6th-level wizard).
+There is no saving throw against the effect, and the personal possessions the archer carries must save vs. magical fire at -4.
 
 of Extended Range
 **XP Value:** 100 **GP Value:** 600
 The Complete Book of Elves
-There are three versions of this arrow, which
-allow the user to double, triple, or even quadruple
-the normal ranges for any type of bow, The first
-version allows for a double range, it is the one
-encountered about 60% of the time. The triple-
-range version is found about 30% of the time, and
-the quadruple-range arrow is met only 10% of the
-time.
-
-Although these arrows do not have an attack
-bonus, they are effective against creatures that are
-immune to all but magical weapons (up to +1). In
-addition, the arrows cancel out the normal range
-modifiers of the bow, using instead the modified,
-multiplied range for purposes of figuring modi-
-fiers. Arrows of extended range are usually found
-in groups of 2d10.
+There are three versions of this arrow, which allow the user to double, triple, or even quadruple the normal ranges for any type of bow, The first version allows for a double range, it is the one encountered about 60% of the time. The triplerange version is found about 30% of the time, and the quadruple-range arrow is met only 10% of the time.\\
+<wrap indent>Although these arrows do not have an attack bonus, they are effective against creatures that are immune to all but magical weapons (up to +1). In addition, the arrows cancel out the normal range modifiers of the bow, using instead the modified, multiplied range for purposes of figuring modifiers. //Arrows of extended// range are usually found in groups of 2d10.</wrap>
 
 Faerie Fire
-**GP Value:** 120
+**XP Value:** 20 **GP Value:** 120
 DRAGON Magazine 135
-This arrow covers any human-size or smaller
-creature it hits with faerie fire, as the |st-level
-priest spell. The spell lasts 12 rounds. Normal
-damage is also done to the victim.
-
-**XP Value:** 20
+This arrow covers any human-size or smaller creature it hits with //faerie fire//, as the 1st-level priest spell. The spell lasts 12 rounds. Normal damage is also done to the victim.
 
 of Fire
-
 **XP Value:** 40 **GP Value:** 240
 DRAGON Magazine 135
-
-This arrow immediately bursts into flame after
-being fired. An arrow of fire does normal damage
-plus 1d6 hp fire damage to any creature it hits.
-Creatures native to the Plane of Elemental Fire
-are immune to the fire damage, but cold-dwelling
-creatures take +2 hp damage from this arrow. Any
-clothing worn by the victim must make a saving
-throw vs. normal fire or be destroyed.
+This arrow immediately bursts into flame after being fired. An //arrow of fire// does normal damage plus 1d6 hp fire damage to any creature it hits. Creatures native to the Plane of Elemental Fire are immune to the fire damage, but cold-dwelling creatures take +2 hp damage from this arrow. Any clothing worn by the victim must make a saving throw vs. normal fire or be destroyed.
 
 Fire Seed
 **XP Value:** 200 **GP Value:** 500
 The Complete Book of Elves
-Like the fire trap arrow, this one requires a spe-
-cial, hollow pottery tip, wherein the fire seeds are
-placed. When the arrow strikes the target, the
-seeds detonate, inflicting 2d8 points of damage to
-
-all within 10 feet of where the arrow falls. If the
-246
-
- 
-
-89
-
-XN
-Fire Trap Arrow
-
-arrow hits someone, the victim suffers 1d4 points
-of damage, as well as the 2d8 points from the fire
-seed; the victim doesn’t even get a saving throw
-to take only half damage.
+Like the //fire trap arrow//, this one requires a special, hollow pottery tip, wherein the //fire seeds// are placed. When the arrow strikes the target, the seeds detonate, inflicting 2d8 points of damage to all within 10 feet of where the arrow falls. If the arrow hits someone, the victim suffers 1d4 points of damage, as well as the 2d8 points from the //fire seed//; the victim doesn’t even get a saving throw to take only half damage.
 
 Fire Trap
-
 **XP Value:** 300 **GP Value:** 700
 The Complete Book of Elves
-By casting a fire trap spell on a tiny and delicate
-box, then sealing this box inside a special, frag-
-ile arrowhead, an elf priest can create an effec-
-tive flame arrow. In theory, when the arrow hits
-a firm enough target (anything harder than
-water), it triggers the spell, engulfing its target
-in a sudden blaze of flame. In game terms, the
-head and box must make a single saving throw
-against crushing blow (as pottery) in order for
-the fire trap to detonate. Otherwise, the arrow is
-a dud, though it could possibly be reused against
-the archer.
-
-The damage caused by this arrow is 1d4+1
-plus the variable damage caused by the fire trap.
-Even if the arrow misses its target, it still creates
-a conflagration in the area if the head cracks
-open.
+By casting a //fire trap// spell on a tiny and delicate box, then sealing this box inside a special, fragile arrowhead, an elf priest can create an effective //flame arrow//. In theory, when the arrow hits a firm enough target (anything harder than water), it triggers the spell, engulfing its target in a sudden blaze of flame. In game terms, the head and box must make a single saving throw against crushing blow (as pottery) in order for the fire trap to detonate. Otherwise, the arrow is a dud, though it could possibly be reused against the archer.\\
+<wrap indent>The damage caused by this arrow is 1d4+1 plus the variable damage caused by the //fire trap//. Even if the arrow misses its target, it still creates a conflagration in the area if the head cracks open.</wrap>
 
 Flaming
 **XP Value:** 20 **GP Value:** 60
 POLYHEDRON Newszine 47
-
-These magical arrows +2 are found in caches of
-2d6. When fired, they burst into flame, doing an
-additional 1d6 points of damage to the target, and
-set fire to all flammables within 3 feet of the
-point of impact.
+These //magical arrows +2// are found in caches of 2d6. When fired, they burst into flame, doing an additional 1d6 points of damage to the target, and set fire to all flammables within 3 feet of the point of impact.
 
 of Flying
 **XP Value:** 500 **GP Value:** 750
 DuNGEONS & DRAGONS Rules Cyclopedia
-
-A missile with this talent can be fired at ranges
-five times greater than normal. If the missile
-weapon firing this arrow is also magical and has
-an additional range multiplier, the effect is cumu-
-lative; multiply each maximum range by five, If
-the missile weapon is not magical, use the maxi-
-mum ranges.
+A missile with this talent can be fired at ranges five times greater than normal. If the missile weapon firing this arrow is also magical and has an additional range multiplier, the effect is cumulative; multiply each maximum range by five, If the missile weapon is not magical, use the maxi- mum ranges.
 
 of Force
 **XP Value:** 80 **GP Value:** 480
 DRAGON Magazine 135
-This arrow causes the struck creature to make a
-saving throw vs. spell at -3. If the save is unsuc-
-
-cessful, the creature is encased in a forcecage for
-
-need
-
-three turns (see the 7th-level wizard spell for
-details). Due to its high degree of power, the
-arrow of force provides a -3 penalty on attack
-rolls. No damage is done to the victim.
+This arrow causes the struck creature to make a saving throw vs. spell at -3. If the save is unsuccessful, the creature is encased in a //forcecage// for three turns (see the 7th-level wizard spell for details). Due to its high degree of power, the //arrow of force// provides a -3 penalty on attack rolls. No damage is done to the victim.
 
 of Harm
-
-**GP Value:** 480
+**XP Value:** 80 **GP Value:** 480
 DRAGON Magazine 135
-This arrow does double normal damage to one
-specified type of creature. If used on any creature
-other than that specified for the arrow’s use, nor-
-mal damage is done to the target. The following
-table lists the most basic types of creatures for
-which arrows of harm are created. At the DM’s
-discretion, other monsters and demihuman races
-may be added.
+This arrow does double normal damage to one specified type of creature. If used on any creature other than that specified for the arrow’s use, normal damage is done to the target. The following table lists the most basic types of creatures for which //arrows of harm// are created. At the DM’s discretion, other monsters and demihuman races may be added.
 
-**XP Value:** 80
-
-Roll Creature type
-l Aquatic creatures
-Tanar’ri, Yugoloth, and Baatezu
-Demihumans
-Dragons
-Elementals
-Giants
-Lycanthropes
-Undead
-
-oom A tn bP WwW bo
+^ Roll ^ Creature type |
+| 1 | Aquatic creatures |
+| 2 | Tanar’ri, Yugoloth, and Baatezu |
+| 3 | Demihumans |
+| 4 | Dragons |
+| 5 | Elementals |
+| 6 | Giants |
+| 7 | Lycanthropes |
+| 8 | Undead |
 
 of Holding
 **XP Value:** 50 **GP Value:** 300
 DRAGON Magazine 135
-This mystical arrow is inscribed with strange
-runes. When it hits its target, the target must
-make a saving throw vs. spell or freeze as if
-affected by a hold spell. The effect lasts for 2d4
-
-rounds. The victim takes no other damage.
+This mystical arrow is inscribed with strange runes. When it hits its target, the target must make a saving throw vs. spell or freeze as if affected by a //hold// spell. The effect lasts for 2d4 rounds. The victim takes no other damage.
 
 of Holding II
 **XP Value:** 50 **GP Value:** 100
 The Ruins of Undermountain
-These finely made arrows are usually crafted by
-elves, but the secrets of their manufacture are
-known to a few craftsmen of all races. Such
-arrows count as magical weapons when deter-
-mining what they can strike, but they provide no
-combat bonuses of any sort.
-
-The strike of an arrow of holding does only
-one point of damage, but these arrows pierce
-any armor. On striking, the arrow vanishes in a
-pulse of silvery radiance, and the target crea-
-ture must save vs. spell at -4 or suffer the
-effects of a hold person spell for 5+1d4 rounds.
-
-All types of creatures can be affected, and an
-253
-
- 
-
-90
-
-X
-arrow of holding even affects levitating, self-
-animating, or otherwise mobile dweomered
-items, freezing them in one relative place. (If
-an arrow of holding misses, it may be retrieved
-for reuse.) A typical treasure hoard holds 1d6
-arrows of holding.
+These finely made arrows are usually crafted by elves, but the secrets of their manufacture are known to a few craftsmen of all races. Such arrows count as magical weapons when determining what they can strike, but they provide no combat bonuses of any sort.\\
+<wrap indent>The strike of an //arrow of holding// does only one point of damage, but these arrows pierce any armor. On striking, the arrow vanishes in a pulse of silvery radiance, and the target creature must save vs. spell at -4 or suffer the effects of a //hold person// spell for 5+1d4 rounds. All types of creatures can be affected, and an //arrow of holding// even affects levitating, self-animating, or otherwise mobile dweomered items, freezing them in one relative place. (If an //arrow of holding// misses, it may be retrieved for reuse.) A typical treasure hoard holds 1d6 //arrows of holding//.</wrap>
 
 Ice
 **XP Value:** 10 **GP Value:** 50
 POLYHEDRON Newszine 47
-Crafted of solid steel, these arrows radiate alter-
-ation magic and are cold to the touch. When
-fired, they transform themselves into 18 inch ici-
-cles that do an additional 1d6 damage to fire-
-using or fire-dwelling creatures. They have no
-magical bonus. They are found in catches of 1d8.
+Crafted of solid steel, these arrows radiate alteration magic and are cold to the touch. When fired, they transform themselves into 18 inch icicles that do an additional 1d6 damage to fire-using or fire-dwelling creatures. They have no magical bonus. They are found in catches of 1d8.
 
 of Illumination
 **XP Value:** 30 **GP Value:** 180
 POLYHEDRON Newszine 82
-
-When fired, this arrow /evitates to a point 3 feet
-above the archer’s head. The arrow follows the
-archer as he or she travels, adjusting its height if
-the ceiling lowers. The arrow glows with the
-equivalent of a /ight spell and functions for 24
-turns or until it is broken. Usually 2d4 of these
-arrows are found together.
+When fired, this arrow //levitates// to a point 3 feet above the archer’s head. The arrow follows the archer as he or she travels, adjusting its height if the ceiling lowers. The arrow glows with the equivalent of a //light// spell and functions for 24 turns or until it is broken. Usually 2d4 of these arrows are found together.
 
 Illusory Missiles
 **XP Value:** 10 **GP Value:** 100
-
 DraGON Magazine 181
-There are i/lusory missiles of various types to
-complement illusory weapons and armor. Illu-
-sory sticks and stones are tiny things, totally use-
-less in battle—normally. When the command
-word is spoken, however, a faintly visible magical
-field surrounds them, stretching them out to the
-proportions of regular javelins, arrows, or sling
-bullets. Although the field does no damage itself,
-it is substantial enough to enable the missile to be
-handled and used with a blowgun, bow, sling, or
-spear thrower. If the enemy sees one of these
-coming, the foe will probably assume the worst
-and take damage equivalent to that of an ordinary
-missile, but it’s all show. These devices are usable
-only once.
+There are //illusory missiles// of various types to complement illusory weapons and armor. Illusory sticks and stones are tiny things, totally useless in battle—normally. When the command word is spoken, however, a faintly visible magical field surrounds them, stretching them out to the proportions of regular javelins, arrows, or sling bullets. Although the field does no damage itself, it is substantial enough to enable the missile to be handled and used with a blowgun, bow, sling, or spear thrower. If the enemy sees one of these coming, the foe will probably assume the worst and take damage equivalent to that of an ordinary missile, but it’s all show. These devices are usable only once.
 
 of Justice
-
-**GP Value:** 400
+**XP Value:** 200 **GP Value:** 400
 The Five Shires
-All shire sheriffs carry 1d8 arrows of justice in
-their boots or thrust through their belts. The
-
-**XP Value:** 200
-
-Arrow of Light
-
-"Ricerca
-
-arrows remain inactive in the hands of anyone
-but a halfling. When cast by a halfling at a vis-
-ible target, an arrow of justice flashes unerr-
-ingly to strike the creature as a magic missile,
-following it around obstructions and through
-changes in direction to any range, within one
-round.
-
-The touch of an arrow of justice may deal 2d6
-points of damage (save vs. spell allows half dam-
-age), or merely root the subject to the spot (held
-for 1d4+1 rounds, with no save), as its hurler
-desires. It may be mentally commanded to cause
-both effects when it is released. If not com-
-manded, it always deals damage. If the target is
-an illusion, the arrow simply falls from the
-caster’s hand to the ground, unused and inacti-
-vated. Upon striking a target, an arrow of justice
-vanishes forever.
-
-A creature struck by an arrow of justice glows
-with a silvery radiance for 3d6 rounds. This effect
-foils attempts to hide in shadows, mingle with
-other creatures, or use invisibility, but dispel
-magic cancels the arrow’s effect.
-
-Hin masters and keepers construct these items
-in secrecy under the guidance of certain human
-wizards, and sheriffs hide caches of replacements
-in handy places about the shires. No hin would
-dare to move or take a discovered arrow of jus-
-tice, unless fellow hin are endangered and the
-arrow might aid them—the hin would then act
-and trust to the wisdom and mercy of the sheriffs
-to avoid any punishment.
+All shire sheriffs carry 1d8 //arrows of justice// in their boots or thrust through their belts. The arrows remain inactive in the hands of anyone but a halfling. When cast by a halfling at a vis- ible target, an //arrow of justice// flashes unerringly to strike the creature as a //magic missile//, following it around obstructions and through changes in direction to any range, within one round.\\
+<wrap indent>The touch of an //arrow of justice// may deal 2d6 points of damage (save vs. spell allows half damage), or merely root the subject to the spot (held for 1d4+1 rounds, with no save), as its hurler desires. It may be mentally commanded to cause both effects when it is released. If not commanded, it always deals damage. If the target is an illusion, the arrow simply falls from the caster’s hand to the ground, unused and inactivated. Upon striking a target, an //arrow of justice// vanishes forever.</wrap>\\
+<wrap indent>A creature struck by an //arrow of justice// glows with a silvery radiance for 3d6 rounds. This effect foils attempts to hide in shadows, mingle with other creatures, or use //invisibility//, but //dispel magic// cancels the arrow’s effect.</wrap>\\
+<wrap indent>Hin masters and keepers construct these items in secrecy under the guidance of certain human wizards, and sheriffs hide caches of replacements in handy places about the shires. No hin would dare to move or take a discovered //arrow of justice//, unless fellow hin are endangered and the arrow might aid them—the hin would then act and trust to the wisdom and mercy of the sheriffs to avoid any punishment.</wrap>
 
 of Law
-
 **XP Value:** 200 **GP Value:** 400
 Gods, Demigods, & Heroes
-
-This is found as a quiver of 20 arrows. The
-
-arrows always hit and kill chaotic creatures at
-
-normal long bow ranges.
+This is found as a quiver of 20 arrows. The arrows always hit and kill chaotic creatures at normal long bow ranges.
 
 of Light
 **XP Value:** 40 **GP Value:** 120
 The Complete Book of Elves
-
-These are among the most permanent and com-
-mon of all the enspelled arrows. If a continual
-light spell is cast upon the shaft of an arrow, it
-can then be used to either spotlight or blind an
-enemy. These arrows are common among elf
-scouts, who carry them sheathed until there is a
-need for them.
-
-259
-
- 
-
-91
-Arrow of Lighting
+These are among the most permanent and common of all the enspelled arrows. If a //continual light// spell is cast upon the shaft of an arrow, it can then be used to either spotlight or blind an enemy. These arrows are common among elf scouts, who carry them sheathed until there is a need for them.
 
 of Lighting
 **XP Value:** 50 **GP Value:** 100
 DunGeons & DraGcons Rules Cyclopedia
-The missile can create a light spell effect (30-
-foot-diameter), either upon command or when it
-hits a target. If a creature is hit, the victim must
-make a saving throw vs. spell or be blinded by the
-light (as if the spell had been cast at its eyes). The
-missile disintegrates when the light is created.
+The missile can create a //light// spell effect (30-foot-diameter), either upon command or when it hits a target. If a creature is hit, the victim must make a saving throw vs. spell or be //blinded// by the light (as if the spell had been cast at its eyes). The missile disintegrates when the //light// is created.
 
 of Lightning
-
 **XP Value:** 100 **GP Value:** 600
 DRAGON Magazine 135
-This arrow has a +2 bonus on attack rolls and
-causes 1d6 hp damage, plus 20 hp electrical dam-
-age. When the arrow hits, it emits a large and
-bright flash of light for a split second (long
-enough to light up a dungeon corridor). Anyone
-touching the victim suffers 1d10 hp electrical
-damage. The arrow is consumed in the lightning
-charge. If the arrow misses its intended target, it
-discharges all of its electrical energy upon hitting
-the ground (or any other solid object, such as a
-dungeon wall).
+This arrow has a +2 bonus on attack rolls and causes 1d6 hp damage, plus 20 hp electrical damage. When the arrow hits, it emits a large and bright flash of light for a split second (long enough to light up a dungeon corridor). Anyone touching the victim suffers 1d10 hp electrical damage. The arrow is consumed in the lightning charge. If the arrow misses its intended target, it discharges all of its electrical energy upon hitting the ground (or any other solid object, such as a dungeon wall).
 
 Lycanthrope Slayer
-
 **XP Value:** 200 **GP Value:** 1,200
 DRAGON Magazine 135
-This silver-tipped arrow not only gives a +3
-bonus to attack and damage rolls, but also slays
-any lycanthrope it strikes, whether in beast or
-human form, unless the creature struck makes a
-saving throw vs. death magic. A successful sav-
-ing throw causes the victim to take double dam-
-age from the arrow.
+This silver-tipped arrow not only gives a +3 bonus to attack and damage rolls, but also slays any lycanthrope it strikes, whether in beast or human form, unless the creature struck makes a saving throw vs. death magic. A successful saving throw causes the victim to take double damage from the arrow.
 
 Maglubiyet’s Wounding
 **XP Value:** 500 **GP Value:** 2,500
 Dungeon Magazine 33
-
-These arrows have been enchanted by Maglubiyet,
-a goblin deity. They can only be enspelled through
-diligent prayer and ceremony. They can be used
-only once and are +2 to attack and damage. A crea-
-ture struck by an arrow of Maglubiyet’s wounding
-loses half its Strength immediately, in addition to
-the arrow damage. If the arrow remains in the
-wound, the creature does not regain its Strength or
-magical abilities, and cannot heal its wounds—
-even at normal rates. Goblins normally use this
-arrow against monsters that have no hands, so the
-arrow cannot be removed.
-
-gull
+These arrows have been enchanted by Maglubiyet, a goblin deity. They can only be enspelled through diligent prayer and ceremony. They can be used only once and are +2 to attack and damage. A creature struck by an //arrow of Maglubiyet’s wounding// loses half its Strength immediately, in addition to the arrow damage. If the arrow remains in the wound, the creature does not regain its Strength or magical abilities, and cannot heal its wounds—even at normal rates. Goblins normally use this arrow against monsters that have no hands, so the arrow cannot be removed.
 
 of Misdirection
 **XP Value:** — **GP Value:** 100
 DraGon Magazine 135
-This arrow is similar to an arrow of direction; the
+This arrow is similar to an //arrow of direction//; the
 difference is that this cursed arrow reveals the
 wrong direction.
 
 Missile Weapon of Accuracy
-
 **XP Value:** 50 **GP Value:** 300
 Oriental Adventures
-
-This magical missile weapon is +3 on both attack
-
-and damage. Furthermore, all ranges are consid-
-
-ered to be short range (no range modifier
-
-applied).
+This magical missile weapon is +3 on both attack and damage. Furthermore, all ranges are considered to be short range (no range modifier applied).
 
 Missile Weapon of Distance*
 **XP Value:** +50 **GP Value:** +300
 Oriental Adventures
-The weapon is able to fire to double all normal
-range categories for the weapon.
+The weapon is able to fire to double all normal range categories for the weapon.
 
 of Multiplicity
 **XP Value:** 100 **GP Value:** 600
 DRaGOn Magazine 135
-For every 30 feet this arrow travels, another
-arrow appears in flight alongside the original
-arrow (up to a total of 10 arrows). Each arrow
-receives an individual attack roll with no bonus.
-For example, a fighter fires one of these arrows
-from a bow +3. The arrow travels a distance of 65
-feet. Three arrows reach the target, each of them
-having normal attack chances (counting none
-from the magical bow).
+For every 30 feet this arrow travels, another arrow appears in flight alongside the original arrow (up to a total of 10 arrows). Each arrow receives an individual attack roll with no bonus. For example, a fighter fires one of these arrows from a //bow +3//. The arrow travels a distance of 65 feet. Three arrows reach the target, each of them having normal attack chances (counting none from the magical bow).
 
 Nilbog
 **XP Value:** 100 **GP Value:** 150
 POLYHEDRON Newszine 47
-
-Nondescript in appearance, these arrows have an
-odd power. Due to their unusual enchantment, the
-target is cured of 1d6 hit points upon contact. As
-a final touch, the arrows create an illusion of
-damage upon the target (dents in armor, torn
-clothing, etc.). The illusion lasts one turn. Nilbog
-arrows are found in caches of 148.
+Nondescript in appearance, these arrows have an odd power. Due to their unusual enchantment, the target is cured of 1d6 hit points upon contact. As a final touch, the arrows create an illusion of damage upon the target (dents in armor, torn clothing, etc.). The illusion lasts one turn. //Nilbog arrows// are found in caches of 1d8.
 
 Oberon’s Arrow of Subduing
 **XP Value:** — **GP Value:** —
 Monster Mythology
-Oberon carries arrows used for hunting stags that
-are enchanted to inflict subduing damage only.
+Oberon carries arrows used for hunting stags that are enchanted to inflict subduing damage only.
 
-269
-
- 
-
-92
-Oberon’s Arrow of Slaying
-
+Oberon’s Arrow of Slaying
 **XP Value:** — **GP Value:** —
 Monster Mythology
-Oberon carries a quiver of arrows of slaying and
-is known to use these on bugbears, goblins, hob-
-goblins, and orcs (others at the DM’s option).
-When they strike, the victim does not receive a
-saving throw.
+Oberon carries a quiver of //arrows of slaying// and is known to use these on bugbears, goblins, hobgoblins, and orcs (others at the DM’s option). When they strike, the victim does not receive a saving throw.
 
 Paralyzation
 **XP Value:** 50 **GP Value:** 120
 POLYHEDRON Newszine 47
-These +1 arrows are found in caches of 1d6. In
-addition to the regular damage, a creature struck
-by an arrow must make a save vs. paralyzation or
-be paralyzed for 1d6 rounds.
+These +1 arrows are found in caches of 1d6. In addition to the regular damage, a creature struck by an arrow must make a save vs. paralyzation or be paralyzed for 1d6 rounds.
 
 of Penetrating
 **XP Value:** 50 **GP Value:** 300
 DUNGEONS & Dracons Rules Cyclopedia
-A missile with this talent cannot be slowed by
-underbrush, webs (normal or magical), or other
-forms of cover. The victim’s Armor Class is not
-modified by cover of any sort.
+A missile with this talent cannot be slowed by underbrush, webs (normal or magical), or other forms of cover. The victim’s Armor Class is not modified by cover of any sort.
 
 of Penetration
 **XP Value:** 50 **GP Value:** 300
 DRAGON Magazine 135
-
-This magical arrow has no attack or damage
-bonuses. Once fired from a bow, however, an arrow
-of penetration keeps going, phasing through any
-nonliving material in its path, until it reaches its
-maximum range or strikes a living object. Against
-this arrow, normal armor and shields are ignored in
-the determination of Armor Class. Magical armor
-and shields improve the Armor Class of the victim
-by one for each +1 of protection they provide, as do
-rings and cloaks of protection. Bracers of defense,
-however, are useless. Bonuses for cover and con-
-cealment are ignored unless the cover is made of
-living material. Creatures totally hidden from view
-are treated as invisible (-4 to hit them). Magical
-protections and Armor Class adjustments for high
-Dexterity still apply. The Armor Class of creatures
-with natural armor remains unaffected.
+This magical arrow has no attack or damage bonuses. Once fired from a bow, however, an //arrow of penetration// keeps going, phasing through any nonliving material in its path, until it reaches its maximum range or strikes a living object. Against this arrow, normal armor and shields are ignored in the determination of Armor Class. Magical armor and shields improve the Armor Class of the victim by one for each +1 of protection they provide, as do //rings// and //cloaks of protection//. //Bracers of defense//, however, are useless. Bonuses for cover and concealment are ignored unless the cover is made of living material. Creatures totally hidden from view are treated as invisible (-4 to hit them). Magical protections and Armor Class adjustments for high Dexterity still apply. The Armor Class of creatures with natural armor remains unaffected.
 
 of Perseverance
 **XP Value:** 50 **GP Value:** 300
 DRAGON Magazine 135
-Once shot, this arrow goes after its target regard-
-less of range, as long as the target is within view.
-The arrow, however, gains a cumulative -1 to
-
-Arrow of Polymorphing
-
-"9 sR ES EERE EERE
-
-attack for every 100 yards beyond its maximum
-range that it travels. Once the arrow gains a total
-of a -10 penalty to attack, it vanishes. The arrow
-has a +2 bonus to damage.
+Once shot, this arrow goes after its target regardless of range, as long as the target is within view. The arrow, however, gains a cumulative -1 to attack for every 100 yards beyond its maximum range that it travels. Once the arrow gains a total of a -10 penalty to attack, it vanishes. The arrow has a +2 bonus to damage.
 
 of Piercing
-
-**GP Value:** 300
+**XP Value:** 50 **GP Value:** 300
 DRAGON Magazine 135
-The target of this missile must save vs. petrifica-
-tion or lose all protection provided by armor and
-hide. The subject has AC 10 with regards to this
-missile attack if the saving throw fails, the arrow
-then does maximum damage (6 hp, plus the
-Strength bonuses of the archer if applicable). The
-arrow does normal damage if the victim’s saving
-throw is successful.
-
-**XP Value:** 50
-
-f
-e =——~ppe *
-
- 
+The target of this missile must save vs. petrification or lose all protection provided by armor and hide. The subject has AC 10 with regards to this missile attack if the saving throw fails, the arrow then does maximum damage (6 hp, plus the Strength bonuses of the archer if applicable). The arrow does normal damage if the victim’s saving throw is successful.
 
 of Polymorphing
 **XP Value** **GP Value**
@@ -3647,185 +3205,47 @@ Monster: 225 1,350
 Paper: 225 1,350
 Small Animal: 225 1,350
 Stone: 225 1,350
-
 DraGoONn Magazine 135
-An arrow of polymorphing is as rare as an arrow
+An //arrow of polymorphing//is as rare as an //arrow of slaying//, and is thus infrequently encountered. This arrow is +3 to attack but not to damage. Besides taking normal damage after being hit, a creature struck by an //arrow of polymorphing// must save vs. //polymorph//. If successful, nothing further occurs. If the creature fails to save, it is polymorphed into another form. Only one arrow of this type may be found at a time.\\
+<wrap indent>There are six different kinds of //arrows of polymorphing//; when found, a random roll is required to determine the arrow type. Note that the only creatures affected by //arrows of polymorphing// are those that are susceptible to the spell //polymorph other//. //Arrows of polymorphing// are classified according to the form into which they change the recipient. The six different arrow types are as follows:</wrap>
 
-of slaying, and is thus infrequently encountered.
-276
+^ Roll ^ Form assumed |
+| 1 | Stone |
+| 2 | Monster |
+| 3 | Ice |
+| 4 | Small animal |
+| 5 | Paper |
+| 6 | Glass |
 
- 
+<wrap indent>**Stone:** A creature hit by an arrow of this type becomes petrified as if struck by a cockatrice. The duration of the petrification is permanent, although spells such as //stone to flesh// or //limited wish// may be used to reverse the effects of the arrow.</wrap>\\
+<wrap indent>**Monster:** This arrow //polymorphs// the victim into a randomly determined monster. If the victim’s personality is lost, the monster attacks all nearby creatures until it is killed or until there is nothing left for it to fight. The effects last until dispelled. The suggested monster types are as follows:</wrap>
 
-93
+^ Roll ^ Monster |
+| 1 Werewolf |
+| 2 | Medusa |
+| 3 | Ogre |
+| 4 | Troll |
+| 5 | Owlbear |
+| 6 | Five-headed hydra |
 
-Tee
-Arrow of Pursuit
-
-This arrow is +3 to attack but not to damage.
-Besides taking normal damage after being hit, a
-creature struck by an arrow of polymorphing
-must save vs. polymorph. If successful, nothing
-further occurs. If the creature fails to save, it is
-polymorphed into another form. Only one arrow
-of this type may be found at a time.
-
-There are six different kinds of arrows of
-polymorphing; when found, a random roll is
-required to determine the arrow type. Note that
-the only creatures affected by arrows of poly-
-morphing are those that are susceptible to the
-spell polymorph other. Arrows of polymorphing
-are classified according to the form into which
-they change the recipient. The six different
-arrow types are as follows:
-
-Roll Form assumed
-
-l Stone
-
-2 Monster
-
-3 Ice
-
-4 Small animal
-5 Paper
-
-6 Glass
-
-Stone: A creature hit by an arrow of this type
-becomes petrified as if struck by a cockatrice.
-The duration of the petrification is permanent,
-although spells such as stone to flesh or limited
-wish may be used to reverse the effects of the
-arrow.
-
-Monster: This arrow polymorphs the victim
-into a randomly determined monster. If the vic-
-tim’s personality is lost, the monster attacks all
-nearby creatures until it is killed or until there is
-nothing left for it to fight. The effects last until
-dispelled. The suggested monster types are as fol-
-lows:
-
-Roll Monster
-
-1 Werewolf
-Medusa
-Ogre
-Troll
-Owlbear
-Five-headed hydra
-
-Ou & Ww ho
-
-Ice: This is perhaps the most deadly of the var-
-ious types of arrows of polymorphing. A creature
-hit by one of these arrows is instantly trans-
-formed into a statue of solid ice. Unless the statue
-is kept at a temperature below freezing, it melts
-
-” "aniline aan emammcmrammmiemmm
-
-away, completely destroying the polymorphed
-creature in the process. The ice statue lasts for as
-many rounds as the target creature has hit points.
-If the ice form is undone by a dispel magic spell
-(against 12th-level magic) or by other magical
-means, the victim is restored to life if a system
-shock roll is made; otherwise, the victim reap-
-pears, but is dead. For every round spent in the
-ice form, the victim loses | hp from the effects of
-melting—a fighter restored to life after 12 rounds
-in ice form has lost 12 hp.
-
-Small animal: An arrow of this sort trans-
-forms the creature it hits into a small, harmless
-animal such as a mouse (AC 8; MV 6; HD 44; hp
-1; #AT nil). This form lasts until dispelled.
-
-Paper: This type of arrow reduces any individ-
-ual it hits to a two-dimensional paper replica of
-he, she, or it. This “paper doll” is life-size and is
-highly flammable. The duration of this effect is
-only 4d6 turns. After this time has expired and if
-the paper has not been destroyed, the individual
-returns to normal. These paper dolls may be
-folded and carried without injury to the po/ymor-
-phed individual (unless the effect expires, which
-causes the individual to return to his normal size
-and shape).
-
-Glass: This final arrow type turns a creature it
-hits to solid glass. The effects of this arrow are
-permanent and may only be reversed with a stone
-to flesh or similar spell. A g/assteel spell can pre-
-serve the victim from most harm until further aid
-can be rendered, but the spell must be removed
-before the victim is fully restored by other means.
+**Ice**: This is perhaps the most deadly of the various types of //arrows of polymorphing//. A creature hit by one of these arrows is instantly transformed into a statue of solid ice. Unless the statue is kept at a temperature below freezing, it melts away, completely destroying the //polymorphed// creature in the process. The ice statue lasts for as many rounds as the target creature has hit points. If the ice form is undone by a //dispel magic// spell (against 12th-level magic) or by other magical means, the victim is restored to life if a system shock roll is made; otherwise, the victim reappears, but is dead. For every round spent in the ice form, the victim loses | hp from the effects of melting—a fighter restored to life after 12 rounds in ice form has lost 12 hp.</wrap>\\
+<wrap indent>**Small animal:** An arrow of this sort transforms the creature it hits into a small, harmless animal such as a mouse (AC 8; MV 6; HD ¼; hp 1; #AT nil). This form lasts until //dispelled//.</wrap>\\
+<wrap indent>**Paper:** This type of arrow reduces any individual it hits to a two-dimensional paper replica of he, she, or it. This “paper doll” is life-size and is highly flammable. The duration of this effect is only 4d6 turns. After this time has expired and if the paper has not been destroyed, the individual returns to normal. These paper dolls may be folded and carried without injury to the //polymorphed// individual (unless the effect expires, which causes the individual to return to his normal size and shape).</wrap>\\
+<wrap indent>**Glass:** This final arrow type turns a creature it hits to solid glass. The effects of this arrow are permanent and may only be reversed with a //stone to flesh// or similar spell. A //glassteel// spell can preserve the victim from most harm until further aid can be rendered, but the spell must be removed before the victim is fully restored by other means.</wrap>
 
 of Pursuit
 **XP Value:** 85 **GP Value:** 500
 DRAGON Magazine 135
-An arrow of pursuit is +3 to hit and damage.
-When shot from a bow, the arrow unerringly
-seeks out the living being with the greatest num-
-ber of hit points within its range, then heads for
-that individual—no matter what the original tar-
-get. In addition, if the arrow misses on its first
-pass, it returns on the following round, after a
-long curved, flight and attempts to hit the target a
-second time, now with a +2 bonus to attack and
-damage rolls. If the second pass misses, it tries
-one last time on the following round with a +1
-bonus. If it fails then, it crashes into the earth and
-is destroyed. This arrow has a range of 3 miles,
-though it does not often need to follow its target
-
-that far.
-277
-
- 
-
-94
-
-Me
-An arrow of pursuit is very useful when a char-
-acter wants to pick off a group leader who is
-moving about in an army, protected by troops. In
-this case, the arrow winds its way in and out of
-the troops until it hits its target. Only one such
-arrow may be found at a time.
+An //arrow of pursuit// is +3 to hit and damage. When shot from a bow, the arrow unerringly seeks out the living being with the greatest number of hit points within its range, then heads for that individual—no matter what the original target. In addition, if the arrow misses on its first pass, it returns on the following round, after a long curved, flight and attempts to hit the target a second time, now with a +2 bonus to attack and damage rolls. If the second pass misses, it tries one last time on the following round with a +1 bonus. If it fails then, it crashes into the earth and is destroyed. This arrow has a range of 3 miles, though it does not often need to follow its target that far.\\
+<wrap indent>An //arrow of pursuit// is very useful when a character wants to pick off a group leader who is moving about in an army, protected by troops. In this case, the arrow winds its way in and out of the troops until it hits its target. Only one such arrow may be found at a time.</wrap>
 
 Quarrel of Biting
 **XP Value** **GP Value**
 Acid: 150 400
 Normal: 100 300
 Poison: 150 400
-
 The Ruins of Undermountain
-
-This rare type of magical crossbow bolt does 1d6
-damage when striking, turning into a small
-winged snake upon impact. The snake immedi-
-ately hits and bites for an additional 1d4+1 points
-of damage. It then flies about for another two
-rounds, biting at the same target, before dissipat-
-ing into a plume of harmless smoke. Quarrel
-snakes can damage creatures vulnerable to +1
-weapons. Such snakes are unintelligent and
-uncontrollable by magical means. Their combat
-statistics are: AC 3; MV FI 12 (B); HD 1+1; 9 hp;
-THACO 19, #AT 1. Quarrels of biting are more
-common in eastern and southern lands of the
-Realms, but the costs listed above apply to their
-creation and sale prices in the North. Rumors per-
-sist across Faerun of poisonous and even acid-
-spitting specimens of these weapons. Poisonous
-or not, most guilds, factions, and priesthoods do
-not consider the use of these weapons a good act
-(or, in the case of the priests and worshipers of
-Tempus, an “honorable” act). Quarrels of biting
-are usually found in bundles of 1d12.
+This rare type of magical crossbow bolt does 1d6 damage when striking, turning into a small winged snake upon impact. The snake immediately hits and bites for an additional 1d4+1 points of damage. It then flies about for another two rounds, biting at the same target, before dissipating into a plume of harmless smoke. Quarrel snakes can damage creatures vulnerable to +1 weapons. Such snakes are unintelligent and uncontrollable by magical means. Their combat statistics are: AC 3; MV FI 12 (B); HD 1+1; 9 hp; THACO 19, #AT 1. //Quarrels of biting// are more common in eastern and southern lands of the Realms, but the costs listed above apply to their creation and sale prices in the North. Rumors persist across Faerun of poisonous and even acid-spitting specimens of these weapons. Poisonous or not, most guilds, factions, and priesthoods do not consider the use of these weapons a good act (or, in the case of the priests and worshipers of Tempus, an “honorable” act). //Quarrels of biting// are usually found in bundles of 1d12.
 
 Red
 **XP Value** **GP Value**
@@ -3836,250 +3256,73 @@ Red
 +5: 150 900
 -l:— 50
 Kingdom of Nithia
+Red shafted arrows are not uncommon in Nithia. Some are made from red-colored reeds while others are dyed. The common belief is that a red arrow seeks blood, making it more likely to hit and cause damage. This belief is backed by the fact that truly magical //red arrows// do exist in Nithia. Their source is uncertain. Perhaps a nomadic archer, a sect of priests, or an elderly scribe created them. In any event, a true (magical) //red arrow// provides an equal bonus to attack and damage rolls. Bonuses are as follows:
 
-Red shafted arrows are not uncommon in Nithia.
-Some are made from red-colored reeds while
-others are dyed. The common belief is that a red
-arrow seeks blood, making it more likely to hit
-and cause damage. This belief is backed by the
-fact that truly magical red arrows do exist in
-Nithia. Their source is uncertain. Perhaps a
+^ Roll ^ Bonus |
+| 1 | +1 |
+| 2 | +2 |
+| 3 | +3 |
+| 4 | +4 |
+| 5 | +5 |
+| 6 | cursed, -1 |
 
-Arrow of Rock Piercing
-
-nomadic archer, a sect of priests, or an elderly
-scribe created them. In any event, a true (magi-
-cal) red arrow provides an equal bonus to attack
-and damage rolls. Bonuses are as follows:
-
-Roll Bonus
-1 +]
-2 +2
-3 +3
-4 +4
-5 +5
-6 cursed, -1
 of Refilling
 **XP Value:** 100 **GP Value:** 400
-
 DunNGEoNS & DRAGONS Rules Cyclopedia
-
-This talent gives no special effects to a missile
-when fired. If left in a container with other mis-
-siles of the same type (that is, a refilling arrow
-with normal arrows or a refilling sling stone with
-normal sling stones), however, it magically cre-
-ates 1d20 more missiles of the normal ‘type each
-day.
+This talent gives no special effects to a missile when fired. If left in a container with other missiles of the same type (that is, a //refilling arrow// with normal arrows or a //refilling sling stone// with normal sling stones), however, it magically creates 1d20 more missiles of the normal ‘type each day.
 
 of Returning
-
-**GP Value:** 240
+**XP Value:** 40 **GP Value:** 240
 DRAGON Magazine 135
-Once fired, this arrow returns to the archer’s
-quiver after an unsuccessful attempt to strike its
-target has been made. An arrow of returning is +1
-to attack and damage rolls. It returns at the end of
-the round in which it was fired. For example, a
-ranger fires an arrow of returning at a dragon. Its
-attack roll is not high enough to damage the
-dragon, so the arrow returns to the ranger’s
-quiver, where it can be used again on the ranger’s
-very next shot.
-
-**XP Value:** 40
+Once fired, this arrow returns to the archer’s quiver after an unsuccessful attempt to strike its target has been made. An //arrow of returning// is +1 to attack and damage rolls. It returns at the end of the round in which it was fired. For example, a ranger fires an //arrow of returning// at a dragon. Its attack roll is not high enough to damage the dragon, so the arrow returns to the ranger’s quiver, where it can be used again on the ranger’s very next shot.
 
 of Rock Piercing
-
-**GP Value:** 300
+**XP Value:** 50 **GP Value:** 300
 DRAGON Magazine 135
-This arrow is made of a special, magical metal.
-When used by an archer of at least 16 Strength,
-this missile automatically hits its intended tar-
-get—which is a specific point of nonliving rock
-into which the arrow sinks, leaving around 6
-inches of the rear of its shaft exposed. A small
-steel ring is set into the rear of the arrow, to which
-can be tied a thin line or cord. If an archer with an
-arrow of piercing encounters a deep chasm with
-no way across, he or she needs only to tie a rope
-to the end of the arrow and shoot the arrow at the
-
-**XP Value:** 50
-
- 
-
-95
-
-282
-XN
-intended target. The arrow automatically hits its
-target dead center, and the archer can now cross
-the chasm. If a character of less than 16 Strength
-attempts to fire the arrow, it bounces off the
-rocky surface at which it was fired.
-
-The arrow of piercing is reusable; in order to
-retrieve the arrow, the archer simply grasps it
-with both hands and pulls it from the target. The
-arrow then slides out if an open doors roll is suc-
-cessful. If the roll fails, another attempt may be
-made one turn later.
-
-This arrow actually bounces off any fleshy
-creature at which it is fired (doing no damage),
-but it acts as an arrow +5 against any living or
-animated target composed of stone (stone golem,
-crystal warrior—others). Additionally, it slays
-instantly any creature that has been petrified
-(treat stone as AC 0), if a saving throw vs. death
-magic is failed; a successful save means only
-double damage.
+This arrow is made of a special, magical metal. When used by an archer of at least 16 Strength, this missile automatically hits its intended target—which is a specific point of nonliving rock into which the arrow sinks, leaving around 6 inches of the rear of its shaft exposed. A small steel ring is set into the rear of the arrow, to which can be tied a thin line or cord. If an archer with an //arrow of piercing// encounters a deep chasm with no way across, he or she needs only to tie a rope to the end of the arrow and shoot the arrow at the intended target. The arrow automatically hits its target dead center, and the archer can now cross the chasm. If a character of less than 16 Strength attempts to fire the arrow, it bounces off the rocky surface at which it was fired.\\
+<wrap indent>The //arrow of piercing// is reusable; in order to retrieve the arrow, the archer simply grasps it with both hands and pulls it from the target. The arrow then slides out if an open doors roll is successful. If the roll fails, another attempt may be made one turn later.</wrap>\\
+<wrap indent>This arrow actually bounces off any fleshy creature at which it is fired (doing no damage), but it acts as an //arrow +5// against any living or animated target composed of stone (stone golem, crystal warrior—others). Additionally, it slays instantly any creature that has been petrified (treat stone as AC 0), if a saving throw vs. death magic is failed; a successful save means only double damage.</wrap>
 
 of Roping
-
-**GP Value:** 120
+**XP Value:** 20 **GP Value:** 120
 DRAGON Magazine 135
-When used, this magical arrow leaves behind a
-smoky brown trail through the entire arc of its
-flight. The trail solidifies into a material brown
-rope when the arrow strikes its target, bonding
-to the bow that fired it. The arrow bonds to any
-type of wood it hits, and has a 70% chance of
-penetrating and bonding to stone or metal.
-Once bonded, the arrow never pulls free (unless
-excessive weight is applied), and only bends if a
-successful bend bars roll is made. The rope can
-support up to 500 pounds of weight at once
-before it breaks or the arrow pulls free (50%
-chance of either).
-
-**XP Value:** 20
+When used, this magical arrow leaves behind a smoky brown trail through the entire arc of its flight. The trail solidifies into a material brown rope when the arrow strikes its target, bonding to the bow that fired it. The arrow bonds to any type of wood it hits, and has a 70% chance of penetrating and bonding to stone or metal. Once bonded, the arrow never pulls free (unless excessive weight is applied), and only bends if a successful bend bars roll is made. The rope can support up to 500 pounds of weight at once before it breaks or the arrow pulls free (50% chance of either).
 
 of Scent Detection
 **XP Value:** 20 **GP Value:** 120
 DraGon Magazine 135
-This arrow allows its user to smell odors from
-the location at which the arrow landed, similar
-to the arrows of clairaudience and clairvoy-
-ance. This ability is activated by uttering the
-command word (“Scent!”), and shooting the
-arrow. The archer can then smell odors around
-the arrow’s location by plugging his nose and
-inhaling. In so doing, the archer is able to
-breath normally, inhaling air from the arrow’s
-location. One major drawback of the arrow’s
-use is that poisonous or harmful gases may be
-
-~, Arrow of Roping -
-
-inhaled in this manner, affecting the archer as
-if he or she were breathing the gases normally.
-If the arrow is entirely buried in water or mud,
-the arrow’s user coughs and chokes for one
-round, being unable for that time to breath,
-fight, or even move. This effect wears off
-immediately afterward, leaving the archer no
-worse for the experience. Odors within 30 feet
-of the arrow may be inhaled and sensed. Few
-archers use this arrow, but some rangers and
-scouts have detected monsters with especially
-strong scents.
+This arrow allows its user to smell odors from the location at which the arrow landed, similar to the //arrows of clairaudience// and //clairvoyance//. This ability is activated by uttering the command word (“Scent!”), and shooting the arrow. The archer can then smell odors around the arrow’s location by plugging his nose and inhaling. In so doing, the archer is able to breath normally, inhaling air from the arrow’s location. One major drawback of the arrow’s use is that poisonous or harmful gases may be inhaled in this manner, affecting the archer as if he or she were breathing the gases normally. If the arrow is entirely buried in water or mud, the arrow’s user coughs and chokes for one round, being unable for that time to breath, fight, or even move. This effect wears off immediately afterward, leaving the archer no worse for the experience. Odors within 30 feet of the arrow may be inhaled and sensed. Few archers use this arrow, but some rangers and scouts have detected monsters with especially strong scents.
 
 of Screaming
 **XP Value:** 20 **GP Value:** 120
 DuNGEONS & DRAGONS Rules Cyclopedia
-
-This arrow’s effect occurs when the missile is
-fired, even if it misses the target. As it travels
-through the air, the missile produces a loud cry,
-causing all within 30 feet of its path to check
-morale. If the morale check fails, the victims
-retreat in fear for 1d8 rounds.
+This arrow’s effect occurs when the missile is fired, even if it misses the target. As it travels through the air, the missile produces a loud cry, causing all within 30 feet of its path to check morale. If the morale check fails, the victims retreat in fear for 1d8 rounds.
 
 of Screaming II
-
-**GP Value:** 120
+**XP Value:** 20 **GP Value:** 120
 DRAGON Magazine 135
-When this missile is fired, it emits an ear-shat-
-tering scream that deafens all beings within 30
-feet of its flight path for 1d4+2 rounds—includ-
-ing the archer, unless protected. In addition,
-those affected drop everything and cover their
-ears during the melee round in which the arrow
-is in flight. Any spellcasters lose their concen-
-tration, so all spells to be cast during this time
-are lost. There is a 15% chance that a set of ear
-plugs are found with these arrows, to protect the
-archer.
-
-**XP Value:** 20
+When this missile is fired, it emits an ear-shat-tering scream that deafens all beings within 30 feet of its flight path for 1d4+2 rounds—includ-ing the archer, unless protected. In addition, those affected drop everything and cover their ears during the melee round in which the arrow is in flight. Any spellcasters lose their concentration, so all spells to be cast during this time are lost. There is a 15% chance that a set of ear plugs are found with these arrows, to protect the archer.
 
 of Seeking
-
 **XP Value:** 100 **GP Value:** 500
 Dunceons & Dracons Rules Cyclopedia
-This talent only functions when the missile is
-fired at an object; it is not usable against crea-
-tures. It automatically hits any one target object
-within range as long as the path of travel is clear.
-It may be used as a missile of disarming, if
-desired, or it can be used to sever a normal rope,
-pierce a sack, push a button, trigger a trap, etc. It
-automatically misses any creature at which it is
-aimed.
+This talent only functions when the missile is fired at an object; it is not usable against creatures. It automatically hits any one target object within range as long as the path of travel is clear. It may be used as a //missile of disarming//, if desired, or it can be used to sever a normal rope, pierce a sack, push a button, trigger a trap, etc. It automatically misses any creature at which it is aimed.
 
- 
-
-96
-of Seeking II
+of Seeking II
 **XP Value:** 100 **GP Value:** 500
 The Complete Book of Elves
-This is a more powerful version of an arrow
-imbued with a seeking spell. Not only does it
-round corners in pursuit of its prey, it also gains a
-bonus of +2 damage. These arrows are usually
-found in groups of 1d10, although sometimes as
-many as 2d8 can be found.
+This is a more powerful version of an arrow imbued with a //seeking// spell. Not only does it round corners in pursuit of its prey, it also gains a bonus of +2 damage. These arrows are usually found in groups of 1d10, although sometimes as many as 2d8 can be found.
 
 of Set
 **XP Value:** 250 **GP Value:** 1,500
-
 DRAGON Magazine 135
-At first glance, this appears to be an ordinary
-arrow. Closer examination reveals the arrowhead
-to be made of bone and carved to resemble the
-head of a serpent. An arrow of Set is +1 to attack
-and damage. Anyone hit by one of these arrows
-must save vs. poison at -1 or die within 1d4
-rounds. A character whose saving throw is suc-
-cessful takes 2d6 hit points damage from the
-venom in addition to the damage taken when hit.
-The arrow disintegrates on impact.
-
-Making an arrow of Set requires bone from a
-poisonous snake (for the arrowhead) plus the
-snake’s venom (the arrowhead is steeped in it). A
-priest must cast poison on the arrowhead during
-the enchantment. Only one is found at a time.
+At first glance, this appears to be an ordinary arrow. Closer examination reveals the arrowhead to be made of bone and carved to resemble the head of a serpent. An //arrow of Set// is +1 to attack and damage. Anyone hit by one of these arrows must save vs. poison at -1 or die within 1d4 rounds. A character whose saving throw is successful takes 2d6 hit points damage from the venom in addition to the damage taken when hit. The arrow disintegrates on impact.\\
+<wrap indent>Making an //arrow of Set// requires bone from a poisonous snake (for the arrowhead) plus the snake’s venom (the arrowhead is steeped in it). A priest must cast //poison// on the arrowhead during the enchantment. Only one is found at a time.</wrap>
 
 of Signaling
 **XP Value:** 20 **GP Value:** 120
 DRAGON Magazine 135
-This magical arrow has a brightly colored shaft,
-usually red, orange, or yellow in color, It sports a
-crystalline point. If used as a weapon, it does nor-
-mal damage. However, if fired directly into the
-air, at least 100 yards over the head of the bow-
-man, it leaves a trail of glittering sparks behind it
-from the 100-yard height up to a height of 500
-yards, regardless of the type of bow from which it
-was fired. When the arrow is 500 yards above the
-archer, the arrowhead explodes in a sphere of
-light 100 yards across—of the same color as the
-arrow’s shaft. The ball of light is visible for many
-miles and lasts for 2d4 melee rounds before fad-
-ing. The arrow disintegrates upon bursting.
+This magical arrow has a brightly colored shaft, usually red, orange, or yellow in color, It sports a crystalline point. If used as a weapon, it does normal damage. However, if fired directly into the air, at least 100 yards over the head of the bowman, it leaves a trail of glittering sparks behind it from the 100-yard height up to a height of 500 yards, regardless of the type of bow from which it was fired. When the arrow is 500 yards above the archer, the arrowhead explodes in a sphere of light 100 yards across—of the same color as the arrow’s shaft. The ball of light is visible for many miles and lasts for 2d4 melee rounds before fading. The arrow disintegrates upon bursting.
 
 of Silence
 **XP Value:** 20 **GP Value:** 120
