@@ -1091,7 +1091,7 @@ Black dragons are abusive, quick to anger, and resent intrusions of any kind. Th
 
 <fc #4169e1>**Combat:**</fc> Black dragons prefer to ambush their targets, using their surroundings as cover. Their favorite targets are men, who they will sometimes stalk for several minutes in an attempt to gauge their strength and wealth before attacking. Against a band of men or a formidable creature, older black dragons will use their special abilities first so the very forces of the marsh can weaken the targets before the dragon joins the fight. Black dragons also will use their breath weapon before closing in melee. When fighting in heavily vegetated swamps and marshes, black dragons attempt to stay in the water or along the ground; the numerous trees and leafy canopies limit their flying maneuverability. When faced with an opponent which poses too much of a threat, a black dragon will attempt to fly out of sight, so it will not leave tracks, and hide in a deep pond or bog.\\
 
-<fc #4169e1>**Breath weapon/special abilities:**</fc> A black dragon's breath weapon is a 5’ wide stream of acid that extends 60' in a straight line from the dragon's head. All creatures caught in this stream must save vs. breath weapon for half damage. A black dragon casts spells and uses its magical abilities at Sth level, plus its combat modifier.\\
+<fc #4169e1>**<fc #4169e1>**Breath weapon/special abilities:**</fc>**</fc> A black dragon's breath weapon is a 5’ wide stream of acid that extends 60' in a straight line from the dragon's head. All creatures caught in this stream must save vs. breath weapon for half damage. A black dragon casts spells and uses its magical abilities at Sth level, plus its combat modifier.\\
 <wrap indent>Black dragons are born with an innate water breathing ability and an immunity to acid. As they age, they gain the following additional powers: Juvenile: darkness three times a day in a 10’ radius per age category of the dragon. Adult: corrupt water once a day. For every age category a dragon attains, it can stagnate 10 cubic feet of water, making it become still, foul, inert, and unable to support animal life. When this ability is used against potions and elixirs, they become useless if they roll a 15 or better on 1d20. Old: plant growth once a day. Venerable: summon insects once a day. Great wyrm: charm reptiles three times a day. This operates as a charm mammals spell, but is applicable only to reptiles.</wrap>
 
 <fc #4169e1>**Habitat/Society:**</fc> Black dragons are found in swamps, marshes, rain forests, and jungles. They revel in a steamy environment where canopies of trees filter out most of the sunlight, swarms of insects fill the air, and stagnant moss-covered ponds lie in abundance. Black dragons are excellent swimmers and enjoy lurking in the gloomy depths of swamps and bogs. They also are graceful in flight, however, they prefer to fly at night when their great forms are hidden by the darkness of the sky. Black dragons are extremely selfish, and the majority of those encountered will be alone. When a family of black dragons is encountered, the adults will protect their young. However, if it appears the adults’ lives are in jeopardy they will abandon their young to save themselves.\\
@@ -1146,7 +1146,7 @@ Blue dragons are extremely territorial and voracious. They love to spend long ho
 
 <fc #4169e1>**Combat:**</fc> Blue dragons prefer to fight from a distance so their opponents can clearly witness the full force of their breath weapon and so little or no threat is posed to themselves. Often blue dragons will attack from directly above or will burrow beneath the sands until opponents come within 100 feet. Older blue dragons will use their special abilities, such as hallucinafory terrain, in concert with these tactics to mask the land and aid in their chances to surprise. Blue dragons will only run from a fight if they are severely damaged, as they also view retreat as cowardly.
 
-<fc #4169e1>**Breath weapon/special abilities:**</fc> 4 bJue dragon's breath weapon is a 5’ wide bolt of lightning that streaks 100’ in a straight line from the dragon's mouth. All creatures caught in this stream must save vs. breath weapon for half damage. Blue dragons cast spells and use their magical abilities at 7th level, adjusted by their combat modifier.\\
+<fc #4169e1>**<fc #4169e1>**Breath weapon/special abilities:**</fc>**</fc> 4 bJue dragon's breath weapon is a 5’ wide bolt of lightning that streaks 100’ in a straight line from the dragon's mouth. All creatures caught in this stream must save vs. breath weapon for half damage. Blue dragons cast spells and use their magical abilities at 7th level, adjusted by their combat modifier.\\
 <wrap indent>Blue dragons are born with an immunity to electricity. As they age, they gain the following additional powers: Young: create or destroy water three times per day. Juvenile: sound imitation at will. Adult: dust devil once a day. Old: ventriloquism once a day. Venerable: control winds once a day. Great wyrm: hallucinatory terrain once a day.</wrap>
 
 <fc #4169e1>**Habitat/Society:**</fc> Blue dragons are found in deserts; arid, windswept plains; and hot, humid badlands. They enjoy the bleak terrain because there are few obstacles—only an occasional rock outcropping or dune—to interrupt the view of their territories. They spend hours looking out over their domains, watching for trespassers and admiring their property. Most of the blue dragons encountered will be alone because they do not want to share their territories with others. However, when a family is encountered the male dragon will attack ferociously, protecting his property—his mate and young. The female dragon also will join in the attack if the threat proves significant.\\
@@ -1200,7 +1200,7 @@ Brass dragons are great talkers, but not particularly good conversationalists. T
 
 <fc #4169e1>**Combat:**</fc> Brass dragons would rather talk than fight. If an intelligent creature tries to take its leave of a brass dragon without talking to it at length, the dragon might have a fit of pique and try to force a conversation with //suggestion// or by giving the victim a dose of //sleep// gas. If the victim falls asleep it will awaken to find itself pinned under the dragon or buried to the neck in the sand until the dragon's thirst for small talk is slaked. Before melee, brass dragons create a cloud of dust with //dust devil// or //control winds//, then charge or snatch. Brass dragons often use //control temperature// to create heat to discomfort their opponents. When faced with real danger, younger brass dragons will fly out of sight, then hide by burrowing. Older dragons spurn this ploy.
 
-<fc #4169e1>**Breath weapon/special abilities:**</fc> A brass dragon has two breath weapons: a cone of sleep gas 70' long, 5’ wide at the dragon's mouth, and 20' wide at its end; or a cloud of blistering desert heat 50' long, 40’ wide, and 20’ high. Creatures caught in the gas, regardless of Hit Dice or level, must save vs. breath weapon or fall asleep for 10 minutes per age level of the dragon. Creatures caught in the heat take damage, save vs. breath weapon for half. A brass dragon casts its spells and uses its magical abilities at 6th level, plus its combat modifier.\\
+<fc #4169e1>**<fc #4169e1>**Breath weapon/special abilities:**</fc>**</fc> A brass dragon has two breath weapons: a cone of sleep gas 70' long, 5’ wide at the dragon's mouth, and 20' wide at its end; or a cloud of blistering desert heat 50' long, 40’ wide, and 20’ high. Creatures caught in the gas, regardless of Hit Dice or level, must save vs. breath weapon or fall asleep for 10 minutes per age level of the dragon. Creatures caught in the heat take damage, save vs. breath weapon for half. A brass dragon casts its spells and uses its magical abilities at 6th level, plus its combat modifier.\\
 <wrap indent>At birth, brass dragons can //speak with animals// freely, and are immune to fire and heat. As they age, they gain the following additional powers: //Young: create or destroy water// three times a day. //Juvenile: dust devil// once a day. //Adult: suggestion// once a day. //Mature adult: control temperature// 3 times a day in a 10’ radius per age level. //Old: control winds// once a day. //Great wyrm: Summon djinni// once a week. The dragon usually asks the djinni to preform some service. Although the djinni serves willingly, the dragon will order it into combat only in extreme circumstances, as the dragon would be dismayed and embarrassed if the djinni were killed.</wrap>
 
 <fc #4169e1>**Habitat/Society:**</fc> Brass dragons are found in arid, warm climates; ranging from sandy deserts to dry steppes. They love intense, dry heat and spend most of their time basking in the sun. They lair in high caves, preferably facing east where the sun can warm the rocks, and their territories always contain several spots where they can bask and trap unwary travelers into conversation.\\
@@ -1212,220 +1212,262 @@ Brass dragons are great talkers, but not particularly good conversationalists. T
 ----
 Dragon, Bronze
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: | `Tropical, sub-tropical, and temperate subterranean, lake shore, and sea shore |
+^ FREQUENCY: | Very rare |
+^ ORGANIZATION: | Solitary or clan |
+^ ACTIVITY CYCLE: | Any |
+^ DIET: | Special |
+^ INTELLIGENCE: | Exceptional (15-16) |
+^ TREASURE: | Special |
+^ ALIGNMENT: | Lawful good |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: | 1 (2-5) |
+^ ARMOR CLASS: | -2 (base) |
+^ MOVEMENT: | 9, Fl 30 (C), Sw 12 |
+^ HIT DICE: | 14 (base) |
+^ THAC0: | 8 (base) |
+^ NO. ATTACKS: | 3 + special |
+^ DAMAGE/ATTACK: | 1-8/1-8/4-24
+^ SPECIAL ATTACK: | Special
+^ SPECIAL DEFENSES: | Variable
+^ MAGIC RESISTANCE: | Variable
+^ SIZE: | G (42' base) |
+^ MORALE: | Fanatic (17 base) |
+^ XP VALUE: | Variable
 
+^ Age ^ Body Lgt. (') ^ Tail Lgt. (') ^ AC ^ Breath Weapon ^ Spells Wizard/Priest ^ MR ^ Treas. Type ^ XP Value |
+| 1 | 5-14 | 3-10 | 1 | 2d8+1 | Nil/Nil | Nil | Nil | 1400 |
+| 2 | 14-23 | 10-19 | 0 | 4d8+2 | Nil/Nil | Nil | Nil | 3000 |
+| 3 | 23-32 | 19-28 | -1 | 6d8+3 | Nil/Nil | Nil | Nil | 5000 |
+| 4 | 32-42 | 28-37 | -2 | 8d8+4 | 1 | Nil | E, S, T | 7000 |
+| 5 | 42-52 | 37-44 | -3 | 10d8+5 | 1 1 | 20% | H, S, T | 9000 |
+| 6 | 52-63 | 44-52 | -4 | 12d8+6 | 2 1 | 25% | H, S, T | 10000 |
+| 7 | 63-74 | 52-60 | -5 | 14d8+7 | 2 2 | 30% | H, S, T | 11000 |
+| 8 | 74-85 | 60-70 | -6 | 16d8+8 | 2 2 1/1 | 35% | H, S, Tx2 | 15000 |
+| 9 | 85-96 | 70-80 | -7 | 18d8+9 | 2 2 2/1 1 | 40% | H, S, Tx2 | 17000 |
+| 10 | 96-108 | 80-90 | -8 | 20d8+10 | 2 2 2 1/2 1 | 45% | H, S, Tx2 | 18000 |
+| 11 | 108-120 | 90-100 | -9 | 22d8+11 | 2 2 2 2/2 2 | 50% | H, S, Tx3 | 19000 |
+| 12 | 120-134 | 100-110 | -10 | 24d8+12 | 2 2 2 2 1/2 2 1 | 55% | H, S, Tx3 | 20000 |
 
+Bronze dragons are inquisitive and fond of humans and demi-humans. They enjoy //polymorphing// into small, friendly animals so they can unobtrusively observe humans and demi-humans, especially adventurers. Bronze dragons thrive on simple challenges such as riddles and harmless contests. They are fascinated by warfare and will eagerly join an army if the cause is just and the pay is good.\\
+<wrap indent>At birth, a bronze dragon's scales are yellow tinged with green, showing only a hint of bronze. As the dragon approaches adulthood, its color deepens slowly changing to a rich bronze tone that gets darker as the dragon ages. Dragons from the very old stage and on develop a blue-black tint to the edges of their scales, similar to a patina on ancient bronze armor or statues.</wrap>\\
+<wrap indent>Bronze dragons speak their own tongue, a tongue common to all good dragons, and 16% of hatchling bronze dragons have an ability to communicate with any intelligent creature, The chance to possess this ability increases 5% per age category of the dragon.</wrap>
 
-Bronze dragons are inquisitive and fond of humans and demi-humans. They enjoy polymorphing into small, friendly animals so they can unobtrusively observe humans and demi-humans, especially adventurers. Bronze dragons thrive on simple challenges such as riddles and harmless contests. They are fascinated by warfare and will eagerly join an army if the cause is just and the pay is good.
+<fc #4169e1>**Combat:**</fc> Bronze dragons dislike killing creatures with animal intelligence and would rather bribe them (perhaps with food), or force them away with //repulsion//. When confronted with intelligent opponents bronze dragons use their //ESP// ability to learn their opponents’ intentions. When attacking they blind their opponents with //wall of fog//, then charge. Or, if they are flying, they will snatch opponents. When fighting under water, they use //airy water// to maintain the effectiveness of their breath weapons, and to keep away purely aquatic opponents. Against boats or ships they //summon// a storm or use their tail slap to smash the vessels’ hulls. If the dragon is inclined to be lenient, seafaring opponents might merely find themselves becalmed, fog bound, or with broken masts.
 
-At birth, a bronze dragon's scales are yellow tinged with green, showing only a hint of bronze. As the dragon approaches adulthood, its color deepens slowly changing to a rich bronze tone that gets darker as the dragon ages. Dragons from the very old stage and on develop a blue-black tint to the edges of their scales, similar to a patina on ancient bronze armor or statues.
+<fc #4169e1>>**<fc #4169e1>**Breath weapon/special abilities:**</fc>**</fc> A bronze dragon has two breath weapons: a stroke of //lightning// 100’ long and 5' wide or a cloud of //repulsion// gas 20’ long, 30' wide, and 30’ high. Creatures caught in the gas must save vs. breath weapon or move away from the dragon for two minutes per age level of the dragon, plus 1-6 minutes. Creatures caught in the lightning take damage, save vs. breath weapon for half. A bronze dragon casts its spells and uses its magical abilities at 8th level, plus its combat modifier.\\
+<wrap indent>At birth, bronze dragons have a //water breathing// ability, can //speak with animals// at will, and are immune to electricity. As they age, they gain the following additional powers: //Young: create food and water// and //polymorph self// three times a day. (Each change in form lasts until the dragon chooses a different form. Reverting to the dragon's normal form does not count as a change.) //Juvenile: wall of fog// once a day. //Adult: ESP// three times a day. //Mature adult: airy water// three times a day in a 10' radius per age category of the dragon. //Old: weather summoning// once a day.
 
-Bronze dragons speak their own tongue, a tongue common to all good dragons, and 16% of hatchling bronze dragons have an ability to communicate with any intelligent creature, The chance to possess this ability increases 5% per age category of the dragon.
-
-<fc #4169e1>**Combat:**</fc> Bronze dragons dislike killing creatures with animal intelligence and would rather bribe them (perhaps with food), or force them away with repulsion. When confronted with intelligent opponents bronze dragons use their ESP ability to learn their opponents’ intentions. When attacking they blind their opponents with wall of fog, then charge. Or, if they are flying, they will snatch opponents. When fighting under water, they use airy water to maintain the effectiveness of their breath weapons, and to keep away purely aquatic opponents. Against boats or ships they summon a storm or use their tail slap to smash the vessels’ hulls. If the dragon is inclined to be lenient, seafaring opponents might merely find themselves becalmed, fog bound, or with broken masts.
-
-Breath weapon/special abilities; A bronze dragon has two breath weapons: a stroke of lightning 100’ long and 5' wide or a cloud of repulsion gas 20’ long, 30' wide, and 30’ high. Creatures caught in the gas must save vs. breath weapon or move away from the dragon for two minutes per age level of the dragon, plus 1-6 minutes. Creatures caught in the lightning take damage, save vs. breath weapon for half. A bronze dragon casts its spells and uses its magical abilities at 8th level, plus its combat modifier. At birth, bronze dragons have a water breathing ability, can speak with animals at will, and are immune to electricity. As they age, they gain the following additional powers: Young: create food and water and polymorph self three times a day. (Each change in form lasts until the dragon chooses a different form. Reverting to the dragon's normal form does not count as a change.) Juvenile: wall of fog once a day. Adult: ESP three times a day. Mature adult: airy water three times a day in a 10' radius per age category of the dragon, Old: weather summoning once a day,
-
-<fc #4169e1>**Habitat/Society:**</fc> Bronze dragons like to be near deep fresh or salt water. They are good swimmers and often visit the depths to cool off or to hunt for pearls or treasure from sunken ships. They prefer caves that are accessible only from the water, but their lairs are always dry—they do not lay eggs, sleep, or store treasure under water.
-
-Bronze dragons are fond of sea mammals, especially dolphins and whales. These animals provide the dragons with a wealth of information on shipwrecks, which the dragons love to plunder, and detail the haunts of large sharks. Bronze dragons detest pirates, disabling or destroying their ships.
+<fc #4169e1>**Habitat/Society:**</fc> Bronze dragons like to be near deep fresh or salt water. They are good swimmers and often visit the depths to cool off or to hunt for pearls or treasure from sunken ships. They prefer caves that are accessible only from the water, but their lairs are always dry—they do not lay eggs, sleep, or store treasure under water.<\\
+<wrap indent>Bronze dragons are fond of sea mammals, especially dolphins and whales. These animals provide the dragons with a wealth of information on shipwrecks, which the dragons love to plunder, and detail the haunts of large sharks. Bronze dragons detest pirates, disabling or destroying their ships.</wrap>
 
 <fc #4169e1>**Ecology:**</fc> Bronze dragons eat aquatic plants and some varieties of seafood. They especially prize of shark meat. They also dine on an occasional pearl, and, like other dragons, can eat almost anything in a pinch. Evil, amphibious sea creatures (particularly sahuagin), who can invade their air filled lairs, are their greatest enemies.
 
- 
+----
 Dragon, Copper
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: | Arid and temperate hills and mountains |
+^ FREQUENCY: | Rare |
+^ ORGANIZATION: | Solitary or clan |
+^ ACTIVITY CYCLE: | Any |
+^ DIET: | Special |
+^ INTELLIGENCE: | High (13-14) |
+^ TREASURE: | Special |
+^ ALIGNMENT: | Chaotic good |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: | 1 (2-5) |
+^ ARMOR CLASS: | 1 (base) |
+^ MOVEMENT: | 9, Fl 30 (C), Jp 3 |
+^ HIT DICE: | 13 (base) |
+^ THAC0: | 13 (base) |
+^ NO. ATTACKS: | 3 + special |
+^ DAMAGE/ATTACK: | 1-6/1-6/5-20 |
+^ SPECIAL ATTACK: | Special |
+^ SPECIAL DEFENSES: | Variable |
+^ MAGIC RESISTANCE: | Variable |
+^ SIZE: | G (36' base) |
+^ MORALE: | Elite (16 base) |
+^ XP VALUE: | Variable |
 
+^ Age ^ Body Lgt. (') ^ Tail Lgt. (') ^ AC ^ Breath Weapon ^ Spells Wizard/Priest ^ MR ^ Treas. Type ^ XP Value |
+| 1 | 3-8 | 2-6 | 2 | 2d6+1 | Nil | Nil | Nil | 1400 |
+| 2 | 8-16 | 6-12 | 1 | 4d6+2 | Nil | Nil | Nil | 2000 |
+| 3 | 16-27 | 12-20 | 0 | 6d6+3 | Nil | Nil | Nil | 4000 |
+| 4 | 27-38 | 20-30 | -1 | 8d6+4 | 1 | Nil | 1/2HS | 6000 |
+| 5 | 38-50 | 30-40 | -2 | 10d6+5 | 2 | 10% | HS | 9000 |
+| 6 | 50-59 | 40-50 | -3 | 12d6+6 | 3 | 15% | HS | 10000 |
+| 7 | 59-73 | 50-60 | -4 | 14d6+7 | 3 1 | 20% | HS | 11000 |
+| 8 | 73-86 | 60-70 | -5 | 16d6+8 | 3 2/1 | 25% | HSx2 | 12000 |
+| 9 | 86-100 | 70-80 | -6 | 18d6+9 | 3 3/2 | 30% | HSx2 | 14000 |
+| 10 | 100-114 | 80-90 | -7 | 20d6+10 | 3 3 1/3 | 35% | HSx2 | 16000 |
+| 11 | 114-130 | 90-100 | -8 | 22d6+11 | 3 3 2/3 2 | 40% | HSx3 | 17000 |
+| 12 | 130-147 | 100-110 | -9 | 24d6+12 | 3 3 2 1/3 3 | 45% | HSx3 | 18000 |
 
+Copper dragons are incorrigible pranksters, joke tellers, and riddlers. They are prideful and are not good losers, although they are reasonably good winners. They are particularly selfish and greedy for their alignment, and have an almost neutral outlook where wealth is concerned.\\
+<wrap indent>At birth, a copper dragon's scales have a ruddy brown color with a copper tint. As the dragon gets older, the scales become finer and more coppery, assuming a soft, warm gloss by the time the dragon becomes a //young adult//. Beginning at the //venerable// stage, the dragons’ scales pick up a green tint.</wrap>\\
+<wrap indent>Copper dragons speak their own tongue, a tongue common to all good dragons, and 14% of hatchling copper dragons have an ability to communicate with any intelligent creature. The chance to possess this ability increases 5% per age category of the dragon.</wrap>
 
-Copper dragons are incorrigible pranksters, joke tellers, and riddlers. They are prideful and are not good losers, although they are reasonably good winners. They are particularly selfish and greedy for their alignment, and have an almost neutral outlook where wealth is concerned.
+<fc #4169e1>**Combat:**</fc> Copper dragons like to taunt and annoy their opponents, hop- ing they will give up or become angry and act foolishly. Early in an encounter, a copper dragon will jump from one side of an opponent to an- other, landing on inaccessible or vertical stone surfaces. If there are no such places around a dragon's lair, the dragon will create them ahead of time using //stone shape//, //move earth//, and //wall of stone//. An angry copper dragon will mire its opponents using //rock to mud//, and will force victims who escape the mud into it with kicks. Once opponents are trapped in the mud, the dragon will crush them with a //wall of stone// or snatch them and carry them aloft. When fighting airborne opponents, a dragon will draw its enemies into narrow, stony gorges where it can use its //spider climb// ability in an attempt to maneuver the enemy into colliding with the walls.
 
-At birth, a copper dragon's scales have a ruddy brown color with a copper tint. As the dragon gets older, the scales become finer and more coppery, assuming a soft, warm gloss by the time the dragon becomes a young adult. Beginning at the venerable stage, the dragons’ scales pick up a green tint.
+<fc #4169e1>**<fc #4169e1>**Breath weapon/special abilities:**</fc>**</fc> A copper dragon's breath weapon is either a cloud of slow gas 30’ long, 20' wide, and 20’ high or a spurt of acid 70' long and 5’ wide. Creatures caught in the gas must save vs. breath weapon or be //slowed// for three minutes per age level of the dragon. Creatures caught in the acid take damage, save vs. breath weapon for half, A copper dragon casts its spells and uses its magical abilities at 7th level, plus its combat modifier.\\
+<wrap indent>At birth, copper dragons can //spider climb// (stone surfaces only) and are immune to acid. As they age, they gain the following additional powers: //Young: neutralize poison// three times a day. //Juvenile: stone shape// twice a day. //Adult: forget// once a day. //Mature adult: rock to mud// once a day. Old: move earth once a day. //Great wyrm: wall of stone// once a day. A copper dragon can jump 30 yards forward or sideways, reaching heights up to 20’ at mid jump. They can jump 30’ straight up.</wrap>
 
-Copper dragons speak their own tongue, a tongue common to all good dragons, and 14% of hatchling copper dragons have an ability to communicate with any intelligent creature. The chance to possess this ability increases 5% per age category of the dragon.
-
-<fc #4169e1>**Combat:**</fc> Copper dragons like to taunt and annoy their opponents, hop- ing they will give up or become angry and act foolishly. Early in an encounter, a copper dragon will jump from one side of an opponent to an- other, landing on inaccessible or vertical stone surfaces. If there are no such places around a dragon's lair, the dragon will create them ahead of time using stone shape, move earth, and wall of stone. An angry copper dragon will mire its opponents using rock to mud, and will force victims who escape the mud into it with kicks. Once opponents are trapped in the mud, the dragon will crush them with a wall of stone or snatch them and carry them aloft. When fighting airborne opponents, a dragon will draw its enemies into narrow, stony gorges where it can use its spider climb ability in an attempt to maneuver the enemy into colliding with the walls.
-
-Breath weapon/special abilities: A copper dragon's breath weapon is either a cloud of slow gas 30’ long, 20' wide, and 20’ high or a spurt of acid 70' long and 5’ wide. Creatures caught in the gas must save vs. breath weapon or be slowed for three minutes per age level of the dragon. Creatures caught in the acid take damage, save vs. breath weapon for half, A copper dragon casts its spells and uses its magical abilities at 7th level, plus its combat modifier.
-
-At birth, copper dragons can spider climb (stone surfaces only) and are immune to acid. As they age, they gain the following additional powers: Young: neutralize poison three times a day. Juvenile: stone shape twice a day. Adult: forget once a day. Mature adult: rock to mud once a day. Old: move earth once a day. Great wyrm: wall of stone once a day. A copper dragon can jump 30 yards forward or sideways, reaching heights up to 20’ at mid jump. They can jump 30’ straight up.
-
-<fc #4169e1>**Habitat/Society:**</fc> Copper dragons like dry, rocky uplands and mountains. They lair in marrow caves and often conceal the entrances using move earth and stone shape. Within the lair, they construct twisting mazes with open tops. These allow the dragons to fly or jump over intruders struggling through the maze.
-
-Copper dragons appreciate wit, and will usually leave good or neutral creatures alone if they can relate a joke, humorous story, or riddle the dragon has not heard before. They quickly get annoyed with creatures who don't laugh at their jokes or do not accept the dragon's tricks and antics with good humor.
-
-Because they often inhabit hills in sight of red dragons’ lairs conflicts between the two subspecies often occur. Copper dragons usually run for cover until they can equal the odds.
+<fc #4169e1>**Habitat/Society:**</fc> Copper dragons like dry, rocky uplands and mountains. They lair in marrow caves and often conceal the entrances using //move earth// and //stone shape//. Within the lair, they construct twisting mazes with open tops. These allow the dragons to fly or jump over intruders struggling through the maze.\\
+<wrap indent>Copper dragons appreciate wit, and will usually leave good or neutral creatures alone if they can relate a joke, humorous story, or riddle the dragon has not heard before. They quickly get annoyed with creatures who don't laugh at their jokes or do not accept the dragon's tricks and antics with good humor.</wrap>\\
+<wrap indent>Because they often inhabit hills in sight of red dragons’ lairs conflicts between the two subspecies often occur. Copper dragons usually run for cover until they can equal the odds.</wrap>
 
 <fc #4169e1>**Ecology:**</fc> Copper dragons are determined hunters, the good sport a hunt provides is at least as important as they food they get. They are known to eat almost anything, including metal ores. However, they prize giant scorpions and other large poisonous creatures (they say the venom sharpens their wit). The dragon's digestive system can handle the venom safely, although injected venoms affect them normally.
 
- 
+---- 
 Dragon, Gold
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: | Any |
+^ FREQUENCY: | Very rare |
+^ ORGANIZATION: | Solitary or clan |
+^ ACTIVITY CYCLE: | Any |
+^ DIET: | Special |
+^ INTELLIGENCE: | Genius (17-18) |
+^ TREASURE: | Special |
+^ ALIGNMENT: | Lawful good |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: | 1 (2-5) |
+^ ARMOR CLASS: | -4 (base) |
+^ MOVEMENT: | 12, Fl 40 (C), Jp 3, Sw 12 (15) |
+^ HIT DICE: | 16 (base) |
+^ THAC0: | 16 (base) |
+^ NO. ATTACKS: | 3 + special |
+^ DAMAGE/ATTACK: | 1-10/1-10/6-36 (6d6) |
+^ SPECIAL ATTACK: | Special |
+^ SPECIAL DEFENSES: | Variable |
+^ MAGIC RESISTANCE: | Variable |
+^ SIZE: | G (54' base) |
+^ MORALE: | Fanatic (17-18) |
+^ XP VALUE: | Variable |
 
+^ Age ^ Body Lgt. (') ^ Tail Lgt. (') ^ AC ^ Breath Weapon ^ Spells Wizard/Priest ^ MR ^ Treas. Type ^ XP Value |
+| 1 | 7-19 | 6-16 | -1 | 2d12+1 | Nil | Nil | Nil | 3000 |
+| 2 | 19-31 | 16-28 | -2 | 4d12+2 | Nil | Nil | Nil | 4000 |
+| 3 | 31-43 | 28-38 | -3 | 6d12+3 | Nil | Nil | Nil | 6000 |
+| 4 | 43-55 | 38-50 | -4 | 8d12+4 | 1 | Nil | E, R, T | 8000 |
+| 5 | 55-67 | 50-60 | -5 | 10d12+5 | 2 | 35% | H, R, T | 10000 |
+| 6 | 67-80 | 60-70 | -6 | 12d12+6 | 2 2 | 40% | H, R, T | 13000 |
+| 7 | 80-93 | 70-84 | -7 | 14d12+7 | 2 2 2 | 45% | H, R, T | 14000 |
+| 8 | 93-106 | 84-95 | -8 | 16d12+8 | 2 2 2 2/1 | 50% | H, R, Tx2 | 15000 |
+| 9 | 106-120 | 95-108 | -9 | 18d12+9 | 2 2 2 2 2/2 | 55% | H, R, Tx2 | 17000 |
+| 10 | 120-134 | 108-120 | -10 | 20d12+10 | 2 2 2 2 2 2/2 2 | 60% | H, R, Tx2 | 18000 |
+| 11 | 134-148 | 120-133 | -11 | 22d12+11 | 2 2 2 2 2 2 2/2 2 2 | 65% | H, R, Tx3 | 19000 |
+| 12 | 148-162 | 133-146 | -12 | 24d12+12 | 2 2 2 2 2 2 2 1/2 2 2 2 | 70% | H, R, Tx3 | 20000 |
 
+Gold dragons are wise, judicious, and benevolent. They often embark on selfappointed quests to promote goodness, and are not easily distracted from them. They hate injustice and foul play. A gold dragon frequently assumes human or animal guise and usually will be encountered disguised.\\
+<wrap indent>At birth, a gold dragon's scales are dark yellow with golden metallic flecks. The flecks get larger as the dragon matures until, at the //adult// stage, the scales grow completely golden.</wrap>\\
+<wrap indent>Gold dragons speak their own tongue, a tongue common to all good dragons, and 18% of hatchling gold dragons have an ability to communicate with any intelligent creature. The chance to possess this ability increases 5% per age category of the dragon.</wrap>
 
-Gold dragons are wise, judicious, and benevolent. They often embark on selfappointed quests to promote goodness, and are not easily distracted from them. They hate injustice and foul play. A gold dragon frequently assumes human or animal guise and usually will be encountered disguised.
+<fc #4169e1>**Combat:**</fc> Gold dragons usually parley before combat. When conversing with intelligent creatures they use //detect lie// and //detect gems// spells to gain the upper hand. In combat, they quickly use //bless// and //luck bonus//. Older dragons use //luck bonus// at the start of each day if the duration is a day or more. They make heavy use of spells in combat. Among their favorites are //sleep//, //stinking cloud//, //slow//, //fire shield//, //cloudkill//, //globe of invulnerability//, //delayed blast fireball//, and //maze//.
 
-At birth, a gold dragon's scales are dark yellow with golden metallic flecks. The flecks get larger as the dragon matures until, at the adult stage, the scales grow completely golden.
-
-Gold dragons speak their own tongue, a tongue common to all good dragons, and 18% of hatchling gold dragons have an ability to communicate with any intelligent creature. The chance to possess this ability increases 5% per age category of the dragon.
-
-<fc #4169e1>**Combat:**</fc> Gold dragons usually parley before combat. When conversing with intelligent creatures they use detect lie and detect gems spells to gain the upper hand. In combat, they quickly use bless and luck bonus. Older dragons use luck bonus at the start of each day if the duration is a day or more. They make heavy use of spells in combat. Among their favorites are sleep, stinking cloud, slow, fire shield, cloudkill, globe of invulnerability, delayed blast fireball, and maze.
-
-Breath weapon/special abilities: A gold dragon has two breath weapons: a cone of fire 90’ long, 5’ wide at the dragon's mouth, and 30’ wide at the end or a cloud of potent chlorine gas 50’ long, 40’ wide, and 30' high. Creatures caught in either effect are entitled to a save versus breath weapon for half damage.
-
-A gold dragon casts its spells and uses its magical abilities at 11th level, plus its combat modifier. Unlike other dragons, most gold dragons seek formal magical training. These dragons own spell books and always have useful spells.
-
-At birth, gold dragons have water breathing ability, can speak with animals freely, and are immune to fire and gas. They can also polymorph self three times a day. Each change in form lasts until the dragon chooses a different form; reverting to the dragon's normal form does not count as a change. A gold dragon’s natural form has wings. However, they sometimes choose a wingless form to facilitate swimming, gaining the higher swimming rate listed above. A gold dragon in any wingless form can fly at a speed of 6 (MC E).
-
-As they age, they gain the following additional powers: Young: bless three times a day. Juvenile: detect lie three times a day, Adult: animal summoning once a day. Mature adult: luck bonus once a day. Old: quest once a day, and detect gems three times a day. (This allows the dragon to know the number and kind of precious stones within a 30’ radius, duration is one minute.
-
-The luck bonus power of mature adults is used to aid good adventurers. By touch, the dragon can enchant one gem to bring good luck. The gem is usually one which has been embedded in the dragon's hide. When the dragon carries the gem, it and every good creature in a 10' radius per age category of the dragon receives a +1 bonus to all Saving Throws and similar dice rolls, cf. stone of good luck. If the dragon gives a gem to another creature only the bearer gets the bonus. The enchantment lasts three hours per age category of the dragon, plus 1-3 hours. The enchantment ends if the gem is destroyed before its duration expires.
+<fc #4169e1>**<fc #4169e1>**Breath weapon/special abilities:**</fc>**</fc> A gold dragon has two breath weapons: a cone of fire 90’ long, 5’ wide at the dragon's mouth, and 30’ wide at the end or a cloud of potent chlorine gas 50’ long, 40’ wide, and 30' high. Creatures caught in either effect are entitled to a save versus breath weapon for half damage.\\
+<wrap indent>A gold dragon casts its spells and uses its magical abilities at 11th level, plus its combat modifier. Unlike other dragons, most gold dragons seek formal magical training. These dragons own spell books and always have useful spells.</wrap>\\
+<wrap indent>At birth, gold dragons have //water breathing// ability, can //speak with animals// freely, and are immune to //fire// and //gas//. They can also //polymorph self// three times a day. Each change in form lasts until the dragon chooses a different form; reverting to the dragon's normal form does not count as a change. A gold dragon’s natural form has wings. However, they sometimes choose a wingless form to facilitate swimming, gaining the higher swimming rate listed above. A gold dragon in any wingless form can fly at a speed of 6 (MC E).</wrap>\\
+<wrap indent>As they age, they gain the following additional powers: //Young: bless// three times a day. //Juvenile: detect lie// three times a day, //Adult: animal summoning// once a day. //Mature adult: luck bonus// once a day. //Old: quest// once a day, and //detect gems// three times a day. (This allows the dragon to know the number and kind of precious stones within a 30’ radius, duration is one minute.</wrap>\\
+<wrap indent>The luck bonus power of mature adults is used to aid good adventurers. By touch, the dragon can enchant one gem to bring good luck. The gem is usually one which has been embedded in the dragon's hide. When the dragon carries the gem, it and every good creature in a 10' radius per age category of the dragon receives a +1 bonus to all Saving Throws and similar dice rolls, cf. //stone of good luck//. If the dragon gives a gem to another creature only the bearer gets the bonus. The enchantment lasts three hours per age category of the dragon, plus 1-3 hours. The enchantment ends if the gem is destroyed before its duration expires.</wrap>
 
 <fc #4169e1>**Habitat/Society:**</fc> Gold dragons can live anywhere, Their lairs are secluded and always made of solid stone, either caves or castles. These usually have loyal guards: either animals appropriate to the terrain, or storm or good cloud giants. The giants usually serve as guards through a mutual defensive agreement.
 
 <fc #4169e1>**Ecology:**</fc> Gold dragons can eat almost anything. However, they usually sustain themselves on pearls or small gems. Gold dragons who receive pearls and gems from good or neutral creatures usually will be favorably inclined toward the gift bringers, as long as the gift is not presented as a crass bribe. In the latter case, the dragon will accept the gift, but react cynically to any requests the giver makes.
 
- 
+----
 Dragon, Green
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 7
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: | Sub-tropical and temperate forest and subterranean |
+^ FREQUENCY: | Very rare |
+^ ORGANIZATION: | Solitary or clan |
+^ ACTIVITY CYCLE: | Any |
+^ DIET: | Special |
+^ INTELLIGENCE: | Very (11-12) |
+^ TREASURE: | Special |
+^ ALIGNMENT: | Lawful evil |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: | 1 (2-5) |
+^ ARMOR CLASS: | 0 (base) |
+^ MOVEMENT: | 9, Fl 30 (C), Sw 9 |
+^ HIT DICE: | 13 (base) |
+^ THAC0: | 7 (at 13 HD) |
+^ NO. ATTACKS: | 3 + special |
+^ DAMAGE/ATTACK: | 1-8/1-8/2-20 (2d10) |
+^ SPECIAL ATTACK: | Special |
+^ SPECIAL DEFENSES: | Variable |
+^ MAGIC RESISTANCE: | Variable |
+^ SIZE: | G (36' base) |
+^ MORALE: | Elite (15-16) |
+^ XP VALUE: | Variable |
 
-Green dragons are bad tempered, mean, cruel, and rude. They hate goodness and good-aligned creatures. They love intrigue and seek to enslave other woodland creatures, killing those who cannot be controlled or intimidated.
+^ Age ^ Body Lgt. (') ^ Tail Lgt. (') ^ AC ^ Breath Weapon ^ Spells Wizard/Priest ^ MR ^ Treas. Type ^ XP Value |
+| 1 | 2-7 | 2-5 | 3 | 2d6+1 | Nil | Nil | Nil | 1400 |
+| 2 | 7-16 | 5-15 | 2 | 4d6+2 | Nil | Nil | Nil | 2000 |
+| 3 | 16-35 | 15-31 | 1 | 6d6+3 | Nil | Nil | Nil | 3000 |
+| 4 | 35-44 | 31-40 | 0 | 8d6+4 | 1 | Nil | 1/2H | 6000 |
+| 5 | 44-53 | 40-48 | -1 | 10d6+5 | 2 | 15% | H | 8000 |
+| 6 | 53-62 | 48-56 | -2 | 12d6+6 | 3 | 20% | H | 9000 |
+| 7 | 62-71 | 56-64 | -3 | 14d6+7 | 4 | 25% | H | 10000 |
+| 8 | 71-80 | 64-72 | -4 | 16d6+8 | 4 1 | 30% | Hx2 | 11000 |
+| 9 | 80-86 | 72-80 | -5 | 18d6+9 | 4 2 | 40% | Hx2 | 13000 |
+| 10 | 86-98 | 80-86 | -6 | 20d6+10 | 4 3 | 45% | Hx2 | 14000 |
+| 11 | 98-107 | 86-96 | -7 | 22d6+11 | 4 4 | 50% | Hx3 | 16000 |
+| 12 | 107-116 | 96-104 | -8 | 24d6+12 | 5 4 | 55% | Hx3 | 17000 |
 
-A hatchling green dragon's scales are thin, very small, and a deep shade of green that appears nearly black. As the dragon ages, the scales grow larger and become lighter, turning shades of forest, emerald, and olive green, which helps it blend in with its wooded surroundings. A green dragon's scales never become as thick as other dragons’, remaining smooth and flexible.
+Green dragons are bad tempered, mean, cruel, and rude. They hate goodness and good-aligned creatures. They love intrigue and seek to enslave other woodland creatures, killing those who cannot be controlled or intimidated.\\
+<wrap indent>A hatchling green dragon's scales are thin, very small, and a deep shade of green that appears nearly black. As the dragon ages, the scales grow larger and become lighter, turning shades of forest, emerald, and olive green, which helps it blend in with its wooded surroundings. A green dragon's scales never become as thick as other dragons’, remaining smooth and flexible.</wrap>\\
+<wrap indent>Green dragons speak their own tongue, a tongue common to all evil dragons, and 12% of hatchling green dragons have an ability to communicate with any intelligent creature. The chance to possess this ability increases 5% per age category of the dragon.</wrap>
 
-Green dragons speak their own tongue, a tongue common to all evil dragons, and 12% of hatchling green dragons have an ability to communicate with any intelligent creature. The chance to possess this ability increases 5% per age category of the dragon.
+<fc #4169e1>**Combat:**</fc> Green dragons initiate fights with little or no provocation, picking on creatures of any size. If the target creature intrigues the dragon or appears to be difficult to deal with, the dragon will stalk the creature, using its environment for cover, until it determines the best time to strike and the most appropriate tactics to use. If the target appears formidable, the dragon will first attack with its breath weapon, magical abilities, and spells. However, if the target appears weak, the dragon will make its presence known quickly for it enjoys evoking terror in its targets. When the dragon has tired of this game, it will bring down the creature using its physical attacks so the fight lasts longer and the creature's agony is prolonged.\\
+<wrap indent>Sometimes, the dragon elects to control a creature, such as a human or demi-human, through intimidation and suggestion. Green dragons like to question men, especially adventurers, to learn more about their society, abilities, what is going on in the countryside, and if there is treasure nearby.</wrap>
 
-<fc #4169e1>**Combat:**</fc> Green dragons initiate fights with little or no provocation, picking on creatures of any size. If the target creature intrigues the dragon or appears to be difficult to deal with, the dragon will stalk the creature, using its environment for cover, until it determines the best time to strike and the most appropriate tactics to use. If the target appears formidable, the dragon will first attack with its breath weapon, magical abilities, and spells. However, if the target appears weak, the dragon will make its presence known quickly for it enjoys evoking terror in its targets. When the dragon has tired of this game, it will bring down the creature using its physical attacks so the fight lasts longer and the creature's agony is prolonged.
+<fc #4169e1>**Breath weapon/special abilities:**</fc> A green dragon's breath weapon is a cloud of poisonous chlorine gas that is 50’ long, 40’ wide, and 30 feet high. Creatures within the cloud may save versus breath weapon for half damage. A green dragon casts its spells at 6th level, adjusted by its combat modifier.\\
+<wrap indent>From birth, green dragons are immune to gasses. As they age, they gain the following additional powers: //Juvenile: water breathing//. //Adult: suggestion// once aday.// Mature adult; warp wood// three times a day. //Old: plant growth// once a day. //Very old: entangle// once a day. //Wyrm: pass without trace// three times a day.</wrap>
 
-Sometimes, the dragon elects to control a creature, such as a human or demi-human, through intimidation and suggestion. Green dragons like to question men, especially adventurers, to learn more about their society, abilities, what is going on in the countryside, and if there is treasure nearby,
-
-43 45 % Hx2 14,000
-44 50% Hx3 16,000
-54 55% Hx3 17,000
-
-Breath weapon/special abilities: A green dragon's breath weapon is a cloud of poisonous chlorine gas that is 50’ long, 40’ wide, and 30 feet high. Creatures within the cloud may save versus breath weapon for half damage. A green dragon casts its spells at 6th level, adjusted by its combat modifier.
-
-From birth, green dragons are immune to gasses. As they age, they gain the following additional powers: Juvenile: water breathing. Adult: suggestion once aday. Mature adult; warp wood three times a day. Old: plant growth once a day. Very old: entangle once a day. Wyrm: pass without trace three times a day.
-
-<fc #4169e1>**Habitat/Society:**</fc> Green dragons are found in sub-tropical and temperate forests, the older the forest and bigger the trees, the better. The sights and smells of the woods are pleasing to the dragon, and it considers the entire forest or woods its territory. Sometimes the dragon will enter into a relationship with other evil forest-dwelling creatures, which keep the dragon informed about what is going on in the forest and surrounding area in exchange for their lives. If a green dragon lives in a forest on a hillside, it will seek to enslave hill giants, which the dragon considers its greatest enemy. A green dragon makes its lair in underground chambers far beneath its forest.
-
-The majority of green dragons encountered will be alone. However, when a mated pair of dragons and their young are encountered, the female will leap to the attack. The male will take the young to a place of safety before joining the fight. The parents are extremely protective of their young, despite their evil nature, and will sacrifice their own lives to save their offspring.
+<fc #4169e1>**Habitat/Society:**</fc> Green dragons are found in sub-tropical and temperate forests, the older the forest and bigger the trees, the better. The sights and smells of the woods are pleasing to the dragon, and it considers the entire forest or woods its territory. Sometimes the dragon will enter into a relationship with other evil forest-dwelling creatures, which keep the dragon informed about what is going on in the forest and surrounding area in exchange for their lives. If a green dragon lives in a forest on a hillside, it will seek to enslave hill giants, which the dragon considers its greatest enemy. A green dragon makes its lair in underground chambers far beneath its forest.\\
+<wrap indent>The majority of green dragons encountered will be alone. However, when a mated pair of dragons and their young are encountered, the female will leap to the attack. The male will take the young to a place of safety before joining the fight. The parents are extremely protective of their young, despite their evil nature, and will sacrifice their own lives to save their offspring.</wrap>
 
 <fc #4169e1>**Ecology:**</fc> Although green dragons have been known to eat practically anything, including shrubs and small trees when they are hungry enough, they especially prize elves. If the forest is on a hillside, hill giants hunt the younger dragons, the meat of which they consider a delicacy.
 
-
+----
 Dragon, Red
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: | Tropical, sub-tropical, and temperate hills and mountains |
+^ FREQUENCY: | Very rare |
+^ ORGANIZATION: | Solitary or clan |
+^ ACTIVITY CYCLE: | Any |
+^ DIET: | Special |
+^ INTELLIGENCE: | Exceptional (15-16) |
+^ TREASURE: | Special |
+^ ALIGNMENT: | Chaotic evil |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: | 1 (2-5) |
+^ ARMOR CLASS: | -3 (base) |
+^ MOVEMENT: | 9, Fl 30 (C), Jp 3 |
+^ HIT DICE: | 13 (base) |
+^ THAC0: | 7 (at 9 HD) |
+^ NO. ATTACKS: | 3 + special |
+^ DAMAGE/ATTACK: | 1-10/1-10/3-30 (3d10) |
+^ SPECIAL ATTACK: | Special |
+^ SPECIAL DEFENSES: | Variable |
+^ MAGIC RESISTANCE: | Variable |
+^ SIZE: | G (48' base) |
+^ MORALE: | Fanatic (17-18) |
+^ XP VALUE: | Variable |
+
+^ Age ^ Body Lgt. (') ^ Tail Lgt. (') ^ AC ^ Breath Weapon ^ Spells Wizard/Priest ^ MR ^ Treas. Type ^ XP Value |
+| 1 |  |  |  | 2d+1 |  |  |  |  |
+| 2 |  |  |  | 4d+2 |  |  |  |  |
+| 3 |  |  |  | 6d+3 |  |  |  |  |
+| 4 |  |  |  | 8d+4 |  |  |  |  |
+| 5 |  |  |  | 10d+5 |  | % |  |  |
+| 6 |  |  |  | 12d+6 |  | % |  |  |
+| 7 |  |  |  | 14d+7 |  | % |  |  |
+| 8 |  |  |  | 16d+8 |  | % |  |  |
+| 9 |  |  |  | 18d+9 |  | % |  |  |
+| 10 |  |  |  | 20d+10 |  | % |  |  |
+| 11 |  |  |  | 22d+11 |  | % |  |  |
+| 12 |  |  |  | 24d+12 |  | % |  |  |
 
 Red dragons are the most covetous and greedy of all dragons, forever seeking to increase their treasure hoards. They are obsessed with their wealth and memorize an inventory accurate to the last copper. They are exceptionally vain and self confident, considering themselves superior not only to other dragons, but to all other life in general.
 
@@ -1435,7 +1477,7 @@ Red dragons speak their own tongue, a tongue common to all evil dragons, and 16%
 
 <fc #4169e1>**Combat:**</fc> Because red dragons are so confident, they never pause to appraise an adversary. When they notice a target they make a snap decision whether to attack, using one of many “perfect” strategies worked out ahead of time in the solitude of their lairs. If the creature appears small and insignificant, such as an unarmored man, the dragon will land to attack with its claws and bite, not wanting to obliterate the creature with its breath weapon, as any treasure might be consumed by the flames. However, if a red dragon encounters a group of armored men, it will use its breath weapon, special abilities, and spells (if it is old enough to have them) before landing.
 
-Breath weapon/special abilities: 4 red dragon's breath weapon is a searing cone of fire 90' long, 5' wide at the dragon’s mouth and 30’ at the base.
+<fc #4169e1>**Breath weapon/special abilities:**</fc> 4 red dragon's breath weapon is a searing cone of fire 90' long, 5' wide at the dragon’s mouth and 30’ at the base.
 
 Creatures struck by the flames must save versus breath weapon for half damage. Red dragons cast spells at 9th level, adjusted by their combat modifiers.
 
@@ -1452,28 +1494,42 @@ Red dragons are quick to fight all creatures which encroach on their territory, 
 
 Dragon, Silver
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
+
+^ Age ^ Body Lgt. (') ^ Tail Lgt. (') ^ AC ^ Breath Weapon ^ Spells Wizard/Priest ^ MR ^ Treas. Type ^ XP Value |
+| 1 |  |  |  | 2d+1 |  |  |  |  |
+| 2 |  |  |  | 4d+2 |  |  |  |  |
+| 3 |  |  |  | 6d+3 |  |  |  |  |
+| 4 |  |  |  | 8d+4 |  |  |  |  |
+| 5 |  |  |  | 10d+5 |  | % |  |  |
+| 6 |  |  |  | 12d+6 |  | % |  |  |
+| 7 |  |  |  | 14d+7 |  | % |  |  |
+| 8 |  |  |  | 16d+8 |  | % |  |  |
+| 9 |  |  |  | 18d+9 |  | % |  |  |
+| 10 |  |  |  | 20d+10 |  | % |  |  |
+| 11 |  |  |  | 22d+11 |  | % |  |  |
+| 12 |  |  |  | 24d+12 |  | % |  |  |
 
 Silver dragons are kind and helpful. They will cheerfully assist good creatures if their need is genuine. They often take the forms of kindly old men or fair damsels when associating with people.
 
@@ -1498,28 +1554,42 @@ Because they lair in similar territories, silver dragons come into conflict with
 
 Dragon, White
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
+
+^ Age ^ Body Lgt. (') ^ Tail Lgt. (') ^ AC ^ Breath Weapon ^ Spells Wizard/Priest ^ MR ^ Treas. Type ^ XP Value |
+| 1 |  |  |  | 2d+1 |  |  |  |  |
+| 2 |  |  |  | 4d+2 |  |  |  |  |
+| 3 |  |  |  | 6d+3 |  |  |  |  |
+| 4 |  |  |  | 8d+4 |  |  |  |  |
+| 5 |  |  |  | 10d+5 |  | % |  |  |
+| 6 |  |  |  | 12d+6 |  | % |  |  |
+| 7 |  |  |  | 14d+7 |  | % |  |  |
+| 8 |  |  |  | 16d+8 |  | % |  |  |
+| 9 |  |  |  | 18d+9 |  | % |  |  |
+| 10 |  |  |  | 20d+10 |  | % |  |  |
+| 11 |  |  |  | 22d+11 |  | % |  |  |
+| 12 |  |  |  | 24d+12 |  | % |  |  |
 
 White dragons, the smallest and weakest of the evil dragons, are slow witted but efficient hunters. They are impulsive, vicious, and animalistic, tending to consider only the needs and emotions of the moment and having no foresight or regret. Despite their low intelligence, they are as greedy and evil as the other evil dragons.
 
@@ -1529,7 +1599,7 @@ White dragons speak their own tongue, a tongue common to all evil dragons, and 7
 
 <fc #4169e1>**Combat:**</fc> Regardless of a target's size, a white dragon's favorite method of attack is to use its breath weapon and special abilities before closing to melee. This tactic sometimes works to the dragon's detriment, as it can exhaust its breath weapon on smaller prey and then be faced with a larger creature it must attack physically. If a white dragon is pursuing creatures in the water, such as polar bears or seals, it will melee them in their element, fighting with its claws and bite.
 
-Breath weapon/special abilities: A white dragon's breath weapon is a cone of frost 70’ long, 5’ wide at the dragon’s mouth, and 25’ wide at the base. Creatures caught in the blast may Save versus Breath Weapon for half damage. A white dragon casts its spells and uses its magical abilities at 5th level, plus its combat modifier.
+<fc #4169e1>**Breath weapon/special abilities:**</fc> A white dragon's breath weapon is a cone of frost 70’ long, 5’ wide at the dragon’s mouth, and 25’ wide at the base. Creatures caught in the blast may Save versus Breath Weapon for half damage. A white dragon casts its spells and uses its magical abilities at 5th level, plus its combat modifier.
 
 From their birth, white dragons are immune to cold. As they grow older, they gain the following additional abilities: Juvenile: ice walking,
 
@@ -1553,28 +1623,28 @@ White dragons’ natural enemies are frost giants who kill the dragons for food 
 
 Dragon Turtle
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Dragon turtles are one of the most beautiful, awesome, and feared creatures of the water. With their deadly jaws and breath weapon, and their penchant for capsizing ships, dragon turtles are dreaded by mariners on large bodies of water, both fresh and salt.
 
@@ -1601,28 +1671,28 @@ Dragon turtle shells make outstanding shields and armor. Because of the shell's 
 
 Dragonfish
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 These shy, solitary scavengers are only interested in staying alive and eating. Nevertheless, the two excellent self-defense methods evolved in these creatures make them a potentially deadly enemy for clumsy, inattentive adventurers.
 
@@ -1684,28 +1754,28 @@ If control of the elemental is stolen, the creature will follow the wishes of th
 
 Air/Earth Elementals
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Air elementals can be conjured in any area of open air where gusts of wind are present. The common air elemental appears as an amorphous, shifting cloud when it answers its summons to the Prime Material Plane. They rarely speak, but their language can be heard in the high-pitched shriek of a tornado or the low moan of a midnight storm.
 
@@ -1730,28 +1800,28 @@ An earth elemental's effectiveness against creatures in the air or water is limi
 
 Fire/Water Elementals
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Fire elementals can be conjured in any area containing a large open flame. To provide a fire elemental with an adequate shell of Prime Material flame, a fire built to house an elemental should have a diameter of at least six feet and reach a minimum of four feet into the air.
 
@@ -1774,28 +1844,28 @@ Though the water elemental is most effective in large areas of open water, it ca
 
 Elephant
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Elephants have thick, baggy hides, covered with sparse and very coarse tufts of gray hair. The elephant's most renowned feature is its trunk, which it uses as a grasping limb.
 
@@ -1820,28 +1890,28 @@ Oliphants: The oliphant is a modern-day mastadon, with shaggy hair and tusks tha
 
 Elf
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Though their lives span several human generations, elves appear at first glance to be frail when compared to man. However, elves have a number of special talents that more than make up for their slightly weaker constitutions.
 
@@ -1901,28 +1971,28 @@ A half-elf can travel freely between most elvish and human settlements, though o
 
 Genie
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 The three varieties of genie described here come from the elemental planes of Air, Earth, and Fire. Living there, among their own kind, they are organized into their own societies. These beings are sometimes encountered on the Prime Material plane and are often summoned specifically to perform some service for a powerful wizard or priest. All genies can travel to any of the elemental planes, as well as the Prime Material and Astral planes.
 
@@ -1987,28 +2057,28 @@ The City of Brass is a huge citadel that is home to the majority of efreet. It h
 
 Ghost
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Ghosts are the spirits of humans who were either so greatly evil in life or whose deaths were so unusually emotional they have been cursed with the gift of undead status. Thus, they roam about at night or in places of darkness. These spirits hate goodness and life, hungering to draw the living essences from the living.
 
@@ -2039,28 +2109,28 @@ Common folklore further confuses this fact by relating details of the ghost’s 
 
 Ghoul
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Ghouls are undead creatures, once human, who now feed on the flesh of corpses. Although the change from human to ghoul has deranged and destroyed their minds, ghouls have a terrible cunning which enables them to hunt their prey most effectively.
 
@@ -2089,28 +2159,28 @@ Ghasts, like ghouls, are undead class and thus sleep and charm spells do not aff
 
 Giant, Cloud
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Cloud giants consider themselves above all other giants, save storm giants, whom they consider equals. They are creative, appreciate fine things, and are master strategists in battle.
 
@@ -2139,28 +2209,28 @@ Good cloud giants trade with human and demi-human communities for food, wine, je
 
 Giant, Fire
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Fire giants are brutal, ruthless, and militaristic.
 
@@ -2191,28 +2261,28 @@ Fire giants prefer to eat meat and bread, they can hunt and kill their own meat,
 
 Giant, Frost
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Like all evil giants, frost giants have a reputation for crudeness and stupidity. This reputation is deserved, but frost giants are crafty fighters.
 
@@ -2241,28 +2311,28 @@ Frost giants often capture and tame other creatures as guards. There is a 50% ch
 
 Giant, Hill
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Hill giants are selfish, cunning brutes who survive through hunting and by terrorizing and raiding nearby communities. Despite their low intelligence, they are capable fighters.
 
@@ -2293,28 +2363,28 @@ Sometimes bands of hill giants will trade with each other or with bands of ogres
 
 Giant, Stone
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Stone giants are lean, but muscular. Their hard, hairless flesh is smooth and gray, making it easy for them to blend in with their mountainous surroundings. Their gaunt facial features and deep, sunken black eyes make them seem perpetually grim.
 
@@ -2345,28 +2415,28 @@ Stone giants are playful, especially at night. They are fond of rock throwing co
 
 Giant, Storm
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Storm giants are gentle and reclusive. They are usually tolerant of others, but can be very dangerous when angry.
 
@@ -2399,28 +2469,28 @@ Storm giant lairs are always protected by guards. Land or aerial lairs have 1-2 
  
 Gnolls
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Gnolls are large, evil, hyena-like humanoids that roam about in loosely organized bands,
 
@@ -2450,28 +2520,28 @@ Flinds are regarded with reverence and awe by gnolls. Flind leaders are 3 +3 hit
 
 Gnome
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Smaller relatives of the dwarves, gnomes are shy and rarely seen by other demi-humans. They tend to dwell near secluded forests, and live peaceful lives.
 
@@ -2503,28 +2573,28 @@ Also in the lair, there will be a number of females equal to the number of males
 
 Goblin
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 These small, evil humanoids would be merely pests, if not for their great numbers.
 
@@ -2557,28 +2627,28 @@ Goblins hate most other humanoids, gnomes and dwarves in particular, and work to
 
 Golem, General
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Golems are magically created automatons of great power. The construction of one involves mighty magics and elemental forces.
 
@@ -2603,28 +2673,28 @@ Only a wizard of at least 18th level can create an iron golem. It takes 3 months
 
 Golems, Lesser
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 A golem is an artificial humanoid body which is animated by an elemental spirit and under the control of its creator.
 
@@ -2650,28 +2720,28 @@ The elemental spirit in a lesser golem is not bound strongly, resulting in a 1% 
 
 Golems, Greater
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 A greater golem is an artificial humanoid body which has been animated by an elemental spirit but remains under the complete control of its creator.
 
@@ -2696,28 +2766,28 @@ The iron golem cannot speak or make any vocal noise, nor does it have any distin
 
 Halfling
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Halflings are a hard-working race of peaceful citizens. Their communities are similar to those of humans, although they usually contain many burrow homes in addition to surface cottages.
 
@@ -2746,28 +2816,28 @@ These halflings are shorter and stockier than the more common hairfoots, Stouts 
 
 Harpy
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Harpies are wicked avian beasts that prey upon nearly all creatures but prefer the flesh of humans and demihumans.
 
@@ -2806,28 +2876,28 @@ Their life span is unknown but seems to be about 50 years.
 
 Hobgoblin
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Hobgoblins are a fierce humanoid race that wage a perpetual war with the other humanoid races. They are intelligent, organized, and aggressive.
 
@@ -2867,28 +2937,28 @@ They tend to employ thrusting weapons like spears and pole arms. Koalinth are ev
 
 Homonculous
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Homonculi are small mystical beings created by magicians for spying and other special tasks.
 
@@ -2917,28 +2987,28 @@ There are rumors of magical means by which non-wizards can acquire their own for
 
 Hornet
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Giant hornets are nothing more than fantastically enlarged versions of normal insects. Unlike their more common cousins, they are often hostile and aggressive.
 
@@ -2970,28 +3040,28 @@ A giant wasp first attacks with its powerful bite (2d4 points of damage), then s
 
 Horse
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Horses are large hooved mammals often used for transportation or as pack and draft animals by the demihuman races.
 
@@ -3031,28 +3101,28 @@ A sterile hybrid of a horse and a donkey, mules are difficult to control due to 
 
 Hydra
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Heads THACO Damage Heads THACOo Damage
 5 15 1-6 9 12 1-8
@@ -3089,28 +3159,28 @@ Each head of this purplish-brown hydrae is able to breathe a stream of frost 10 
 
 Hyena
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Hyenae are canines who roam warm grasslands and plains. They are primarily scavangers, but will hunt small game on occasion. Their powerful jaws give them a nasty bite.
 
@@ -3140,28 +3210,28 @@ Its savage bite does 3-12 (3d4) points of damage and it can lock onto its victim
 
 Imp
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Imps are diminutive creatures of an evil nature who roam the world and act as familiars for lawful evil wizards and priests.
 
@@ -3199,28 +3269,28 @@ Quasits can only be harmed by cold iron or magical weapons. They are able to res
 
 Invisible Stalker
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 The invisible stalker is a creature from the elemental plane of air. Those encountered on the Prime Material plane have almost always been summoned by wizards to fulfill a specific task.
 
@@ -3251,28 +3321,28 @@ Invisible stalkers only obey those who actually summon them and few wizards can 
 
 Jackal
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Jackals are small, canine scavengers that roam the warm grasslands of the world. They are neither fierce nor brave, but are quite common. There are three known species of jackal in the world: asian, black-backed, and side-striped. Except for their markings, these animals are very similar.
 
@@ -3300,28 +3370,28 @@ Young, wild, or domesticated jackals are seldom available on the commercial mark
 
 Jackalwere
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 The jackalwere is a terrible and savage creature which preys on unsuspecting travelers and other demihumans that it can ambush. Its ability to alter its shape at will makes it a most dangerous foe.
 
@@ -3352,28 +3422,28 @@ Jackalweres may (20%) travel in the company of 1-6 normal jackals. Although thes
 
 Kobold
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Kobolds are a cowardly, sadistic race of short humanoids that vigorously contest the human and demi-human races for living space and food. They especially dislike gnomes whom they will attack on sight and in preference to all other enemies.
 
@@ -3408,28 +3478,28 @@ The average lifespan of the kobold is 135 years.
 
 Korred
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 When wandering through the world’s sylvan forests, travelers should be wary of music and laughter coming from a clearing. More than likely, the cause is the dance-loving korred, a race that is close to nature and jealously protects its way of life.
 
@@ -3460,28 +3530,28 @@ There is much debate among sages and scholars as to the korred’s purpose in li
 
 Lich
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 The lich is, perhaps, the single most powerful form of undead known to exist. They seek to further their own power at all costs and have little or no interest in the affairs of the living, except where those affairs interfere with their own.
 
@@ -3539,28 +3609,28 @@ If the fragments of the destroyed skull are not destroyed by immersion in holy w
 
 Lizard
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Fire Lizards
 Fire lizards resemble wingless red dragons and are sometimes called “false dragons.” They are gray-colored with mottled red and brown back and reddish undersides. Hatchlings are light gray in color and darken as they age.
@@ -3583,28 +3653,28 @@ This aggressive lizard is able to run across walls or ceilings with the help of 
 
 Lizard Man
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Lizard men are savage, semi-aquatic, reptilian humanoids that live through scavenging, raiding, and, in less hostile areas, by fishing and gathering.
 
@@ -3658,28 +3728,28 @@ True lycanthropes tend to avoid human society unless attacking or on an errand. 
 
 Lycanthrope, Werebear
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Werebears are humans who can transform themselves into large brown bears. They are the best known good-aligned lycanthropes. The ursine form most often resembles a brown bear. Some have blond, reddish, black, or ivory fur (the latter is common in frozen regions).
 
@@ -3706,28 +3776,28 @@ Treasure is usually limited to small, valuable commodities like gold, platinum, 
 
 Lycanthrope, Wererat
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Wererats, also called ratmen, are humans who can transform themselves into three forms—human, human-sized ratman, and giant rat. They are sly and evil, and usually inhabit tunnel complexes beneath cities.
 
@@ -3762,28 +3832,28 @@ Psychologically, wererats remind humans that no matter how strongly defended the
 
 Lycanthrope, Seawolf
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 The seawolves are humans who can assume a form combining aspects of a seal and a wolf. Their packs roam the seas in search of ships to attack.
 
@@ -3819,28 +3889,28 @@ In seawolf form, greater seawolves can be harmed only by silver, cold iron, or m
 
 Lycanthrope, Weretiger
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Weretigers are humans, usually female, that have the ability to transform into tigerlike forms. They have a strong affinity for all felines.
 
@@ -3873,28 +3943,28 @@ Treasure varies widely, acquired as payment for past services, plunder from past
 
 Lycanthrope, Werewolf
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Werewolves are the most feared of the lycanthropes, men who can transform into wolflike beasts. They should not be confused with wolfweres (q.v.)—wolves who turn into men. Great enmity exists between werewolves and wolfweres.
 
@@ -3923,28 +3993,28 @@ If a werewolf mates with a woman, the offspring is completely human. The tempera
 
 Manticore
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 The manticore is a true monster, with a leonine torso and legs, batlike wings, a man’s head, a tail tipped with iron spikes, and an appetite for human flesh.
 
@@ -3967,28 +4037,28 @@ Manticores collect their victims’ valuables for a variety of reasons, includin
 
 Medusa
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Medusae are female humanoids with hair of swarming snakes. They are hateful creatures who can petrify any creature that meets their gaze.
 
@@ -4014,28 +4084,28 @@ Rare medusae (10%) have serpentine bodies in place of the lower torso and legs. 
 
 Men
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Aborigines/Cavemen Adventurers
 These are primitive humans found in otherwise uninhabited regions. For every 10 aborigines there will be a 3rd level fighter. Aboriginal tribes are always led by a chief (a Sth level fighter) and 1-4 subchiefs (4th level fighters). For every 10 aborigines encountered there is a 10% chance that they have a shaman (3rd level priest) with them.
@@ -4197,28 +4267,28 @@ See “Adventurers” to determine level and special possessions.
 
 Mind Flayer
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Of all the creatures of the Underdark, the illithid, or mind flayer, is both the most evil and most inhuman. It is also the most feared, for its powers are formidable and it feeds on the brain of any human, demihuman, or humanoid creature it encounters. Using sheer mental power, it is able to enslave or destroy its foes, which include such powerful creatures as drow and kuo-toa.
 
@@ -4243,28 +4313,28 @@ Mind flayer ichor is an effective ingredient in a potion of ESP
 
 Minotaur
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Minotaurs are either cursed humans or the offspring of minotaurs and humans. They usually dwell in underground labyrinths, for they are not confused in these places, which gives them an advantage over their prey.
 
@@ -4289,28 +4359,28 @@ Minotaur components are sometimes used in spells and potions, and might be used 
 
 Mud-man
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Mud-men are formed in pools of mud where enchanted rivers (even mildly enchanted ones, such as a stream eroding a magical structure) collect and evaporate and concentrate the dweomer. Because they are creatures of magic, mud-men are sometimes called dweomerlings. Mud-men are unintelligent life forces with but one goal—to protect their pools against intruders.
 
@@ -4339,28 +4409,28 @@ Habitat/Society; Mud-men have two states: rest and activity, the latter of which
 
 Mummy
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Mummies are corpses native to dry desert areas, where the dead are entombed by a process known as mummification. When their tombs are disturbed, the corpses become animated into a weird unlife state, whose unholy hatred of life causes them to attack living things without mercy.
 
@@ -4387,28 +4457,28 @@ Mummy dust is a component for rotting and disease magic items.
 
 Nixie
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Nixies are water sprites that live in fresh water lakes, and while they carry no grudge against humankind, they delight in enslaving men as their beasts of burden.
 
@@ -4431,28 +4501,28 @@ Nixie tribes are ruled by the Acquar (water mother) who is a direct descendant o
 
 Nymph
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 So beautiful that a glimpse can blind or even kill a man, the nymphs are the embodiment of loveliness, a triumph of nature.
 
@@ -4471,28 +4541,28 @@ Nymphs hate ugliness and evil and sometimes will help to defeat it. Any treasure
 
 Ogre
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Ogres are big, ugly, greedy humanoids that live by ambushes, raids and theft. Ill-tempered and nasty, these monsters are often found serving as mercenaries in the ranks of orc tribes, evil clerics, or gnolls. They mingle freely with giants and trolls.
 
@@ -4551,28 +4621,28 @@ Merrow dwell in caves in shallow, fresh water (50-250 feet deep), often with scr
 
 Oozes/Slimes/Jellies
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 The oozes, slimes and jellies of the underworld are hideous, amorphous creatures that are the bane of all that lives, dissolving the weapons, armor, and flesh of their victims.
 
@@ -4631,28 +4701,28 @@ A hideous growth, green slime is bright green, sticky, and wet. It grows in dark
 
 Orc
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Orcs are a species of aggressive mammalian carnivores that band together in tribes and survive by hunting and raiding. Orcs believe that in order to survive they must expand their territory, and so they are constantly involved in war against many enemies: humans, elves, dwarves, goblins, and other orc tribes.
 
@@ -4710,28 +4780,28 @@ Half-orcs are distrusted by both human and orc cultures because they remind each
 
 Owl
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Owls are a family of nocturnal birds of prey. There are many different species and varieties are found in every clime but owls are most common in temperate and subarctic climates. Owls are predators that hunt rodents, small lizards, and insects, attacking humans only when frightened (or magically commanded). Some cultures view owls as symbols of wisdom; others as symbols of imminent death.
 
@@ -4754,28 +4824,28 @@ Talking owls are rare and magical creatures indeed. They appear as ordinary owls
 
 Owlbear
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Owlbears are probably the crossbred creation of a demented wizard; given the lethality of this creation, it is quite likely that the wizard who created them is no longer alive. Owlbears are vicious, ravenous, aggressive, and evil tempered at all times.
 
@@ -4798,28 +4868,28 @@ An owlbear does not actively seek treasure but the remains of victims may be fou
 
 Pegasus
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Pegasi are magnificent winged steeds that often serve the cause of good, These intelligent creatures are very shy and wild, not easily tamed. They serve only good characters, but if they do, they will serve their master with absolute faithfulness for the rest of his life.
 
@@ -4850,28 +4920,28 @@ Legend has it that if a medusa is slain and beheaded, there is a small (5%) chan
 
 Piercer
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Piercers resemble stalactites found on cave roofs. They are actually a species of gastropods that, without their shells, resemble slugs with long tails. A piercer climbs onto the ceiling of a cavern and waits patiently; when it detects prey beneath it, it drops from the ceiling and impales the victim with the sharp end of its shell.
 
@@ -4896,28 +4966,28 @@ The taste of a piercer is said to resemble that of a snail, but with a bitter af
 
 Pseudodragon
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Pseudodragons are a species of small flying lizard that inhabits heavily forested wilderness areas. These playful, benign creatures have magical powers that they can share with others, so they are often sought as companions.
 
@@ -4944,28 +5014,28 @@ Pseudodragons have a lifespan of 10-15 years. Like dragons, they are attracted t
 
 Puddings, Deadly
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Puddings are voracious, puddinglike monsters composed of groups of cell colonies that scavenge and hunt for food. They typically inhabit ruins and dungeons. They have the ability to sense heat and analyze material structure from a distance of up to 90 feet to determine if something is edible. Deadly puddings attack any animal or vegetable matter (such as humans) on sight.
 
@@ -4996,28 +5066,28 @@ Other pudding types are possible, at the DM's option.
 
 Rakshasa
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Rakshasas are a race of malevolent spirits encased in flesh that hunt and torment humanity. No one knows where these creatures originate; some say they are the embodiment of nightmares.
 
@@ -5050,28 +5120,28 @@ About 5% of all rakshasa rajahs are rakshasa maharajahs, or dukes. Maharajahs ha
 
 Rat
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Rat is the general name applied to a number of species of long-tailed rodent scavengers between five inches and one foot long. Rats are aggressive, active, ominivorous, and adaptable. These creatures reproduce rapidly and often carry diseases that have resulted in more than one great plague.
 
@@ -5097,28 +5167,28 @@ Also known as Sumatran rats, these vile beasts plague underground areas such as 
 
 Ray
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Rays, also known as sea bats, are native to warm tropical shallow waters. They are broad, flat creatures, with eyes on the upper, dark-colored surface of their body and the mouth and gills on the lighter underbelly. Their pectoral fins are huge, which gives them a batlike appearance, and they use their short tail as a rudder. They feed on mollusks and crustaceans and only rarely attack humans, with the exception of the malevolent ixitxachitl. These long, flat creatures bury themselves in the silt and sand of the sea floor in order to surprise their prey.
 
@@ -5147,28 +5217,28 @@ The ixitxachit] (pronounced icks-it-ZACH-it-ul) are an intelligent race of evil 
 
 Remorhaz
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Remorhaz, sometimes known as polar worms, inhabit only chill arctic wastes. They are very aggressive predators that devour any animal matter, including humans, demihumans, and humanoids; they have even been known to attack frost giants.
 
@@ -5191,28 +5261,28 @@ Remorhaz have lifespans of 30 years. Their eggs are valued at 500 gold pieces an
 
 Satyr
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Also called fauns, satyrs are a pleasure-loving race of half-human, half-goat creatures usually dwelling in sylvan settings. Symbolizing nature's wild and carefree ways, an encounter witha satyr can be benign.
 
@@ -5239,28 +5309,28 @@ Satyrs are an inoffensive race that just wishes to have fun. They rarely venture
 
 Scorpion
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Giant scorpions are vicious predators that live almost anywhere, including relatively cold places such as dungeons, though they favor deserts and warm lands, These creatures are giant versions of the normal 4-inch-long scorpion found in desert climes.
 
@@ -5281,28 +5351,28 @@ Often found in dungeons and wildernesses, these creatures are merely smaller ver
 
 Selkie
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Selkies are seal-like beings that have the ability to change into hu- man form for a few days at a time.
 
@@ -5329,28 +5399,28 @@ Each venerable leader of a selkie community can cast the following spells once p
 
 Shadow
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Shadows are shadowy, undead creatures that drain strength from their victims with their chilling touch.
 
@@ -5373,28 +5443,28 @@ The original body of a victim is destroyed when changed to a shadow whether by t
 
 Skeleton
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 All skeletons are magically animated undead monsters, created as guardians or warriors by powerful evil wizards and priests.
 
@@ -5417,28 +5487,28 @@ Skeletons have almost no minds whatsoever, and can obey only the simplest one- o
 
 Skunk
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Skunks are forest-dwelling omnivores found in most temperate and subtropical regions. They are easily recognized by the long white stripe running from their faces, down their black-furred backs, to the tips of their tails.
 
@@ -5462,28 +5532,28 @@ Giant skunks are simply huge versions of the normal variety. Their musk clouds t
 
 Snake
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Snakes are long, slender reptiles which can be found in many sizes around the entire world, save the coldest arctic regions.
 
@@ -5510,28 +5580,28 @@ Found only in tropical waters, the only type of snake that is both constricting 
 
 Spectre
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Spectres are powerful undead that haunt the most desolate and deserted of places. They hate all life and light.
 
@@ -5556,28 +5626,28 @@ Spectres have enough cunning to plan their attacks, and rival vampires in their 
 
 Spider
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 All spiders are aggressive predators, dwelling both above and below ground. All of the listed types of spiders are poisonous and will seek to bite their prey first before taking it back to their webs.
 
@@ -5608,28 +5678,28 @@ The deadly poison (type F) of phase spiders is the strongest of all the spiders,
 
 Sprite
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Sprites are shy and reclusive faerie people who dwell in meadows and wooded glens. They have distinctly elven features and small, semitransparent wings.
 
@@ -5656,28 +5726,28 @@ Sprites usually speak only their own language, common, and elven, but seem to ge
 
 Toad, Giant
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Giant toads are found in most regions. Although their smaller cousins are beneficial insect eaters, the large toads devour (or at least attempt to devour) any creature which appears edible.
 
@@ -5708,28 +5778,28 @@ These toads, indistinguishable from common giant toads, secrete a weak, hemotoxi
 
 Treant
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Treants are strangely related to both humans and trees, combining features of both species. Peaceful by nature, treants can cause great damage when roused to anger. They hate evil things and the unrestrained use of fire.
 
@@ -5756,28 +5826,28 @@ The lifespan of a treant is not known, but is several thousand years at least. A
 
 Troll
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Trolls are horrid carnivores found in all climes, from arctic wastelands to tropical jungles. Most creatures avoid these beasts, since trolls know no fear and attack unceasingly when hungry—which is most of the time.
 
@@ -5838,28 +5908,28 @@ Like freshwater scrags, marine scrags can breathe air for short periods (one hou
 
 Umber Hulk
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Umber hulks are powerful subterranean predators whose ironlike claws allow them to burrow through solid stone in search of prey.
 
@@ -5888,28 +5958,28 @@ These aquatic predators are closely related to the umber hulk. Vodyanoi live in 
 
 Unicorn
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Unicorns dwell only in temperate woodlands, away from human habitation. These fierce but good creatures shun contact with all but sylvan creatures (dryads, pixies, sprites, and the like); however, they will show themselves to defend their woodland home.
 
@@ -5934,28 +6004,28 @@ The life span of unicorns has never been recorded but is known to surpass 1,000 
 
 Vampire
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Of all the chaotic evil undead creatures that stalk the world, none is more dreadful than the vampire. Moving silently through the night, vampires prey upon the living without mercy or compassion. Unless deep underground, they must return to the coffins in which they pass the daylight hours, and even in the former case they must occasionally return to such to rest, for their power is renewed by contact with soil from their graves.
 
@@ -6010,28 +6080,28 @@ This breed of vampire is, if anything, even more frightful than its western cous
 
 Wight
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 In ages long past, the word “wight” meant simply “man.” As the centuries have passed, though, it has come to be associated only with those undead that typically inhabit barrow mounds and catacombs.
 
@@ -6060,28 +6130,28 @@ As they are not living creatures and have no rightful place in our world, many a
 
 Will o’ wisp
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 The will o'wisp is a malevolent entity that makes its home in swamps, bogs, and moors. It subsists by luring unsuspecting creatures to their deaths amid the natural hazards of such places and feeding on the energies which their death struggles release.
 
@@ -6108,28 +6178,28 @@ It seems certain that the unusual environment found in bogs and swamps is import
 
 Wolf
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Wolves are active and cunning carnivores, capable of surviving in nearly every climate known.
 
@@ -6166,28 +6236,28 @@ Winter wolves are quite beautiful, with glistening white or silver fur and eyes 
 
 Wolfwere
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 The wolfwere is an evil and hateful creature that delights in the brutal slaying of humans and demihumans alike. In many cases, the wolfwere is able to attack its victims with utter surprise because of its ability to assume the shape of a human of exceptional charisma.
 
@@ -6220,28 +6290,28 @@ Despite their fondness for wolves and worgs, wolfweres loathe the company of wer
 
 Wraith
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 The wraith is an evil undead spirit of a powerful human that seeks to absorb human life energy.
 
@@ -6264,28 +6334,28 @@ The wraith cannot communicate, except through a speak with dead spell. They do n
 
 Wyvern
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 A distant cousin to the dragon, the wyvern is a huge flying lizard with a poisonous stinger in its tail.
 
@@ -6308,28 +6378,28 @@ The wyvern has no natural enemies, although it would not be a match for certain 
 
 Yeti
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Sometimes confused with the abominable snowman, the yeti is a distant cousin to the great carnivorous apes of warmer climates.
 
@@ -6352,28 +6422,28 @@ Yeti claws and teeth have value only because of the rarity of the creature. They
 
 Yuan-ti
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Descendants of humans whose blood has been fouled, yuan-ti have varying degrees of snakelike body parts. They are highly intelligent and evil, always plotting to advance their causes. There are three major varieties of yuan-ti: purebloods, halfbreeds, and abominations. A pureblood can pass for human 80% of the time. It has only slight differences from true humans, such as slit eyes, or a forked tongue, maybe even small fangs. Halfbreeds are part human and part snake. Roll a dé twice on the table below; a duplicate roll produces no result, but is not rerolled. Ignore unworkable combinations. This is a general guide; the DM can invent his own combinations of snake and human.
 
@@ -6400,28 +6470,28 @@ Any yuan-ti with a human head can cast the following spells once per day; cause 
 
 Zombie
 
-^ CLIMATE/TERRAIN: | 
-^ FREQUENCY: | 
-^ ORGANIZATION: | 
-^ ACTIVITY CYCLE: | 
-^ DIET: | 
-^ INTELLIGENCE: | 
-^ TREASURE: | 
-^ ALIGNMENT: | 
+^ CLIMATE/TERRAIN: |  |
+^ FREQUENCY: |  |
+^ ORGANIZATION: |  |
+^ ACTIVITY CYCLE: |  |
+^ DIET: |  |
+^ INTELLIGENCE: |  |
+^ TREASURE: |  |
+^ ALIGNMENT: |  |
 | ||
-^ NO. APPEARING: | 
-^ ARMOR CLASS: | 
-^ MOVEMENT: | 
-^ HIT DICE: | 
-^ THAC0: | 
-^ NO. ATTACKS: | 
-^ DAMAGE/ATTACK: | 
-^ SPECIAL ATTACK: | 
-^ SPECIAL DEFENSES: | 
-^ MAGIC RESISTANCE: | 
-^ SIZE: | 
-^ MORALE: | 
-^ XP VALUE: | 
+^ NO. APPEARING: |  |
+^ ARMOR CLASS: |  |
+^ MOVEMENT: |  |
+^ HIT DICE: |  |
+^ THAC0: |  |
+^ NO. ATTACKS: |  |
+^ DAMAGE/ATTACK: |  |
+^ SPECIAL ATTACK: |  |
+^ SPECIAL DEFENSES: |  |
+^ MAGIC RESISTANCE: |  |
+^ SIZE: |  |
+^ MORALE: |  |
+^ XP VALUE: |  |
 
 Zombies are mindless, animated corpses controlled by their creator, usually an evil wizard or priest.
 
