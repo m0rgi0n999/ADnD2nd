@@ -1,9 +1,11 @@
-% !TEX TS-program = xelatex
-\documentclass[a4paper,serif]{rpg-module}
+%!TeX program = xelatex
+
+\documentclass[a4paper,serif,book]
 
 \usepackage{fontspec} % font
     \setmainfont{Zapf Calligraphic 801 SWA}
-\usepackage{parskip} % skipping a line is displayed as it should, instead of the usual indentation
+\usepackage{fancyhdr}
+\pagestyle{fancy}
 \usepackage{enumitem} % we control the margins in the lists
 \usepackage{graphicx} % inserting pictures
 \graphicspath{{images/}}
@@ -11,9 +13,14 @@
 \usepackage{pdfpages} % inserting pdf pages (for the cover)
 \usepackage{subfiles} % Best loaded last in the preamble
 
+%\title{Monstrous Compendium - Volume One}
+\author{David "Zeb" Cook, Steve Winter, Jon Pickens}
+\date{1989}
+
 
 \begin{document}
 
-
+%\maketitle % to be replaced with cover
+\subfile{sections/howtousethisbook}
 
 \end{document}
