@@ -3588,681 +3588,153 @@ Created over three centuries ago by Tal Alanan, an evil elven wizard, //The Watc
 <wrap indent>It is said that Tal Alanan kept close, covert watch over his elven subjects using this painting, and he was greatly feared for his intimate knowledge of the occurrences within his minor kingdom. Until he was overthrown by a neighboring woodland kingdom, he successfully crushed every rebellion raised against him and controlled all aspects of life within his magical reach. After his death, his possessions (including the painting) were collected, but later stolen by rival wizards. The painting’s whereabouts are currently unknown.</wrap>
 
 Widow’s Walk
-**GP Value:** 40,000
+**XP Value:** — **GP Value:** 40,000
 DraGon Magazine 179
-This painting shows the crowded dockside of a
-bustling port. Created by Balfas the Seafarer,
-famed for his love of ships and all things nautical,
-the painting was reportedly destroyed in the sack
-of his island manor, but reappeared in the collec-
-tion of Ramoth, of Northport. This is often cited
-as evidence that Ramoth in fact funded the raid
-on the manor—in any case, there is serious doubt
+This painting shows the crowded dockside of a bustling port. Created by Balfas the Seafarer, famed for his love of ships and all things nautical, the painting was reportedly destroyed in the sack of his island manor, but reappeared in the collection of Ramoth, of Northport. This is often cited as evidence that Ramoth in fact funded the raid on the manor—in any case, there is serious doubt that Ramoth can tap, or is even aware of, the true powers of his prize.\\
+<wrap indent>When someone viewing the painting looks closely at the crowd on the dockside, he or she immediately notices a representation of the person most on the viewer’s mind during that day. While initially startling and intriguing, this is but a minor effect of the painting, an intimate alignment with the viewer’s mind.</wrap>\\
+<wrap indent>The major power of the painting is to allow the viewer total protection from divination, detection, and scrying spells or powers. The viewer cannot be detected from afar by any means while concentrating on viewing the painting for 10 rounds. Psionics, scrying spells, devices such as //crystal balls// and //magical mirrors//—all are useless. If the viewer is a wizard of 6th level or above, this effect protects the character from detection by any creature up to the status of a demigod. The isolation effect lasts for up to eight hours or until the invoker consciously dispels it. During this time, he or she need not concentrate on maintaining the effect; nor is it necessary to continue viewing the painting. The effect can be invoked only once per day and can be granted to but one person at a time. This power does not confer any form of //invisibility//; the protection is restricted to magical and psionic forms of detection alone. Any creature that can see the viewer directly can attack without interference from the picture.</wrap>\\
+<wrap indent>In addition to the isolation effect, the viewer of the painting can cast each of the following wizard spells once per day, at the 18th level, by staring at the painting for one uninterrupted hour: //control weather//, //part water//, //water breathing//, and //fog cloud//. These spells may be maintained indefinitely in the viewer’s mind if uncast.</wrap>\\
+<wrap indent>The painting is relatively small, 2- by 2-foot square, and is lightly framed. Despite its fragile appearance, it is totally immune to damage from water or lightning. All other damage is saved against at +2.</wrap>
 
-**XP Value:** —
+===== Astrolabe =====
 
- 
-
- 
-
-that Ramoth can tap, or is even aware of, the true
-powers of his prize.
-
-When someone viewing the painting looks
-closely at the crowd on the dockside, he or she
-immediately notices a representation of the per-
-son most on the viewer’s mind during that day.
-While initially startling and intriguing, this is but
-a minor effect of the painting, an intimate align-
-ment with the viewer’s mind.
-
-The major power of the painting is to allow the
-viewer total protection from divination, detection,
-and scrying spells or powers. The viewer cannot
-be detected from afar by any means while con-
-centrating on viewing the painting for 10 rounds.
-Psionics, scrying spells, devices such as crystal
-balls and magical mirrors—all are useless. If the
-viewer is a wizard of 6th level or above, this
-effect protects the character from detection by
-any creature up to the status of a demigod. The
-isolation effect lasts for up to eight hours or until
-the invoker consciously dispels it. During this
-time, he or she need not concentrate on maintain-
-ing the effect; nor is it necessary to continue
-viewing the painting. The effect can be invoked
-only once per day and can be granted to but one
-person at a time. This power does not confer any
-form of invisibility; the protection is restricted to
-
-magical and psionic forms of detection alone.
-318
-
- 
-
-108
-
-X
-Any creature that can see the viewer directly can
-attack without interference from the picture.
-
-In addition to the isolation effect, the viewer of
-the painting can cast each of the following wizard
-spells once per day, at the 18th level, by staring at
-the painting for one uninterrupted hour: control
-weather, part water, water breathing, and fog
-cloud. These spells may be maintained indefi-
-nitely in the viewer’s mind if uncast.
-
-The painting is relatively small, 2- by 2-foot
-square, and is lightly framed. Despite its fragile
-appearance, it is totally immune to damage from
-water or lightning. All other damage is saved
-against at +2.
-
-Astrolabe
-
-The historical astrolabe was a device used to
-determine the astron of the sun, the moon, and
-other celestial objects. Originally, the navigator
-of a sea-going vessel would locate a relatively
-stationary stellar object (the North Star, for
-instance) and find its position. From that reading,
-the navigator would be able to calculate the
-approximate latitude of the ship. Since most sea
-travel was done on an east-to-west axis from
-common ports, the navigator rarely needed to
-know the longitude. Simply knowing that the ship
-was three days out of home port, the navigator
-would know the approximate number of days left
-in the voyage. The navigator did need to know
-how far north or south he or she was from the
-destination.
-
-A magical astrolabe allows a navigator to know
-exactly where the ship is, both in longitude and
-latitude, without having to make exact measure-
-ments and precise calculations.
+The historical astrolabe was a device used to determine the astron of the sun, the moon, and other celestial objects. Originally, the navigator of a sea-going vessel would locate a relatively stationary stellar object (the North Star, for instance) and find its position. From that reading, the navigator would be able to calculate the approximate latitude of the ship. Since most sea travel was done on an east-to-west axis from common ports, the navigator rarely needed to know the longitude. Simply knowing that the ship was three days out of home port, the navigator would know the approximate number of days left in the voyage. The navigator did need to know how far north or south he or she was from the destination.\\
+<wrap indent>A magical astrolabe allows a navigator to know exactly where the ship is, both in longitude and latitude, without having to make exact measurements and precise calculations.</wrap>
 
 Celestial
 **XP Value:** 2,000 **GP Value:** 8,000
 War Captain’s Companion
-
-Celestial astrolabes are large, fixed devices. They
-are used to display the location of astronomical
-bodies of Class A and larger. These fixed astro-
-labes display a large, spherical projection, and
-must be used inside a crystal sphere, in a dark
-room, or during the night, when no lights can dis-
-turb the picture. The item creates a three-dimen-
-sional picture, exactly to scale. The astrolabe
-shows the orbital path and the current location of
-every large or major celestial body in the crystal
-sphere. The 3-D picture perfectly fits the room it
-is in, or a radius of 30 feet, whichever is smaller.
-
-Astrolabe of Entrapment
-
-The points of varying colors of light a fixed
-astrolabe creates, show the motions and colors of
-all planets, moons, suns, asteroids, and comets
-(though some anomalies cannot be penetrated). A
-small point of white that blinks once every second
-shows the relative position of the astrolabe in the
-system. This is often used in navigation rooms to
-check course changes and verify headings.
-
-A celestial astrolabe always operates, and can-
-not be turned off. Merely bringing a light source
-into its room, however, is enough to nullify the
-faint picture it presents. Thus conferences and
-meetings can be held in a room with an astrolabe
-without the attendees realizing one is present.
+//Celestial astrolabes// are large, fixed devices. They are used to display the location of astronomical bodies of Class A and larger. These fixed astrolabes display a large, spherical projection, and must be used inside a crystal sphere, in a dark room, or during the night, when no lights can disturb the picture. The item creates a three-dimensional picture, exactly to scale. The astrolabe shows the orbital path and the current location of every large or major celestial body in the crystal sphere. The 3-D picture perfectly fits the room it is in, or a radius of 30 feet, whichever is smaller.\\
+<wrap indent>The points of varying colors of light a fixed astrolabe creates, show the motions and colors of all planets, moons, suns, asteroids, and comets (though some anomalies cannot be penetrated). A small point of white that blinks once every second shows the relative position of the astrolabe in the system. This is often used in navigation rooms to check course changes and verify headings.</wrap>\\
+<wrap indent>A //celestial astrolabe// always operates, and cannot be turned off. Merely bringing a light source into its room, however, is enough to nullify the faint picture it presents. Thus conferences and meetings can be held in a room with an astrolabe without the attendees realizing one is present.</wrap>
 
 of Henrik
 **XP Value:** — **GP Value:** 8,000
 In the Phantom’s Wake
-The astrolabe of Henrik is a cursed item of great
-power. When activated, it sends the user and
-everything within 10 feet of the user, to the near-
-est cursed location or to a place enchanted by
-evil. The astrolabe of Henrik usually sends
-people to the Hollandes, but the DM is free to
-send the characters anywhere. The device itself
-does not go with the transported party.
+The //astrolabe of Henrik// is a cursed item of great power. When activated, it sends the user and everything within 10 feet of the user, to the nearest cursed location or to a place enchanted by evil. The //astrolabe of Henrik// usually sends people to the Hollandes, but the DM is free to send the characters anywhere. The device itself does not go with the transported party.
 
 of Entrapment
 **XP Value:** 10,000 **GP Value:** 100,000
 A Dozen and One Adventures
+Only a handful of these powerful items exist. They appear to be metal, spherical astrolabes, inscribed with the locations of constellations and planets. Like all astrolabes, they are useful to wizards with the astrology proficiency, who can use the device to determine the hour, date, and location in terms of degrees latitude (each requiring a successful ability check). In addition, this item magically draws power from the motion of the stars and planets in the heavens and uses the energy to imprison genies.\\
+<wrap indent>An //astrolabe of entrapment// contains 12 genie prisons arranged in an elaborate mechanism inside its metal sphere. As the constellations wind their paths across the night sky, the inner cycle of prisons slowly revolves. Only one genie prison in the device is active in any given month. During that time, the owner of the astrolabe may employ any or all of its three functions:</wrap>\\
+* Summon the genie trapped within the active prison. Roll on the following table to determine each of the 12 prison contents:
 
-Only a handful of these powerful items exist.
-They appear to be metal, spherical astrolabes,
-inscribed with the locations of constellations and
-planets. Like all astrolabes, they are useful to
-wizards with the astrology proficiency, who can
-use the device to determine the hour, date, and
-location in terms of degrees latitude (each requir-
-ing a successful ability check). In addition, this
-item magically draws power from the motion of
-the stars and planets in the heavens and uses the
-energy to imprison genies.
+^ Roll ^ Type of Genie |
+| 01-20 | None. The trapped genie was released. |
+| 21-35 | Dyjinni. |
+| 36-55 | Dao. |
+| 56-75 | Efreeti. |
+| 76-90 | Marid. |
+| 91-96 | Tasked Genie (DM’s choice). |
+| 97-00 | Noble Genie (DM’s choice). |
 
-An astrolabe of entrapment contains 12 genie
-prisons arranged in an elaborate mechanism
-inside its metal sphere. As the constellations wind
-their paths across the night sky, the inner cycle of
-prisons slowly revolves. Only one genie prison in
-the device is active in any given month. During
-that time, the owner of the astrolabe may employ
-any or all of its three functions:
+<wrap indent>Once called, there is an 80% chance that the genie can be commanded to perform certain actions for the owner of the astrolabe, but there is a 20% chance that the trapped genie is so enraged that it attacks whoever is within reach for 2d12 rounds before the power of the astrolabe prevents further havoc. In these rare instances, the berserk genie may never harm the owner, though any nearby friends and family are fair game for the genie’s retribution. A trapped (and obedient) genie can only be summoned from its prison once per day to perform a specific task for its master.</wrap>\\
+* Free the genie trapped within the active prison. This might be risky, for once the genie is free, nothing can prevent it from seeking revenge on its previous master, the master’s friends, and family. Usually, fear of further imprisonment within the astrolabe keeps the genie from immediate, direct vengeance.
+* Trap a genie within the active prison. This function can only be used on a single genie within 30 feet of the astrolabe. The victim is entitled to a save vs. spell at a -6 penalty. If it fails, the genie is imprisoned and any genie previously trapped in the active prison is automatically released, with the consequences described above. If a genie makes its save, it is immune to the effects of the astrolabe for a full calendar month and during that time seeks to destroy both the device and its owner.
+<wrap indent>At the end of each month, the current prison deactivates for the next 11 months, trapping the genie inside with no chance for release until the clockwork prison mechanism inside the astrolabe has made another complete revolution. Most genies are aware of the 30 days of “parole” from their cyclical prison, and seek to convince the astrolabe’s owner to release them during that time by swearing oaths and pleading with promises of good behavior.</wrap>\\
+<wrap indent>Although powerful divination spells might hint cryptically at an astrolabe’s prisoners, the DM should never reveal what genies are trapped within an astrolabe when it is discovered.</wrap>
 
-* Summon the genie trapped within the active
-prison. Roll on the following table to deter-
+===== Awl =====
 
-mine each of the 12 prison contents:
-321
+An awl is a common leather working tool—a metal spike 3 inches or more in length with a wooden handle. Though normal awls are common, magical ones are not. Roll on the table below to determine what is found.
 
- 
-
-109
-
-My.
-Awl of the Above
-
-Roll Type of Genie
-
-01-20 None. The trapped genie was released.
-21-35  Dyjinni.
-
-36-55 Dao.
-
-56-75 Efreeti.
-
-76-90 = Marid.
-
-91-96  ‘Tasked Genie (DM’s choice).
-
-97-00 Noble Genie (DM’s choice).
-
-Once called, there is an 80% chance that the
-genie can be commanded to perform certain
-actions for the owner of the astrolabe, but there is
-a 20% chance that the trapped genie is so enraged
-that it attacks whoever is within reach for 2d12
-rounds before the power of the astrolabe prevents
-further havoc. In these rare instances, the berserk
-genie may never harm the owner, though any
-nearby friends and family are fair game for the
-genie’s retribution. A trapped (and obedient)
-genie can only be summoned from its prison once
-per day to perform a specific task for its master.
-¢ Free the genie trapped within the active prison.
-
-This might be risky, for once the genie is free,
-
-nothing can prevent it from seeking revenge
-
-on its previous master, the master’s friends,
-and family. Usually, fear of further imprison-
-ment within the astrolabe keeps the genie
-from immediate, direct vengeance.
-
-¢ Trap a genie within the active prison. This
-function can only be used on a single genie
-within 30 feet of the astrolabe. The victim is
-entitled to a save vs. spell at a -6 penalty. If it
-fails, the genie is imprisoned and any genie
-previously trapped in the active prison is auto-
-matically released, with the consequences
-described above. If a genie makes its save, it is
-
-immune to the effects of the astrolabe for a
-
-full calendar month and during that time seeks
-
-to destroy both the device and its owner.
-
-At the end of each month, the current prison
-deactivates for the next 11 months, trapping the
-genie inside with no chance for release until the
-clockwork prison mechanism inside the astrolabe
-has made another complete revolution. Most genies
-are aware of the 30 days of “parole” from their
-cyclical prison, and seek to convince the astrolabe’s
-owner to release them during that time by swearing
-oaths and pleading with promises of good behavior.
-
-Although powerful divination spells might hint
-cryptically at an astrolabe’s prisoners, the DM
-should never reveal what genies are trapped
-within an astrolabe when it is discovered.
-
-“Nl sesieeeieneneeeeeeieeeninnemeee eee enema
-
-Awl
-
-An awl is a common leather working tool—a
-metal spike 3 inches or more in length with a
-wooden handle. Though normal awls are com-
-mon, magical ones are not. Roll on the table
-below to determine what is found.
-
-Roll Awl Type
-01-70 ~—s Awl
-71-00 Ice Pick
+^ Roll ^ Awl Type |
+| 01-70 | Awl |
+| 71-00 | Ice Pick |
 
 of the Above
 **XP Value:** 1,000 **GP Value:** 5,000
 POLYHEDRON Newszine 23
+If this item is held and the command word spoken, it attracts the attention of an Immortal or a deity (a powerful being from the Outer Planes, immune to all character attacks and spells, with very great powers). This being’s actions are determined by rolling 1d6, using the chart below after applying the following adjustments. If the user is magically cursed when the awl is used (however minor the curse), or is Carrying a //cursed// item, a -1 penalty applies to the roll. If a //wish// is cast before the awl is used, //wishing// for good fortune, a +1 bonus applies. After the awl is used, there is no way to alter what occurs. The awl may be used once a year. The 1d6 table below is adjusted for the modifiers.
 
-If this item is held and the command word spoken,
-it attracts the attention of an Immortal or a deity (a
-powerful being from the Outer Planes, immune to
-all character attacks and spells, with very great
-powers). This being’s actions are determined by
-rolling 1d6, using the chart below after applying
-the following adjustments. If the user is magically
-cursed when the awl is used (however minor the
-curse), or is Carrying a cursed item, a-1 penalty
-applies to the roll. Ifa wish is cast before the awl is
-used, wishing for good fortune, a +1 bonus applies.
-After the awl is used, there is no way to alter what
-occurs. The awl may be used once a year. The 1d6
-table below is adjusted for the modifiers.
+^ Roll ^ Immortal Reaction |
+| 0 | Appear and then depart with both the character and the awl. (The character can only be retrieved by others, who must first regain the immortal’s attention and then please the creature with a great service or sacrifice). |
+| 1 | Appear, slay the character (no saving throw), and depart, leaving the awl. |
+| 2 | Ignore the summons (nothing happens). |
+| 3 | Appear, take the awl, and depart. |
+| 4 | Answer any three questions for the user, take the awl, and depart. |
+| 5 | Raise any one ability score by three points (to a maximum of 18), as desired by the user; the immortal takes the awl and departs. |
+| 6 | Grant one //wish// to the holder and depart, leaving the awl. |
+| 7 | Replace the user’s //wish// (usable any time thereafter), grant one other //wish// (made at that time), and depart, taking the awl. |
 
-Roll Immortal Reaction
-0 Appear and then depart with both the
-character and the awl. (The character can
-only be retrieved by others, who must
-first regain the immortal’s attention and
-then please the creature with a great ser-
-vice or sacrifice),
-
-l Appear, slay the character (no saving
-throw), and depart, leaving the awl.
-
-2 Ignore the summons (nothing happens).
-
-3 Appear, take the awl, and depart.
-
-4 Answer any three questions for the user,
-take the awl, and depart.
-
-5 Raise any one ability score by three
-
-points (to a maximum of 18), as desired
-by the user; the immortal takes the aw]
-and departs.
-
-6 Grant one wish to the holder and depart,
-leaving the awl.
-
-7 Replace the user’s wish (usable any time
-thereafter), grant one other wish (made at
-
-that time), and depart, taking the awl.
-322
-
- 
-
-110
-
-="
-Full
+Full
 **XP Value:** 3,000 **GP Value:** 12,000
 The Book of Marvelous Magic
-When this awl is inserted into a skin containing
-one or more drops of water, wine, or oil and the
-command word is spoken, it causes the container
-to fill completely with the same liquid. Only non-
-magical liquids can be affected by the full awl.
+When this awl is inserted into a skin containing one or more drops of water, wine, or oil and the command word is spoken, it causes the container to fill completely with the same liquid. Only non-magical liquids can be affected by the full awl.
 
 of Hole Punching
 **XP Value:** 300 **GP Value:** 5,000
 The Book of Marvelous Magic
-
-This awl can be used to create a hole large enough
-to see through (44-inch across and up to 5 feet
-deep) in any nonliving material—including mage
-wall spells and solid steel. It does not affect crea-
-tures of any kind and, if used on a magical
-weapon, it does not change or destroy the
-enchantments upon it. The awi of hole punching
-may be used as often as desired.
+This awl can be used to create a hole large enough to see through (44-inch across and up to 5 feet deep) in any nonliving material—including //mage wall// spells and solid steel. It does not affect creatures of any kind and, if used on a magical weapon, it does not change or destroy the enchantments upon it. The awi of //hole punching// may be used as often as desired.
 
 Inn
 **XP Value:** 1,000 **GP Value:** 8,000
 POLYHEDRON Newszine 23
-
-This item creates an apparently normal door out
-of thin air, on command. The door may be opened
-easily, and remains open for one turn. Anyone
-passing through the door arrives in a safe, friendly
-inn, where food, drink, and a good night’s rest
-may be had (though at 10 times normal prices).
-The inn contains one manager, one chef, one bar-
-keep, 50 furnished rooms, and 1d20 other visitors
-of various races (NPCs and monsters alike). At
-least one of each category also possesses an awl.
-It is magically impossible for any visitor to dis-
-obey the Manager or to attack or steal from the
-inn or from any other resident. There is only a
-gray mist outside of the inn, and the mist cannot
-be entered. All visitors leave the inn after break-
-fast (no saving throw). The awi/ inn may be used
-only once per week.
+This item creates an apparently normal door out of thin air, on command. The door may be opened easily, and remains open for one turn. Anyone passing through the door arrives in a safe, friendly inn, where food, drink, and a good night’s rest may be had (though at 10 times normal prices). The inn contains one manager, one chef, one barkeep, 50 furnished rooms, and 1d20 other visitors of various races (NPCs and monsters alike). At least one of each category also possesses an awl. It is magically impossible for any visitor to disobey the Manager or to attack or steal from the inn or from any other resident. There is only a gray mist outside of the inn, and the mist cannot be entered. All visitors leave the inn after breakfast (no saving throw). The awi/ inn may be used only once per week.
 
 Mess
 **XP Value:** 250 **GP Value:** 1,000
 The Book of Marvelous Magic
-This item has no intrinsic value. When a magical
-dinner plate is tapped by the awl, it produces five
-times the given amount of food, 15 meals per day
-instead of three—but just for that day. However,
-each diner must make a saving throw vs. spell
-while eating; failure indicates that the food spills
-out, staining the diner’s garments permanently
-
-Agni’s Red Axe
-
-"eee eee EERE”
-
-unless washed with soap of washing. The mess
-awl may be used as often as desired.
+This item has no intrinsic value. When a magical //dinner plate// is tapped by the awl, it produces five times the given amount of food, 15 meals per day instead of three—but just for that day. However, each diner must make a saving throw vs. spell while eating; failure indicates that the food spills out, staining the diner’s garments permanently unless washed with //soap of washing//. The mess awl may be used as often as desired.
 
 Out
 **XP Value:** 1,000 **GP Value:** 5,000
 POLYHEDRON Newszine 23
+When touched, this item forces the victim to immediately leave the dungeon in which the aw! is found, by the fastest available route. No saving throw applies, and the victim attempts to avoid all encounters until he or she is outside again. The victim may fight normally if cornered, but cannot stop to pick up any treasure. The //awl out// may be kept by the victim, and functions as a normal awl thereafter, as long as it is physically touching the victim. Note that if the awl leaves the victim’s hand or skin at any time, its original power returns.
 
-When touched, this item forces the victim to
-immediately leave the dungeon in which the aw! is
-found, by the fastest available route. No saving
-throw applies, and the victim attempts to avoid all
-encounters until he or she is outside again. The
-victim may fight normally if cornered, but cannot
-stop to pick up any treasure. The aw/ out may be
-kept by the victim, and functions as a normal awl
-thereafter, as long as it is physically touching the
-victim. Note that if the awl leaves the victim’s hand
-or skin at any time, its original power returns.
+===== Axe =====
 
-Axe
+Axes are woodcutting instruments with sharpened metal or stone heads and wooden handles. Axes are also used as weapons of war. War axes come in all sizes, from small hatchets and throwing axes to two-handed great axes. Many magically enchanted versions exist, particularly among the dwarves.\\
+<wrap indent>After determining the magical properties of the axe the character found, purchased, or traded for, roll on the following table to determine the type of axe found.</wrap>
 
-Axes are woodcutting instruments with sharp-
-ened metal or stone heads and wooden handles.
-Axes are also used as weapons of war. War axes
-come in all sizes, from small hatchets and throw-
-ing axes to two-handed great axes. Many magi-
-cally enchanted versions exist, particularly
-among the dwarves.
+^ Roll ^ Axe Type |
+| 01-08 | Battle Axe |
+| 09-15 | Carikkal |
+| 16-23 | Bhuj |
+| 24-31 | Eye-axe |
+| 32-38 | Forearm Axe |
+| 39-46 | Hand |
+| 47-54 | Hatchet |
+| 55-59 | Mace-axe |
+| 60-64 | Pick |
+| 65-69 | Pickaxe |
+| 70-77 | Shoka |
+| 78-85 | Throwing |
+| 86-92 | Tungi |
+| 93-00 | Two-handed Battle Axe |
 
-After determining the magical properties of the
-axe the character found, purchased, or traded for,
-roll on the following table to determine the type
-of axe found.
-
-Roll Axe Type
-
-01-08 Battle Axe
-
-09-15 Carikkal
-
-16-23 Bhuj
-
-24-31  Eye-axe
-
-32-38 Forearm Axe
-
-39-46 Hand
-
-47-54 Hatchet
-
-55-59 Mace-axe
-
-60-64 ~~ Pick
-
-65-69 ~——~ Pickaxe
-
-70-77 Shoka
-
-78-85 Throwing
-
-86-92 Tungi
-
-93-00 Two-handed Battle Axe
 Agni’s Red
-
 **XP Value:** **GP Value:** —
-
- 
-
 Legends & Lore
-Anyone hit by Agni’s glowing, red axe must save
-
-vs. paralyzation or burst into flames. Those fail-
-328
-
- 
-
-II
-
-Th
-ing the save suffer an additional 1d10 points of
-damage each round and cannot cast spells, fight,
-or do anything but roll on the ground until the
-flames are put out. The flames can only be
-quenched through magical means; ordinary
-water, even holy water, has no effect on them.
+Anyone hit by Agni’s glowing, red axe must save vs. paralyzation or burst into flames. Those failing the save suffer an additional 1d10 points of damage each round and cannot cast spells, fight, or do anything but roll on the ground until the flames are put out. The flames can only be quenched through magical means; ordinary water, even holy water, has no effect on them.
 
 Ama-Tsu-Mara’s Vorpal
 **XP Value:** — **GP Value:** —
 Legends & Lore
-The avatar carries a huge vorpal axe +5 (AL any
-lawful) that functions like a vorpal sword.
+The avatar carries a huge //vorpal axe// +5 (AL any lawful) that functions like a //vorpal sword//.
 
 Arumdina
 **XP Value:** — **GP Value:** —
 Monster Mythology
-Garl Glittergold, the father of the gnomish race,
-wields an intelligent battle axe named Arumdina.
-This axe cleaves through stone as easily as air,
-and slices through metal armor as if it didn’t
-exist.
+Garl Glittergold, the father of the gnomish race, wields an intelligent battle axe named Arumdina. This axe cleaves through stone as easily as air, and slices through metal armor as if it didn’t exist.
 
 Azuredge, Slayer of the Netherborn
 **XP Value:** 7,000 **GP Value:** 35,000
-
 New Item
-Azuredge is a medium-sized battle axe forged of
-silver, electrum, and steel alloys, its handle cast
-from solid steel and wrapped at the haft in blue
+//Azuredge// is a medium-sized battle axe forged of silver, electrum, and steel alloys, its handle cast from solid steel and wrapped at the haft in blue dragon skin. There is a star sapphire set into the pommel. It is as effective as a pure silver weapon and is magically enchanted with a number of powers, the least of which cause the edges of the axehead to shimmer a deep blue at all times. The axe has six runes carved into it, one along each edge on either side of the axe and one rune at the center of each side of the axe. At various times, the runes flash with blue radiance (apparently when their powers are active). Smaller runes are also carved into the handle, but these are only noticeable under close scrutiny. Though the wide, double-edged axe appears quite heavy and unwieldy, it is light and well-balanced in the hands of its chosen wielder.\\
+<wrap indent>//Azuredge's// origins are even more tightly tied to the City of Splendors than some suspect. A little over 300 years ago, Aghairon was marshalling his power as the premier wizard of Waterdeep under the just, though violent, rule of Lady Lauroun, Warlord of Waterdeep. Aghairon saw the last honorable Warlord of Waterdeep fall in battle, her body pierced by a score of orcish arrows. //Teleporting// her from the field, he performed her last request, “to ensure that she would always be able to aid the defense of the City of Splendors.” Having been preparing a magical axe to present to her, Aghairon’s magic bound a piece of Lauroun’s fleeting spirit to the weapon, making her forever an intelligent, soulful presence in an item capable of fulfilling her last request. Though its memory is not fully Lauroun’s, //Azuredge// remembers her creation and history as a weapon.</wrap>\\
+<wrap indent>Though powerful and eager to be used in the city’s defense, //Azuredge// waited six long years before her initial use. Upon Aghairon’s establishment of the Masked Lords’ Rule, the blue axe was given to Kherris—a warrior, Lord of Waterdeep, and great-grandfather of Baeron—to dispatch the heinous otherplanar creatures that emerged outside the city. Coming from the ruins of Halaster’s tower, these were the first dangers visited on Waterdeep from Undermountain. Legends tell of a battle late one night, when a flood of ghastly creatures spilled out of Undermountain, intent on the City herself. Aghairon’s magic slowed them but did not stop them all; many reached the city walls only to meet a tall, cloaked Lord holding the glistening, blue axe. //Azuredge// sent all the fiends back to their makers, its glowing blue radiance keeping the evils from Waterdeep.</wrap>\\
+<wrap indent>The axe was not seen again by Waterdhavians until the time of Baeron, the next open Lord of Waterdeep over 200 years later. After Baeron’s from his belt on the funeral pyre), the axe is not mentioned in any history of the City until Berrygon, a warrior/blacksmith from South Ward, wielded it against Bane’s forces during their invasion of Waterdeep at the Time of Troubles. With Berrygon’s fall, his final companion, the wizardess Caryn, risked a spell to //teleport// the axe to safety, sending it to Blackstaff Tower. Khelben kept watch over //Azuredge//, and added enchantments that allow him to watch over the wielder of the axe as well as to provide the magical effects for her reappearance. Khelben and Piergeiron do not interfere with //Azuredge// and her protection of the City, but they plan on keeping tabs on the axe and her chosen companions, making sure they do not stray from the Lords’ path, whether for Waterdeep’s good or not.</wrap>\\
+<wrap indent>Enchanted as it was (“to be as worthy a weapon as its wielder”’), //Azuredge's// powers wax and wane with each new wielder. The blue axe’s full powers and abilities are listed and activated as follows:</wrap>
 
-oN
-rh Ul)
-HY
-
-|
-
-ewe | | Feta
-ne tasake
-
-err
-
-a
-Ni
-
-eee
-Cae
-
-~~, Ama-Tsu-Mara’s Vorpal a
-
-dragon skin. There is a star sapphire set into the
-pommel. It is as effective as a pure silver weapon
-and is magically enchanted with a number of
-powers, the least of which cause the edges of the
-axehead to shimmer a deep blue at all times. The
-axe has six runes carved into it, one along each
-edge on either side of the axe and one rune at the
-center of each side of the axe. At various times,
-the runes flash with blue radiance (apparently
-when their powers are active). Smaller runes are
-also carved into the handle, but these are only
-noticeable under close scrutiny. Though the wide,
-double-edged axe appears quite heavy and
-unwieldy, it is light and well-balanced in the
-hands of its chosen wielder.
-
-Azuredge 5 origins are even more tightly tied to
-the City of Splendors than some suspect. A little
-over 300 years ago, Aghairon was marshalling his
-power as the premier wizard of Waterdeep under
-the just, though violent, rule of Lady Lauroun,
-Warlord of Waterdeep. Aghairon saw the last
-honorable Warlord of Waterdeep fall in battle, her
-body pierced by a score of orcish arrows. Tele-
-porting her from the field, he performed her last
-request, “to ensure that she would always be able
-to aid the defense of the City of Splendors.” Hav-
-ing been preparing a magical axe to present to
-her, Aghairon’s magic bound a piece of Lauroun’s
-
-ta
-
-HD)
-
- 
-
- 
-
- 
-
- 
-
- 
-
-112
-fleeting spirit to the weapon, making her forever
-an intelligent, soulful presence in an item capable
-of fulfilling her last request. Though its memory
-is not fully Lauroun’s, Azuredge remembers her
-creation and history as a weapon.
-
-Though powerful and eager to be used in the
-city’s defense, Azuredge waited six long years
-before her initial use. Upon Aghairon’s estab-
-lishment of the Masked Lords’ Rule, the blue
-axe was given to Kherris—a warrior, Lord of
-Waterdeep, and great-grandfather of Baeron—to
-dispatch the heinous otherplanar creatures that
-emerged outside the city. Coming from the ruins
-of Halaster’s tower, these were the first dangers
-visited on Waterdeep from Undermountain.
-Legends tell of a battle late one night, when a
-flood of ghastly creatures spilled out of Under-
-mountain, intent on the City herself. Aghairon’s
-magic slowed them but did not stop them all;
-many reached the city walls only to meet a tall,
-cloaked Lord holding the glistening, blue axe.
-Azuredge sent all the fiends back to their mak-
-ers, its glowing blue radiance keeping the evils
-from Waterdeep.
-
-The axe was not seen again by Waterdhavians
-until the time of Baeron, the next open Lord of
-Waterdeep over 200 years later. After Baeron’s
-
-Azuredge, Slayer of the Netherborn
-
-from his belt on the funeral pyre), the axe is not
-mentioned in any history of the City until Berry-
-gon, a warrior/blacksmith from South Ward,
-wielded it against Bane’s forces during their inva-
-sion of Waterdeep at the Time of Troubles. With
-Berrygon’s fall, his final companion, the wiz-
-ardess Caryn, risked a spell to fe/eport the axe to
-safety, sending it to Blackstaff Tower. Khelben
-kept watch over Azuredge, and added enchant-
-ments that allow him to watch over the wielder of
-the axe as well as to provide the magical effects
-for her reappearance. Khelben and Piergeiron do
-not interfere with Azuredge and her protection of
-the City, but they plan on keeping tabs on the axe
-and her chosen companions, making sure they do
-not stray from the Lords’ path, whether for Water-
-deep’s good or not.
-
-Enchanted as it was (“to be as worthy a weapon
-as its wielder”’), Azuredge 5 powers wax and wane
-with each new wielder. The blue axe’s full powers
-and abilities are listed and activated as follows:
-
-* The blue axe does not have any combat
-bonuses for attack or damage, but its magical
-construction allows it to hit creatures only
-affected by silver or magical weapons (even
-those only affected by +3 weapons). Its dam-
-age cannot be regenerated save by normal rest,
-making it an effective weapon against trolls.
-
-Battle Ave
-
- 
-
- 
-
- 
-
-113
-Brihaspati’s Axe
-
-* Immediately upon gaining the use of her, the
-wielder can command Azuredge to generate
-light (as the Ist-level spell).
-
-* After reaching 4th level (or wielding her for a
-year), Azuredge can be thrown at targets a
-number of times per day equal to the level of
-the fighter wielding her (a 6th-level paladin =
-6 throws per day). Other than that and the lack
-of combat bonuses, this power is identical to
-an axe of hurling (double damage when
-thrown).
-
-* At 8th level and above, the wielder can use
-Azuredge against undead and creatures from
-the lower planes as if she were a mace of dis-
-ruption. This power is coupled with Azuredge s
-ability to detect evil planar beings and undead,
-those creatures she was forged to slay; when-
-ever in the presence of undead or evil beings
-from outside the Prime Material Plane,
-Azuredge glows brightly (whether her wielder
-wishes her to or not) with cold azure flames
-enveloping the axehead (illuminating a 40-
-foot-radius).
-
-* Azuredge is an intelligent weapon (Intelli-
-gence 14, Ego 12) with a female identity,
-hence the references to the weapon as “‘she.”
-With sentience, she is the one who chooses
-her wielder (magically sticking to surfaces
-like sovereign glue until she is touched by one
-she deems worthy); she also has a limited
-detect alignment ability she uses on her wield-
-ers, which aids her in her choice (she chooses
-only good, most often chaotic, heroes). She
-chooses a wielder only after the passing of her
-previous wielder. She can communicate by
-speech or telepathy, though she rarely com-
-municates until the wielder is at least 12th
-level (any communication before to this is
-more apt to be heard as whispers or words in a
-dream), She can also resist identification
-magic at will, relinquishing only the informa-
-tion she wishes.
+* The blue axe does not have any combat bonuses for attack or damage, but its magical construction allows it to hit creatures only affected by silver or magical weapons (even those only affected by +3 weapons). Its damage cannot be regenerated save by normal rest, making it an effective weapon against trolls.
+* Immediately upon gaining the use of her, the wielder can command //Azuredge// to generate //light// (as the Ist-level spell).
+* After reaching 4th level (or wielding her for a year), //Azuredge// can be thrown at targets a number of times per day equal to the level of the fighter wielding her (a 6th-level paladin = 6 throws per day). Other than that and the lack of combat bonuses, this power is identical to an //axe of hurling// (double damage when thrown).
+* At 8th level and above, the wielder can use //Azuredge// against undead and creatures from the lower planes as if she were a //mace of disruption//. This power is coupled with //Azuredge's// ability to detect evil planar beings and undead, those creatures she was forged to slay; when- ever in the presence of undead or evil beings from outside the Prime Material Plane, //Azuredge// glows brightly (whether her wielder wishes her to or not) with cold azure flames enveloping the axehead (illuminating a 40-foot-radius).
+* //Azuredge// is an intelligent weapon (Intelligence 14, Ego 12) with a female identity, hence the references to the weapon as “‘she.” With sentience, she is the one who chooses her wielder (magically sticking to surfaces like //sovereign glue// until she is touched by one she deems worthy); she also has a limited //detect alignment// ability she uses on her wielders, which aids her in her choice (she chooses only good, most often chaotic, heroes). She chooses a wielder only after the passing of her previous wielder. She can communicate by speech or //telepathy//, though she rarely communicates until the wielder is at least 12th level (any communication before to this is more apt to be heard as whispers or words in a dream), She can also resist identification magic at will, relinquishing only the information she wishes.
 
 Brihaspati’s
-
 **XP Value:** — **GP Value:** —
 Legends & Lore
 While carrying his axe, Brihaspati cannot be hit
