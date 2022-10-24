@@ -3588,327 +3588,77 @@ Created over three centuries ago by Tal Alanan, an evil elven wizard, //The Watc
 <wrap indent>It is said that Tal Alanan kept close, covert watch over his elven subjects using this painting, and he was greatly feared for his intimate knowledge of the occurrences within his minor kingdom. Until he was overthrown by a neighboring woodland kingdom, he successfully crushed every rebellion raised against him and controlled all aspects of life within his magical reach. After his death, his possessions (including the painting) were collected, but later stolen by rival wizards. The painting’s whereabouts are currently unknown.</wrap>
 
 Widow’s Walk
-**GP Value:** 40,000
+**XP Value:** — **GP Value:** 40,000
 DraGon Magazine 179
-This painting shows the crowded dockside of a
-bustling port. Created by Balfas the Seafarer,
-famed for his love of ships and all things nautical,
-the painting was reportedly destroyed in the sack
-of his island manor, but reappeared in the collec-
-tion of Ramoth, of Northport. This is often cited
-as evidence that Ramoth in fact funded the raid
-on the manor—in any case, there is serious doubt
+This painting shows the crowded dockside of a bustling port. Created by Balfas the Seafarer, famed for his love of ships and all things nautical, the painting was reportedly destroyed in the sack of his island manor, but reappeared in the collection of Ramoth, of Northport. This is often cited as evidence that Ramoth in fact funded the raid on the manor—in any case, there is serious doubt that Ramoth can tap, or is even aware of, the true powers of his prize.\\
+<wrap indent>When someone viewing the painting looks closely at the crowd on the dockside, he or she immediately notices a representation of the person most on the viewer’s mind during that day. While initially startling and intriguing, this is but a minor effect of the painting, an intimate alignment with the viewer’s mind.</wrap>\\
+<wrap indent>The major power of the painting is to allow the viewer total protection from divination, detection, and scrying spells or powers. The viewer cannot be detected from afar by any means while concentrating on viewing the painting for 10 rounds. Psionics, scrying spells, devices such as //crystal balls// and //magical mirrors//—all are useless. If the viewer is a wizard of 6th level or above, this effect protects the character from detection by any creature up to the status of a demigod. The isolation effect lasts for up to eight hours or until the invoker consciously dispels it. During this time, he or she need not concentrate on maintaining the effect; nor is it necessary to continue viewing the painting. The effect can be invoked only once per day and can be granted to but one person at a time. This power does not confer any form of //invisibility//; the protection is restricted to magical and psionic forms of detection alone. Any creature that can see the viewer directly can attack without interference from the picture.</wrap>\\
+<wrap indent>In addition to the isolation effect, the viewer of the painting can cast each of the following wizard spells once per day, at the 18th level, by staring at the painting for one uninterrupted hour: //control weather//, //part water//, //water breathing//, and //fog cloud//. These spells may be maintained indefinitely in the viewer’s mind if uncast.</wrap>\\
+<wrap indent>The painting is relatively small, 2- by 2-foot square, and is lightly framed. Despite its fragile appearance, it is totally immune to damage from water or lightning. All other damage is saved against at +2.</wrap>
 
-**XP Value:** —
+===== Astrolabe =====
 
- 
-
- 
-
-that Ramoth can tap, or is even aware of, the true
-powers of his prize.
-
-When someone viewing the painting looks
-closely at the crowd on the dockside, he or she
-immediately notices a representation of the per-
-son most on the viewer’s mind during that day.
-While initially startling and intriguing, this is but
-a minor effect of the painting, an intimate align-
-ment with the viewer’s mind.
-
-The major power of the painting is to allow the
-viewer total protection from divination, detection,
-and scrying spells or powers. The viewer cannot
-be detected from afar by any means while con-
-centrating on viewing the painting for 10 rounds.
-Psionics, scrying spells, devices such as crystal
-balls and magical mirrors—all are useless. If the
-viewer is a wizard of 6th level or above, this
-effect protects the character from detection by
-any creature up to the status of a demigod. The
-isolation effect lasts for up to eight hours or until
-the invoker consciously dispels it. During this
-time, he or she need not concentrate on maintain-
-ing the effect; nor is it necessary to continue
-viewing the painting. The effect can be invoked
-only once per day and can be granted to but one
-person at a time. This power does not confer any
-form of invisibility; the protection is restricted to
-
-magical and psionic forms of detection alone.
-318
-
- 
-
-108
-
-X
-Any creature that can see the viewer directly can
-attack without interference from the picture.
-
-In addition to the isolation effect, the viewer of
-the painting can cast each of the following wizard
-spells once per day, at the 18th level, by staring at
-the painting for one uninterrupted hour: control
-weather, part water, water breathing, and fog
-cloud. These spells may be maintained indefi-
-nitely in the viewer’s mind if uncast.
-
-The painting is relatively small, 2- by 2-foot
-square, and is lightly framed. Despite its fragile
-appearance, it is totally immune to damage from
-water or lightning. All other damage is saved
-against at +2.
-
-Astrolabe
-
-The historical astrolabe was a device used to
-determine the astron of the sun, the moon, and
-other celestial objects. Originally, the navigator
-of a sea-going vessel would locate a relatively
-stationary stellar object (the North Star, for
-instance) and find its position. From that reading,
-the navigator would be able to calculate the
-approximate latitude of the ship. Since most sea
-travel was done on an east-to-west axis from
-common ports, the navigator rarely needed to
-know the longitude. Simply knowing that the ship
-was three days out of home port, the navigator
-would know the approximate number of days left
-in the voyage. The navigator did need to know
-how far north or south he or she was from the
-destination.
-
-A magical astrolabe allows a navigator to know
-exactly where the ship is, both in longitude and
-latitude, without having to make exact measure-
-ments and precise calculations.
+The historical astrolabe was a device used to determine the astron of the sun, the moon, and other celestial objects. Originally, the navigator of a sea-going vessel would locate a relatively stationary stellar object (the North Star, for instance) and find its position. From that reading, the navigator would be able to calculate the approximate latitude of the ship. Since most sea travel was done on an east-to-west axis from common ports, the navigator rarely needed to know the longitude. Simply knowing that the ship was three days out of home port, the navigator would know the approximate number of days left in the voyage. The navigator did need to know how far north or south he or she was from the destination.\\
+<wrap indent>A magical astrolabe allows a navigator to know exactly where the ship is, both in longitude and latitude, without having to make exact measurements and precise calculations.</wrap>
 
 Celestial
 **XP Value:** 2,000 **GP Value:** 8,000
 War Captain’s Companion
-
-Celestial astrolabes are large, fixed devices. They
-are used to display the location of astronomical
-bodies of Class A and larger. These fixed astro-
-labes display a large, spherical projection, and
-must be used inside a crystal sphere, in a dark
-room, or during the night, when no lights can dis-
-turb the picture. The item creates a three-dimen-
-sional picture, exactly to scale. The astrolabe
-shows the orbital path and the current location of
-every large or major celestial body in the crystal
-sphere. The 3-D picture perfectly fits the room it
-is in, or a radius of 30 feet, whichever is smaller.
-
-Astrolabe of Entrapment
-
-The points of varying colors of light a fixed
-astrolabe creates, show the motions and colors of
-all planets, moons, suns, asteroids, and comets
-(though some anomalies cannot be penetrated). A
-small point of white that blinks once every second
-shows the relative position of the astrolabe in the
-system. This is often used in navigation rooms to
-check course changes and verify headings.
-
-A celestial astrolabe always operates, and can-
-not be turned off. Merely bringing a light source
-into its room, however, is enough to nullify the
-faint picture it presents. Thus conferences and
-meetings can be held in a room with an astrolabe
-without the attendees realizing one is present.
+//Celestial astrolabes// are large, fixed devices. They are used to display the location of astronomical bodies of Class A and larger. These fixed astrolabes display a large, spherical projection, and must be used inside a crystal sphere, in a dark room, or during the night, when no lights can disturb the picture. The item creates a three-dimensional picture, exactly to scale. The astrolabe shows the orbital path and the current location of every large or major celestial body in the crystal sphere. The 3-D picture perfectly fits the room it is in, or a radius of 30 feet, whichever is smaller.\\
+<wrap indent>The points of varying colors of light a fixed astrolabe creates, show the motions and colors of all planets, moons, suns, asteroids, and comets (though some anomalies cannot be penetrated). A small point of white that blinks once every second shows the relative position of the astrolabe in the system. This is often used in navigation rooms to check course changes and verify headings.</wrap>\\
+<wrap indent>A //celestial astrolabe// always operates, and cannot be turned off. Merely bringing a light source into its room, however, is enough to nullify the faint picture it presents. Thus conferences and meetings can be held in a room with an astrolabe without the attendees realizing one is present.</wrap>
 
 of Henrik
 **XP Value:** — **GP Value:** 8,000
 In the Phantom’s Wake
-The astrolabe of Henrik is a cursed item of great
-power. When activated, it sends the user and
-everything within 10 feet of the user, to the near-
-est cursed location or to a place enchanted by
-evil. The astrolabe of Henrik usually sends
-people to the Hollandes, but the DM is free to
-send the characters anywhere. The device itself
-does not go with the transported party.
+The //astrolabe of Henrik// is a cursed item of great power. When activated, it sends the user and everything within 10 feet of the user, to the nearest cursed location or to a place enchanted by evil. The //astrolabe of Henrik// usually sends people to the Hollandes, but the DM is free to send the characters anywhere. The device itself does not go with the transported party.
 
 of Entrapment
 **XP Value:** 10,000 **GP Value:** 100,000
 A Dozen and One Adventures
+Only a handful of these powerful items exist. They appear to be metal, spherical astrolabes, inscribed with the locations of constellations and planets. Like all astrolabes, they are useful to wizards with the astrology proficiency, who can use the device to determine the hour, date, and location in terms of degrees latitude (each requiring a successful ability check). In addition, this item magically draws power from the motion of the stars and planets in the heavens and uses the energy to imprison genies.\\
+<wrap indent>An //astrolabe of entrapment// contains 12 genie prisons arranged in an elaborate mechanism inside its metal sphere. As the constellations wind their paths across the night sky, the inner cycle of prisons slowly revolves. Only one genie prison in the device is active in any given month. During that time, the owner of the astrolabe may employ any or all of its three functions:</wrap>\\
+* Summon the genie trapped within the active prison. Roll on the following table to determine each of the 12 prison contents:
 
-Only a handful of these powerful items exist.
-They appear to be metal, spherical astrolabes,
-inscribed with the locations of constellations and
-planets. Like all astrolabes, they are useful to
-wizards with the astrology proficiency, who can
-use the device to determine the hour, date, and
-location in terms of degrees latitude (each requir-
-ing a successful ability check). In addition, this
-item magically draws power from the motion of
-the stars and planets in the heavens and uses the
-energy to imprison genies.
+^ Roll ^ Type of Genie |
+| 01-20 | None. The trapped genie was released. |
+| 21-35 | Dyjinni. |
+| 36-55 | Dao. |
+| 56-75 | Efreeti. |
+| 76-90 | Marid. |
+| 91-96 | Tasked Genie (DM’s choice). |
+| 97-00 | Noble Genie (DM’s choice). |
 
-An astrolabe of entrapment contains 12 genie
-prisons arranged in an elaborate mechanism
-inside its metal sphere. As the constellations wind
-their paths across the night sky, the inner cycle of
-prisons slowly revolves. Only one genie prison in
-the device is active in any given month. During
-that time, the owner of the astrolabe may employ
-any or all of its three functions:
+<wrap indent>Once called, there is an 80% chance that the genie can be commanded to perform certain actions for the owner of the astrolabe, but there is a 20% chance that the trapped genie is so enraged that it attacks whoever is within reach for 2d12 rounds before the power of the astrolabe prevents further havoc. In these rare instances, the berserk genie may never harm the owner, though any nearby friends and family are fair game for the genie’s retribution. A trapped (and obedient) genie can only be summoned from its prison once per day to perform a specific task for its master.</wrap>\\
+* Free the genie trapped within the active prison. This might be risky, for once the genie is free, nothing can prevent it from seeking revenge on its previous master, the master’s friends, and family. Usually, fear of further imprisonment within the astrolabe keeps the genie from immediate, direct vengeance.
+* Trap a genie within the active prison. This function can only be used on a single genie within 30 feet of the astrolabe. The victim is entitled to a save vs. spell at a -6 penalty. If it fails, the genie is imprisoned and any genie previously trapped in the active prison is automatically released, with the consequences described above. If a genie makes its save, it is immune to the effects of the astrolabe for a full calendar month and during that time seeks to destroy both the device and its owner.
+<wrap indent>At the end of each month, the current prison deactivates for the next 11 months, trapping the genie inside with no chance for release until the clockwork prison mechanism inside the astrolabe has made another complete revolution. Most genies are aware of the 30 days of “parole” from their cyclical prison, and seek to convince the astrolabe’s owner to release them during that time by swearing oaths and pleading with promises of good behavior.</wrap>\\
+<wrap indent>Although powerful divination spells might hint cryptically at an astrolabe’s prisoners, the DM should never reveal what genies are trapped within an astrolabe when it is discovered.</wrap>
 
-* Summon the genie trapped within the active
-prison. Roll on the following table to deter-
+===== Awl =====
 
-mine each of the 12 prison contents:
-321
+An awl is a common leather working tool—a metal spike 3 inches or more in length with a wooden handle. Though normal awls are common, magical ones are not. Roll on the table below to determine what is found.
 
- 
-
-109
-
-My.
-Awl of the Above
-
-Roll Type of Genie
-
-01-20 None. The trapped genie was released.
-21-35  Dyjinni.
-
-36-55 Dao.
-
-56-75 Efreeti.
-
-76-90 = Marid.
-
-91-96  ‘Tasked Genie (DM’s choice).
-
-97-00 Noble Genie (DM’s choice).
-
-Once called, there is an 80% chance that the
-genie can be commanded to perform certain
-actions for the owner of the astrolabe, but there is
-a 20% chance that the trapped genie is so enraged
-that it attacks whoever is within reach for 2d12
-rounds before the power of the astrolabe prevents
-further havoc. In these rare instances, the berserk
-genie may never harm the owner, though any
-nearby friends and family are fair game for the
-genie’s retribution. A trapped (and obedient)
-genie can only be summoned from its prison once
-per day to perform a specific task for its master.
-¢ Free the genie trapped within the active prison.
-
-This might be risky, for once the genie is free,
-
-nothing can prevent it from seeking revenge
-
-on its previous master, the master’s friends,
-and family. Usually, fear of further imprison-
-ment within the astrolabe keeps the genie
-from immediate, direct vengeance.
-
-¢ Trap a genie within the active prison. This
-function can only be used on a single genie
-within 30 feet of the astrolabe. The victim is
-entitled to a save vs. spell at a -6 penalty. If it
-fails, the genie is imprisoned and any genie
-previously trapped in the active prison is auto-
-matically released, with the consequences
-described above. If a genie makes its save, it is
-
-immune to the effects of the astrolabe for a
-
-full calendar month and during that time seeks
-
-to destroy both the device and its owner.
-
-At the end of each month, the current prison
-deactivates for the next 11 months, trapping the
-genie inside with no chance for release until the
-clockwork prison mechanism inside the astrolabe
-has made another complete revolution. Most genies
-are aware of the 30 days of “parole” from their
-cyclical prison, and seek to convince the astrolabe’s
-owner to release them during that time by swearing
-oaths and pleading with promises of good behavior.
-
-Although powerful divination spells might hint
-cryptically at an astrolabe’s prisoners, the DM
-should never reveal what genies are trapped
-within an astrolabe when it is discovered.
-
-“Nl sesieeeieneneeeeeeieeeninnemeee eee enema
-
-Awl
-
-An awl is a common leather working tool—a
-metal spike 3 inches or more in length with a
-wooden handle. Though normal awls are com-
-mon, magical ones are not. Roll on the table
-below to determine what is found.
-
-Roll Awl Type
-01-70 ~—s Awl
-71-00 Ice Pick
+^ Roll ^ Awl Type |
+| 01-70 | Awl |
+| 71-00 | Ice Pick |
 
 of the Above
 **XP Value:** 1,000 **GP Value:** 5,000
 POLYHEDRON Newszine 23
+If this item is held and the command word spoken, it attracts the attention of an Immortal or a deity (a powerful being from the Outer Planes, immune to all character attacks and spells, with very great powers). This being’s actions are determined by rolling 1d6, using the chart below after applying the following adjustments. If the user is magically cursed when the awl is used (however minor the curse), or is Carrying a //cursed// item, a -1 penalty applies to the roll. If a //wish// is cast before the awl is used, //wishing// for good fortune, a +1 bonus applies. After the awl is used, there is no way to alter what occurs. The awl may be used once a year. The 1d6 table below is adjusted for the modifiers.
 
-If this item is held and the command word spoken,
-it attracts the attention of an Immortal or a deity (a
-powerful being from the Outer Planes, immune to
-all character attacks and spells, with very great
-powers). This being’s actions are determined by
-rolling 1d6, using the chart below after applying
-the following adjustments. If the user is magically
-cursed when the awl is used (however minor the
-curse), or is Carrying a cursed item, a-1 penalty
-applies to the roll. Ifa wish is cast before the awl is
-used, wishing for good fortune, a +1 bonus applies.
-After the awl is used, there is no way to alter what
-occurs. The awl may be used once a year. The 1d6
-table below is adjusted for the modifiers.
+^ Roll ^ Immortal Reaction |
+| 0 | Appear and then depart with both the character and the awl. (The character can only be retrieved by others, who must first regain the immortal’s attention and then please the creature with a great service or sacrifice). |
+| 1 | Appear, slay the character (no saving throw), and depart, leaving the awl. |
+| 2 | Ignore the summons (nothing happens). |
+| 3 | Appear, take the awl, and depart. |
+| 4 | Answer any three questions for the user, take the awl, and depart. |
+| 5 | Raise any one ability score by three points (to a maximum of 18), as desired by the user; the immortal takes the awl and departs. |
+| 6 | Grant one //wish// to the holder and depart, leaving the awl. |
+| 7 | Replace the user’s //wish// (usable any time thereafter), grant one other //wish// (made at that time), and depart, taking the awl. |
 
-Roll Immortal Reaction
-0 Appear and then depart with both the
-character and the awl. (The character can
-only be retrieved by others, who must
-first regain the immortal’s attention and
-then please the creature with a great ser-
-vice or sacrifice),
-
-l Appear, slay the character (no saving
-throw), and depart, leaving the awl.
-
-2 Ignore the summons (nothing happens).
-
-3 Appear, take the awl, and depart.
-
-4 Answer any three questions for the user,
-take the awl, and depart.
-
-5 Raise any one ability score by three
-
-points (to a maximum of 18), as desired
-by the user; the immortal takes the aw]
-and departs.
-
-6 Grant one wish to the holder and depart,
-leaving the awl.
-
-7 Replace the user’s wish (usable any time
-thereafter), grant one other wish (made at
-
-that time), and depart, taking the awl.
-322
-
- 
-
-110
-
-="
-Full
+Full
 **XP Value:** 3,000 **GP Value:** 12,000
 The Book of Marvelous Magic
 When this awl is inserted into a skin containing
