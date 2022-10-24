@@ -3661,143 +3661,55 @@ If this item is held and the command word spoken, it attracts the attention of a
 Full
 **XP Value:** 3,000 **GP Value:** 12,000
 The Book of Marvelous Magic
-When this awl is inserted into a skin containing
-one or more drops of water, wine, or oil and the
-command word is spoken, it causes the container
-to fill completely with the same liquid. Only non-
-magical liquids can be affected by the full awl.
+When this awl is inserted into a skin containing one or more drops of water, wine, or oil and the command word is spoken, it causes the container to fill completely with the same liquid. Only non-magical liquids can be affected by the full awl.
 
 of Hole Punching
 **XP Value:** 300 **GP Value:** 5,000
 The Book of Marvelous Magic
-
-This awl can be used to create a hole large enough
-to see through (44-inch across and up to 5 feet
-deep) in any nonliving material—including mage
-wall spells and solid steel. It does not affect crea-
-tures of any kind and, if used on a magical
-weapon, it does not change or destroy the
-enchantments upon it. The awi of hole punching
-may be used as often as desired.
+This awl can be used to create a hole large enough to see through (44-inch across and up to 5 feet deep) in any nonliving material—including //mage wall// spells and solid steel. It does not affect creatures of any kind and, if used on a magical weapon, it does not change or destroy the enchantments upon it. The awi of //hole punching// may be used as often as desired.
 
 Inn
 **XP Value:** 1,000 **GP Value:** 8,000
 POLYHEDRON Newszine 23
-
-This item creates an apparently normal door out
-of thin air, on command. The door may be opened
-easily, and remains open for one turn. Anyone
-passing through the door arrives in a safe, friendly
-inn, where food, drink, and a good night’s rest
-may be had (though at 10 times normal prices).
-The inn contains one manager, one chef, one bar-
-keep, 50 furnished rooms, and 1d20 other visitors
-of various races (NPCs and monsters alike). At
-least one of each category also possesses an awl.
-It is magically impossible for any visitor to dis-
-obey the Manager or to attack or steal from the
-inn or from any other resident. There is only a
-gray mist outside of the inn, and the mist cannot
-be entered. All visitors leave the inn after break-
-fast (no saving throw). The awi/ inn may be used
-only once per week.
+This item creates an apparently normal door out of thin air, on command. The door may be opened easily, and remains open for one turn. Anyone passing through the door arrives in a safe, friendly inn, where food, drink, and a good night’s rest may be had (though at 10 times normal prices). The inn contains one manager, one chef, one barkeep, 50 furnished rooms, and 1d20 other visitors of various races (NPCs and monsters alike). At least one of each category also possesses an awl. It is magically impossible for any visitor to disobey the Manager or to attack or steal from the inn or from any other resident. There is only a gray mist outside of the inn, and the mist cannot be entered. All visitors leave the inn after breakfast (no saving throw). The awi/ inn may be used only once per week.
 
 Mess
 **XP Value:** 250 **GP Value:** 1,000
 The Book of Marvelous Magic
-This item has no intrinsic value. When a magical
-dinner plate is tapped by the awl, it produces five
-times the given amount of food, 15 meals per day
-instead of three—but just for that day. However,
-each diner must make a saving throw vs. spell
-while eating; failure indicates that the food spills
-out, staining the diner’s garments permanently
-
-Agni’s Red Axe
-
-"eee eee EERE”
-
-unless washed with soap of washing. The mess
-awl may be used as often as desired.
+This item has no intrinsic value. When a magical //dinner plate// is tapped by the awl, it produces five times the given amount of food, 15 meals per day instead of three—but just for that day. However, each diner must make a saving throw vs. spell while eating; failure indicates that the food spills out, staining the diner’s garments permanently unless washed with //soap of washing//. The mess awl may be used as often as desired.
 
 Out
 **XP Value:** 1,000 **GP Value:** 5,000
 POLYHEDRON Newszine 23
+When touched, this item forces the victim to immediately leave the dungeon in which the aw! is found, by the fastest available route. No saving throw applies, and the victim attempts to avoid all encounters until he or she is outside again. The victim may fight normally if cornered, but cannot stop to pick up any treasure. The //awl out// may be kept by the victim, and functions as a normal awl thereafter, as long as it is physically touching the victim. Note that if the awl leaves the victim’s hand or skin at any time, its original power returns.
 
-When touched, this item forces the victim to
-immediately leave the dungeon in which the aw! is
-found, by the fastest available route. No saving
-throw applies, and the victim attempts to avoid all
-encounters until he or she is outside again. The
-victim may fight normally if cornered, but cannot
-stop to pick up any treasure. The aw/ out may be
-kept by the victim, and functions as a normal awl
-thereafter, as long as it is physically touching the
-victim. Note that if the awl leaves the victim’s hand
-or skin at any time, its original power returns.
+===== Axe =====
 
-Axe
+Axes are woodcutting instruments with sharpened metal or stone heads and wooden handles. Axes are also used as weapons of war. War axes come in all sizes, from small hatchets and throwing axes to two-handed great axes. Many magically enchanted versions exist, particularly among the dwarves.\\
+<wrap indent>After determining the magical properties of the axe the character found, purchased, or traded for, roll on the following table to determine the type of axe found.</wrap>
 
-Axes are woodcutting instruments with sharp-
-ened metal or stone heads and wooden handles.
-Axes are also used as weapons of war. War axes
-come in all sizes, from small hatchets and throw-
-ing axes to two-handed great axes. Many magi-
-cally enchanted versions exist, particularly
-among the dwarves.
+^ Roll ^ Axe Type |
+| 01-08 | Battle Axe |
+| 09-15 | Carikkal |
+| 16-23 | Bhuj |
+| 24-31 | Eye-axe |
+| 32-38 | Forearm Axe |
+| 39-46 | Hand |
+| 47-54 | Hatchet |
+| 55-59 | Mace-axe |
+| 60-64 | Pick |
+| 65-69 | Pickaxe |
+| 70-77 | Shoka |
+| 78-85 | Throwing |
+| 86-92 | Tungi |
+| 93-00 | Two-handed Battle Axe |
 
-After determining the magical properties of the
-axe the character found, purchased, or traded for,
-roll on the following table to determine the type
-of axe found.
-
-Roll Axe Type
-
-01-08 Battle Axe
-
-09-15 Carikkal
-
-16-23 Bhuj
-
-24-31  Eye-axe
-
-32-38 Forearm Axe
-
-39-46 Hand
-
-47-54 Hatchet
-
-55-59 Mace-axe
-
-60-64 ~~ Pick
-
-65-69 ~——~ Pickaxe
-
-70-77 Shoka
-
-78-85 Throwing
-
-86-92 Tungi
-
-93-00 Two-handed Battle Axe
 Agni’s Red
-
 **XP Value:** **GP Value:** —
-
- 
-
 Legends & Lore
 Anyone hit by Agni’s glowing, red axe must save
-
 vs. paralyzation or burst into flames. Those fail-
-328
-
- 
-
-II
-
-Th
-ing the save suffer an additional 1d10 points of
+ing the save suffer an additional 1d10 points of
 damage each round and cannot cast spells, fight,
 or do anything but roll on the ground until the
 flames are put out. The flames can only be
