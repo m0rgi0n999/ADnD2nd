@@ -1,39 +1,12 @@
-2145
+TSR 2145
 
- 
+Dungeons & Dragons
 
-    
+MONSTROUS COMPENDIUM® Annual Volume One
 
-ae Roy
+ADVANCED DUNGEONS & Dracons, AD&D, DUNGEON Mastir, AL-QADIM, FORGOTTEN REALMS, MONSTROUS COMPENDIUM, and RAVENLOFT are registered trademarks owned by TSR, Inc. DM, MonsTrous MANUAL, PLANESCAre, and the TSR logo are trademarks owned by TSR, Inc. All TSR characters, character names, and the distinctive likenesses thereof are trademarks owned by TSR, Inc. © 1994 TSR, Inc. All Rights Reserved. Printed in the U.S.A
 
-Dungeons{))ragons
-
- 
-
-MONSTROUS COMPENDIUM®
-Annual
-
- 
-
-    
-
-Volume One
- 
-
-MONSTROUS COMPENDIUM”
-Annual
-
-Volume One
-
- 
-
-ADVANCED DUNGEONS & Dracons, AD&D, DUNGEON Mastir, AL-QADIM, FORGOTTEN REALMS, MONSTROUS COMPENDIUM, and RAVENLOFT are registered trademarks
-owned by TSR, Inc. DM, MonsTrous MANUAL, PLANESCAre, and the TSR logo are trademarks owned by TSR, Inc. All TSR characters, character names, and the distinc-
-tive likenesses thereof are trademarks owned by TSR, Inc. © 1994 TSR, Inc. All Rights Reserved. Printed in the U.S.A
-
-Random House and its affiliate companies have worldwide distribution rights in the book trade for English-language products of TSR, Inc. Distributed to the toy and
-hobby trade by regional distributors. Distributed to the book and hobby trade in the United Kingdom by TSK Ltd. This material is protected under the copyright laws
-of the United States of America. Any reproduction or unauthorized use of the material contained herein is prohibited without the express written consent of TSK, Inc
+Random House and its affiliate companies have worldwide distribution rights in the book trade for English-language products of TSR, Inc. Distributed to the toy and hobby trade by regional distributors. Distributed to the book and hobby trade in the United Kingdom by TSK Ltd. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material contained herein is prohibited without the express written consent of TSK, Inc
 
 TSR Ltd
 
@@ -51,7 +24,7 @@ USA
 2145 ISBN 1-56076-838-X
 
  
-Editor: David Wise
+Editor: David Wise
 Project Coordinator: Roger Moore
 Cover Artist: Jeff Easley
 Interior Artist: Tony DiTerlizzi
@@ -61,357 +34,175 @@ Typography: Nancy J. Kerkstra
 Graphic Artist: Dawn Murin
 
  
- 
-
- 
-
 How to Use This Book
 
- 
+This book is the first annual MONSTROUS COMPENDIUM” appendix in a series featuring creatures that appeared in various TSR role-playing games and periodicals over a single year—in this case, 1993. The selections come from myriad game worlds, but they've been developed with the intent to make them useful in any campaign setting; those who own products containing these monsters may discover slight variations if they compare the respective entries. Even so, monsters that come from product lines like the AL-QADIM® campaign setting or the RAVENLOFT® setting’s realm of terror often remain quite distinctive, and they should be chosen with care for use in an adventure. For example, most adventurers aren’t likely to happen upon a tasked genie or a psionic lich as they wander along the road to glory. Therefore, there are no standard “random encounter” tables included in this text. Instead, some advice on how to generate adventure-specific random encounters has been added. See page 6, “Beyond Random Encounters.”\\
+<wrap indent>Each monster entry includes the following information:</wrap>\\
 
- 
+**CLIMATE/TERRAIN** defines where the creature is most often found. Normally, climates include terms such as arctic, subarctic, temperate, and tropical. Terrain types include plain/scrub, forest, rough/hill, mountain, swamp, and desert.
 
-This book is the first annual MONSTROUS COMPENDIUM” appen-
-dix in a series featuring creatures that appeared in various TSR
-role-playing games and periodicals over a single year—in this
-case, 1993. The selections come from myriad game worlds, but
-they've been developed with the intent to make them useful in
-any campaign setting; those who own products containing
-these monsters may discover slight variations if they compare
-the respective entries. Even so, monsters that come from prod-
-uct lines like the AL-QADIM® campaign setting or the
-RAVENLOFT® setting’s realm of terror often remain quite dis-
-tinctive, and they should be chosen with care for use in an
-adventure. For example, most adventurers aren’t likely to hap-
-pen upon a tasked genie or a psionic lich as they wander along
-the road to glory. Therefore, there are no standard “random
-encounter” tables included in this text. Instead, some advice
-on how to generate adventure-specific random encounters has
-been added. See page 6, “Beyond Random Encounters.”
-Each monster entry includes the following information:
+**FREQUENCY** is the likelihood of encountering a creature in any given area. Very rare indicates a 4% chance, rare is 11%, uncommon is 20%, and common is a 65% chance. Chances can be adjusted for special areas. This entry can be used as a guideline for adventure design.
 
-CLIMATE/TERRAIN defines where the creature is most often
-found. Normally, climates include terms such as arctic, subarc-
-tic, temperate, and tropical. Terrain types include plain/scrub,
-forest, rough/hill, mountain, swamp, and desert.
+**ORGANIZATION** is a description of the general social structure that the monster adopts. Common types are solitary, clan, pack, herd, and flock. In many cases, solitary includes small family groups or mated pairs.
 
-FREQUENCY is the likelihood of encountering a creature in
-any given area. Very rare indicates a 4% chance, rare is 11%,
-uncommon is 20%, and common is a 65% chance. Chances can
-be adjusted for special areas. This entry can be used as a
-guideline for adventure design.
+**ACTIVITY CYCLE** is the time of day when the monster is normally awake and most alert. Those who tend to be busiest at night may be active at any time in subterranean or similar settings. It is worth remembering that the activity cycle entry is a general guide, and exceptions are fairly common.
 
-ORGANIZATION is a description of the general social struc-
-ture that the monster adopts. Common types are solitary, clan,
-pack, herd, and flock. In many cases, solitary includes small
-family groups or mated pairs.
+**DIET** indicates what the creature generally eats, of course. Carnivores eat meat, herbivores eat plants, omnivores eat either, and scavengers dine mainly on carrion. Unusual entries, like life energy or emotions, may appear from time to time, and they are fully explained in the text.
 
-ACTIVITY CYCLE is the time of day when the monster is
-normally awake and most alert. Those who tend to be busiest
-at night may be active at any time in subterranean or similar
-settings. It is worth remembering that the activity cycle entry
-is a general guide, and exceptions are fairly common.
+**INTELLIGENCE** is the equivalent of the attribute score of the same name. Certain unintelligent monsters are instinctively cunning hunters, and these are noted in the monster descriptions. Ratings correspond roughly to the following Intelligence ability scores:
 
-DIET indicates what the creature generally eats, of course.
-Carnivores eat meat, herbivores eat plants, omnivores eat
-either, and scavengers dine mainly on carrion. Unusual
-entries, like life energy or emotions, may appear from time to
-time, and they are fully explained in the text.
+| 0 | Non-intelligent or not ratable |
+| 1 | Animal intelligence |
+| 2-4 | Semi-intelligent |
+| 5-7 | Low intelligence |
+| 8-10 | Average (human) intelligence |
+| 11-12 | Very intelligent |
+| 13-14 | Highly intelligent |
+| 15-16 | Exceptionally intelligent |
+| 17-18 | Genius |
+| 19-20 | Supra-genius |
+| 21+ | Godlike intelligence |
 
-INTELLIGENCE is the equivalent of the attribute score of the
-same name. Certain unintelligent monsters are instinctively
-cunning hunters, and these are noted in the monster descrip-
-tions. Ratings correspond roughly to the following Intelli-
-gence ability scores:
+**TREASURE** refers to the treasure tables that are found in the //Dungeon Master® Guide (DMG)//. The entry indicates the type of treasure likely to be found on or with an individual monster. Treasure should be adjusted downward if only a few monsters are encountered. This figure may be further increased or decreased at the DM's discretion. These tables should not be used to place dungeon treasure, as numbers encountered underground will be much smaller. Intelligent monsters will usually use magical items that are present, and try to carry off their most valuable treasures if hard-pressed.\\
+<wrap indent>Major treasures are normally found in the monster's lair and designated in parentheses. As a rule, these should not be determined randomly, but ought to be designed and placed by the DM. If he or she decides to assign such treasure randomly, it’s best to roll for each type possible; if all rolls fail, no treasure of any type is found.</wrap>\\
+<wrap indent>Unusually large or small treasures are noted by a parenthetical multiplier (x10, x½, etc.). These should not be confused with treasure type X.</wrap>
 
-0 Non-intelligent or not ratable
-1 Animal intelligence
-244 Semi-intelligent
->! Low intelligence
-8-10 Average (human) intelligence
+**ALIGNMENT** indicates the general behavior of an average monster of that type. Exceptions, though uncommon, may certainly be encountered.
 
-11-12 Very intelligent
-13-14 Highly intelligent
-15-16 Exceptionally intelligent
-17-18 Genius
-19-20 Supra-genius
-21+ Godlike intelligence
+**NO. APPEARING** indicates an average number of creatures that will be encountered in the wild. The DM should alter this to fit particular circumstances as the need arises. In many cases, additional information on this topic will be presented in the Habitat/Society or Ecology section.
 
-TREASURE refers to the treasure tables that are found in the
-DuNnGEON Master® Guide (DMG). The entry indicates the type
-of treasure likely to be found on or with an individual mon-
-ster. Treasure should be adjusted downward if only a few
-monsters are encountered. This figure may be further
-increased or decreased at the DM's discretion. These tables
-should not be used to place dungeon treasure, as numbers
-encountered underground will be much smaller. Intelligent
-monsters will usually use magical items that are present, and
-try to carry off their most valuable treasures if hard-pressed.
+**ARMOR CLASS** is a rating of the monster's resistance to damage in combat. In many cases this is based upon the creature’s natural defenses, but it can also indicate armor worn by humanoids or other creatures. In some cases, high speed, natural agility, or magical protection may play a part in the determination of a creature’s Armor Class rating. Humans and humanoids of roughly man size that wear armor will have an unarmored rating in parentheses. Listed ACs do not include any special bonuses noted in the monster's description.
 
-Major treasures are normally found in the monster's lair
-and designated in parentheses. As a rule, these should not be
-determined randomly, but ought to be designed and placed by
-the DM. If he or she decides to assign such treasure randomly,
-it’s best to roll for each type possible; if all rolls fail, no treasure
-of any type is found.
+**MOVEMENT** shows the relative speed of the creature compared to an unencumbered human, who has a rating of 12. Higher speeds may be possible for short periods. Human, demihuman, and humanoid movement rates are often modified by armor type (unarmored rates are given in parentheses). Movement through common media are abbreviated as follows:
 
-Unusually large or small treasures are noted by a paren-
-thetical multiplier (x10, x’, etc.). These should not be confused
-with treasure type X.
+| Fl | Flying |
+| Sw | Swimming |
+| Br | Burrowing |
+| Wb | Moving in a web |
 
-ALIGNMENT indicates the general behavior of an average
-monster of that type. Exceptions, though uncommon, may cer-
-tainly be encountered.
+Flying creatures also have a maneuverability class of A to E, which is indicated in parentheses. Complete information on maneuverability classes and their use can be found in the aerial combat rules in the //DMG//.
 
-NO. APPEARING indicates an average number of creatures
-that will be encountered in the wild. The DM should alter this
-to fit particular circumstances as the need arises. In many
-cases, additional information on this topic will be presented in
-the Habitat/Society or Ecology section.
+**HIT DICE** indicates the number of dice rolled to generate the creature's hit points. Unless otherwise stated, Hit Dice are 8-sided. The Hit Dice are rolled and the numbers shown are added to determine the monster’s hit points.\\
+<wrap indent>Some monsters will have additional points added to the total rolled on the Hit Dice. Thus, a creature with a rating of 4+4 has between 8 and 36 hit points. Monsters with a bonus of +3 or more added to their rolled hit points are considered to have an extra Hit Die for the purposes of attack rolls and saving throws. Thus, a creature with 4 + 4 HD attacks and saves as if it had 5 Hit Dice.</wrap>\\
+<wrap indent>In rare cases, a monster will have a hit point spread without a Hit Dice rating. In order to determine the number of Hit Dice that such creatures have for attacks and saving throws, divide the listed hit points by 4. Round the Hit Die rating up with remainders of 0.5 or greater, and drop all other fractions.</wrap>
 
-ARMOR CLASS is a rating of the monster's resistance to
-damage in combat. In many cases this is based upon the crea-
-ture’s natural defenses, but it can also indicate armor worn by
-humanoids or other creatures. In some cases, high speed, nat-
-ural agility, or magical protection may play a part in the deter-
-mination of a creature’s Armor Class rating. Humans and
-humanoids of roughly man size that wear armor will have an
-unarmored rating in parentheses. Listed ACs do not include any
-special bonuses noted in the monster's description.
+**THAC0** is the base roll that the monster needs to hit an enemy with an Armor Class of 0. This is a function of Hit Dice, as described in the Combat section of the //DMG//. Modifiers to the creature's attack roll will be presented in the **Combat** section of the entry, but the listed THACO does not include any special bonuses.
 
-MOVEMENT shows the relative speed of the creature com-
-pared to an unencumbered human, who has a rating of 12.
-Higher speeds may be possible for short periods. Human,
-demihuman, and humanoid movement rates are often modi-
-fied by armor type (unarmored rates are given in parenthe-
-ses). Movement through common media are abbreviated as
-follows:
+**NO. OF ATTACKS** indicates the number of times that the monster can attack in a single round. Multiple attacks can indicate several attacking arms, raking paws, multiple heads, etc. In some cases this does not include special attacks listed in the Combat section, but the text will make that clear. This number may be modified by hits that sever members, by haste and slow spells, and so forth.
 
-Fl Flying
-Sw Swimming
-Br Burrowing
-Wb Moving in a web
+**DAMAGE/ATTACK** shows the severity of a given attack and is expressed as a number and type of dice, which are rolled to determine the total number of hit points lost by the target of the attack. If the monster uses weapons, the damage listed is for its favored weapon. Damage bonuses due to high strength, special abilities, and the like are listed in the Combat section of the entry.
 
-Flying creatures also have a maneuverability class of A to E,
-which is indicated in parentheses. Complete information on
-maneuverability classes and their use can be found in the aer-
-ial combat rules in the DMG.
+**SPECIAL ATTACKS** details any unusual attack modes possessed by the creature such as breath weapons, spell use, poison, and the like. These are fully explained in the monster description.
 
-HIT DICE indicates the number of dice rolled to generate the
-creature's hit points. Unless otherwise stated, Hit Dice are 8-
-sided. The Hit Dice are rolled and the numbers shown are
-added to determine the monster’s hit points.
+**SPECIAL DEFENSES** provides information detailing any unusual resistances to harm that the monster might have. These commonly include an immunity to certain forms of attack or an invulnerability to nonmagical weapons, among other possibilities. These are fully detailed in the monster description.
 
-Some monsters will have additional points added to the
-total rolled on the Hit Dice. Thus, a creature with a rating of
-How to Use This Book
+**MAGIC RESISTANCE** is the percentage chance that magic cast upon the creature will fail to affect it, even if other creatures nearby are affected. If the spell penetrates this resistance, the creature is still entitled to any saving throws normally allowed.
 
- 
+**SIZE** is an indication of the overall dimensions of the creature. In the case of humanoids, it indicates the height of the monster. For other creatures (snakes and dragons, for example), it refers to the monster's length. Other measurements are possible and will be explained in the text.
 
- 
+| T= tiny | under 2 feet tall |
+| S =small | 2 to 4 feet tall |
+| M = man-sized | 4 to 7 feet tall |
+| L = large | 7 to 12 feet tall |
+| H = huge | 12 to 25 feet tall |
+| G = gargantuan | over 25 feet tall |
 
-4+4 has between 8 and 36 hit points. Monsters with a bonus of
-+3 or more added to their rolled hit points are considered to
-have an extra Hit Die for the purposes of attack rolls and sav-
-ing throws. Thus, a creature with 4 + 4 HD attacks and saves
-as if it had 5 Hit Dice.
+**MORALE** is a general rating of how likely the monster is to persevere in the face of adversity or armed opposition. This guideline may be adjusted for individual circumstances. Morale ratings correspond to the following range:
 
-In rare cases, a monster will have a hit point spread with-
-out a Hit Dice rating. In order to determine the number of Hit
-Dice that such creatures have for attacks and saving throws,
-divide the listed hit points by 4. Round the Hit Die rating up
-with remainders of 0.5 or greater, and drop all other fractions.
+| 2-4 | Unreliable |
+| 5-7 | Unsteady |
+| 8-10 | Average |
+| 11-12 | Steady |
+| 13-14 | Elite |
+| 15-16 | Champion |
+| 17-18 | Fanatic |
+| 19-20 | Fearless |
 
-THAC0 is the base roll that the monster needs to hit an enemy
-with an Armor Class of 0. This is a function of Hit Dice, as
-described in the Combat section of the DMG. Modifiers to the
-creature's attack roll will be presented in the Combat section
-of the entry, but the listed THACO does not include any special
-bonuses.
+**XP VALUE** is the number of experience points awarded for defeating (not necessarily killing) the monster. This value is a guideline that may be modified by the DM for the degree of challenge, encounter situation, and overall campaign balance.
 
-NO. OF ATTACKS indicates the number of times that the
-monster can attack in a single round. Multiple attacks can
-indicate several attacking arms, raking paws, multiple heads,
-etc. In some cases this does not include special attacks listed in
-the Combat section, but the text will make that clear. This
-number may be modified by hits that sever members, by haste
-and slow spells, and so forth.
+**PSIONICS** gives a complete breakdown of the creature's innate psionic abilities, including sciences or devotions known and PSPs available. A thorough understanding of this section requires familiarity with the Complete Psionics Handbook. This entry is included only for those creatures that have psionic powers.
 
-DAMAGE/ATTACK shows the severity of a given attack and
-is expressed as a number and type of dice, which are rolled to
-determine the total number of hit points lost by the target of
-the attack. If the monster uses weapons, the damage listed is
-for its favored weapon. Damage bonuses due to high strength,
-special abilities, and the like are listed in the Combat section
-of the entry.
+**Combat** provides all of the information that a DM will need to resolve a battle with the monster. Among other things, it details special combat abilities, arms or armor, and unusual tactics employed by the creature.
 
-SPECIAL ATTACKS details any unusual attack modes pos-
-sessed by the creature such as breath weapons, spell use, poi-
-son, and the like. These are fully explained in the monster
-description.
+**Habitat/Society** outlines the monster’s general behavior, nature, social structure, and goals. Whereas the previous section provided information needed for resolving skirmishes involving the creature, this entry provides information useful for role-playing encounters.
 
-SPECIAL DEFENSES provides information detailing any
-unusual resistances to harm that the monster might have.
-These commonly include an immunity to certain forms of
-attack or an invulnerability to nonmagical weapons, among
-other possibilities. These are fully detailed in the monster
-description.
+**Ecology** describes how the monster fits into the campaign world, gives useful products or byproducts of the creature, and presents other miscellaneous information. This information can help the Dungeon Master decide exactly when and where to introduce the monster into his or her campaign.
 
-MAGIC RESISTANCE is the percentage chance that magic
-cast upon the creature will fail to affect it, even if other crea-
-tures nearby are affected. If the spell penetrates this resistance,
-the creature is still entitled to any saving throws normally
-allowed.
+**Close Variations** of a monster are given in a special section after the main monster entry. For example, the (dog,) suluqi entry also includes a brief discussion of the jungle hound, a closely related creature.
 
-SIZE is an indication of the overall dimensions of the creature.
-In the case of humanoids, it indicates the height of the mon-
-ster. For other creatures (snakes and dragons, for example), it
-refers to the monster's length. Other measurements are possi-
-ble and will be explained in the text.
+===== Calculating Experience Points =====
 
-T= tiny under 2 feet tall
-S =small 2 to 4 feet tall
-M = man-sized 4 to 7 feet tall
+One of the things that game designers love to do is change things. As of this writing, it has been about five years since the final touches were put into ADVANCED DUNGEONS & DRAGONS” 2nd Edition rules. In that time, a number of major and minor changes have been introduced to the game system. One of the more important revisions is a change to the formula used to calculate experience-point rewards for defeating the various monsters encountered during an adventure. This revision was introduced in the Monstrous Manual hardbound and has become the new standard for the calculation of experience points.\\
+<wrap indent>The experience point values for the monsters in this MONSTROUS COMPENDIUM appendix have all been calculated using the new, revised rules. The table to the right, updating the one printed in the AD&D* 2nd Edition //DUNGEON MASTER Guide//, is provided in order to make the DM's task easier when designing his or her own monsters.</wrap>\\
+<wrap indent>It’s worth noting that there are cases where DMs will want to deviate from the values given here. Some monsters are so powerful that the experience point rewards generated with these tables will be far less than a party might deserve. A good example of such a creature is one of the denizens of the Abyss, described in the PLANESCAPE” campaign setting, or any of the various darklords of the RAVENLOFT campaign setting.</wrap>
 
-= large 7 to 12 feet tall
-H = huge 12 to 25 feet tall
+====== What has changed? ======
 
-G = gargantuan over 25 feet tall
+None of these changes affects the general way in which experience points are calculated. A DM still begins by noting the number of Hit Dice that a monster has (Table 31) and then applying some modifiers, based on the general powers and abilities of that creature. Only the modifiers (Table 32) have changed, although both tables have been printed here for easy reference.\\
+<wrap indent>Two new entries for psionic abilities have been added to the table. Thus, the possibility that a monster might have psionic disciplines (see //The Complete Psionics Handbook//) available to it has now been taken into account. Dungeon Masters who are not using psionic powers in their campaigns can simply ignore these additions.</wrap>\\
+<wrap indent>Both the **magic resistance** and **breath weapon** entries have been split into two categories, reflecting the great range of possibilities within these classifications.</wrap>\\
+<wrap indent>The bonus normally awarded for flight has been expanded to include other special forms of movement. Thus, a monster like a bullette or xorn, which can travel through the earth at great speed, would receive the same adjustment to its experience point value as a flying creature.</wrap>\\
+<wrap indent>Of course, exceptions and unusual cases will still crop up. When this happens, Dungeon Masters will simply have to use a little common sense in the awarding of experience points.</wrap>
 
-MORALE is a general rating of how likely the monster is to
-persevere in the face of adversity or armed opposition. This
-guideline may be adjusted for individual circumstances.
-Morale ratings correspond to the following range:
-
-2-4 Unreliable
-5-7 Unsteady
-8-10 Average
-11-12 Steady
-13-14 Elite
-15-16 Champion
-17-18 Fanatic
-19-20 Fearless
-
-XP VALUE is the number of experience points awarded for
-defeating (not necessarily killing) the monster. This value is a
-guideline that may be modified by the DM for the degree of
-challenge, encounter situation, and overall campaign balance.
-
-PSIONICS gives a complete breakdown of the creature's
-innate psionic abilities, including sciences or devotions known
-and PSPs available. A thorough understanding of this section
-requires familiarity with the Complete Psionics Handbook. This
-entry is included only for those creatures that have psionic
-powers.
-
-Combat provides all of the information that a DM will need to
-resolve a battle with the monster. Among other things, it
-details special combat abilities, arms or armor, and unusual
-tactics employed by the creature.
-
-Habitat/Society outlines the monster’s general behavior,
-nature, social structure, and goals. Whereas the previous sec-
-tion provided information needed for resolving skirmishes
-involving the creature, this entry provides information useful
-for role-playing encounters.
-
-Ecology describes how the monster fits into the campaign
-world, gives useful products or byproducts of the creature,
-and presents other miscellaneous information. This informa-
-tion can help the Dungeon Master decide exactly when and
-where to introduce the monster into his or her campaign.
-
-Close Variations of a monster are given in a special section
-after the main monster entry. For example, the (dog,) suluqi
-entry also includes a brief discussion of the jungle hound, a
-closely related creature.
-
- 
- 
-
-= eee
-
-Calculating Experience Points
-
- 
-
- 
-
-One of the things that game designers love to do is change
-things. As of this writing, it has been about five years since the
-final touches were put into ADVANCED DUNGEONS & DRAGONS”
-2nd Edition rules. In that time, a number of major and minor
-changes have been introduced to the game system. One of the
-more important revisions is a change to the formula used to
-calculate experience-point rewards for defeating the various
-monsters encountered during an adventure. This revision was
-introduced in the Monstrous Manual hardbound and has
-become the new standard for the calculation of experience
-points.
-
-The experience point values for the monsters in this
-MONSTROUS COMPENDIUM appendix have all been calculated
-using the new, revised rules. The table to the right, updating
-the one printed in the AD&D* 2nd Edition DUNGEON MASTER
-Guide, is provided in order to make the DM's task easier when
-designing his or her own monsters.
-
-It’s worth noting that there are cases where DMs will want
-to deviate from the values given here. Some monsters are so
-powerful that the experience point rewards generated with
-these tables will be far less than a party might deserve. A good
-example of such a creature is one of the denizens of the Abyss,
-described in the PLANESCAPE” campaign setting, or any of the
-various darklords of the RAVENLOFT campaign setting.
-
-What has changed?
-
-None of these changes affects the general way in which experi-
-ence points are calculated. A DM still begins by noting the
-number of Hit Dice that a monster has (Table 31) and then
-applying some modifiers, based on the general powers and
-abilities of that creature. Only the modifiers (Table 32) have
-changed, although both tables have been printed here for easy
-reference.
-
-Two new entries for psionic abilities have been added to
-the table. Thus, the possibility that a monster might have
-psionic disciplines (see The Complete Psionics Handbook) avail-
-able to it has now been taken into account. Dungeon Masters
-who are not using psionic powers in their campaigns can sim-
-ply ignore these additions.
-
-Both the magic resistance and breath weapon entries have
-been split into two categories, reflecting the great range of pos-
-sibilities within these classifications.
-
-The bonus normally awarded for flight has been expanded
-to include other special forms of movement. Thus, a monster
-like a bullette or xorn, which can travel through the earth at
-great speed, would receive the same adjustment to its experi-
-ence point value as a flying creature.
-
-Of course, exceptions and unusual cases will still crop up.
-When this happens, Dungeon Masters will simply have to use
-a little common sense in the awarding of experience points.
-
-Table 31: Creature Experience Point Values
-
-HD or Level XP Value
-Less than 1-1 7
-1-1 tol 15
-1+1 to2 35
-2+1to3 65
-3+1 to4 120
-4+1to5 175
-5+1 to 6 270
-6+1 to7 420
-7+1to8 650
-8+1 to9 975
-9+1 to 10+ 1,400
-11 to 12+ 2,000
-
+{| title="Table 31: Creature Experience Point Values"
+|+//Table 31: Creature Experience Point Values//
+! style="width: 12em;"| HD or Level
+! style="width: 10em;"| XP Value
+|-
+|
+Less than 1-1
+|
+7
+|-
+1-1 to 1
+|
+15
+|-
+1+1 to 2
+|
+35
+|-
+2+1 to 3
+|
+65
+|-
+3+1 to 4
+|
+120
+|-
+4+1 to 5
+|
+175
+|-
+5+1 to 6
+|
+270
+|-
+6+1 to 7
+|
+420
+|-
+7+1 to 8
+|
+850
+|-
+8+1 to 9
+|
+975
+|-
+9+1 to 10+
+|
+1400
+|-
+11 to 12+
+|
+2000
+|-
 13 or higher
+|
+2,000 + 1,000 per
+additional Hit Die
+|}
 
 Table 32:
 
@@ -451,8 +242,7 @@ Table 32:
 +3
 +3
 
-2,000 + 1,000 per
-additional Hit Die
+
 
 Hit Dice Value Modifiers
 
