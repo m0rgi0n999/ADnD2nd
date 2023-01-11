@@ -11,22 +11,21 @@
 "grapple": "",
 "attack": "",
 "full attack": "",
-"space": "",
-"reach": "",
+"space/reach": "",
 "special attacks": "",
 "special qualities": "",
 "saves": {
-  "Fort": "",
-  "Ref": "",
-  "Will": ""
+    "Fort": "",
+    "Ref": "",
+    "Will": ""
 },
 "abilities": {
-  "Str": "",
-  "Dex": "",
-  "Con": "",
-  "Int": "",
-  "Wis": "",
-  "Cha": ""
+    "Str": "",
+    "Dex": "",
+    "Con": "",
+    "Int": "",
+    "Wis": "",
+    "Cha": ""
 },
 "skills": "",
 "feats": "",
@@ -37,5 +36,4 @@
 "alignment": "",
 "advancement": "",
 "level adjustment": "",
-"description": "",
-"combat": ""
+"description": ""

@@ -1,8 +1,5 @@
 [{
-    "_id": {
-        "$oid": "63a495043c80a010ab974476"
-    },
-    "Monster": "",
+    "Name": "",
     "Climate/Terrain": "",
     "Frequency": "",
     "Organization": "",
@@ -26,40 +23,38 @@
     "XP Value": "",
     "Psionic Summary": "",
     "Description": "",
-    "Combat": "",
-    "Habitat/Society": "",
-    "Ecology": "",
-    "Source": ""
+    "Source": "",
+    "Image": ""
 }, {
-    "_id": {
-        "$oid": "63a495043c80a010ab974476"
-    },
-    "Monster": "",
-    "Climate/Terrain": "",
-    "Frequency": "",
-    "Organization": "",
-    "Activity Cycle": "",
-    "Diet": "",
-    "Intelligence": "",
-    "Treasure": "",
-    "Alignment": "",
-    "No. Appearing": "",
-    "Armor Class": "",
-    "Movement": "",
-    "Hit Dice": "",
-    "THAC0": "",
-    "No. Of Attacks": "",
-    "Damage/Attack": "",
-    "Special Attacks": "",
-    "Special Defenses": "",
-    "Magic Resistance": "",
-    "Size": "",
-    "Morale": "",
-    "XP Value": "",
-    "Psionic Summary": "",
-    "Description": "",
-    "Combat": "",
-    "Habitat/Society": "",
-    "Ecology": "",
-    "Source": ""
-}, {}]
+    "Name": ["", ""],
+    "Climate/Terrain": ["", ""],
+    "Frequency": ["", ""],
+    "Organization": ["", ""],
+    "Activity Cycle": ["", ""],
+    "Diet": ["", ""],
+    "Intelligence": ["", ""],
+    "Treasure": ["", ""],
+    "Alignment": ["", ""],
+    "No. Appearing": ["", ""],
+    "Armor Class": ["", ""],
+    "Movement": ["", ""],
+    "Hit Dice": ["", ""],
+    "THAC0": ["", ""],
+    "No. Of Attacks": ["", ""],
+    "Damage/Attack": ["", ""],
+    "Special Attacks": ["", ""],
+    "Special Defenses": ["", ""],
+    "Magic Resistance": ["", ""],
+    "Size": ["", ""],
+    "Morale": ["", ""],
+    "XP Value": ["", ""],
+    "Psionic Summary": ["", ""],
+    "Description": ["", ""],
+    "Source": ["", ""],
+    "Image": ["", ""]
+}, {
+    "Name": "Climate/Terrain": "Frequency": "Organization": "Activity Cycle": "Diet": "Intelligence": "Treasure": "Alignment": "No. Appearing": "Armor Class": "Movement": "Hit Dice": "THAC0": "No. Of Attacks": "Damage/Attack": "Special Attacks": "Special Defenses": "Magic Resistance": "Size": "Morale": "XP Value": "Psionic Summary": ["", ""],
+    "Description": "Source": "Image": ["", ""]
+}, {
+
+}]
