@@ -1,438 +1,89 @@
-2105
+{
+    "Name": "Anemone, Giant",
+    "Climate/Terrain": "Tropical, subtropical, and temperate/Salt water",
+    "Frequency": "Very rare",
+    "Organization": "School",
+    "Activity Cycle": "Any",
+    "Diet": "Carnivore",
+    "Intelligence": "Animal (1)",
+    "Treasure": "See below",
+    "Alignment": "Neutral",
+    "No. Appearing": "3-18",
+    "Armor Class": "2",
+    "Movement": "4",
+    "Hit dice": "16",
+    "THAC0": "5",
+    "No. Of Attacks": "See below",
+    "Damage/Attack": "See below",
+    "Special Attacks": "See below",
+    "Special Defenses": "See below",
+    "Magic Resistance": "Nil",
+    "Size": "L (10° diameter trunk)",
+    "Morale": "Steady (11)",
+    "XP Value": "12,000",
+    "Psionic Summary": "",
+    "Description": "<div>The anemone is a mobile, plant-like creature A voracious carnivore, it is a threat to all denizens of the sea.</div><div>The anemone has a thick, cylindrical trunk that is ten feet in diameter and about eight feet tall.The trunk is usually bright purple, but can also be blue red, pink, or any combination of these colors The bottom of the trunk is covered with small suckers, while the top contains a toothless mouth surrounded by ten translucent tentacles, each 10-15 feet in length.</div><br/><div><b1>Combat:</b1> The anemone attacks with whip-like lashes of its tentacles it makes 1d3 attacks per round, each attack consists of 1dl0 tentacle strikes. A victim struck by a tentacle suffers 1d4 points of damage and also must roll a saving throw vs. paralysis A victim succeeding on the saving roll is immune to all paralyzing and poison effects of that particular anemone. If the saving throw is unsuccessful, the victim suffers an additional 1d6 points of poison damage and becomes paralyzed for the next 3d6 rounds. During this time, the victim is unable to attack or take any other actions Should the effects of the paralysis wear off, the anemone will attack him again; if it hits the victim can again attempt a saving throw to avoid the poison and the paralysis.</div><div>The anemone uses its tentacles to drag a paralyzed victim to its mouth, a process that takes one round to complete. it requires at least two tentacles to drag a victim; the anemone can use any free tentacles to continue attacks on other opponents The mouth leads directly to the anemone's trunk cavity. When a victim is inside the cavity, the mouth seals shut. Tiny valves at the base of the trunk expel all of the water within the cavitv (this takes eight rounds). When the cavity is empty, it begins to refill with acidic juices secreted from glands in the base. The cavity fills with acidic juices at the rate of one foot per turn until the entire cavity is filled. Beginning on the first round of secretion, victims trapped in the cavity suffer 1d4 points of damage (no saving throw). Digestion is completed when the victim is reduced to -12 or fewer hit points, after which resurrection is impossible.</div><div>Because of the confined space, victims trapped in the cavity can use only short, sharp weapons to hack themselves tree. Maximum normal damage is 1 point per round plus magical and Strength bonuses. Rescue must usually come from outside. If the anemone suffers a loss of 50% of its hit points, and all of the dam age is directed at its trunk the victim can be freed. Thrusting and stabbing weapons have a 20% chance of striking the victim trapped in the trunk. If a trapped character is freed, charactcrs on the outside have a chance of suffering damage from the acidic juice, assuming they are within ten feet of the anemone. The percentage chance of receiving damage is equal to 5% for each foot of juice in the anemone when the victim inside is freed. Characters affected by the juice suffer 1d4 points of damage. (For instance, if the cavity was filled with four feet of acidic juice when the victim inside was freed, all characters within ten feet of the anemone have a 20% chance of suffering 1d4 points of damage from the juice.)</div><div>Each tentacle can suffer only 5 points of damage before it is Severed, assuming that the attacker is directing his attacks to the same area in order to chop it off. An anemone regenerates at the rate of 1 point per turn, and it always repairs its tentacles first. If the anemone suffers 30 or more points of damage in a single round, it withdraws all of its tentacles inside its body for 1d10 rounds and spews acidic juices in a ten-foot radius. Those within ten feet of the anemone when it spews juice have a 90% chance of suffering 1d4 points of damage; this check must be made for each round the character is exposed to the acid. When the anemone releases its tentacles, it stops spewing (for instance, if the anemone withdraws its tentacles for six rounds, it also spews juice for six rounds).</div><br/><div><b1>Habitat/Society:</b1> Anemones wander the ocean floor. They move slowly and with great effort, generally preferring to remain stationary for long periods by attaching to a rock or other solid surface. They usually travel in schools of three or more.</div><div>Anemones are asexual, reproducing via buds which break off and grow into new anemones. Indigestible treasure items can sometimes be found beneath their trunks.</div><br/><div><b1>Ecology:</b1> Anemones eat all species of marine life. Anemones relish humanoids, especially elves and small humans. Although most sea creatures give anemones wide berth, manta rays and small sucker fish are sometimes seen swimming among a school of anemones, as these creatures are immune to the effects of their tentacles.</div>",
+    "Source": "TSR2105",
+    "Image": ""
+},{
+    "Name": {"Avian": ["Emre", "Kingfisher", "Skyfisher", "'Wari"]},
+    "Climate/Terrain": {"Tropical, subtropical, and temperate": ["Plain", "Plain", "Plain, forest, and hill", "Tropical, subtropical, and temperate Mountain and hill", "Tropical, subtropical, and temperate Plain"]},
+    "Frequency": ["Rare", "Uncommon", "Uncommon", "Rare"],
+    "Organization": ["Flock", "Flock", "Flock", "Flock"],
+    "Activity Cycle": ["Day", "Day", "Any", "Day"],
+    "Diet": ["Herbivore", "Carnivore", "Carnivore", "Herbivore"],
+    "Intelligence": ["Animal (1)", "Animal (1)", "Highly (13-14)", "Animal (1)"],
+    "Treasure": ["Nil", "Q", "L, M, N, and Q", "Nil"],
+    "Alignment": ["Neutral", "Neutral", "Neutral", "Neutral"],
+    "No. Appearing": ["2-20", "4-24", "1-20", "6-60"],
+    "Armor Class": ["7", "5", "3", "6"],
+    "Movement": ["18, Fl 24 (C)", "1, Fl 36 (C)", "3, FI 24 (C)", "15"],
+    "Hit dice": ["3", "1", "4", "3"],
+    "THAC0": ["17", "19", "17", "17"],
+    "No. Of Attacks": ["1", "1", "1 or 2", "2 or 1"],
+    "Damage/Attack": ["1-4 or 2-8", "1-4", "3-11 or 1-6/1-6", "1-2/1-4 or 3-12"],
+    "Special Attacks": ["Nil", "Nil", "Dive/Drop", "Trample"],
+    "Special Defenses": ["Nil", "Nil", "Nil", "Nil"],
+    "Magic Resistance": ["Nil", "Nil", "Nil", "Nil"],
+    "Size": ["M (6’ tall)", "M (4-5 tall)", "S (3’-4’ tall)", "M (6’ tall)"],
+    "Morale": ["Unsteady (7)", "Unsteady (7)", "Average (9)", "Unsteady (7)"],
+    "XP Value": ["120", "35", "270", "65"],
+    "Psionic Summary": "",
+    "Description": "<div>Among Krynn’s rich variety of bird life are the ostrich-like emre, the ominous kingfisher, the intelligent skyfisher, and the foraging 'wari.</div><div>Both the emre and ‘wari are ground-dwelling birds, though the emre can become airborne for up to one turn. The emre has a plump body covered with white feathers, a long neck, bulging blue eyes, and thick, clawed feet. The ‘wari is a bulkier version of the emre, with bronze, gold, or blue feathers. The kingfisher has a crested head, short legs, and a long, pointed bill; it is deep blue or bluish gray with a white chest. The skyfisher looks like a cross be- tween a giant bat and a vulture, black or gray in color, with long, dangling legs and a sharp beak.</div><br/><div><b1>Combat:</b1> The emre, kingfisher, and ‘wari are all relatively harmless. Each can make beak attacks, and the emre and ‘wan can strike with their clawed feet. When spooked by loud noises or the odor of blood, ’waries can stampede. Those caught in the path of stampeding ‘wari suffer 3d4 points of damage per round.</div><div>The skyfisher is the most dangerous of these birds. It can attack with either its beak or talons, but not both in the same round. It can dive for its first attack, gaining a +2 bonus to its attack roll and doubling the damage inflicted. Each time the skyfisher hits with its claws, the victim must roll a Dexterity check to try to avoid the bird’s grip. If the victim fails the check, he is carried aloft for 1d4 rounds and then dropped. Damage from the fall is 1d6 points for each round aloft. A skyfisher drops its prey if it receives 10 points of damage. It cannot lift prey in excess of 200 pounds.</div><br/><div><b1>Habitat/Society:</b1> All of these birds live in flocks. They lay 2d4 eges once a year. The emre and ‘wari range over a few square miles, while the migratory kingfishers and skyfishers range over much larger areas. The intelligent skyfishers collect a variety of shiny treasure items. Kingfishers prefer gems.</div><br/><div><b1>Ecology:</b1> Emre and ‘wari forage for insects, grams, and small rodents. These birds are favorite prey for wolves and other meateaters (‘wari are so dumb that they allow wolves to mingle among them). Kingfishers spear fish with their beaks, while skyfishers eat rabbits and other small mammals. Primitive tribes domesticate emre as mounts. Many cultures believe skyfishers are omens of war and death.</div>",
+    "Source": "TSR2105",
+    "Image": ""
+}, {
 
-      
-
- 
-
-i Iw S
-
-“Ol JRagon] —
-
-2 Creatures of Krynn!
-VY * Ready for play in a 3-ring binder! 0
-
- 
-How To Use This Book
-
-Welcome to the fourth Monstrous Compendium volume. Here we detail
-the creatures unique to Krynn, the world of the DRAGONLANCE® saga.
-As in previous volumes, all entries are given in alphabetical order on re-
-movable loose-leaf sheets. The loose-leaf sheets can be placed in a master
-binder for easy reference as needed for an adventure.
-
-Important Note: These monsters should not be intermingled with the
-monsters from the previous three volumes of the Monstrous Compen-
-dium; keep these monsters together in a separate section of your binder.
-
-All monsters included here are typical for their type: likewise, the
-encounter tables are guidelines for general play. Variations of your own
-design are encouraged. Those DMs unfamiliar with the world of Krynn
-and its concepts (such as the Cataclysm, the War of the Lance, and the
-Wizards of High Sorcery) will find a wealth of useful information in the
-DRAGONLANCE Adventures hardback and the various
-DRAGONLANCE modules and books.
-
-Each entry includes the following information:
-
-CLIMATE/TERRAIN defines where the creature is most often found. Cli-
-mates include arctic, subarctic, temperate, and tropical. Typical terrain
-includes plain/scrub, forest, rough/hill, mountain, swamp, and desert.
-
-FREQUENCY is the likelihood of encountering a creature in an area. Very
-rare is a 4 % chance, rare is 11%, uncommon is 20%, and common is a
-65% chance. Chances can be adjusted for special areas.
-
-ORGANIZATION is the general social structure the monster adopts.
-“Solitary” includes small family groups.
-
-ACTIVE CYCLE is the time of day when the monster is most active. Those
-most active at night may be active at any time in subterranean settings.
-Active cycle is a general guide and exceptions are fairly common.
-
-DIET shows what the creature generally eats. Carnivores eat meat, her-
-bivores eat plants, and omnivores eat either. Scavengers eat mainly car-
-rion.
-
-INTELLIGENCE is the equivalent of human “IQ”. Certain monsters are
-instinctively cunning: these are noted in the monster descriptions. Ratings
-correspond roughly to the following Intelligence ability scores:
-
-0 Nor-intelligent or not ratable
-1 Animal intelligence
-
-2-4 Semi-intelligent
-
-5-7 Low intelligence
-
-8-10 Average (human) intelligence
-
-11-12 Very intelligent
-
-13-14 Highly intelligent
-
-15-16 Exceptionally intelligent
-17-18 Genius
-
-19-20 Supra-genius
-
-21+ Godlike intelligence
-
-TREASURE refers to the treasure tables in the Dungeon Masters Guide. If
-individual treasure is indicated, each individual may carry it (or not, at
-the DM’s discretion). Major treasures are usually found in the monster's
-lair; these are most often designed and placed by the DM. Intelligent mon-
-sters will use magical items present and try to carry off their most valuable
-treasures if hard pressed. If treasure is assigned randomly, roll for each
-type possible: if all rolls fail, no treasure of any type is found. Treasure
-should be adjusted downward if few monsters are encountered. Large
-treasures are noted by a parenthetical multiplier (x 10, etc.)-not to be
-confused with treasure type X. Do not use the tables to place dungeon
-treasure, as numbers encountered underground will be much smaller.
-
-ALIGNMENT shows the general behavior of the average monster of that
-type. Exceptions, though uncommon, may be encountered.
-
-NO. APPEARING indicates an average encounter size for a wildermess
-encounter. The DM should alter this to fit the circumstances as the need
-arises. This should not be used for dungeon encounters.
-
-ARMOR CLASS is the general protection worn by humans and human-
-oids, protection due to physical structure or magical nature, or difficulty
-in hitting due to speed, reflexes, etc. Humans and humanoids of roughly
-man-size that wear armor will have an unarmored rating in parentheses.
-Listed AC do not include any special bonuses noted in the description.
-
-MOVEMENT shows the relative speed rating of the creature. Higher
-speeds may be possible for short periods. Human, demihuman, and hu-
-manoid movement rate is often determined by armor type (unarmored
-
- 
-
-rates are given in parentheses). Movements in different mediums are ab-
-breviated as follows: Fl = fly, Sw = swim, Br = burrowing, Wb = web.
-Flying creatures will also have a Maneuverability Class from A to E.
-
-HIT DICE controls the number of hit points damage a creature can with-
-stand before being killed. Unless otherwise stated, Hit Dice are S-sided
-(I-8 hit points). The Hit Dice are rolled and the numbers shown are added
-to determine the monster’s hit points. Some monsters will have a hit point
-spread instead of Hit Dice, and some will have additional points added to
-their Hit Dice. Thus, a creature with 4 +4 Hit Dice has 4d8 +4 hit points
-(8-36 total). Note that creatures with + 3 or more hit points are considered
-the next higher Hit Die for purposes of attack rolls and saving throws.
-
-THACO is the attack roll the monster needs to hit armor class 0. This is al-
-ways a function of Hit Dice, except in the case of very large, non-
-aggressive herbivores (such as some dinosaurs). Humans and
-demihumans always use player character THACOs, regardless of whether
-they are player characters or “monsters”. THACOs do not include any
-special bonuses noted in the descriptions.
-
-NUMBER OF ATTACKS shows the basic attacks the monster can make in
-a melee round, excluding special attacks. This number can be modified by
-hits that sever members, spells such as haste and slow, and so forth. Mul-
-tiple attacks indicate several members, raking paws, multiple heads, etc.
-
-DAMAGE PER ATTACK shows the amount of damage a given attack will
-make, expressed as a spread of hit points (dice roll combination). If the
-monster uses weapons, the damage will done by the typical weapon will
-be followed by the parenthetical note “weapon”. Damage bonuses due to
-Strength are listed as a bonus following the damage range.
-
-SPECIAL ATTACKS detail attack modes such as dragon breath, magic
-use, etc. These are explained in the monster description.
-
-SPECIAL DEFENSES are precisely that, and are detailed in the monster
-description.
-
-MAGIC RESISTANCE is the percentage chance that magic cast upon the
-creature will fail to affect it, even if other creatures nearby are affected. If
-the magic penetrates the resistance, the creature is still entitled to any nor-
-mal saving throw allowed.
-
-SIZE is abbreviated as: “T,” tiny (2’ tall or less); “S,” smaller than a typical
-human (2 +’ to 4’); “M,” man-sized (4 +’ to 7’); “L,” larger than man-sized
-(7+ to 12’); “H,” huge (12 +’ to 25’); and “G,” gargantuan (25 +’).
-
-MORALE is a general rating of how likely the monster is to persevere in
-the face of adversity or armed opposition. This guideline can be adjusted
-for individual circumstances. Morale ratings correspond to the following
-2-20 range:
-
-2-4 Unreliable
-5-7 Unsteady
-8-10 Average
-11-12 Steady
-13-14 Elite
-15-16 Champion
-17-18 Fanatic
-19-20 Fearless
-
-XP VALUE is the number of experience points awarded for defeating (not
-neccessarily killing) the monster. This value is a guideline that can be
-modified by the DM for the degree of challenge, encounter situation, and
-for overall campaign balance.
-
-Combat is the part of the description that discusses special combat abili-
-ties, arms and armor, and _ tactics.
-
-Habitat/Society outlines the monster’s general behavior, nature, social
-structure, and goals.
-
-Ecology describes how the monster fits into the campaign world, gives
-any useful products or byproducts, and presents other miscellaneous in-
-formation.
-
-Close variations of a monster (e.g. merrow, ogre) are given in a special
-section after the main monster entry. These can be found by consulting the
-index to find the major listing.
- 
-
- 
-
-This index includes only monsters in this volume, which covers the creatures of the DRAGONLANCE® saga. “Name” refers to the creature in question,
-“Section” refers to the entry under which that creature is found, and “Compendium” entry notes that all these creatures are found in this volume of the
-Monstrous Compendium.
-
-Monsters listed here do not have entries of their own-they are found under the entry listed in “Section.” For example, bakali is found under “Lizard
-Man (of Krynn).” Monsters with their own entries (.e., whose names appear at the top of a page in the Compendium) are not listed here.
-
-Name
-
-Abanasinian centaur
-Aghar
-
-Amphi dragon
-Ant, velvet
-Aurak
-
-Baaz
-
-Bakali
-
-Blood Sea imp
-Blood Sea minotaur
-Bozak
-
-Crystalmir centaur
-Daergar
-Dargonesti
-Death knight
-Dimernesti
-Emre
-
-Endscape centaur
-Ghagegler
-Gholor
-Grasshopper
-Gully dwarf
-Half-elf
-
-Hill dwarf
-Hylar
-
-Ice bear
-
-Ice Folk
-
-irda
-Jarak-sinn
-Kagonesti
-Kapak
-Kingfisher
-
-Section Comp. Name Section Comp.
-Centaur (of Krynn) DL Knight of Solamnia Man DL
-Dwarf, Gully (Aghar) DL Kodragon Dragon, Kodragon DL
-Dragon, Amphi DL Locust Insect Swarm DL
-Insect Swarm DL Mad gnome Gnome, Tinker DL
-Draconian, Aurak DL Mountain dwarf Dwarf, Mountain (Hylar) DL
-Draconian, Baaz DL Neidar Dwarf, Hill (Neidar) DL
-Lizard Man (of Krynn) DL Orughi Ogre (of Krynn) DL
-Imp, Blood Sea DL Othlorx Dragon, Othlorx DL
-Minotaur (Krynn) DL Plainsmen Man (of Krynn) DL
-Draconian, Bozak DL Prickleback Kalothagh DL
-Centaur (of Krynn) DL Qualinesti Elf, High — Qualinesti DL
-Dwarf, Daergar DL Rebel Man (of Krynn) DL
-Elf, Sea—Dargonesti DL Revered ancient one Shadowperson DL
-Knight, Death DL Saqualaminoti Yeti-kin, Saqualaminoi DL
-Elf, Sea—Dimernesti DL Sea dragon Dragon, Sea DL
-Avian DL Silvanesti Elf, High —Silvanesti DL
-Centaur (of Krynn) DL Sivak Draconian, Sivak DL
-Slig DL Skyfisher Avian DL
-Beast, Undead DL Theiwar Dwarf, Theiwar DL
-Insect Swarm DL Thoradorian minotaur Minotaur (of Krynn) DL
-Dwarf, Gully DL Tinker gnome Gnome, Tinker DL
-Elf, Half (of Krynn) DL Traag Draconian (proto), Traag DL
-Dwarf, Hill DL Trap door spider Spider (of Krynn) DL
-Dwarf, Mountain (Hylar) DL Walrus man Thanoi DL
-Bear, Ice DL Warrior skeleton Skeleton, warrior DL
-Man (of Krynn) DL Wendle centaur Centaur (of Krynn) DL
-Ogre, High DL Whisper spider Spider (of Krynn) DL
-Lizard Man (of Krynn) DL White stag Stag DL
-Elf, Wild — Kagonesti DL Wild elf Elf, Wild (Kagonesti) DL
-Draconian, Kapak DL Wild stag Stag DL
-Avian DL Zahkar Dwarf, Zahkar DL
-
- 
-
-Printed in the US.A.
-0-88038-822-6
-2105XXX1501
-
-Design Concept: David “Zeb” Cook, Steve “Old Man”
-Winter, Jon “The Paper Monster” Pickens
-
-Design Coordinator: Bruce A. Heard
-
-Designers: Rick Swan, with Bill Connors, Troy Denning,
-Bruce Nesmith, James M. Ward, and Steve
-Winter
-
-Editing Coordinator: Karen S. Boomgarden
-
-Editor: Mike Breault
-
-Typesetting: Gaye O'Keefe
-
-Keylining: Stephanie Tabat
-
-Artistic Coordinator: Peggy Cooper
-
-Cover Art: Jeff Easley
-
-Interior Art: Mark Nelson
-
-Distributed to the book trade by Random House, Inc., and in Canada by Random House of Canada,
-Ltd. Distributed to the toy and hobby trade by regional distributors. Distributed in the United Kingdom
-by TSR Ltd.
-
-©1990 TSR, Inc. All Rights Reserved.
-
-Permission granted to photocopy or
-This work is protected under the copyright laws of the United States of America. Any reproduction or print this product for personal use.
-unauthorized use of the material or artwork presented herein is prohibited without the express written
-consent of TSR, Inc.
-
-©1990 TSR, Inc. All Rights Reserved. Printed in U.S.A.
-ADVANCED DUNGEONS & DRAGONS, AD&D, DRAGONLANCE, PRODUCTS OF YOUR IMAGINATION, and
-the TSR logo are trademarks owned by TSR, Inc.
-
-
-Anemone, Giant
-
-CLIMATE/TERRAIN: Tropical, subtropical, and temperate/Salt water
-FREQUENCY: Very rare
-ORGANIZATION: School
-ACTIVITY CYCLE: Any
-DIET: Carnivore
-INTELLIGENCE: Animal (1)
-TREASURE: See below
-ALIGNMENT: Neutral
-NO. APPEARING: 3-18
-ARMOR CLASS: 2
-MOVEMENT: 4
-HIT DICE: 16
-THACO: 5
-NO. OF ATTACKS: See below
-DAMAGE/ATTACK: See below
-SPECIAL ATTACKS: See below
-SPECIAL DEFENSES: See below
-MAGIC RESISTANCE: Nil
-SIZE: L (10° diameter trunk)
-MORALE: Steady (11)
-XP VALUE: 12,000
-
-The anemone is a mobile, plant-like creature A voracious carnivore, it is a threat to all denizens of the sea
-
-The anemone has a thick, cylindrical trunk that is ten feet in diameter and about eight feet tall.The trunk is usually bright purple, but can also be blue red, pink, or any combination of these colors The bottom of the trunk is covered with small suckers, while the top contains a toothless mouth surrounded by ten translucent tentacles, each 10-15 feet in length.
-
-Combat: The anemone attacks with whip-like lashes of its tentacles it makes 1d3 attacks per round, each attack consists of 1dl0 tentacle strikes. A victim struck by a tentacle suffers 1d4 points of damage and also must roll a saving throw vs. paralysis A victim succeeding on the saving roll is immune to all paralyzing and poison effects of that particular anemone. If the saving throw is unsuccessful, the victim suffers an additional 1d6 points of poison damage and becomes paralyzed for the next 3d6 rounds. During this time, the victim is unable to attack or take any other actions Should the effects of the paralysis wear off, the anemone will attack him again; if it hits the victim can again attempt a saving throw to avoid the poison and the paralysis
-
-The anemone uses its tentacles to drag a paralyzed victim to its mouth, a process that takes one round to complete. it requires at least two tentacles to drag a victim; the anemone can use any free tentacles to continue attacks on other opponents The mouth leads directly to the anemone's trunk cavity. When a victim is inside the cavity, the mouth seals shut. Tiny valves at the base of the trunk expel all of the water within the cavitv (this takes eight rounds). When the cavity is empty, it begins to refill with acidic juices secreted from glands in the base. The cavity fills with acidic juices at the rate of one foot per turn until the entire cavity is filled. Beginning on the first round of secretion, victims trapped in the cavity suffer 1d4 points of damage (no saving throw). Digestion is completed when the victim is reduced to -12 or fewer hit points, after which resurrection is impossible.
-
-Because of the confined space, victims trapped in the cavity can use only short, sharp weapons to hack themselves tree. Maximum normal damage is 1 point per round plus magical and Strength bonuses. Rescue must usually come from outside. If the anemone suffers a loss of 50% of its hit points, and all of the dam age is directed at its trunk the victim can be freed. Thrusting and stabbing weapons have a 20% chance of striking the victim trapped in the trunk. If a trapped character is freed, charactcrs on the outside have a chance of suffering damage from the acidic juice, assuming they are within ten feet of the anemone. The percentage chance of receiving damage is equal to 5% for each foot of juice in the anemone when the victim inside is freed. Characters affected by the juice suffer 1d4 points of damage. (For instance, if the cavity was filled with four feet of acidic juice when the victim inside was freed, all characters within ten feet of the anemone have a 20% chance of suffering 1d4 points of damage from the juice.)
-
-Each tentacle can suffer only 5 points of damage before it is Severed, assuming that the attacker is directing his attacks to the same area in order to chop it off. An anemone regenerates at the rate of 1 point per turn, and it always repairs its tentacles first. If the anemone suffers 30 or more points of damage in a single round, it withdraws all of its tentacles inside its body for 1d10 rounds and spews acidic juices in a ten-foot radius. Those within ten feet of the anemone when it spews juice have a 90% chance of suffering 1d4 points of damage; this check must be made for each round the character is exposed to the acid. When the anemone releases its tentacles, it stops spewing (for instance, if the anemone withdraws its tentacles for six rounds, it also spews juice for six rounds),
-
-Habitat Society: Anemones wander the ocean floor. They move slowly and with great effort, generally preferring to remain stationary for long periods by attaching to a rock or other solid surface. They usually travel in schools of three or more.
-
-Anemones are asexual, reproducing via buds which break off and grow into new anemones. Indigestible treasure items can sometimes be found beneath their trunks.
-
-Ecology: Anemones eat all species of marine life. Anemones relish humanoids, especially elves and small humans. Although most sea creatures give anemones wide berth, manta rays and small sucker fish are sometimes seen swimming among a school of anemones, as these creatures are immune to the effects of their tentacles.
-
-----
-
-Avian
-
-Emre Kingfisher Skyfisher "Wari
-CLIMATE/TERRAIN: Tropical, subtropical, and temperate
-
-Plain Plain, forest, and hill Mountain and hill Plain
-FREQUENCY: Rare Uncommon Uncommon Rare
-ORGANIZATION: Flock Flock Flock Flock
-ACTIVITY CYCLE: Day Day Any Day
-DIET: Herbivore Carnivore Carnivore Herbivore
-INTELLIGENCE: Animal (1) Animal (1) Highly (13-14) Animal (1)
-TREASURE: Nil QO L, M, N, and Q Nil
-ALIGNMENT: Neutral Neutral Neutral Neutral
-NO. APPEARING: 2-20 4-24 1-20 6-60
-ARMOR CLASS: 7 5 3 6
-MOVEMENT: 18, Fl 24 (C) 1, Fl 36 (C) 3, FI 24 (C) 15
-HIT DICE: 3 1 4 3
-THACO: 17 19 17 17
-NO. OF ATTACKS: 1 1 1 or 2 2or1
-DAMAGE/ATTACK: 1-4 or 2-8 1-4 3-11 or 1-6/1-6 1-2/1-4 or 3-12
-SPECIAL ATTACKS: Nil Nil Dive/ Drop Trample
-SPECIAL DEFENSES: Nil Nil Nil Nil
-MAGIC RESISTANCE: Nil Nil Nil Nil
-SIZE: M (6’ tall) M (4-5 tall) S (3’-4’ tall) M (6’ tall)
-MORALE: Unsteady (7) Unsteady (7) Average (9) Unsteady (7)
-XP VALUE: 120 35 270 6.5
-
-Among Krynn’s rich variety of bird life are the ostrich-like emre, the ominous kingfisher, the intelligent skyfisher, and the foraging 'wari.
-
-Both the emre and ‘wari are ground-dwelling birds, though the emre can become airborne for up to one turn. The emre has a plump body covered with white feathers, a long neck, bulging blue eyes, and thick, clawed feet. The ‘wari is a bulkier version of the emre, with bronze, gold, or blue feathers. The kingfisher has a crested head, short legs, and a long, pointed bill; it is deep blue or bluish gray with a white chest. The skyfisher looks like a cross be- tween a giant bat and a vulture, black or gray in color, with long, dangling legs and a sharp beak.
-
-Combat: The emre, kingfisher, and ‘wari are all relatively harmless. Each can make beak attacks, and the emre and ‘wan can strike with their clawed feet. When spooked by loud noises or the odor of blood, ’waries can stampede. Those caught in the path of stampeding ‘wari suffer 3d4 points of damage per round.
-
-The skyfisher is the most dangerous of these birds. It can attack with either its beak or talons, but not both in the same round. It can dive for its first attack, gaining a +2 bonus to its attack roll
-
-and doubling the damage inflicted. Each time the skyfisher hits with its claws, the victim must roll a Dexterity check to try to avoid the bird’s grip. If the victim fails the check, he is carried aloft for 1d4 rounds and then dropped. Damage from the fall is 1d6 points for each round aloft. A skyfisher drops its prey if it receives 10 points of damage. It cannot lift prey in excess of 200 pounds.
-
-Habitat/Society: All of these birds live in flocks. They lay 2d4 eges once a year. The emre and ‘wari range over a few square miles, while the migratory kingfishers and skyfishers range over much larger areas. The intelligent skyfishers collect a variety of shiny treasure items. Kingfishers prefer gems.
-
-Ecology: Emre and ‘wari forage for insects, grams, and small rodents. These birds are favorite prey for wolves and other meateaters (‘wari are so dumb that they allow wolves to mingle among them). Kingfishers spear fish with their beaks, while skyfishers eat rabbits and other small mammals. Primitive tribes domesticate emre as mounts. Many cultures believe skyfishers are omens of war and death.
 
 ----
 
 Bear, Ice
 
-CLIMATE/TERRAIN: Arctic/Plain, hill, and mountain
-FREQUENCY: Uncommon
-ORGANIZATION: Pack
-ACTIVITY CYCLE: Day
+"Climate/Terrain": "Arctic/Plain, hill, and mountain",
+"Frequency": "Uncommon",
+"Organization": "Pack",
+"Activity Cycle": "Day",
 
-DIET: Carnivore
-INTELLIGENCE: Low (5-7)
-TREASURE: Nil
-ALIGNMENT: Neutral
+"Diet": "Carnivore",
+"Intelligence": "Low (5-7)",
+"Treasure": "Nil",
+"Alignment": "Neutral",
 
-NO. APPEARING: 1-4
-ARMOR CLASS: 6
-MOVEMENT: 12, Sw 3
-HIT DICE: 6+2
-THACO: 15
+"No. Appearing": "1-4",
+"Armor Class": "6",
+"Movement": "12, Sw 3",
+"Hit dice": "6+2",
+"THAC0": "15",
 
-NO. OF ATTACKS: 3
-DAMAGE/ATTACK: 1-8/1-8/2-16
-SPECIAL ATTACKS: Hugs for 2-12
-SPECIAL DEFENSES: See below
-MAGIC RESISTANCE: Nil
+"No. Of Attacks": "3",
+"Damage/Attack": "1-8/1-8/2-16",
+"Special Attacks": "Hugs for 2-12",
+"Special Defenses": "See below",
+"Magic Resistance": "Nil",
 
-SIZE: L (12’ tall)
-MORALE: Average (10)
-XP VALUE: 975
+"Size": "L (12’ tall)",
+"Morale": "Average (10)",
+"XP Value": "975",
 
 Resembling a cross between a polar bear and a cave bear, the ice
 bear is a ferocious meat-eater inhabiting the southernmost re-
@@ -542,30 +193,30 @@ can fetch as much as ten stl.
 
 Stahnk Gholor
 CLIMATE/
-TERRAIN: Any Any
-FREQUENCY: Very rare Very rare
-ORGANIZATION: Solitary Solitary
-ACTIVITY CYCLE: Any Any
-DIET: Nil Nil
-INTELLIGENCE: Non- (0) Non- (0)
-TREASURE: G G, H
-ALIGNMENT: Neutral Neutral
-NO. APPEARING: 1 1
-ARMOR CLASS: 6 6
-MOVEMENT: 9,Sw9 Nil
-HIT DICE: 12+12 12+12
-THACO: 7 7
-NO. OF ATTACKS: 3 3 or 1
-DAMAGE/ATTACK: 3-9/3-9/3-24 3-9/3-9/3-24 or 3-
+"Terrain": "Any Any",
+"Frequency": "Very rare Very rare",
+"Organization": "Solitary Solitary",
+"Activity Cycle": "Any Any",
+"Diet": "Nil Nil",
+"Intelligence": "Non- (0) Non- (0)",
+"Treasure": "G G, H",
+"Alignment": "Neutral Neutral",
+"No. Appearing": "1 1",
+"Armor Class": "6 6",
+"Movement": "9,Sw9 Nil",
+"Hit dice": "12+12 12+12",
+"THAC0": "7 7",
+"No. Of Attacks": "3 3 or 1",
+"Damage/Attack": "3-9/3-9/3-24 3-9/3-9/3-24 or 3-",
 
 18
 
-SPECIAL ATTACKS: _ Ensnare and fling Acidic bite
-SPECIAL DEFENSES: See below See below
-MAGIC RESISTANCE: 20% 20%
-SIZE: H (20’ long) H (20’ long)
-MORALE: Elite (14) Elite (14)
-XP VALUE: 8,000 8,000
+"Special Attacks": "_ Ensnare and fling Acidic bite",
+"Special Defenses": "See below See below",
+"Magic Resistance": "20% 20%",
+"Size": "H (20’ long) H (20’ long)",
+"Morale": "Elite (14) Elite (14)",
+"XP Value": "8,000 8,000",
 
 The undead beast is a mindless killer of unknown origin, compel-
 led to destroy the living. The most common variety of undead
@@ -668,49 +319,49 @@ suffers the damage.
 
  
 
-CLIMATE/TERRAIN: Temperate/Forest, hill, and
+"Climate/Terrain": "Temperate/Forest, hill, and",
 plain
 
-FREQUENCY: Rare
+"Frequency": "Rare",
 
-ORGANIZATION: Herd
+"Organization": "Herd",
 
-ACTIVITY CYCLE: Any
+"Activity Cycle": "Any",
 
-DIET: Herbivore
+"Diet": "Herbivore",
 
-INTELLIGENCE: Average (8-10)
+"Intelligence": "Average (8-10)",
 
-TREASURE: M, Q; (D, I, T)
+"Treasure": "M, Q; (D, I, T)",
 
-ALIGNMENT: Chaotic or neutral good
+"Alignment": "Chaotic or neutral good",
 
-NO. APPEARING: 5-30
+"No. Appearing": "5-30",
 
-ARMOR CLASS: 5
+"Armor Class": "5",
 
-MOVEMENT: 18
+"Movement": "18",
 
-HIT DICE: 4
+"Hit dice": "4",
 
 THACo: W
 
-NO. OF ATTACKS: 2orl
+"No. Of Attacks": "2orl",
 
-DAMAGE/ATTACK: 1-6 (front hooves) and weapon,
+"Damage/Attack": "1-6 (front hooves) and weapon,",
 or 1-6 (hind hooves)
 
-SPECIAL ATTACKS: Nil
+"Special Attacks": "Nil",
 
-SPECIAL DEFENSES: See below
+"Special Defenses": "See below",
 
-MAGIC RESISTANCE: Nil
+"Magic Resistance": "Nil",
 
-SIZE: M (4-7! tall)
+"Size": "M (4-7! tall)",
 
-MORALE: Steady (12)
+"Morale": "Steady (12)",
 
-XP VALUE: 120
+"XP Value": "120",
 
 The centaurs of Krynn are half-human and half-horse, living in
 secluded forests and pasture lands throughout the world.
@@ -988,33 +639,33 @@ ae it '
 
  
 
-CLIMATE/TERRAIN: Subterranean
-FREQUENCY: Very Rare
-ORGANIZATION: Tribal
-ACTIVITY CYCLE: Any
+"Climate/Terrain": "Subterranean",
+"Frequency": "Very Rare",
+"Organization": "Tribal",
+"Activity Cycle": "Any",
 
-DIET: Omnivore
-INTELLIGENCE: Highly (13-14)
-TREASURE: (B)
-ALIGNMENT: Lawful evil
-NO. APPEARING: 2d4
-ARMOR CLASS: 3
-MOVEMENT: 12
+"Diet": "Omnivore",
+"Intelligence": "Highly (13-14)",
+"Treasure": "(B)",
+"Alignment": "Lawful evil",
+"No. Appearing": "2d4",
+"Armor Class": "3",
+"Movement": "12",
 
-HIT DICE: 5
+"Hit dice": "5",
 
-THACO: 15
+"THAC0": "15",
 
-NO. OF ATTACKS: 3
-DAMAGE/ATTACK: 2d4/2d4/2d6
-SPECIAL ATTACKS: Pain
-SPECIAL DEFENSES: Fire resistance
-MAGIC RESISTANCE: Nil
+"No. Of Attacks": "3",
+"Damage/Attack": "2d4/2d4/2d6",
+"Special Attacks": "Pain",
+"Special Defenses": "Fire resistance",
+"Magic Resistance": "Nil",
 
-SIZE: M (6’-7" tall)
-MORALE: 15
+"Size": "M (6’-7" tall)",
+"Morale": "15",
 
-XP VALUE: 975
+"XP Value": "975",
 
 The disir are a race of deep-dwelling subterranean creatures of
 disgusting appearance. They stand about six to seven feet tall, al-
@@ -1114,47 +765,47 @@ remains.
 
  
 
-CLIMATE/TERRAIN: Temperate plain or forest
+"Climate/Terrain": "Temperate plain or forest",
 
-FREQUENCY: Very Rare
+"Frequency": "Very Rare",
 
-ORGANIZATION: Tribal
+"Organization": "Tribal",
 
-ACTIVITY CYCLE: Night
+"Activity Cycle": "Night",
 
-DIET: Carnivore
+"Diet": "Carnivore",
 
-INTELLIGENCE: Low (5-7)
+"Intelligence": "Low (5-7)",
 
-TREASURE: None
+"Treasure": "None",
 
-ALIGNMENT: Chaotic evil
+"Alignment": "Chaotic evil",
 
-NO. APPEARING: 2d6
+"No. Appearing": "2d6",
 
-ARMOR CLASS: 4
+"Armor Class": "4",
 
-MOVEMENT: 6
+"Movement": "6",
 
-HIT DICE: 3
+"Hit dice": "3",
 
-THACO: 17
+"THAC0": "17",
 
-NO. OF ATTACKS: 2ori1
+"No. Of Attacks": "2ori1",
 
-DAMAGE/ATTACK: 1d6/1d6 or by weapon
+"Damage/Attack": "1d6/1d6 or by weapon",
 
-SPECIAL ATTACKS: None
+"Special Attacks": "None",
 
-SPECIAL DEFENSES: None
+"Special Defenses": "None",
 
-MAGIC RESISTANCE: Nil
+"Magic Resistance": "Nil",
 
-SIZE: M (5’-6’ tall)
+"Size": "M (5’-6’ tall)",
 
-MORALE: Special
+"Morale": "Special",
 
-XP VALUE: 120
+"XP Value": "120",
 Chieftain 175
 
 The traag draconians are among the first failed attempts to create
@@ -1570,49 +1221,49 @@ but they are less interested in strong drink than other draconians.
 
  
 
-CLIMATE/TERRAIN: Any, but usually
+"Climate/Terrain": "Any, but usually",
 tropical, and temperate/ Forest,
 plain, and urban
 
-FREQUENCY: Uncommon
+"Frequency": "Uncommon",
 
-ORGANIZATION: Band
+"Organization": "Band",
 
-ACTIVITY CYCLE: Any
+"Activity Cycle": "Any",
 
-DIET: Special
+"Diet": "Special",
 
-INTELLIGENCE: Average (8-10)
+"Intelligence": "Average (8-10)",
 
-TREASURE: M, Q; (D, I, T)
+"Treasure": "M, Q; (D, I, T)",
 
-ALIGNMENT: Lawful or chaotic evil
+"Alignment": "Lawful or chaotic evil",
 
-NO. APPEARING: 2-20
+"No. Appearing": "2-20",
 
-ARMOR CLASS: 4
+"Armor Class": "4",
 
-MOVEMENT: 6. Run 15 *, Glide 18
+"Movement": "6. Run 15 *, Glide 18",
 
-HIT DICE: 2
+"Hit dice": "2",
 
-THACO: 19
+"THAC0": "19",
 
-NO. OF ATTACKS: 2 orl
+"No. Of Attacks": "2 orl",
 
-DAMAGE/ATTACK: 1-4/1-4 or by weapon
+"Damage/Attack": "1-4/1-4 or by weapon",
 
-SPECIAL ATTACKS: Nil
+"Special Attacks": "Nil",
 
-SPECIAL DEFENSES: Nil
+"Special Defenses": "Nil",
 
-MAGIC RESISTANCE: 20%
+"Magic Resistance": "20%",
 
-SIZE: M (5%’ tall)
+"Size": "M (5%’ tall)",
 
-MORALE: Elite (13)
+"Morale": "Elite (13)",
 
-XP VALUE: 175
+"XP Value": "175",
 
 * This movement rate applies when the draconian is running on
 all fours, flapping its wings.
@@ -1717,46 +1368,46 @@ amounts turn them into raging, boastful brutes.
 
  
 
-CLIMATE/TERRAIN: Any, but usually tropicals, sub-,
+"Climate/Terrain": "Any, but usually tropicals, sub-,",
 tropical, and temperate/Forest
 
-FREQUENCY: Uncommon
+"Frequency": "Uncommon",
 
-ORGANIZATION: Band
+"Organization": "Band",
 
-ACTIVITY CYCLE: Any
+"Activity Cycle": "Any",
 
-DIET: Special
+"Diet": "Special",
 
-INTELLIGENCE: Highly (13-14)
+"Intelligence": "Highly (13-14)",
 
-TREASURE: Q x 2; (U)
+"Treasure": "Q x 2; (U)",
 
-ALIGNMENT: Lawful evil
+"Alignment": "Lawful evil",
 
-NO. APPEARING: 2-20
+"No. Appearing": "2-20",
 
-ARMOR CLASS: 2
+"Armor Class": "2",
 
-MOVEMENT: 6, Run 15 *, Glide 18, FI 6 (E)
+"Movement": "6, Run 15 *, Glide 18, FI 6 (E)",
 
-HIT DICE: 4
+"Hit dice": "4",
 
-THACO: 17
+"THAC0": "17",
 
-NO. OF ATTACKS: 2 or1
+"No. Of Attacks": "2 or1",
 
-DAMAGE/ATTACK: 1-4/1-4 or by weapon
+"Damage/Attack": "1-4/1-4 or by weapon",
 
-SPECIAL ATTACKS: Spells
+"Special Attacks": "Spells",
 
-SPECIAL DEFENSES: +2 bonus to saves
+"Special Defenses": "+2 bonus to saves",
 
-MAGIC RESISTANCE: 20%
+"Magic Resistance": "20%",
 
-SIZE: M (6’+ tall)
-MORALE: Elite (13)
-XP VALUE: 1,400
+"Size": "M (6’+ tall)",
+"Morale": "Elite (13)",
+"XP Value": "1,400",
 
 * This movement rate applies when the draconian is running on
 all fours, flapping its wings.
@@ -1862,40 +1513,40 @@ mammals.
 
  
 
-CLIMATE/TERRAIN: Any, but usually tropical, sub-
+"Climate/Terrain": "Any, but usually tropical, sub-",
 tropical, and temperate/Forest
 and mountain
 
-FREQUENCY: Uncommon
+"Frequency": "Uncommon",
 
-ORGANIZATION: Band
+"Organization": "Band",
 
-ACTIVITY CYCLE: Any
+"Activity Cycle": "Any",
 
-DIET: Carnivore
+"Diet": "Carnivore",
 
-INTELLIGENCE: Average (8-10)
+"Intelligence": "Average (8-10)",
 
-TREASURE: K, L, M; (1, Y)
+"Treasure": "K, L, M; (1, Y)",
 
-ALIGNMENT: Lawful evil
+"Alignment": "Lawful evil",
 
  
 
-NO. APPEARING: 2-20
-ARMOR CLASS: 4
-MOVEMENT: 6, Run 15 *, Glide 18
-HIT DICE: 3
-THACO: 17
+"No. Appearing": "2-20",
+"Armor Class": "4",
+"Movement": "6, Run 15 *, Glide 18",
+"Hit dice": "3",
+"THAC0": "17",
 
-NO. OF ATTACKS: 1
-DAMAGE/ATTACK: 1-4
-SPECIAL ATTACKS: Poison
-SPECIAL DEFENSES: Nil
-MAGIC RESISTANCE: 20 %
-SIZE: M (6’ tall)
-MORALE: Elite (13)
-XP VALUE: 650
+"No. Of Attacks": "1",
+"Damage/Attack": "1-4",
+"Special Attacks": "Poison",
+"Special Defenses": "Nil",
+"Magic Resistance": "20 %",
+"Size": "M (6’ tall)",
+"Morale": "Elite (13)",
+"XP Value": "650",
 
 * This movement rate applies when the draconian is running on
 all fours, flapping its wings.
@@ -2003,23 +1654,23 @@ hrm
 
  
 
-CLIMATE/TERRAIN: Any, but usually tropical, sub-
+"Climate/Terrain": "Any, but usually tropical, sub-",
 tropical, and temperate/
 Mountain and_ hill
 
-FREQUENCY: Uncommon
+"Frequency": "Uncommon",
 
-ORGANIZATION: Band
+"Organization": "Band",
 
-ACTIVITY CYCLE: Any
+"Activity Cycle": "Any",
 
-DIET: Special
+"Diet": "Special",
 
-INTELLIGENCE: Highly (13-14)
+"Intelligence": "Highly (13-14)",
 
-TREASURE: Q,% V; (Z)
+"Treasure": "Q,% V; (Z)",
 
-ALIGNMENT: Neutral evil
+"Alignment": "Neutral evil",
 
  
 
@@ -2029,24 +1680,24 @@ ARMOR CLASS:
 2-20
 1
 
-MOVEMENT: 6, Run 15 *, Glide 18, FI 24 (C)
-HIT DICE: 6
+"Movement": "6, Run 15 *, Glide 18, FI 24 (C)",
+"Hit dice": "6",
 
-THACO: 15
+"THAC0": "15",
 
-NO. OF ATTACKS: 3 orl
+"No. Of Attacks": "3 orl",
 
-DAMAGE/ATTACK: 1-6/1-6/2-12 or by weapon
-SPECIAL ATTACKS: None
+"Damage/Attack": "1-6/1-6/2-12 or by weapon",
+"Special Attacks": "None",
 
-SPECIAL DEFENSES: +2 bonus to saves
+"Special Defenses": "+2 bonus to saves",
 
-MAGIC RESISTANCE: 20% ne
-SIZE: L (9 tall)
+"Magic Resistance": "20% ne",
+"Size": "L (9 tall)",
 
-MORALE: Elite (14)
+"Morale": "Elite (14)",
 
-XP VALUE: 2,000
+"XP Value": "2,000",
 
  
 
@@ -2505,15 +2156,15 @@ Tongue, breath weapon, and
 
 magical abilities
 
-SPECIAL DEFENSES: Variable
+"Special Defenses": "Variable",
 
-MAGIC RESISTANCE: Variable
+"Magic Resistance": "Variable",
 
-SIZE: H (25’ base length)
+"Size": "H (25’ base length)",
 
-MORALE: Champion (16 base)
+"Morale": "Champion (16 base)",
 
-XP VALUE: Variable
+"XP Value": "Variable",
 
 Age Body Breath Treas. X.P.
 Cat. Length (’) AC Weapon MR Type _ Value
@@ -2805,49 +2456,49 @@ evil.
 
  
 
-CLIMATE/TERRAIN: Tropical, subtropical, and
+"Climate/Terrain": "Tropical, subtropical, and",
 temperate/Ocean
 
-FREQUENCY: Rare
+"Frequency": "Rare",
 
-ORGANIZATION: Solitary
+"Organization": "Solitary",
 
-ACTIVITY CYCLE: Any
+"Activity Cycle": "Any",
 
-DIET: Special
+"Diet": "Special",
 
-INTELLIGENCE: Highly (13-14)
+"Intelligence": "Highly (13-14)",
 
-TREASURE: Special
+"Treasure": "Special",
 
-ALIGNMENT: Neutral evil
+"Alignment": "Neutral evil",
 
-NO. APPEARING: 1-6
+"No. Appearing": "1-6",
 
-ARMOR CLASS: -2 (base)
+"Armor Class": "-2 (base)",
 
-MOVEMENT: 3, Sw 12
+"Movement": "3, Sw 12",
 
-HIT DICE: 15 (base)
+"Hit dice": "15 (base)",
 
-THACO: 5
+"THAC0": "5",
 
-NO. OF ATTACKS: 3 + special
+"No. Of Attacks": "3 + special",
 
-DAMAGE/ATTACK: 1-12/1-12/3-36
+"Damage/Attack": "1-12/1-12/3-36",
 
-SPECIAL ATTACKS: Breath weapon and magical
+"Special Attacks": "Breath weapon and magical",
 abilities
 
-SPECIAL DEFENSES: Variable
+"Special Defenses": "Variable",
 
-MAGIC RESISTANCE: Variable
+"Magic Resistance": "Variable",
 
-SIZE: G (35’ base length)
+"Size": "G (35’ base length)",
 
-MORALE: Fanatic (18 base)
+"Morale": "Fanatic (18 base)",
 
-XP VALUE: Variable
+"XP Value": "Variable",
 
 Age Body Breath Treas. X.P.
 Cat. Diameter (’) AC Weapon MR Type Value
@@ -2957,47 +2608,47 @@ races, particularly the minotaurs of Mithas.
 
  
 
-CLIMATE/TERRAIN: As creature or person mimicked
+"Climate/Terrain": "As creature or person mimicked",
 
-FREQUENCY: Very rare
+"Frequency": "Very rare",
 
-ORGANIZATION: As creature or person mimicked
+"Organization": "As creature or person mimicked",
 
-ACTIVITY CYCLE: As creature or person mimicked
+"Activity Cycle": "As creature or person mimicked",
 
-DIET: Nil
+"Diet": "Nil",
 
-INTELLIGENCE: As the dreamer
+"Intelligence": "As the dreamer",
 
-TREASURE: As creature or person mimicked
+"Treasure": "As creature or person mimicked",
 (but illusionary)
 
-ALIGNMENT: As creature or person mimicked
+"Alignment": "As creature or person mimicked",
 
  
 
-NO. APPEARING: Variable
+"No. Appearing": "Variable",
 
-ARMOR CLASS: As creature or person mimicked
-MOVEMENT: As creature or person mimicked
-HIT DICE: As creature or person mimicked
-THACO: As creature or person mimicked
+"Armor Class": "As creature or person mimicked",
+"Movement": "As creature or person mimicked",
+"Hit dice": "As creature or person mimicked",
+"THAC0": "As creature or person mimicked",
 
-NO. OF ATTACKS: As person or creature mimicked
-DAMAGE/ATTACK: As person or creature mimicked
+"No. Of Attacks": "As person or creature mimicked",
+"Damage/Attack": "As person or creature mimicked",
 (but illusionary)
 
 As person or creature mimicked
 (but illusionary)
 
-SPECIAL DEFENSES: As person or creature mimicked
-MAGIC RESISTANCE: See below
+"Special Defenses": "As person or creature mimicked",
+"Magic Resistance": "See below",
 
 SPECIAL ATTACKS:
 
-SIZE: As person or creature mimicked
-MORALE: As person or creature mimicked
-XP VALUE: As person or creature mimicked
+"Size": "As person or creature mimicked",
+"Morale": "As person or creature mimicked",
+"XP Value": "As person or creature mimicked",
 
 + 10%
 
@@ -3108,39 +2759,39 @@ since their physiological functions are all illusionary
 
  
 
-CLIMATE/TERRAIN: As creature or person mimicked
-FREQUENCY: Very rare
+"Climate/Terrain": "As creature or person mimicked",
+"Frequency": "Very rare",
 
-ORGANIZATION: As creature or person mimicked
-ACTIVITY CYCLE: As creature or person mimicked
-DIET: Nil
+"Organization": "As creature or person mimicked",
+"Activity Cycle": "As creature or person mimicked",
+"Diet": "Nil",
 
-INTELLIGENCE: As creature or person mimicked
-TREASURE: Nil
+"Intelligence": "As creature or person mimicked",
+"Treasure": "Nil",
 
-ALIGNMENT: Chaotic evil
+"Alignment": "Chaotic evil",
 
-NO. APPEARING: 1-4
+"No. Appearing": "1-4",
 
-ARMOR CLASS: 3
+"Armor Class": "3",
 
-MOVEMENT: As creature or person mimicked
-HIT DICE: 8
+"Movement": "As creature or person mimicked",
+"Hit dice": "8",
 
-THACO: 13
+"THAC0": "13",
 
-NO. OF ATTACKS: 1
+"No. Of Attacks": "1",
 
-DAMAGE/ATTACK: 1-10 or by weapon (illusionary)
-SPECIAL ATTACKS: — -1 bonus to initiative roll
-SPECIAL DEFENSES: Nil
+"Damage/Attack": "1-10 or by weapon (illusionary)",
+"Special Attacks": "— -1 bonus to initiative roll",
+"Special Defenses": "Nil",
 
-MAGIC RESISTANCE: See below
+"Magic Resistance": "See below",
 
-SIZE: As person or creature mimicked
-MORALE: Very steady (14)
+"Size": "As person or creature mimicked",
+"Morale": "Very steady (14)",
 
-XP VALUE: 2,000
+"XP Value": "2,000",
 
 Dreamwraiths are violent creations of the subconscious. They as-
 sault the minds of their victims through powerful illusionary at-
@@ -3474,34 +3125,34 @@ ns. hig ee - 4 i
 
  
 
-CLIMATE/ TERRAIN: Tropical, subtropical, and
+"Climate/ terrain": "Tropical, subtropical, and",
 
 temperate/Plain, swamp, forest,
 jungle, hill. and mountain
 
  
 
-FREQUENCY: Rare
-ORGANIZATION: Clan
-ACTIVITY CYCLE: Any
-DIET: Omnivore
-INTELLIGENCE: Varies (3-9)
-TREASURE: J (x 4; ®
-ALIGNMENT: Varies, but usually chaotic neutral
-NO. APPEARING: 2-20
-ARMOR CLASS: 7 (10)
-MOVEMENT: 6
-HIT DICE: 1
-THACO: 19
-NO. OF ATTACKS: 1 or 2
-DAMAGE/ATTACK: 1-4/1-4 (fist/bite) or by weapon
+"Frequency": "Rare",
+"Organization": "Clan",
+"Activity Cycle": "Any",
+"Diet": "Omnivore",
+"Intelligence": "Varies (3-9)",
+"Treasure": "J (x 4; ®",
+"Alignment": "Varies, but usually chaotic neutral",
+"No. Appearing": "2-20",
+"Armor Class": "7 (10)",
+"Movement": "6",
+"Hit dice": "1",
+"THAC0": "19",
+"No. Of Attacks": "1 or 2",
+"Damage/Attack": "1-4/1-4 (fist/bite) or by weapon",
 (1-4)
-SPECIAL ATTACKS: See below
-SPECIAL DEFENSES: See below
-MAGIC RESISTANCE: See below
-SIZE: S (4’ tall)
-MORALE: Unsteady (7)
-XP VALUE: Varies
+"Special Attacks": "See below",
+"Special Defenses": "See below",
+"Magic Resistance": "See below",
+"Size": "S (4’ tall)",
+"Morale": "Unsteady (7)",
+"XP Value": "Varies",
 
 Gully dwarves, also known as Aghar, are stupid, filthy, and ob-
 noxious.
@@ -3614,42 +3265,42 @@ SUG
 
  
 
-CLIMATE/TERRAIN: Subtropical and temperate/
+"Climate/Terrain": "Subtropical and temperate/",
 Hills and forests
 
-FREQUENCY: Common
+"Frequency": "Common",
 
-ORGANIZATION: Clan
+"Organization": "Clan",
 
-ACTIVITY CYCLE: Any
+"Activity Cycle": "Any",
 
-DIET: Omnivore
+"Diet": "Omnivore",
 
-INTELLIGENCE: Varies (3-18)
+"Intelligence": "Varies (3-18)",
 
-TREASURE: M (x 2); (G, Q (x 20), R)
+"Treasure": "M (x 2); (G, Q (x 20), R)",
 
-ALIGNMENT: Varies, but usually neutral good
+"Alignment": "Varies, but usually neutral good",
 
  
 
-NO. APPEARING: 1 or clan of 10-100 members
+"No. Appearing": "1 or clan of 10-100 members",
 
-ARMOR CLASS: 6 (10)
-MOVEMENT: 6
+"Armor Class": "6 (10)",
+"Movement": "6",
 
-HIT DICE: 1
+"Hit dice": "1",
 
-THACO: 19
+"THAC0": "19",
 
-NO. OF ATTACKS: 1
-DAMAGE/ATTACK: 1-8 (weapon)
-SPECIAL ATTACKS: See below
-SPECIAL DEFENSES: See below
-MAGIC RESISTANCE: See below
-SIZE: M (4’-5’ tall)
-MORALE: Elite (13)
-XP VALUE: Varies
+"No. Of Attacks": "1",
+"Damage/Attack": "1-8 (weapon)",
+"Special Attacks": "See below",
+"Special Defenses": "See below",
+"Magic Resistance": "See below",
+"Size": "M (4’-5’ tall)",
+"Morale": "Elite (13)",
+"XP Value": "Varies",
 
 Hill dwarves, also known as Neidar, are the most commonly en-
 countered dwarven race on Krynn
@@ -3757,49 +3408,49 @@ Intelligence 3 18
 
  
 
-CLIMATE/TERRAIN: Tropical subtropical, and
+"Climate/Terrain": "Tropical subtropical, and",
 temperate /Subterranean
 
-FREQUENCY: Uncommon
+"Frequency": "Uncommon",
 
-ORGANIZATION: Clan
+"Organization": "Clan",
 
-ACTIVITY CYCLE: Any
+"Activity Cycle": "Any",
 
-DIET: Omnivore
+"Diet": "Omnivore",
 
-INTELLIGENCE: Varies (3-18)
+"Intelligence": "Varies (3-18)",
 
-TREASURE: M (x 5), Q; (R (x 20), G)
+"Treasure": "M (x 5), Q; (R (x 20), G)",
 
-ALIGNMENT: Varies, but usually lawful neu-
+"Alignment": "Varies, but usually lawful neu-",
 tral
 
-NO. APPEARING: 4-24
+"No. Appearing": "4-24",
 
-ARMOR CLASS: 4 (10)
+"Armor Class": "4 (10)",
 
-MOVEMENT: 4 (6)
+"Movement": "4 (6)",
 
-HIT DICE: 1
+"Hit dice": "1",
 
-THACO: 19
+"THAC0": "19",
 
-NO. OF ATTACKS: 1
+"No. Of Attacks": "1",
 
-DAMAGE/ATTACK: 1-8 (weapon)
+"Damage/Attack": "1-8 (weapon)",
 
-SPECIAL ATTACKS: See below
+"Special Attacks": "See below",
 
-SPECIAL DEFENSES: See below
+"Special Defenses": "See below",
 
-MAGIC RESISTANCE: See below
+"Magic Resistance": "See below",
 
-SIZE: M (4%’ tall)
+"Size": "M (4%’ tall)",
 
-MORALE: Elite (13)
+"Morale": "Elite (13)",
 
-XP VALUE: Varies
+"XP Value": "Varies",
 
 Mountain dwarves are the oldest of the dwarven races. The best
 known and most revered of mountain dwarves are the Hylar.
@@ -3909,48 +3560,48 @@ Charisma 3 16
 
  
 
-CLIMATE/TERRAIN: Tropical, and
+"Climate/Terrain": "Tropical, and",
 temperate, Subterranean
 
-FREQUENCY: Very rare
+"Frequency": "Very rare",
 
-ORGANIZATION: Clan
+"Organization": "Clan",
 
-ACTIVITY CYCLE: Night
+"Activity Cycle": "Night",
 
-DIET: Carnivore
+"Diet": "Carnivore",
 
-INTELLIGENCE: Varies (3-18)
+"Intelligence": "Varies (3-18)",
 
 TREASURE M (2), (G & 3), R)
 
 ALIGNMENT Varies, but usually chaotic evil
 
-NO APPEARING: 3-30
+"No appearing": "3-30",
 
-ARMOR CLASS: 7 (10)
+"Armor Class": "7 (10)",
 
-MOVEMENT: 6
+"Movement": "6",
 
-HIT DICE: 1
+"Hit dice": "1",
 
-THACO: 19
+"THAC0": "19",
 
-NO OF ATTACKS: lor2
+"No of attacks": "lor2",
 
-DAMAGE/ATTACK: 1-8 (weapon)
+"Damage/Attack": "1-8 (weapon)",
 
 SPECIAL ATTACKS See below
 
 SPECIAL DEFENSES* See below
 
-MAGIC RESISTANCE: See below
+"Magic Resistance": "See below",
 
-SIZE: S @ tall)
+"Size": "S @ tall)",
 
-MORALE: Steady (12)
+"Morale": "Steady (12)",
 
-XP VALUE: Varies
+"XP Value": "Varies",
 
 Theiwar are an aggressive and degenerate race of mountain
 dwarves
@@ -4074,48 +3725,48 @@ Charisma 3 u
 
  
 
-CLIMATE/TERRAIN: Tropical, subtropical,
+"Climate/Terrain": "Tropical, subtropical,",
 temperate Subterranean
 
-FREQUENCY: Very rare
+"Frequency": "Very rare",
 
-ORGANIZATION: Clan
+"Organization": "Clan",
 
-ACTIVITY CYCLE: Any
+"Activity Cycle": "Any",
 
-DIET: Omnivore
+"Diet": "Omnivore",
 
-INTELLIGENCE: Varies (3-18)
+"Intelligence": "Varies (3-18)",
 
-TREASURE: M (x 5); (G, Q (x 20), R)
+"Treasure": "M (x 5); (G, Q (x 20), R)",
 
-ALIGNMENT: Varies, but usually neutral
+"Alignment": "Varies, but usually neutral",
 
-NO. APPEARING: 2-20
+"No. Appearing": "2-20",
 
-ARMOR CLASS: 3 (10)
+"Armor Class": "3 (10)",
 
-MOVEMENT: 6
+"Movement": "6",
 
-HIT DICE: 1
+"Hit dice": "1",
 
-THACO: 19
+"THAC0": "19",
 
-NO. OF ATTACKS: 1
+"No. Of Attacks": "1",
 
-DAMAGE/ATTACK: 1-8 (weapon)
+"Damage/Attack": "1-8 (weapon)",
 
-SPECIAL ATTACKS: See below
+"Special Attacks": "See below",
 
-SPECIAL DEFENSES: See below
+"Special Defenses": "See below",
 
-MAGIC RESISTANCE: See below
+"Magic Resistance": "See below",
 
-SIZE: S (3" tall)
+"Size": "S (3" tall)",
 
-MORALE: Elite (13)
+"Morale": "Elite (13)",
 
-XP VALUE: Varies
+"XP Value": "Varies",
 
 Zakhar are a mysterious race of mountain dwarves that has with-
 drawn from contact with all other dwarven races.
@@ -4223,39 +3874,39 @@ Charisma 2 16
 
  
 
-CLIMATE/TERRAIN: Temperate/ Forest
+"Climate/Terrain": "Temperate/ Forest",
 
-FREQUENCY: Uncommon
+"Frequency": "Uncommon",
 
-ORGANIZATION: Clan
+"Organization": "Clan",
 
-ACTIVITY CYCLE: Any
+"Activity Cycle": "Any",
 
-DIET: Omnivore
+"Diet": "Omnivore",
 
-INTELLIGENCE: Varies (8-18)
+"Intelligence": "Varies (8-18)",
 
-TREASURE: M; (E, S (x 1/2), T)
-ALIGNMENT: Varies, but usually lawful or
+"Treasure": "M; (E, S (x 1/2), T)",
+"Alignment": "Varies, but usually lawful or",
 
 neutral good
 
  
 
-NO. APPEARING: 10-100
-ARMOR CLASS: 5 (10)
-MOVEMENT: 12
+"No. Appearing": "10-100",
+"Armor Class": "5 (10)",
+"Movement": "12",
 
-HIT DICE: 1+1
-THACO: 19 (18)
-NO. OF ATTACKS: 1
-DAMAGE/ATTACK: 1-10 (weapon)
-SPECIAL ATTACKS: See below
-SPECIAL DEFENSES: See below
-MAGIC RESISTANCE: See below
-SIZE: M (5 tall)
-MORALE: Elite (13)
-XP VALUE: Varies
+"Hit dice": "1+1",
+"THAC0": "19 (18)",
+"No. Of Attacks": "1",
+"Damage/Attack": "1-10 (weapon)",
+"Special Attacks": "See below",
+"Special Defenses": "See below",
+"Magic Resistance": "See below",
+"Size": "M (5 tall)",
+"Morale": "Elite (13)",
+"XP Value": "Varies",
 
 The Qualinesti, also known as the Western Elves, are exiles from
 the Silvanesti High Elves.
@@ -4401,43 +4052,43 @@ DAMAGHATTACK sen
 
  
 
-CLIMATE/TERRAIN: Tropical, subtropical, and
+"Climate/Terrain": "Tropical, subtropical, and",
 temperate/Forests and plains
 
-FREQUENCY: Very rare
+"Frequency": "Very rare",
 
-ORGANIZATION: Tribe
+"Organization": "Tribe",
 
-ACTIVITY CYCLE: Any
+"Activity Cycle": "Any",
 
-DIET: Omnivore
+"Diet": "Omnivore",
 
-INTELLIGENCE: Varies (3-12)
+"Intelligence": "Varies (3-12)",
 
-TREASURE: R, (S)
+"Treasure": "R, (S)",
 
-ALIGNMENT: Varies, but usually chaotic or
+"Alignment": "Varies, but usually chaotic or",
 
 neutral good
 
  
 
-NO. APPEARING: 20-200
-ARMOR CLASS: 8 (10)
-MOVEMENT: 12 (or 15 if sprinting)
-HIT DICE: i+1
+"No. Appearing": "20-200",
+"Armor Class": "8 (10)",
+"Movement": "12 (or 15 if sprinting)",
+"Hit dice": "i+1",
 
-THACO: 19 (18)
+"THAC0": "19 (18)",
 
-NO. OF ATTACKS: 1
-DAMAGE/ATTACK: 1-10 (weapon)
-SPECIAL ATTACKS: See below
-SPECIAL DEFENSES: See below
-MAGIC RESISTANCE: See below
-SIZE: M (5’ tall)
-MORALE: Elite (12)
+"No. Of Attacks": "1",
+"Damage/Attack": "1-10 (weapon)",
+"Special Attacks": "See below",
+"Special Defenses": "See below",
+"Magic Resistance": "See below",
+"Size": "M (5’ tall)",
+"Morale": "Elite (12)",
 
-XP VALUE: Varies
+"XP Value": "Varies",
 
 Kagonesti (Wild Elves) rejected the civilized trappings of their
 cousins, the Qualinesti and Silvanesti, to establish their own wil-
@@ -4698,43 +4349,43 @@ Charisma 3 18
 
  
 
-CLIMATE/TERRAIN: Tropical, subtropical, and
+"Climate/Terrain": "Tropical, subtropical, and",
 temperate/Ocean
 
-FREQUENCY: Very rare
+"Frequency": "Very rare",
 
-ORGANIZATION: Clan
+"Organization": "Clan",
 
-ACTIVITY CYCLE: Any
+"Activity Cycle": "Any",
 
-DIET: Omnivore
+"Diet": "Omnivore",
 
-INTELLIGENCE: Varies (7-18)
+"Intelligence": "Varies (7-18)",
 
-TREASURE: F, S in lair
+"Treasure": "F, S in lair",
 
-ALIGNMENT: Varies, but usually chaotic or
+"Alignment": "Varies, but usually chaotic or",
 
 lawful good
 
  
 
-NO. APPEARING: 10-40
-ARMOR CLASS: 8 (10)
-MOVEMENT: 9, SW 15 (or 30 as dolphin)
-HIT DICE: 1+1
+"No. Appearing": "10-40",
+"Armor Class": "8 (10)",
+"Movement": "9, SW 15 (or 30 as dolphin)",
+"Hit dice": "1+1",
 
-THACO: 19 (18
+"THAC0": "19 (18",
 
-NO. OF ATTACKS: 1
-DAMAGE/ATTACK: 1-10 (weapon)
-SPECIAL ATTACKS: See below
-SPECIAL DEFENSES: See below
-MAGIC RESISTANCE: See below
-SIZE: M (5’ tall)
-MORALE: Elite (13)
+"No. Of Attacks": "1",
+"Damage/Attack": "1-10 (weapon)",
+"Special Attacks": "See below",
+"Special Defenses": "See below",
+"Magic Resistance": "See below",
+"Size": "M (5’ tall)",
+"Morale": "Elite (13)",
 
-XP VALUE: Varies
+"XP Value": "Varies",
 
 Dargonesti are a race of shy and reclusive sea elves, also known
 as Deep Elves
@@ -4857,43 +4508,43 @@ GORI CINCE ++ -
 
  
 
-CLIMATE/TERRAIN: Tropical, subtropical, and
+"Climate/Terrain": "Tropical, subtropical, and",
 temperate/ Ocean
 
-FREQUENCY: Very rare
+"Frequency": "Very rare",
 
-ORGANIZATION: School
+"Organization": "School",
 
-ACTIVITY CYCLE: Any
+"Activity Cycle": "Any",
 
-DIET: Omnivore
+"Diet": "Omnivore",
 
-INTELLIGENCE: Varies (8-18)
+"Intelligence": "Varies (8-18)",
 
-TREASURE: G, (S)
+"Treasure": "G, (S)",
 
-ALIGNMENT: Varies, but usually chaotic or
+"Alignment": "Varies, but usually chaotic or",
 
 neutral good
 
  
 
-NO. APPEARING: 10-100
-ARMOR CLASS: 5 (10)
-MOVEMENT: 9, Sw 15 (or 18 as otter)
-HIT DICE: 1+1
+"No. Appearing": "10-100",
+"Armor Class": "5 (10)",
+"Movement": "9, Sw 15 (or 18 as otter)",
+"Hit dice": "1+1",
 
-THACO: 19 (18)
+"THAC0": "19 (18)",
 
-NO. OF ATTACKS: 1
-DAMAGE/ATTACK: 1-10 (weapon)
-SPECIAL ATTACKS: See below
-SPECIAL DEFENSES: See below
-MAGIC RESISTANCE: See below
-SIZE: M (3 tall)
-MORALE: Elite (13)
+"No. Of Attacks": "1",
+"Damage/Attack": "1-10 (weapon)",
+"Special Attacks": "See below",
+"Special Defenses": "See below",
+"Magic Resistance": "See below",
+"Size": "M (3 tall)",
+"Morale": "Elite (13)",
 
-XP VALUE: Varies
+"XP Value": "Varies",
 
 Dimernesti, also known as Shoal Elves, are a proud and secretive
 race of sea elves.
@@ -5061,9 +4712,9 @@ See below
 
 Nil
 
-SIZE: L (15’ wingspan)
-MORALE: Steady (12)
-XP VALUE: 650
+"Size": "L (15’ wingspan)",
+"Morale": "Steady (12)",
+"XP Value": "650",
 
 Eyewings are loathsome inhabitants of the Abyss. They are obe-
 dient, loyal, and dumb—perfect servitors for the dark gods and
@@ -5318,35 +4969,35 @@ gods of evil and by evil wizards.
 
  
 
-CLIMATE/TERRAIN: Volcanic, lava
-FREQUENCY: Very Rare
-ORGANIZATION: Hierarchial
+"Climate/Terrain": "Volcanic, lava",
+"Frequency": "Very Rare",
+"Organization": "Hierarchial",
 
-ACTIVITY CYCLE: Any
+"Activity Cycle": "Any",
 
-DIET: Special
+"Diet": "Special",
 
-INTELLIGENCE: Average to genius (11-18)
-TREASURE: None
+"Intelligence": "Average to genius (11-18)",
+"Treasure": "None",
 
-ALIGNMENT: Lawful evil
+"Alignment": "Lawful evil",
 
  
 
-NO. APPEARING: 1-4
-ARMOR CLASS: 3
-MOVEMENT: 12
-HIT DICE: 6
-THACO: 15
-NO. OF ATTACKS: 1
-DAMAGE/ATTACK: 2d6
-SPECIAL ATTACKS: Fire
-SPECIAL DEFENSES: Immunity to fire
-MAGIC RESISTANCE: Nil
-SIZE: L (7’-9’)
-MORALE: 15
+"No. Appearing": "1-4",
+"Armor Class": "3",
+"Movement": "12",
+"Hit dice": "6",
+"THAC0": "15",
+"No. Of Attacks": "1",
+"Damage/Attack": "2d6",
+"Special Attacks": "Fire",
+"Special Defenses": "Immunity to fire",
+"Magic Resistance": "Nil",
+"Size": "L (7’-9’)",
+"Morale": "15",
 
-XP VALUE: 975
+"XP Value": "975",
 
 Fire minions are fearsome creatures, apparently from the elemen-
 tal plane of Fire. Their bodies are composed of living flame, and
@@ -5590,48 +5241,48 @@ to flame. though they prefer intelligent victims.
 
  
 
-CLIMATE/TERRAIN: Tropical, subtropical, and
+"Climate/Terrain": "Tropical, subtropical, and",
 temperate/Subterranean
 
-FREQUENCY: Rare
+"Frequency": "Rare",
 
-ORGANIZATION: Colony
+"Organization": "Colony",
 
-ACTIVITY CYCLE: Any
+"Activity Cycle": "Any",
 
-DIET: Omnivore
+"Diet": "Omnivore",
 
-INTELLIGENCE: Varies (8-18)
+"Intelligence": "Varies (8-18)",
 
-TREASURE: M (x 3); (C, Q (x 20))
+"Treasure": "M (x 3); (C, Q (x 20))",
 
-ALIGNMENT: Neutral or lawful good
+"Alignment": "Neutral or lawful good",
 
-NO. APPEARING: 40-400
+"No. Appearing": "40-400",
 
-ARMOR CLASS: 5 (10)
+"Armor Class": "5 (10)",
 
-MOVEMENT: 6
+"Movement": "6",
 
-HIT DICE: 1
+"Hit dice": "1",
 
-THACO: 19
+"THAC0": "19",
 
-NO. OF ATTACKS: 1
+"No. Of Attacks": "1",
 
-DAMAGE/ATTACK: 1-6 (weapon)
+"Damage/Attack": "1-6 (weapon)",
 
-SPECIAL ATTACKS: See below
+"Special Attacks": "See below",
 
-SPECIAL DEFENSES: See below
+"Special Defenses": "See below",
 
-MAGIC RESISTANCE: See below
+"Magic Resistance": "See below",
 
-SIZE: S (3’ tall)
+"Size": "S (3’ tall)",
 
-MORALE: Average (8)
+"Morale": "Average (8)",
 
-XP VALUE: Varies
+"XP Value": "Varies",
 
 Tinker gnomes re constantly designing, building, and testing de--
 vices for a variety of applications, but their innate incompetence
@@ -5883,32 +5534,32 @@ not gain this title.
 
  
 
-CLIMATE/TERRAIN: Temperate forest
-FREQUENCY: Rare
-ORGANIZATION: Solitary
-ACTIVITY CYCLE: Night
-DIET: Omnivore
-INTELLIGENCE: Semi- (2-4)
-TREASURE: Nil
-ALIGNMENT: Chaotic evil
-NO. APPEARING: 1-2
-ARMOR CLASS: 8
-MOVEMENT: 6
+"Climate/Terrain": "Temperate forest",
+"Frequency": "Rare",
+"Organization": "Solitary",
+"Activity Cycle": "Night",
+"Diet": "Omnivore",
+"Intelligence": "Semi- (2-4)",
+"Treasure": "Nil",
+"Alignment": "Chaotic evil",
+"No. Appearing": "1-2",
+"Armor Class": "8",
+"Movement": "6",
 
-HIT DICE: 2
+"Hit dice": "2",
 
-THACO: 19
+"THAC0": "19",
 
-NO. OF ATTACKS: 1
-DAMAGE/ATTACK: 1d6
-SPECIAL ATTACKS: Surprise, camouflage
-SPECIAL DEFENSES: Nil
-MAGIC RESISTANCE: Nil
+"No. Of Attacks": "1",
+"Damage/Attack": "1d6",
+"Special Attacks": "Surprise, camouflage",
+"Special Defenses": "Nil",
+"Magic Resistance": "Nil",
 
-SIZE: S (3-4)
-MORALE: 9
+"Size": "S (3-4)",
+"Morale": "9",
 
-XP VALUE: 65
+"XP Value": "65",
 
 The gurik cha’ahl (“ ghost people”) are the dangerous and unpleas-
 ant offspring of the IIquar goblins of Taladas. They are the ill-
@@ -5981,44 +5632,44 @@ them into being good or going to sleep.
 
 Lesser Greater
 CLIMATE/
-TERRAIN: Deserts Deserts
-FREQUENCY: Rare Very rare
-ORGANIZATION: Solitary /Small Solitary
+"Terrain": "Deserts Deserts",
+"Frequency": "Rare Very rare",
+"Organization": "Solitary /Small Solitary",
 herds
-ACTIVITY CYCLE: Any Any
-DIET: Carnivore Carnivore
-INTELLIGENCE: Low (5-7) Low (5-7)
-TREASURE: U U (x 2)
-ALIGNMENT: Chaotic neutral Chaotic neutral
+"Activity Cycle": "Any Any",
+"Diet": "Carnivore Carnivore",
+"Intelligence": "Low (5-7) Low (5-7)",
+"Treasure": "U U (x 2)",
+"Alignment": "Chaotic neutral Chaotic neutral",
 
  
 
-NO. APPEARING: 1 or 2-5 1
+"No. Appearing": "1 or 2-5 1",
 
-ARMOR CLASS: 2 1
+"Armor Class": "2 1",
 
-MOVEMENT: 15 12
+"Movement": "15 12",
 
-HIT DICE: 1-5 6-20
+"Hit dice": "1-5 6-20",
 
-THACO: Varies Varies
+"THAC0": "Varies Varies",
 
-NO. OF ATTACKS: 2 2
+"No. Of Attacks": "2 2",
 
-DAMAGE/ATTACK: 3-18/1-12 3-36/2-24
+"Damage/Attack": "3-18/1-12 3-36/2-24",
 
-SPECIAL ATTACKS: Swallow whole Swallow whole
+"Special Attacks": "Swallow whole Swallow whole",
 
-SPECIAL DEFENSES: Nil Nil
+"Special Defenses": "Nil Nil",
 
-MAGIC RESISTANCE: Nil Nil
+"Magic Resistance": "Nil Nil",
 
-SIZE: L to G (10’ to 50’ G (60’ to 200’
+"Size": "L to G (10’ to 50’ G (60’ to 200’",
 long) long)
 
-MORALE: Average (9) Steady (11)
+"Morale": "Average (9) Steady (11)",
 
-XP VALUE: Variable Variable
+"XP Value": "Variable Variable",
 
 Hatori, sometimes called the “crocodiles of the sands” are giant
 reptiles dwelling within sandy desert wastes. The hatori’s hard,
@@ -6179,9 +5830,9 @@ Horror
 Cannot be turned by LG clerics
 10%
 
-SIZE: M (6’ tall)
-MORALE: 16
-XP VALUE: 2,000
+"Size": "M (6’ tall)",
+"Morale": "16",
+"XP Value": "2,000",
 
 A knight haunt is a floating suit of Solamnic armor, always ac-
 companied by some sort of weapon. If the battle where the knight
@@ -6271,24 +5922,24 @@ a knight haunt spirit to rest and then use the haunt’s armor.
 
  
 
-CLIMATE/TERRAIN: Subterranean
-FREQUENCY: Uncommon
-ORGANIZATION: Colony
-ACTIVITY CYCLE: Any
-DIET: Carnivore
-INTELLIGENCE: Animal (1)
-TREASURE: Nil (D)
-ALIGNMENT: Neutral
-NO. APPEARING: 3d10
-ARMOR CLASS: 3
-MOVEMENT: 15
+"Climate/Terrain": "Subterranean",
+"Frequency": "Uncommon",
+"Organization": "Colony",
+"Activity Cycle": "Any",
+"Diet": "Carnivore",
+"Intelligence": "Animal (1)",
+"Treasure": "Nil (D)",
+"Alignment": "Neutral",
+"No. Appearing": "3d10",
+"Armor Class": "3",
+"Movement": "15",
 
-HIT DICE: 4
+"Hit dice": "4",
 
-THACO: 17
+"THAC0": "17",
 
-NO. OF ATTACKS: 1
-DAMAGE/ATTACK: 2d8
+"No. Of Attacks": "1",
+"Damage/Attack": "2d8",
 
 SPECIAL ATTACKS:
 SPECIAL DEFENSES:
@@ -6296,10 +5947,10 @@ SPECIAL DEFENSES:
 -1 initiative, crush
 Nil
 
-MAGIC RESISTANCE: Nil
-SIZE: M (5’-6’ long)
-MORALE: 10
-XP VALUE: 270
+"Magic Resistance": "Nil",
+"Size": "M (5’-6’ long)",
+"Morale": "10",
+"XP Value": "270",
 Young 15
 
 The horax are insectoid creatures, as ferocious as they are mind-
@@ -6405,23 +6056,23 @@ ARMOR CLASS:
 10-40
 4 or 1 (in mist form)
 
-MOVEMENT: 12, F124 (A), Sw 6
-HIT DICE: 5+3
+"Movement": "12, F124 (A), Sw 6",
+"Hit dice": "5+3",
 
-THACO: 15
+"THAC0": "15",
 
-NO. OF ATTACKS: 1
-DAMAGE/ATTACK: 1-6 or 1
+"No. Of Attacks": "1",
+"Damage/Attack": "1-6 or 1",
 
-SPECIAL ATTACKS: Nil
+"Special Attacks": "Nil",
 
-SPECIAL DEFENSES: Hit only by magical weapons
-MAGIC RESISTANCE: See below
+"Special Defenses": "Hit only by magical weapons",
+"Magic Resistance": "See below",
 
-SIZE: T (2’ tall)
-MORALE: Steady (11)
+"Size": "T (2’ tall)",
+"Morale": "Steady (11)",
 
-XP VALUE: 975
+"XP Value": "975",
 
 Blood Sea Imps, also known as vapor imps, are hateful, vicious
 creatures dwelling in tropical oceans They delight in tormenting
@@ -6532,33 +6183,33 @@ Locusts
  
 
 CLIMATE/ Tropical, sub- Tropical and
-TERRAIN: tropical or temp-  subtropical/ Forest,
+"Terrain": "tropical or temp-  subtropical/ Forest,",
 erate/Forest, hills hills, and plains
 and plains
-FREQUENCY: Very rare Very rare
-ORGANIZATION: Swarm Swarm
-ACTIVITY CYCLE: Day Day
-DIET: Omnivore Herbivore
-INTELLIGENCE: Animal (1) Animal (1)
-TREASURE: Nil Nil
-ALIGNMENT: Neutral Neutral
-NO. APPEARING: See below See below
-ARMOR CLASS: 8 8, FL6 (A)
-MOVEMENT: 6 6, FI 18 (C)
-HIT DICE: See below 1 hp/20 insects
-THACO: See below See below
-NO. OF ATTACKS: 1 1
-DAMAGE/ATTACK: See below See below
-SPECIAL ATTACKS: Poison Nil
+"Frequency": "Very rare Very rare",
+"Organization": "Swarm Swarm",
+"Activity Cycle": "Day Day",
+"Diet": "Omnivore Herbivore",
+"Intelligence": "Animal (1) Animal (1)",
+"Treasure": "Nil Nil",
+"Alignment": "Neutral Neutral",
+"No. Appearing": "See below See below",
+"Armor Class": "8 8, FL6 (A)",
+"Movement": "6 6, FI 18 (C)",
+"Hit dice": "See below 1 hp/20 insects",
+"THAC0": "See below See below",
+"No. Of Attacks": "1 1",
+"Damage/Attack": "See below See below",
+"Special Attacks": "Poison Nil",
 SPECIAL
-DEFENSES: Nil Nil
+"Defenses": "Nil Nil",
 MAGIC
-RESISTANCE: Nil Nil
-SIZE: Individual: T (” T (2” long); Swarm:
+"Resistance": "Nil Nil",
+"Size": "Individual: T (” T (2” long); Swarm:",
 long); Swarm: see below
 see below
-MORALE: Unsteady (6) Unsteady (6)
-XP VALUE: See below See below
+"Morale": "Unsteady (6) Unsteady (6)",
+"XP Value": "See below See below",
 
  
 
@@ -6654,32 +6305,32 @@ vores.
 
  
 
-CLIMATE/TERRAIN: Any/Ocean
-FREQUENCY: Uncommon
-ORGANIZATION: School
-ACTIVITY CYCLE: Any
-DIET: Carnivore
-INTELLIGENCE: Low (5-7)
-TREASURE: Q (x 3)
-ALIGNMENT: Neutral
-NO. APPEARING: 2-12
-ARMOR CLASS: 7
-MOVEMENT: Swi12
+"Climate/Terrain": "Any/Ocean",
+"Frequency": "Uncommon",
+"Organization": "School",
+"Activity Cycle": "Any",
+"Diet": "Carnivore",
+"Intelligence": "Low (5-7)",
+"Treasure": "Q (x 3)",
+"Alignment": "Neutral",
+"No. Appearing": "2-12",
+"Armor Class": "7",
+"Movement": "Swi12",
 
-HIT DICE: 4+4
-THACO: 15
+"Hit dice": "4+4",
+"THAC0": "15",
 
-NO. OF ATTACKS: lor4
-DAMAGE/ATTACK: 1-2 or 1-6 (x 4)
+"No. Of Attacks": "lor4",
+"Damage/Attack": "1-2 or 1-6 (x 4)",
 
-SPECIAL ATTACKS: Shoots spines
+"Special Attacks": "Shoots spines",
 
-SPECIAL DEFENSES: See below
-MAGIC RESISTANCE: Nil
+"Special Defenses": "See below",
+"Magic Resistance": "Nil",
 
-SIZE: L (12’ long)
-MORALE: Average (10)
-XP VALUE: 270
+"Size": "L (12’ long)",
+"Morale": "Average (10)",
+"XP Value": "270",
 
 The kalothagh, also known as the prickleback, is an aquatic ver-
 sion of the manticore. Though sluggish and not particularly ag-
@@ -6782,48 +6433,48 @@ varieties of prey.
 
  
 
-CLIMATE/TERRAIN: Rural societies of any terrain or
+"Climate/Terrain": "Rural societies of any terrain or",
 climate
 
-FREQUENCY: Rare
+"Frequency": "Rare",
 
-ORGANIZATION: Nil
+"Organization": "Nil",
 
-ACTIVITY CYCLE: As per the enchantment
+"Activity Cycle": "As per the enchantment",
 
-DIET: Nil
+"Diet": "Nil",
 
-INTELLIGENCE: Nil (0)
+"Intelligence": "Nil (0)",
 
-TREASURE: Nil
+"Treasure": "Nil",
 
-ALIGNMENT: Chaotic evil
+"Alignment": "Chaotic evil",
 
-NO. APPEARING: 2-12
+"No. Appearing": "2-12",
 
-ARMOR CLASS: 10
+"Armor Class": "10",
 
-MOVEMENT: 9
+"Movement": "9",
 
-HIT DICE: 2
+"Hit dice": "2",
 
-THACO: 19
+"THAC0": "19",
 
-NO. OF ATTACKS: 1
+"No. Of Attacks": "1",
 
-DAMAGE/ATTACK: 1-4
+"Damage/Attack": "1-4",
 
-SPECIAL ATTACKS: Continuous attacks
+"Special Attacks": "Continuous attacks",
 
-SPECIAL DEFENSES: Nil
+"Special Defenses": "Nil",
 
-MAGIC RESISTANCE: Nil
+"Magic Resistance": "Nil",
 
-SIZE: T (6” tall)
+"Size": "T (6” tall)",
 
-MORALE: Fearless (never checks)
+"Morale": "Fearless (never checks)",
 
-XP VALUE: 35
+"XP Value": "35",
 
 In their usual form, kani dolls are created by members of primi-
 tive tribes to serve as simple good-luck charms; they have no life
@@ -6934,51 +6585,51 @@ a a ‘ i i
 
  
 
-CLIMATE/TERRAIN: Tropical subtropical, and
+"Climate/Terrain": "Tropical subtropical, and",
 temperate/Plains, forests, jun-
 gles, hills, and mountains
 
-FREQUENCY: Rare
+"Frequency": "Rare",
 
-ORGANIZATION: Family
+"Organization": "Family",
 
-ACTIVITY CYCLE: Any
+"Activity Cycle": "Any",
 
-DIET: Omnivore
+"Diet": "Omnivore",
 
-INTELLIGENCE: Varies (6-18)
+"Intelligence": "Varies (6-18)",
 
-TREASURE: Varies (typical individual: O, X;
+"Treasure": "Varies (typical individual: O, X;",
 typical lair: P, M, Q, X )
 
-ALIGNMENT: Varies, but usually lawful or
+"Alignment": "Varies, but usually lawful or",
 chaotic neutral
 
-NO. APPEARING: 1-20
+"No. Appearing": "1-20",
 
-ARMOR CLASS: 8 (10)
+"Armor Class": "8 (10)",
 
-MOVEMENT: 6 (9)
+"Movement": "6 (9)",
 
-HIT DICE: 1
+"Hit dice": "1",
 
-THACO: 19
+"THAC0": "19",
 
-NO. OF ATTACKS: 1
+"No. Of Attacks": "1",
 
-DAMAGE/ATTACK: 1-6 or by weapon
+"Damage/Attack": "1-6 or by weapon",
 
-SPECIAL ATTACKS: See below
+"Special Attacks": "See below",
 
-SPECIAL DEFENSES: See below
+"Special Defenses": "See below",
 
-MAGIC RESISTANCE: See below
+"Magic Resistance": "See below",
 
-SIZE: S (3’-4’ tall)
+"Size": "S (3’-4’ tall)",
 
-MORALE: Fearless (20)
+"Morale": "Fearless (20)",
 
-XP VALUE: Varies
+"XP Value": "Varies",
 
 Kender are diminutive humanoids who are insatiably curious and
 utterly fearless, with an uncanny knack for getting into trouble.
@@ -7244,37 +6895,37 @@ hI) hll—
 
  
 
-CLIMATE/TERRAIN: Any
-FREQUENCY: Very rare
-ORGANIZATION: Solitary
-ACTIVITY CYCLE: Any
+"Climate/Terrain": "Any",
+"Frequency": "Very rare",
+"Organization": "Solitary",
+"Activity Cycle": "Any",
 
-DIET: Nil
-INTELLIGENCE: Genius (17-18)
-TREASURE: Nil
-ALIGNMENT: Chaotic evil
+"Diet": "Nil",
+"Intelligence": "Genius (17-18)",
+"Treasure": "Nil",
+"Alignment": "Chaotic evil",
 
  
 
-NO. APPEARING: 1
+"No. Appearing": "1",
 
-ARMOR CLASS: 0
+"Armor Class": "0",
 
-MOVEMENT: 12
+"Movement": "12",
 
-HIT DICE: 9 (10-sided dice)
-THACO: 11
+"Hit dice": "9 (10-sided dice)",
+"THAC0": "11",
 
-NO. OF ATTACKS: 1 with +3 bonus
-DAMAGE/ATTACK: By weapon
-SPECIAL ATTACKS: See below
-SPECIAL DEFENSES: See below
+"No. Of Attacks": "1 with +3 bonus",
+"Damage/Attack": "By weapon",
+"Special Attacks": "See below",
+"Special Defenses": "See below",
 
-MAGIC RESISTANCE: 75% (see below)
+"Magic Resistance": "75% (see below)",
 
-SIZE: M (6’-7’ tall)
-MORALE: Fanatic (17)
-XP VALUE: 5,000
+"Size": "M (6’-7’ tall)",
+"Morale": "Fanatic (17)",
+"XP Value": "5,000",
 
 A death knight is the horrifying corruption of a Knight of Solam-
 nia, cursed by the gods to its terrible form as punishment for be-
@@ -7424,28 +7075,28 @@ sea far we sted hoe Sean donk, wah thoy el fom he
 
 Jarak-Sinn Bakali
 CLIMATE/ Tropical, subtropical, Tropical and
-TERRAIN: and temperate/ subtropical/
+"Terrain": "and temperate/ subtropical/",
 Swamp
 swamp
-FREQUENCY: Rare Very rare
-ORGANIZATION: _ Tribe Tribe
-ACTIVITY CYCLE: Any Any
-DIET: Omnivore Omnivore
-INTELLIGENCE: Low (5-7) Average (8-10)
-TREASURE: D J, K
-ALIGNMENT: Neutral (evil) Neutral (evil)
+"Frequency": "Rare Very rare",
+"Organization": "_ Tribe Tribe",
+"Activity Cycle": "Any Any",
+"Diet": "Omnivore Omnivore",
+"Intelligence": "Low (5-7) Average (8-10)",
+"Treasure": "D J, K",
+"Alignment": "Neutral (evil) Neutral (evil)",
 
  
 
-NO. APPEARING: 10-40 1-10
-ARMOR CLASS: 5 7
-MOVEMENT: 6, Sw 12 9,Sw9
-HIT DICE: 2+1 2+1
-THACO: 19 19
+"No. Appearing": "10-40 1-10",
+"Armor Class": "5 7",
+"Movement": "6, Sw 12 9,Sw9",
+"Hit dice": "2+1 2+1",
+"THAC0": "19 19",
 
-NO. OF ATTACKS: 3 or 1 3 or 1
+"No. Of Attacks": "3 or 1 3 or 1",
 
-DAMAGEF/ATTACK: 1-2/1-2/1-6 (claw/
+"Damagef/attack": "1-2/1-2/1-6 (claw/",
 
 SPECIAL ATTACKS:
 
@@ -7461,14 +7112,14 @@ Squirt blood
 
 SPECIAL
 
-DEFENSES: See below See below
+"Defenses": "See below See below",
 MAGIC
 
-RESISTANCE: Nil Nil
+"Resistance": "Nil Nil",
 
-SIZE: L (7 tall) M (6’-8’ tall)
-MORALE: Elite (13) Champion (15)
-XP VALUE: 270 175
+"Size": "L (7 tall) M (6’-8’ tall)",
+"Morale": "Elite (13) Champion (15)",
+"XP Value": "270 175",
 
 Jarak-sinn are a vile race of lizard men devoted to the worship of
 Chislev. All civilized races avoid associating with the vulgar, vi-
@@ -7741,33 +7392,33 @@ ey Lae at on
  
 
 Ice Folk Knights of Solamnia Plainsmen Rebels
-CLIMATE/TERRAIN: Arctic/Plain, hill, Tropical, subtropical, Tropical, subtropical, Any/ Urban
+"Climate/Terrain": "Arctic/Plain, hill, Tropical, subtropical, Tropical, subtropical, Any/ Urban",
 
 and mountain and temperate/Plain, and temperate/ Plain,
 
 hills mountain swamp, hill, mountain,
 and urban and forest
 
-FREQUENCY: Very rare Very rare Rare Rare
-ORGANIZATION: Tribe Solitary or patrol Tribe Band
-ACTIVITY CYCLE: Any Any Any Any
-DIET: Omnivore Omnivore Omnivore Omnivore
-INTELLIGENCE: Varies (3-18) Varies (7-18) Varies (3-18) Varies (3-18)
-TREASURE: Q, V See below See below K, L
-ALIGNMENT: Lawful good Lawful good Varies Lawful good
-NO. APPEARING: 20-200 1 or 2-12 1 or 2-8 2-20
-ARMOR CLASS: 5 (10) 4 (10) 10 See below
-MOVEMENT: 6 (9) 9 (12) 12 12
-HIT DICE: 1 Varies 1-6 hp 1-6 hp
-THACO: 19 Varies 20 20
-NO. OF ATTACKS: 1 1 1
+"Frequency": "Very rare Very rare Rare Rare",
+"Organization": "Tribe Solitary or patrol Tribe Band",
+"Activity Cycle": "Any Any Any Any",
+"Diet": "Omnivore Omnivore Omnivore Omnivore",
+"Intelligence": "Varies (3-18) Varies (7-18) Varies (3-18) Varies (3-18)",
+"Treasure": "Q, V See below See below K, L",
+"Alignment": "Lawful good Lawful good Varies Lawful good",
+"No. Appearing": "20-200 1 or 2-12 1 or 2-8 2-20",
+"Armor Class": "5 (10) 4 (10) 10 See below",
+"Movement": "6 (9) 9 (12) 12 12",
+"Hit dice": "1 Varies 1-6 hp 1-6 hp",
+"THAC0": "19 Varies 20 20",
+"No. Of Attacks": "1 1 1",
 DAMAGE/ATTACK:
-SPECIAL ATTACKS: Nil See below Nil Nil
-SPECIAL DEFENSES: Nil See below Nil Nil
-MAGIC RESISTANCE: Nil See below Nil Nil
-SIZE: M (6’ tall) M (6’ tall) M (5’-6’ tall) M (5’-6’ tall)
+"Special Attacks": "Nil See below Nil Nil",
+"Special Defenses": "Nil See below Nil Nil",
+"Magic Resistance": "Nil See below Nil Nil",
+"Size": "M (6’ tall) M (6’ tall) M (5’-6’ tall) M (5’-6’ tall)",
 
-MORALE: Steady (12)
+"Morale": "Steady (12)",
 or higher
 
 XP VALUE:
@@ -8321,40 +7972,40 @@ ee : :
 
 Blood Sea Minotaur
 
-CLIMATE/TERRAIN: Tropical and subtropical/
+"Climate/Terrain": "Tropical and subtropical/",
 Islands and seacoasts
 
-FREQUENCY: Rare
+"Frequency": "Rare",
 
-ORGANIZATION: Family
+"Organization": "Family",
 
-ACTIVITY CYCLE: Any
+"Activity Cycle": "Any",
 
-DIET: Omnivore
+"Diet": "Omnivore",
 
-INTELLIGENCE: Varies (5-18)
+"Intelligence": "Varies (5-18)",
 
-TREASURE: L, M; (©)
+"Treasure": "L, M; (©)",
 
-ALIGNMENT: Varies, but usually lawful evil
+"Alignment": "Varies, but usually lawful evil",
 
  
 
-NO. APPEARING: Patrol: 1-8; Settlement: 20-400
+"No. Appearing": "Patrol: 1-8; Settlement: 20-400",
 
-ARMOR CLASS: 6 (5)
-MOVEMENT: 12
-HIT DICE: 6+3
-THACO: 13
-NO. OF ATTACKS: 2
-DAMAGE/ATTACK: 2-8/1-4 (horns and bite) or by
+"Armor Class": "6 (5)",
+"Movement": "12",
+"Hit dice": "6+3",
+"THAC0": "13",
+"No. Of Attacks": "2",
+"Damage/Attack": "2-8/1-4 (horns and bite) or by",
 weapon
-SPECIAL ATTACKS: See below
-SPECIAL DEFENSES: See below
-MAGIC RESISTANCE: See below
-SIZE: L (7’-8’ tall)
-MORALE: Elite (13)
-XP VALUE: Varies
+"Special Attacks": "See below",
+"Special Defenses": "See below",
+"Magic Resistance": "See below",
+"Size": "L (7’-8’ tall)",
+"Morale": "Elite (13)",
+"XP Value": "Varies",
 
 The minotaurs of Krynn are a highly organized warrior race pri-
 marily occupying the remote islands of Mithas and Kothas. Huge
@@ -8627,45 +8278,45 @@ Tropical, subtropical, and temperate/ Tropical and subtropical, Forest, hill,
 Plain, swamp, forest, jungle, hill, and mountain
 mountain, subterranean
 
-FREQUENCY: Common Very rare
+"Frequency": "Common Very rare",
 
-ORGANIZATION: Tribe Tribe
+"Organization": "Tribe Tribe",
 
-ACTIVITY CYCLE: Any Any
+"Activity Cycle": "Any Any",
 
-DIET: Carnivore Carnivore
+"Diet": "Carnivore Carnivore",
 
-INTELLIGENCE: Low (5-7) Low (5-7)
+"Intelligence": "Low (5-7) Low (5-7)",
 
-TREASURE: Individual: M x 10; Tribe: Q, S, B Individual: Q; Tribe Q x 10
+"Treasure": "Individual: M x 10; Tribe: Q, S, B Individual: Q; Tribe Q x 10",
 
-ALIGNMENT: Chaotic evil Chaotic evil
+"Alignment": "Chaotic evil Chaotic evil",
 
-NO. APPEARING: 2-20 2-12
+"No. Appearing": "2-20 2-12",
 
-ARMOR CLASS: 5 5
+"Armor Class": "5 5",
 
-MOVEMENT: 9 9, Sw 18
+"Movement": "9 9, Sw 18",
 
-HIT DICE: 4+] 4+1
+"Hit dice": "4+] 4+1",
 
-THACO: 17 17
+"THAC0": "17 17",
 
-NO. OF ATTACKS: 1 1
+"No. Of Attacks": "1 1",
 
 DAMAGE/ATTACK; 1-10 (weapon) 1-6 (weapon)
 
-SPECIAL ATTACKS: + 2 to damage +2 to damage
+"Special Attacks": "+ 2 to damage +2 to damage",
 
-SPECIAL DEFENSES: Nil Nil
+"Special Defenses": "Nil Nil",
 
-MAGIC RESISTANCE: Nil Nil
+"Magic Resistance": "Nil Nil",
 
-SIZE: L (7’-% tall) M (4’-5’ tall)
+"Size": "L (7’-% tall) M (4’-5’ tall)",
 
-MORALE: Steady (11) Unsteady (7)
+"Morale": "Steady (11) Unsteady (7)",
 
-XP VALUE: 175 175
+"XP Value": "175 175",
 
 The ogres of Krynn are bloodthirsty, savage brutes. They are
 feared and despised by all intelligent races.
@@ -9121,34 +8772,34 @@ Constitution 12 16 Charisma 15 20
  
 
 CLIMATE/ Phaethon Elder
-TERRAIN: Mountains Mountains
-FREQUENCY: Rare Very rare
-ORGANIZATION: Family Solitary
-ACTIVITY CYCLE: Day Any
+"Terrain": "Mountains Mountains",
+"Frequency": "Rare Very rare",
+"Organization": "Family Solitary",
+"Activity Cycle": "Day Any",
 
-DIET: Omnivore Omnivore
-INTELLIGENCE: Very (11-12) Highly (13-14)
-TREASURE: (I) Nil
-ALIGNMENT: Lawful neutral Lawful neutral
-NO. APPEARING: 1-10 1
+"Diet": "Omnivore Omnivore",
+"Intelligence": "Very (11-12) Highly (13-14)",
+"Treasure": "(I) Nil",
+"Alignment": "Lawful neutral Lawful neutral",
+"No. Appearing": "1-10 1",
 
-ARMOR CLASS: 3 (8) 2 (8)
-MOVEMENT: 12, FI 18 (C) 12, FI 18 (B)
-HIT DICE: 4 6
+"Armor Class": "3 (8) 2 (8)",
+"Movement": "12, FI 18 (C) 12, FI 18 (B)",
+"Hit dice": "4 6",
 
-THACO: 17 15
+"THAC0": "17 15",
 
-NO. OF ATTACKS: 1 1
-DAMAGF/ATTACK: 3d6 or by weapon 3d8 or by weapon
-SPECIAL ATTACKS: Flame hug Flame hug
+"No. Of Attacks": "1 1",
+"Damagf/attack": "3d6 or by weapon 3d8 or by weapon",
+"Special Attacks": "Flame hug Flame hug",
 
-SPECIAL DEFENSES: +3 to saving
+"Special Defenses": "+3 to saving",
 
 throws +3 to saving throws
-MAGIC RESISTANCE: Nil 5%
-SIZE: M (& tall) M (6’ tall)
-MORALE: Steady (11-12) Elite (13-14)
-XP VALUE: 270 975
+"Magic Resistance": "Nil 5%",
+"Size": "M (& tall) M (6’ tall)",
+"Morale": "Steady (11-12) Elite (13-14)",
+"XP Value": "270 975",
 
 In their normal state, phaethons [ook just like very thin, short
 half-elves Their hair color varies, though bright, coppery red is
@@ -9410,27 +9061,27 @@ a ar ei . _
  
 
 Shadowperson Revered Ancient One
-CLIMATE/TERRAIN: Any/Subterranean Any/Subterranean
-FREQUENCY: Rare Very rare
-ORGANIZATION: Clan Solitary
-ACTIVITY CYCLE: Night Any
-DIET: Omnivore Nil
-INTELLIGENCE: Very (11-12) Genius (18)
-TREASURE: Nil Nil
-ALIGNMENT: Neutral (good) Neutral good
-NO. APPEARING: 2-40 1
-ARMOR CLASS: 2 Nil
-MOVEMENT: 12, FI 18 (C) Nil
-HIT DICE: 3+1 Nil
-THACO: 17 Nil
-NO. OF ATTACKS: 1 Nil
-DAMAGE ATTACK: 1-8 (shadowstaff) Nil
-SPECIAL ATTACKS: See below Nil
-SPECIAL DEFENSES: See below Nil
-MAGIC RESISTANCE: Nil Nil
-SIZE: M (5’ tall) Nil
-MORALE: Steady (11) Nil
-XP VALUE: 175 Nil
+"Climate/Terrain": "Any/Subterranean Any/Subterranean",
+"Frequency": "Rare Very rare",
+"Organization": "Clan Solitary",
+"Activity Cycle": "Night Any",
+"Diet": "Omnivore Nil",
+"Intelligence": "Very (11-12) Genius (18)",
+"Treasure": "Nil Nil",
+"Alignment": "Neutral (good) Neutral good",
+"No. Appearing": "2-40 1",
+"Armor Class": "2 Nil",
+"Movement": "12, FI 18 (C) Nil",
+"Hit dice": "3+1 Nil",
+"THAC0": "17 Nil",
+"No. Of Attacks": "1 Nil",
+"Damage attack": "1-8 (shadowstaff) Nil",
+"Special Attacks": "See below Nil",
+"Special Defenses": "See below Nil",
+"Magic Resistance": "Nil Nil",
+"Size": "M (5’ tall) Nil",
+"Morale": "Steady (11) Nil",
+"XP Value": "175 Nil",
 
 The shadowpeople are a race of mammals that lives underground
 in small self-contained communities One of the oldest races of
@@ -9657,33 +9308,33 @@ soothing voice, distant and echoed.
 
  
 
-CLIMATE/TERRAIN: Temperate / Forest and plain
-FREQUENCY: Rare
-ORGANIZATION: Patch
-ACTIVITY CYCLE: Moonlit nights
-DIET: Special
-INTELLIGENCE: Non- (0)
-TREASURE: Nil
-ALIGNMENT: Nil
+"Climate/Terrain": "Temperate / Forest and plain",
+"Frequency": "Rare",
+"Organization": "Patch",
+"Activity Cycle": "Moonlit nights",
+"Diet": "Special",
+"Intelligence": "Non- (0)",
+"Treasure": "Nil",
+"Alignment": "Nil",
 
-NO. APPEARING: 6-36
+"No. Appearing": "6-36",
 
-ARMOR CLASS: 8
-MOVEMENT: Nil
+"Armor Class": "8",
+"Movement": "Nil",
 
-HIT DICE: 1 hit point
-THACO: Not applicable
-NO. OF ATTACKS: Nil
-DAMAGE/ATTACK: Nil
+"Hit dice": "1 hit point",
+"THAC0": "Not applicable",
+"No. Of Attacks": "Nil",
+"Damage/Attack": "Nil",
 
-SPECIAL ATTACKS: Confusion
-SPECIAL DEFENSES: Nil
+"Special Attacks": "Confusion",
+"Special Defenses": "Nil",
 
-MAGIC RESISTANCE: Nil
+"Magic Resistance": "Nil",
 
-SIZE: T (6” to 18” tall)
-MORALE: Fearless (20)
-XP VALUE: 35
+"Size": "T (6” to 18” tall)",
+"Morale": "Fearless (20)",
+"XP Value": "35",
 
 Shimmerweed is a most unusual, and beautiful, variety of plant
 that is found in temperate regions throughout the world. Al-
@@ -9779,24 +9430,24 @@ or hypnosis (such as a gem of brightness.)
 
  
 
-CLIMATE/TERRAIN: Desert
-FREQUENCY: Rare
-ORGANIZATION: Solitary
-ACTIVITY CYCLE: Night
-DIET: Carnivore
-INTELLIGENCE: Animal (1)
-TREASURE: Nil
-ALIGNMENT: Neutral
-NO. APPEARING: 1
-ARMOR CLASS: 3
-MOVEMENT: 15
+"Climate/Terrain": "Desert",
+"Frequency": "Rare",
+"Organization": "Solitary",
+"Activity Cycle": "Night",
+"Diet": "Carnivore",
+"Intelligence": "Animal (1)",
+"Treasure": "Nil",
+"Alignment": "Neutral",
+"No. Appearing": "1",
+"Armor Class": "3",
+"Movement": "15",
 
-HIT DICE: 6
+"Hit dice": "6",
 
-THACO: 15
+"THAC0": "15",
 
-NO. OF ATTACKS: 3
-DAMAGE/ATTACK: 1d3/1d3/1d6
+"No. Of Attacks": "3",
+"Damage/Attack": "1d3/1d3/1d6",
 
 SPECIAL ATTACKS:
 SPECIAL DEFENSES:
@@ -9804,12 +9455,12 @@ SPECIAL DEFENSES:
 Surprise, jellification
 Nil
 
-MAGIC RESISTANCE: Nil
+"Magic Resistance": "Nil",
 
-SIZE: L (7 long)
-MORALE: 10
+"Size": "L (7 long)",
+"Morale": "10",
 
-XP VALUE: 2,000
+"XP Value": "2,000",
 
 Skrits are carnivorous beetles that live in the cool deserts of Tala-
 das. They are hulking creatures, approximately five to six feet in
@@ -9917,29 +9568,29 @@ A suit fashioned from this material has AC 4.
 
  
 
-CLIMATE/TERRAIN: Any 2
-FREQUENCY: Very rare Aa
-ORGANIZATION: Varies oS
-ACTIVITY CYCLE: Any = *
-DIET: Nil Nita st |
-INTELLIGENCE: Average (8-10) ua} WN .
-TREASURE: Nil . ew os ee
-ALIGNMENT: Varies .a Aye ge
+"Climate/Terrain": "Any 2",
+"Frequency": "Very rare Aa",
+"Organization": "Varies oS",
+"Activity Cycle": "Any = *",
+"Diet": "Nil Nita st |",
+"Intelligence": "Average (8-10) ua} WN .",
+"Treasure": "Nil . ew os ee",
+"Alignment": "Varies .a Aye ge",
 tt ik SS SSIS oa =, |
 : n 1 mh , = SS uo |
-NO. APPEARING: 1-20 or more ‘ * . ‘e oe ohhh * SS oe
-ARMOR CLASS: 2 wets : ec A ea Ss a * x
-MOVEMENT: 30 vay a Se NS, ~.
-HIT DICE: Varies sete * wee Gg SS a — SO
-THACO: Varies vate ~ et : os _|QAY |
-NO. OF ATTACKS: 0, 1, or 2 NSS tS + oe AS ‘ |
-DAMAGE/ATTACK: Varies RRS SS ee WSN SS
-SPECIAL ATTACKS: See below ef SF SN SN Ose aS SS
-SPECIAL DEFENSES: +1 or better to hit ee te Sa a ee 8 SSN —
-MAGIC RESISTANCE: 20% TES ts Se we eS SS ms
-SIZE: M (5’-7’ tall) ANS SAE a 2 S88 . 3 |
-MORALE: Elite (13) ee = en y oF SESES SE |
-XP VALUE: Philosopher: 975 a ‘ ne SS 2 AWGN * ‘
+"No. Appearing": "1-20 or more ‘ * . ‘e oe ohhh * SS oe",
+"Armor Class": "2 wets : ec A ea Ss a * x",
+"Movement": "30 vay a Se NS, ~.",
+"Hit dice": "Varies sete * wee Gg SS a — SO",
+"THAC0": "Varies vate ~ et : os _|QAY |",
+"No. Of Attacks": "0, 1, or 2 NSS tS + oe AS ‘ |",
+"Damage/Attack": "Varies RRS SS ee WSN SS",
+"Special Attacks": "See below ef SF SN SN Ose aS SS",
+"Special Defenses": "+1 or better to hit ee te Sa a ee 8 SSN —",
+"Magic Resistance": "20% TES ts Se we eS SS ms",
+"Size": "M (5’-7’ tall) ANS SAE a 2 S88 . 3 |",
+"Morale": "Elite (13) ee = en y oF SESES SE |",
+"XP Value": "Philosopher: 975 a ‘ ne SS 2 AWGN * ‘",
 Reveler: 975 aa a SV oe XG a
 Searcher. 975 Ic SA A Tah SANS at |
 Guardian: 1,400 7
@@ -10211,22 +9862,22 @@ Giant Trap Door
 
 Spider
 CLIMATE/ Tropical, subtropical, Tropical, subtropi-
-TERRAIN: and temperate/Plain, cal, and temperate/
+"Terrain": "and temperate/Plain, cal, and temperate/",
 forest, hill, moun Plain, forest, and
 tam, and jungle jungle
-FREQUENCY: Very rare Very rare
-ORGANIZATION: Family Family
-ACTIVITY CYCLE: Any Any
-DIET: Carnivore Carnivore
-INTELLIGENCE: Low (5-7) Animal (1)
-TREASURE: Cc Cc
-ALIGNMENT: Chaotic evil Nil
-ARMOR CLASS: 4 4
-MOVEMENT: 9, Wb 12 3, Wb 12
-HIT DICE: 8+8 4+4
-THACO: 11 15
-NO. OF ATTACKS: 1 1
-DAMAGE/ATTACK: 2-12 2-8
+"Frequency": "Very rare Very rare",
+"Organization": "Family Family",
+"Activity Cycle": "Any Any",
+"Diet": "Carnivore Carnivore",
+"Intelligence": "Low (5-7) Animal (1)",
+"Treasure": "Cc Cc",
+"Alignment": "Chaotic evil Nil",
+"Armor Class": "4 4",
+"Movement": "9, Wb 12 3, Wb 12",
+"Hit dice": "8+8 4+4",
+"THAC0": "11 15",
+"No. Of Attacks": "1 1",
+"Damage/Attack": "2-12 2-8",
 
 SPECIAL ATTACKS:
 
@@ -10236,14 +9887,14 @@ Webs, poison
 
 SPECIAL
 
-DEFENSES: Jumps Nil
+"Defenses": "Jumps Nil",
 MAGIC
 
-RESISTANCE: Nil Nil
+"Resistance": "Nil Nil",
 
-SIZE: H (15’ long) L (8’ long)
-MORALE: Elite (14) Average (9)
-XP VALUE: 1,400 420
+"Size": "H (15’ long) L (8’ long)",
+"Morale": "Elite (14) Average (9)",
+"XP Value": "1,400 420",
 
 Whisper Spider
 
@@ -10354,29 +10005,29 @@ Ecology: See above.
 
 Wild Stage Giant Stag The White Stag
 
-CLIMATE/TERRAIN: Temperate/Forest, plain, hill,
+"Climate/Terrain": "Temperate/Forest, plain, hill,",
 and mountain
 
-FREQUENCY: Common Rare Unique
-ORGANIZATION: Herd Solitary Solitary
-ACTIVITY CYCLE: Day Day Any
-DIET: Herbivore Herbivore Herbivore
-INTELLIGENCE: Animal (1) Animal (1) Highly (13-14)
-TREASURE: Nil Nil Nil
-ALIGNMENT: Nil Nil Lawful good
-NO. APPEARING: 1-4 1-2 1
-ARMOR CLASS: 7 -5
-MOVEMENT: 24 24
-HIT DICE: 3 10
-THACO: 17 15 11
-NO. OF ATTACKS: 1 or 2 1 or 2 3
-DAMAGE/ATTACK: 1-3/1-3 or 2-8 1-4/1-4 or 4-16 1-12/1-6/1-6
-SPECIAL ATTACKS: Nil Nil Nil
-SPECIAL DEFENSES: Nil Nil See below
-MAGIC RESISTANCE: Nil Nil Nil
-SIZE: M (4’-5’ tall, excluding antlers) L (7 + tall, excluding antlers) M (7’ tall, excluding antlers)
-MORALE: Unsteady (7) Unsteady (7) Champion (16)
-XP VALUE: 65 175 2,000
+"Frequency": "Common Rare Unique",
+"Organization": "Herd Solitary Solitary",
+"Activity Cycle": "Day Day Any",
+"Diet": "Herbivore Herbivore Herbivore",
+"Intelligence": "Animal (1) Animal (1) Highly (13-14)",
+"Treasure": "Nil Nil Nil",
+"Alignment": "Nil Nil Lawful good",
+"No. Appearing": "1-4 1-2 1",
+"Armor Class": "7 -5",
+"Movement": "24 24",
+"Hit dice": "3 10",
+"THAC0": "17 15 11",
+"No. Of Attacks": "1 or 2 1 or 2 3",
+"Damage/Attack": "1-3/1-3 or 2-8 1-4/1-4 or 4-16 1-12/1-6/1-6",
+"Special Attacks": "Nil Nil Nil",
+"Special Defenses": "Nil Nil See below",
+"Magic Resistance": "Nil Nil Nil",
+"Size": "M (4’-5’ tall, excluding antlers) L (7 + tall, excluding antlers) M (7’ tall, excluding antlers)",
+"Morale": "Unsteady (7) Unsteady (7) Champion (16)",
+"XP Value": "65 175 2,000",
 
 Wild stags are the aggressive males of a deer herd.
 
@@ -10465,31 +10116,31 @@ add +1 to their Armor Class.
  
 
 Tayling Tayland
-CLIMATE/TERRAIN: Tropical/ Island Tropical/Island
-FREQUENCY: Very rare Very rare
-ORGANIZATION: Solitary or small
+"Climate/Terrain": "Tropical/ Island Tropical/Island",
+"Frequency": "Very rare Very rare",
+"Organization": "Solitary or small",
 
 Villages
-ACTIVITY CYCLE: Day Any
-DIET: Herbivore Carnivore
-INTELLIGENCE: Very (11-12) Average (8-10)
-TREASURE: K Xd
-ALIGNMENT: Neutral good Chaotic neutral
+"Activity Cycle": "Day Any",
+"Diet": "Herbivore Carnivore",
+"Intelligence": "Very (11-12) Average (8-10)",
+"Treasure": "K Xd",
+"Alignment": "Neutral good Chaotic neutral",
 
  
 
-NO. APPEARING: 1 or 10-100 1 or 10-100
-ARMOR CLASS: 10 (8) 6
+"No. Appearing": "1 or 10-100 1 or 10-100",
+"Armor Class": "10 (8) 6",
 
-MOVEMENT: 12 15
+"Movement": "12 15",
 
-HIT DICE: 4 8
+"Hit dice": "4 8",
 
-THACO: 17 13
+"THAC0": "17 13",
 
-NO. OF ATTACKS: 1 3
-DAMAGE/ATTACK: 1-4 1-8/1-8/2-12 +2
-SPECIAL ATTACKS: Spells Killing rage
+"No. Of Attacks": "1 3",
+"Damage/Attack": "1-4 1-8/1-8/2-12 +2",
+"Special Attacks": "Spells Killing rage",
 
 SPECIAL DEFENSES:
 
@@ -10503,11 +10154,11 @@ priest spells
 
 MAGIC
 
-RESISTANCE: 10% Nil
+"Resistance": "10% Nil",
 
-SIZE: M (5’ tall) M (7’ tall)
-MORALE: Steady (11) Average (9)
-XP VALUE: 2,000 1,400
+"Size": "M (5’ tall) M (7’ tall)",
+"Morale": "Steady (11) Average (9)",
+"XP Value": "2,000 1,400",
 
  
 
@@ -10977,34 +10628,34 @@ seo Jeet she. 1 etarm any ote pneabra
 
  
 
-CLIMATE/TERRAIN: Any
+"Climate/Terrain": "Any",
 FREQUENCY:
 
-ORGANIZATION: Solitary
-ACTIVITY CYCLE: Any
+"Organization": "Solitary",
+"Activity Cycle": "Any",
 
-DIET: Nil
-INTELLIGENCE: Semi- (2-4)
-TREASURE: Nil
-ALIGNMENT: Chaotic evil
+"Diet": "Nil",
+"Intelligence": "Semi- (2-4)",
+"Treasure": "Nil",
+"Alignment": "Chaotic evil",
 
  
 
-NO. APPEARING: 1
-ARMOR CLASS: 2
-MOVEMENT: 9
+"No. Appearing": "1",
+"Armor Class": "2",
+"Movement": "9",
 
-HIT DICE: 4+4
-THACO: 15
+"Hit dice": "4+4",
+"THAC0": "15",
 
-NO. OF ATTACKS: 2
-DAMAGE/ATTACK: See below
-SPECIAL ATTACKS: See below
-SPECIAL DEFENSES: +1 or better weapon to hit
-MAGIC RESISTANCE: See below
-SIZE: M (5’ tall)
-MORALE: Steady (12)
-XP VALUE: 1,400
+"No. Of Attacks": "2",
+"Damage/Attack": "See below",
+"Special Attacks": "See below",
+"Special Defenses": "+1 or better weapon to hit",
+"Magic Resistance": "See below",
+"Size": "M (5’ tall)",
+"Morale": "Steady (12)",
+"XP Value": "1,400",
 
 Wichtlin are elven undead. They are relentless killers and deadly
 adversaries.
@@ -11104,35 +10755,35 @@ turn. It also disappears if its wichtlin rider is killed.
 
  
 
-CLIMATE/TERRAIN: Temperate / Forest and swamp
-FREQUENCY: Very rare
-ORGANIZATION: Solitary
-ACTIVITY CYCLE: Any
+"Climate/Terrain": "Temperate / Forest and swamp",
+"Frequency": "Very rare",
+"Organization": "Solitary",
+"Activity Cycle": "Any",
 
-DIET: Carnivore
-INTELLIGENCE: Low (5-7)
-TREASURE: Z
-ALIGNMENT: Neutral
+"Diet": "Carnivore",
+"Intelligence": "Low (5-7)",
+"Treasure": "Z",
+"Alignment": "Neutral",
 
-NO. APPEARING: 1
+"No. Appearing": "1",
 
-ARMOR CLASS: 3
-MOVEMENT: 3
+"Armor Class": "3",
+"Movement": "3",
 
-HIT DICE: 12
+"Hit dice": "12",
 
-THACO: 9
+"THAC0": "9",
 
-NO. OF ATTACKS: il
-DAMAGE/ATTACK: 1-10 (x10)/1-4
-SPECIAL ATTACKS: Surprise
-SPECIAL DEFENSES: Nil
+"No. Of Attacks": "il",
+"Damage/Attack": "1-10 (x10)/1-4",
+"Special Attacks": "Surprise",
+"Special Defenses": "Nil",
 
-MAGIC RESISTANCE: Nil
+"Magic Resistance": "Nil",
 
-SIZE: H (20’ long)
-MORALE: Champion (15-16)
-XP VALUE: 5,000
+"Size": "H (20’ long)",
+"Morale": "Champion (15-16)",
+"XP Value": "5,000",
 
 The wyndlass is a tentacled horror that lurks in desolate swamps
 and gloomy forests. A powerful predator, it has been known to
@@ -11227,32 +10878,32 @@ and it is often sought for this purpose.
 
  
 
-CLIMATE/TERRAIN: Jungle
-FREQUENCY: Very rare
-ORGANIZATION: Tribal
-ACTIVITY CYCLE: Night
-DIET: Carnivore
-INTELLIGENCE: Low (5-7)
-TREASURE: U (B)
-ALIGNMENT: Lawful evil
-NO. APPEARING: 1d6
-ARMOR CLASS: 4
-MOVEMENT: 12
+"Climate/Terrain": "Jungle",
+"Frequency": "Very rare",
+"Organization": "Tribal",
+"Activity Cycle": "Night",
+"Diet": "Carnivore",
+"Intelligence": "Low (5-7)",
+"Treasure": "U (B)",
+"Alignment": "Lawful evil",
+"No. Appearing": "1d6",
+"Armor Class": "4",
+"Movement": "12",
 
-HIT DICE: 9
+"Hit dice": "9",
 
-THACO: 11
+"THAC0": "11",
 
-NO. OF ATTACKS: 6
-DAMAGE/ATTACK: 1d6+4/1d6+4, Special
-SPECIAL ATTACKS: Mind blast
-SPECIAL DEFENSES: Camouflage
-MAGIC RESISTANCE: 50%
+"No. Of Attacks": "6",
+"Damage/Attack": "1d6+4/1d6+4, Special",
+"Special Attacks": "Mind blast",
+"Special Defenses": "Camouflage",
+"Magic Resistance": "50%",
 
-SIZE: M (7’)
-MORALE: 15
+"Size": "M (7’)",
+"Morale": "15",
 
-XP VALUE: 4,000
+"XP Value": "4,000",
 
 The yaggol are a degenerate sub-race of the evil and terrifying
 mind flayers Degenerate, in this case, does not mean more de-
@@ -11351,36 +11002,36 @@ ing no understanding of the difference in the two words.
 
  
 
-CLIMATE/TERRAIN: Cold mountains
-FREQUENCY: Very rare
-ORGANIZATION: Family groups
-ACTIVITY CYCLE: Day
+"Climate/Terrain": "Cold mountains",
+"Frequency": "Very rare",
+"Organization": "Family groups",
+"Activity Cycle": "Day",
 
-DIET: Carnivore
-INTELLIGENCE: Low (5-7)
-TREASURE: (R, W)
-ALIGNMENT: Neutrai
+"Diet": "Carnivore",
+"Intelligence": "Low (5-7)",
+"Treasure": "(R, W)",
+"Alignment": "Neutrai",
 
-NO. APPEARING: 1d6
+"No. Appearing": "1d6",
 
-ARMOR CLASS: 5
-MOVEMENT: 9
+"Armor Class": "5",
+"Movement": "9",
 
-HIT DICE: 8
+"Hit dice": "8",
 
-THACO: 13
+"THAC0": "13",
 
-NO. OF ATTACKS: 2
-DAMAGE/ATTACK: 2d8/2d8
-SPECIAL ATTACKS: Nil
+"No. Of Attacks": "2",
+"Damage/Attack": "2d8/2d8",
+"Special Attacks": "Nil",
 
-SPECIAL DEFENSES: Immune to cold
-MAGIC RESISTANCE: Nil
+"Special Defenses": "Immune to cold",
+"Magic Resistance": "Nil",
 
-SIZE: L (107)
-MORALE: 10
+"Size": "L (107)",
+"Morale": "10",
 
-XP VALUE: 2,000
+"XP Value": "2,000",
 
 The saqualaminoi are a race of humanoid creatures, hulking in
 height. Adapted to the harsh conditions of the high frozen moun-
