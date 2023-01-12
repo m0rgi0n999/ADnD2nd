@@ -53,34 +53,25 @@
     "Source": "TSR2105",
     "Image": ""
 }, {
-
-
-----
-
-Bear, Ice
-
+"Name": "Bear, Ice",
 "Climate/Terrain": "Arctic/Plain, hill, and mountain",
 "Frequency": "Uncommon",
 "Organization": "Pack",
 "Activity Cycle": "Day",
-
 "Diet": "Carnivore",
 "Intelligence": "Low (5-7)",
 "Treasure": "Nil",
 "Alignment": "Neutral",
-
 "No. Appearing": "1-4",
 "Armor Class": "6",
 "Movement": "12, Sw 3",
 "Hit dice": "6+2",
 "THAC0": "15",
-
 "No. Of Attacks": "3",
 "Damage/Attack": "1-8/1-8/2-16",
 "Special Attacks": "Hugs for 2-12",
 "Special Defenses": "See below",
 "Magic Resistance": "Nil",
-
 "Size": "L (12’ tall)",
 "Morale": "Average (10)",
 "XP Value": "975",
@@ -130,19 +121,6 @@ Every winter, a female ice bear retires to her cave and gives
 birth to one or two cubs. Though not as dangerous as their par-
 ents, ice bear cubs older than six months are also formidable op-
 ponents (AC 7, HD 4, THACO 17, Dmg 1d4/1d4/1d8, hugs for
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 1d6 points of damage). The cubs remain with their parents until
 they reach maturity (about seven years), then leave to establish
 lairs of their own.
@@ -183,40 +161,31 @@ bear pelts can be made into warm coats, gloves, and mufflers.
 Some races, especially evil- and neutral-aligned humans, value
 ice bear claws as jewelry; a finely crafted ice bear claw necklace
 can fetch as much as ten stl.
-Beast, Undead
 
- 
+}, {
 
- 
-
- 
-
-Stahnk Gholor
-CLIMATE/
-"Terrain": "Any Any",
-"Frequency": "Very rare Very rare",
-"Organization": "Solitary Solitary",
-"Activity Cycle": "Any Any",
-"Diet": "Nil Nil",
-"Intelligence": "Non- (0) Non- (0)",
-"Treasure": "G G, H",
-"Alignment": "Neutral Neutral",
-"No. Appearing": "1 1",
-"Armor Class": "6 6",
-"Movement": "9,Sw9 Nil",
-"Hit dice": "12+12 12+12",
-"THAC0": "7 7",
-"No. Of Attacks": "3 3 or 1",
-"Damage/Attack": "3-9/3-9/3-24 3-9/3-9/3-24 or 3-",
-
-18
-
-"Special Attacks": "_ Ensnare and fling Acidic bite",
-"Special Defenses": "See below See below",
-"Magic Resistance": "20% 20%",
-"Size": "H (20’ long) H (20’ long)",
-"Morale": "Elite (14) Elite (14)",
-"XP Value": "8,000 8,000",
+"Name": {"Beast, Undead": ["Stahnk", "Gholor"]},
+"Climate/Terrain": ["Any", "Any"],
+"Frequency": ["Very rare", "Very rare"],
+"Organization": ["Solitary", "Solitary"],
+"Activity Cycle": ["Any", "Any"],
+"Diet": ["Nil", "Nil"],
+"Intelligence": ["Non- (0)", "Non- (0)"],
+"Treasure": ["G", "G, H"],
+"Alignment": ["Neutral", "Neutral"],
+"No. Appearing": ["1", "1"],
+"Armor Class": ["6", "6"],
+"Movement": ["9,Sw9", "Nil"],
+"Hit dice": ["12+12", "12+12"],
+"THAC0": ["7", "7"],
+"No. Of Attacks": ["3", "3 or 1"],
+"Damage/Attack": ["3-9/3-9/3-24", "3-9/3-9/3-24 or 3-"],
+"Special Attacks": ["Ensnare and fling", "Acidic bite"],
+"Special Defenses": ["See below", "See below"],
+"Magic Resistance": ["20%", "20%"],
+"Size": ["H (20’ long)", "H (20’ long)"],
+"Morale": ["Elite (14)", "Elite (14)"],
+"XP Value": ["8,000", "8,000"],
 
 The undead beast is a mindless killer of unknown origin, compel-
 led to destroy the living. The most common variety of undead
@@ -261,16 +230,6 @@ that trespass. Since stahnks destroy the bodies of their victims but
 leave the possessions untouched, they tend to accumulate size-
 able treasure caches.
 
- 
-
- 
-
- 
-
- 
-
- 
-
 Ecology: Stahnks do not eat their victims, but instead crush and
 
 rend them into pulp. Powerful evil wizards occasionally use
@@ -313,54 +272,28 @@ body for the next 1d6 turns; his AC is increased by +1 and all at-
 tack rolls suffer a -1 penalty during that period. These effects can
 be negated by dispel magic or a similar spell, though the PC still
 suffers the damage.
-Centaur (of Krynn)
-
- 
-
- 
-
-"Climate/Terrain": "Temperate/Forest, hill, and",
-plain
-
+}, {
+"Name": "Centaur (of Krynn)",
+"Climate/Terrain": "Temperate/Forest, hill, and, plain",
 "Frequency": "Rare",
-
 "Organization": "Herd",
-
 "Activity Cycle": "Any",
-
 "Diet": "Herbivore",
-
 "Intelligence": "Average (8-10)",
-
 "Treasure": "M, Q; (D, I, T)",
-
 "Alignment": "Chaotic or neutral good",
-
 "No. Appearing": "5-30",
-
 "Armor Class": "5",
-
 "Movement": "18",
-
 "Hit dice": "4",
-
-THACo: W
-
+"THAC0": "17",
 "No. Of Attacks": "2orl",
-
-"Damage/Attack": "1-6 (front hooves) and weapon,",
-or 1-6 (hind hooves)
-
+"Damage/Attack": "1-6 (front hooves) and weapon, or 1-6 (hind hooves)",
 "Special Attacks": "Nil",
-
 "Special Defenses": "See below",
-
 "Magic Resistance": "Nil",
-
 "Size": "M (4-7! tall)",
-
 "Morale": "Steady (12)",
-
 "XP Value": "120",
 
 The centaurs of Krynn are half-human and half-horse, living in
@@ -411,19 +344,6 @@ use “thou” and “thy” where humans use “you” and “your.”
 
 Compared to humans and demihumans, centaurs are not par-
 ticularly intelligent. Nor are they especially virtuous, devoted
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 more to their own self-interests than the common good. Centaurs
 are sensualists first and foremost, preferring the taste of a good
 wine or the warmth of a sunny day to debating philosophy or ex-
@@ -470,8 +390,6 @@ centaurs. All adults exceed 1,000 pounds and are at least six feet
 tall. They are usually a single color, such as chestnut brown,
 blonde, or black. Their broad backs and powerful legs enable
 them to gallop for long distances without tiring and also enable
-Centaur (of Krynn)
-
 them to carry heavy weights; a large Abanasinian could carry
 three human soldiers on his back with no noticeable strain. They
 are extremely robust, gaining a +2 bonus to all saving throws.
@@ -547,8 +465,6 @@ smaller versions of the Abanasinians and are sometimes mistaken
 for Abanasinian young. However, the Wendles are distinguished
 by their golden eyes and stubby tails. Instead of rib cages, Wen-
 dies have plates of solid bone, giving them an AC of 4.
-
- 
 
 The Wendles are the smartest of all centaurs; all have a +1
 modifier to their base Intelligence (meaning their Intelligence
@@ -626,24 +542,13 @@ Centaurs eat all day long. They enjoy all types of ‘grasses,
 grains, fruits, nuts, and saplings. Centaurs rarely engage in trade,
 but occasionally they exchange fruits and nuts for wine and other
 alcoholic beverages.
-Disir
 
-=)
-
-ae it '
-: QON}OMCE s+
-
- 
-
- 
-
- 
-
+}, {
+"Name": "Disir",
 "Climate/Terrain": "Subterranean",
 "Frequency": "Very Rare",
 "Organization": "Tribal",
 "Activity Cycle": "Any",
-
 "Diet": "Omnivore",
 "Intelligence": "Highly (13-14)",
 "Treasure": "(B)",
@@ -651,20 +556,15 @@ ae it '
 "No. Appearing": "2d4",
 "Armor Class": "3",
 "Movement": "12",
-
 "Hit dice": "5",
-
 "THAC0": "15",
-
 "No. Of Attacks": "3",
 "Damage/Attack": "2d4/2d4/2d6",
 "Special Attacks": "Pain",
 "Special Defenses": "Fire resistance",
 "Magic Resistance": "Nil",
-
-"Size": "M (6’-7" tall)",
+"Size": "M (6’-7’ tall)",
 "Morale": "15",
-
 "XP Value": "975",
 
 The disir are a race of deep-dwelling subterranean creatures of
@@ -708,12 +608,6 @@ life when exposed to air. It is effective on the disir because their
 bodies are constantly renewing it. However, it cannot be bottled
 or kept and used by others.
 
- 
-
- 
-
- 
-
 The gel also provides protection from fire-based attacks Disir
 gain a +4 saving throw bonus and suffer 1 point less per die of
 damage from fire-based attack?
@@ -755,58 +649,30 @@ to vegetable matter (mostly fungus only, when other resources
 have dried up. Thus they often serve to scour old over-
 populated sections of the Underdark, leaving behind sterile dead
 remains.
-Draconian (proto-), Traag
 
-— Dagon CG
-
- 
-
- 
-
- 
-
+}, {
+"Name": "Draconian (proto-), Traag"
 "Climate/Terrain": "Temperate plain or forest",
-
 "Frequency": "Very Rare",
-
 "Organization": "Tribal",
-
 "Activity Cycle": "Night",
-
 "Diet": "Carnivore",
-
 "Intelligence": "Low (5-7)",
-
 "Treasure": "None",
-
 "Alignment": "Chaotic evil",
-
 "No. Appearing": "2d6",
-
 "Armor Class": "4",
-
 "Movement": "6",
-
 "Hit dice": "3",
-
 "THAC0": "17",
-
 "No. Of Attacks": "2ori1",
-
 "Damage/Attack": "1d6/1d6 or by weapon",
-
 "Special Attacks": "None",
-
 "Special Defenses": "None",
-
 "Magic Resistance": "Nil",
-
 "Size": "M (5’-6’ tall)",
-
 "Morale": "Special",
-
-"XP Value": "120",
-Chieftain 175
+"XP Value": {"Traag": "120", "Chieftain": "175"}
 
 The traag draconians are among the first failed attempts to create
 draconians, a precursor of the more successful baaz. While not
@@ -848,13 +714,6 @@ large numbers of them.
 Over time, however, the traag began to develop a number of
 undesirable traits that ultimately made them unsuitable for use in
 the dragon armies. Most obvious of these is their noteworthy
-
- 
-
- 
-
- 
-
 cowardice. Even this alone would not have been sufficient, but
 coupled with a very low birth rate (each brass dragon egg yielded
 only a few viable traag) and a tendency to suddenly go berserk,
@@ -892,237 +751,29 @@ plains, they are almost universally under-nourished. It’s not sur-
 prising then that they will eat virtually anything (even hobgoblin)
 that is put in front of them.
 
- 
-Draconians
-
-—/PRAGON hice :
-is = io 5 ‘a,
-
- 
-
- 
-
-Draconians, also known as dragnmen, are vile monstrosities re
-
-sembling a cross between a humanoid and a dragon. These crea-
-tures were created from the corrupted eggs of good dragons.
-Originally serving as special troops of the Dragon Highlords dur-
-ing the War of the Lance, the surviving draconians are among the
-most dangerous and repugnant in habitants of Krynn.
-
-Background: In the year 2645 in the Age of Light, anti-dragon
-
-sentiment ran high in Krynn, thanks in large part to acts of terror-
-ism by the evil dragons. A great Solamnic Knight named Huma
-successfully drove the evil dragons to a negative plane, where
-they were ordered to sleep for the rest of eternity. To preserve the
-balance between good and evil, the good dragons agreed to de-
-part as well. Takhisis, the Queen of Darkness, managed to secure
-an oath from the good dragons that they would remain in hiber-
-nation on the Isle of Dragons, far from the mainland of Ansalon.
-To ensure the oath, Takhisis held the eggs of the good dragons
-hostage in the dark tunnels beneath the city of Sanction.
-
-Unknown to the good dragons, then eggs were not sheltered
-and protected as promised, Instead, Takhisis betrayed the oath by
-corrupting the eggs to create the evil draconians. The corruption
-involved foul magic performed by the evil triad of Wyrllish the
-cleric, Dracart the mage, and the ancient red dragon Harkiel, the
-Bender. Through arcane spells, they caused the eggs to grow and
-their occupants to multiply. Wyrllish opened a gate to the Abyss,
-and souls of the Dark Queen’s minions, the abishai, rushed forth
-to inhabit the draconian spawn.
-
-The draconians became an important part of the Dark Queen’s
-forces when she attempted to conquer Krynn in the War of the
-Lance. They were ideal soldiers, more predictable than humans
-and more apt to follow orders than the ogres and goblins that
-made up the bulk of the army. Ultimately, the Dark Queen’s plans
-were thwarted when the good dragons learned of her betrayal.
-Once the good dragons joined forces with the good races of the
-world, the evil armies were defeated and Takhisis was driven
-from Krynn.
-
-Without Takhisis to guide them, the surviving draconians fell
-into disarray. The weaker leaders in the Dragonarmies found that
-the draconians no longer responded to their orders, while many
-of the more dictatorial leaders found the dragonmen rebelling
-against their control. Draconians without positions of responsi-
-bility in the armies lost interest in their posts. Though some dra-
-conians remained loyal to their leaders, most abandoned the
-armies to fend for themselves.
-
-Today, most draconians exist as small bands of marauders, liv-
-ing in desolate wilderness areas where they practice banditry, ex-
-tortion, and murder. Draconian bands living near cities or
-villages often turn on the populace in frenzies of pillage, arson,
-and slaughter. Though they remin loyal to Takhisis, the dracon-
-ians show only occasional interest in the schemes of the their
-former Dragonarmy masters. While draconain units are some-
-times found in evil human armies, they remain aloof from other
-races. Draconians are drawn to evil dragons, but have no particu-
-lar affinity for any other creature.
-
-Draconian Races: There are five distinct draconian races. the
-stony Baaz, the magic-wielding Bozaks, the poison-tongued Kap-
-aks, the shape-shifting Sivaks, and the ultra-powerful Auraks. A
-sixth race, the Traag or proto-draconian, are included here; but
-most scholars do not consider them to be true dracomans. Each
-race arose from the corrupted eggs of a particular good dragon.
-Baaz and Traag from brass dragon eggs, Bozaks from bronze
-eggs, Kapaks from copper eggs, Sivaks from silver eggs, and
-Auraks from gold eggs.
-
-Each draconian race served specific roles in the Dragonarmies.
-Kapaks, wielding poison blades and arrows, were used as assas-
-sins and archers. The magic-using Bozaks, wielding short swords,
-were used as special forces to command draconian squads. Sivaks
-
-formed the elite forces, wearing heavy armor and swinging two-
-handed swords. Baaz were the foot soldiers, comprising the bulk
-of the troops. They were often disguised in robes and used as
-scouts. The Auraks were rare and special generals of the dracon-
-ian armies, also used as special agents since they could pass unde-
-tected among humans.
-
-Various draconian races were often assigned to the same armies
-during the War of the Lance. Today, however, draconians of dif-
-ferent races never combine into bands. The antagonism between
-Baaz and Kapak, for instance, is as strong as that between dra-
-conians and humans. It is this intense rivalry and interracial ha-
-tred that prevents draconians from becoming a dominant power
-in their own right.
-
-Appearance: All draconians have the same general appearance.
-They have humanoid bodies with the tails and heads of dragons.
-Small scales cover them from head to toe: the scales are a duller
-shade of those of their original parents for instance, Bozak scales
-are a dull bronze). They have elongated snouts, razor-like tangs,
-and beady eyes.
-
-Draconians have thick, stocky bodies and range in height from
-5% feet (Baaz) to nine feet (Sivaks). Sharp claws extend from
-their toes and fingers. They can manipulate tools and weapons as
-easily as humans can. They drag their bulky tails behind them;
-the tails are useless as weapons but help the draconians balance
-themselves. They have huge feet, with three splayed toes in the
-front and a single toe in the back.
-
-All but the Auraks have a pair of leathery wings growing from
-their backs. Bony projections line the bottom edge of each wing,
-and a single projection extends from the top. A draconian’s wings
-are nearly as large as its body.
-
-All draconians are reasonably intelligent and are adept at sev-
-eral languages. In addition to their own tongue, which sounds
-like a combination of hisses and wheezes, most can speak com-
-mon as well as the languages of evil dragons and other evil races.
-
-General Abilities: Though all but the Auraks have wings, only
-the Sivaks can sustain flight (Bozaks can fly for a single round).
-Draconians can flap their wings while running on all fours, which
-enables them to move quite fast. They can also use their wings to
-glide a distance equal to four times the height from which they
-launch themselves (for instance, a draconian launching itself
-from a 100-foot cliff can glide 400 feet).
-
-Draconians are not affected by a dragon’s fear. ability. Actually.
-draconians enjoy the company of evil dragons and eagerly ally
-with them. When a draconian is serving an evil dragon, it gains a
-+1 bonus to its attack rolls while within 120 feet of the dragon.
-
-Draconians are creatures of magical origin, and thus ail of
-them radiate magic. When draconians arc slain, the arcane en-
-chantments that formed them create spectacular death scenes that
-can be deadly to bystanders. Each race’s death scene is unique (see
-the individual entries for details).
-
-The banishment of Takhisis did not cause the draconians to
-vanish or wither away. But it does mean that the only method of
-creating new draconians is no longer available. Draconians are
-incapable of mating (there are no meaningtul distinctions be-
-tween the draconian sexes), and they are biologically incompati-
-ble with other races. Therefore, the population of draconians will
-inevitably decline.
-
-Since draconians were created from the eggs of the most long-
-lived of Krynn’s monsters, they are not susceptible to aging in any
-noticeable way. Though there have been no recorded instances of
-draconians dying from old age, it is estimated that their life spans
-easily exceed 1,000 years. Thus the draconian population shrinks
-only through combat and accidents.
-
-Draconians are not vulnerable to any known disease, and they
-can subsist for long periods with little food or water.
-Draconian, Aurak
-
- 
-
- 
-
-CLIMATE/TERRAIN:
-FREQUENCY:
-ORGANIZATION:
-ACTIVITY CYCLE:
-DIET:
-INTELLIGENCE:
-TREASURE:
-ALIGNMENT:
-
-Any, except water
-Rare
-
-Solitary
-
-Any
-
-Special
-Exceptional (15-16)
-K, L, N, V
-
-Lawful evil
-
- 
-
-NO. APPEARING:
-ARMOR CLASS:
-MOVEMENT:
-
-HIT DICE:
-
-THACO:
-
-NO. OF ATTACKS:
-DAMAGE/ATTACK:
-SPECIAL ATTACKS:
-SPECIAL DEFENSES:
-MAGIC RESISTANCE:
-SIZE:
-
-MORALE:
-
-XP VALUE:
-
-1-2
-
-0
-
-15
-
-8
-
-13
-
-2 or 1
-
-3-10 (x 2) or spell
-Spells and breath
-+4 bonus to saves
-30 %
-
-M (7’ tall)
-Champion (15)
-6,000
+}, {
+"Name": "Draconian, Aurak",
+"Climate/Terrain": "Any, except water",
+"Frequency": "Rare",
+"Organization": "Solitary",
+"Activity Cycle": "Any",
+"Diet": "Special",
+"Intelligence": "Exceptional (15-16)",
+"Treasure": "K, L, N, V",
+"Alignment": "Lawful evil",
+"No. Appearing": "1-2",
+"Armor Class": "0",
+"Movement": "15",
+"Hit Dice": "8",
+"THAC0": "13",
+"No. Of Attacks": "2 or 1",
+"Damage/Attack": "3-10 (x 2) or spell",
+"Special Attacks": "Spells and breath",
+"Special Defenses": "+4 bonus to saves",
+"Magic Resistance": "30 %",
+"Size": "M (7’ tall)",
+"Morale": "Champion (15)",
+"XP Value": "6,000",
 
 Derived from the eggs of gold dragons, Auraks are the most pow-
 erful and devious of the draconians. Soft-spoken and cold-
@@ -1166,15 +817,6 @@ such attacks are seldom used.
 
 Once per day, Auraks can cast two wizard spells of 1st to 4th
 level. Preferred spells include enlarge, shocking grasp, ESP stink-
-
- 
-
- 
-
- 
-
- 
-
 ing cloud, blink, lightning bolt, fire shield, and wall of fire.
 
 Auraks gain a +4 bonus to all saving throws.
@@ -1213,56 +855,29 @@ intelligent races, including other draconians, have learned to
 avoid them. There are no limits to what an Aurak will eat, though
 they prefer pearls and small gems. Auraks will consume alcohol,
 but they are less interested in strong drink than other draconians.
-Draconian, Baaz
 
- 
-
- 
-
- 
-
-"Climate/Terrain": "Any, but usually",
-tropical, and temperate/ Forest,
-plain, and urban
-
+}, {
+"Name": "Draconian, Baaz",
+"Climate/Terrain": "Any, but usually tropical, and temperate/ Forest, plain, and urban",
 "Frequency": "Uncommon",
-
 "Organization": "Band",
-
 "Activity Cycle": "Any",
-
 "Diet": "Special",
-
 "Intelligence": "Average (8-10)",
-
 "Treasure": "M, Q; (D, I, T)",
-
 "Alignment": "Lawful or chaotic evil",
-
 "No. Appearing": "2-20",
-
 "Armor Class": "4",
-
 "Movement": "6. Run 15 *, Glide 18",
-
 "Hit dice": "2",
-
 "THAC0": "19",
-
 "No. Of Attacks": "2 orl",
-
 "Damage/Attack": "1-4/1-4 or by weapon",
-
 "Special Attacks": "Nil",
-
 "Special Defenses": "Nil",
-
 "Magic Resistance": "20%",
-
 "Size": "M (5%’ tall)",
-
 "Morale": "Elite (13)",
-
 "XP Value": "175",
 
 * This movement rate applies when the draconian is running on
@@ -1310,15 +925,6 @@ the more vicious. If alcohol is available, Baaz always drink before
 fighting. Drunken Baaz always fight to the death.
 
 It possible, Baaz attempt to ambush their victims by dressing in
-
- 
-
- 
-
- 
-
- 
-
 masks and heavy robes, passing themselves off as harmless hu-
 manoids. When their victims are off-guard, the Baaz leader draws
 his weapon and attacks, screaming for his comrades to do the
@@ -1358,53 +964,27 @@ main bitter enemies.
 Baaz can eat virtually anything, including minerals, carrion,
 and human flesh. They love alcohol, and even the smallest
 amounts turn them into raging, boastful brutes.
-Draconian, Bozak
 
-— ae
-
- 
-
- 
-
- 
-
-"Climate/Terrain": "Any, but usually tropicals, sub-,",
-tropical, and temperate/Forest
-
+}, {
+"Name": "Draconian, Bozak",
+"Climate/Terrain": "Any, but usually tropicals, sub-, tropical, and temperate/Forest",
 "Frequency": "Uncommon",
-
 "Organization": "Band",
-
 "Activity Cycle": "Any",
-
 "Diet": "Special",
-
 "Intelligence": "Highly (13-14)",
-
 "Treasure": "Q x 2; (U)",
-
 "Alignment": "Lawful evil",
-
 "No. Appearing": "2-20",
-
 "Armor Class": "2",
-
 "Movement": "6, Run 15 *, Glide 18, FI 6 (E)",
-
 "Hit dice": "4",
-
 "THAC0": "17",
-
 "No. Of Attacks": "2 or1",
-
 "Damage/Attack": "1-4/1-4 or by weapon",
-
 "Special Attacks": "Spells",
-
 "Special Defenses": "+2 bonus to saves",
-
 "Magic Resistance": "20%",
-
 "Size": "M (6’+ tall)",
 "Morale": "Elite (13)",
 "XP Value": "1,400",
@@ -1454,16 +1034,6 @@ gers, or any other weapon that they can carry in their mouths
 while running. Most. Bozaks carry a long bow in addition to a me-
 lee weapon.
 
- 
-
- 
-
- 
-
- 
-
- 
-
 Bozaks are magic wielders and can cast spells as 4th-level wiz-
 ards. Among their preferred spells are burning hands enlarge
 magic missile, shocking grasp invisibility, stinking
@@ -1507,38 +1077,22 @@ poses (the gullible Baaz are often exploited by the Bozaks in this
 way). Bozaks frequently raid human settlements for prisoners.
 Their diet consists mainly of vegetable matter, carrion, and small
 mammals.
-Draconian, Kapak
 
- 
-
- 
-
-"Climate/Terrain": "Any, but usually tropical, sub-",
-tropical, and temperate/Forest
-and mountain
-
+}, {
+"Name": "Draconian, Kapak",
+"Climate/Terrain": "Any, but usually tropical, subtropical, and temperate/Forest and mountain",
 "Frequency": "Uncommon",
-
 "Organization": "Band",
-
 "Activity Cycle": "Any",
-
 "Diet": "Carnivore",
-
 "Intelligence": "Average (8-10)",
-
 "Treasure": "K, L, M; (1, Y)",
-
 "Alignment": "Lawful evil",
-
- 
-
 "No. Appearing": "2-20",
 "Armor Class": "4",
 "Movement": "6, Run 15 *, Glide 18",
 "Hit dice": "3",
 "THAC0": "17",
-
 "No. Of Attacks": "1",
 "Damage/Attack": "1-4",
 "Special Attacks": "Poison",
@@ -1595,16 +1149,6 @@ evaporates from a weapon in three rounds; it takes a Kapak one
 full round to poison a weapon again after the previous coating has
 evaporated (they can do this even while engaged in melee).
 
- 
-
- 
-
- 
-
- 
-
- 
-
 Kapak frequently wear leather or scale mail armor. Leather ar-
 mor reduces their AC to 2, while scale mail reduces it to 1. If a
 shield is carried, the AC is reduced by another point. Because of
@@ -1646,60 +1190,30 @@ remaining Dragonarmies that exist throughout central Ansalon.
 Kapaks are strictly carnivorous. Because of their extremely
 high metabolisms, Kapaks must devour at least 20 pounds of
 meat per day. They eat fish, wild game, and defeated opponents.
-Draconian,
 
-Sivak
-
-hrm
-
- 
-
-"Climate/Terrain": "Any, but usually tropical, sub-",
-tropical, and temperate/
-Mountain and_ hill
-
+}, {
+"Name": "Draconian, Sivak",
+"Climate/Terrain": "Any, but usually tropical, subtropical, and temperate/Mountain and hill",
 "Frequency": "Uncommon",
-
 "Organization": "Band",
-
 "Activity Cycle": "Any",
-
 "Diet": "Special",
-
 "Intelligence": "Highly (13-14)",
-
 "Treasure": "Q,% V; (Z)",
-
 "Alignment": "Neutral evil",
-
- 
-
-NO. APPEARING:
-ARMOR CLASS:
-
-2-20
-1
-
+"No. Appearing": "2-20",
+"Armor Class": "1",
 "Movement": "6, Run 15 *, Glide 18, FI 24 (C)",
 "Hit dice": "6",
-
 "THAC0": "15",
-
 "No. Of Attacks": "3 orl",
-
 "Damage/Attack": "1-6/1-6/2-12 or by weapon",
 "Special Attacks": "None",
-
 "Special Defenses": "+2 bonus to saves",
-
 "Magic Resistance": "20% ne",
 "Size": "L (9 tall)",
-
 "Morale": "Elite (14)",
-
 "XP Value": "2,000",
-
- 
 
 * This movement rate applies when the draconian is running on
 all fours, flapping its wings.
@@ -1746,17 +1260,6 @@ Sivak can remain in this new form as long as it wishes. A Sivak
 can change back to its normal form at any time. but cannot
 shapechange again until it kills another victim.
 
- 
-
- 
-
-ee
-a ae
-
- 
-
- 
-
 Sivaks use their shapechanging ability to explore or spy in
 lands hostile to draconians. A shapechanged Sivak can penetrate
 deep into a enemy stronghold, or it can secretly observe human-
@@ -1798,372 +1301,29 @@ slaughter of the Baar. Sivaks are tend of strong drink, but like the
 Baaz, alcohol has no significant effect on their ability to fight.
 Sivaks eat virtually anything, and have a special fondness for el-
 ven flesh.
-Dragons of Krynn
 
-Age RINE
-
- 
-
- 
-
-Dragons are the true children of Krynn, embodying the elemental
-forces themselves The most majestic and dignified of all the
-world’s creatures, dragons are power incarnate, capable of inspir-
-ing awe and fear in all who behold them
-
-White the dragons of Krynn are physically similar to the drag-
-ons of other worlds, then- personalities, goals, and philosophies
-are quite different.
-
-Background in the beginning, the gods created good, evil, and
-neutrality. Conflict among the gods resulted in the All-Saints
-war, resolved when the good and neutral gods combined forces
-to prevent evil from claiming victory. Good, evil, and neutrality
-persist in Krynn to this day, and their balance is crucial to the har-
-mony of all things.
-
-The development of good, evil, and neutral dragons paralleled
-this balance Just as the neutral gods joined forces with the gods of
-good, the neutral dragons aligned with the good dragons to
-thwart the plans of the evil dragons. However, the neutral drag-
-ons soon grew weary of being drawn into the endless conflicts be-
-tween good and evil, and ultimately most of them abandoned
-Krynn
-
-While little is known of the neutral dragons today, the influence
-of good and evil dragons remains strong. Black, blue, green, red,
-and white dragons invariably ally themselves with the forces of
-evil. while brass, bronze, copper, gold, and sliver dragons invari-
-ably ally themselves with the forces of good.
-
-Three Dragonwars were faught during the Age of Dreams, the
-first era of Krynn. In the final Dragonwar, a young Knight of So-
-lamnia named Huma was given the secret of the dragonlance, a
-powerful weapon capable of destroying dragons Flying a silver
-dragon. he battled the evil dragons in the skies, and they were
-eventually defeated. To preserve the balance, the good dragons
-departed the world. For years afterwart, dragons were unknown
-on Krynn existing only as creatures of legend.
-
-Following the Cataclysm (a world-wide disaster of unprece-
-dented proportions in which the wrath of the gods descended on
-Krynn), Takhisis, the Queen of Darkness, awakened the evil
-dragons and took the eggs of the good dragons. The good drag-
-ons swore an oath not to interfere with the affairs of Krynn in ex-
-change for their eggs safe-keeping, but Takhisis betrayed them by
-corrupting their eggs to create the draconians. The good dragons
-discovered the Dark Queen’s treachery and declared war on their
-evil cousins Fighting side by side with the good people of Krynn,
-the good dragons eventually triumphed in the conflict that came
-to be known as the War of the Lance.
-
-In the years following the War of the Lance, the good dragons
-seemingly disappeared again from the face of Krynn. In fact,
-many of the good dragons had succumbed to a mysterious dis-
-ease, while others had been summoned to their ancestral home to
-defend against an anticipated attack. Taking advantage of the ab-
-sence of good dragons, Takhisis made another attempt to conquer
-Krynn. But with the aid of the good people of Krynn, the good
-dragons were able to cure the disease that was killing them, secure
-their ancestral home, and rally their forces to stop Takhisis.
-Though the good dragons continue to persevere, their constant
-vigilance is required to hold the threat of evil in check.
-
-Dragons and Men Perhaps the most striking difference be-
-tween the dragons of Krynn and the dragons of other worlds is,
-their relationship with men and women. Where other dragons are
-reclusive and withdrawn, seldom involvmg themselves with the
-affairs of other races, the fates of Krynn dragons and Krynn men
-and women have been mexorably linked since the dawn of time
-This is as true of the evil drgons as it ot the good dragons The
-evil dragons maintain close ties with evil humans and demihu-
-mans and have worked closely with them in the past to realize
-then- common goals of conquest and subjugation In turn, the
-good dragons ally themselves with the forces of good to counter
-
-the evil dragons and to further the causes of justice and honor.
-
-Further, a mystical bond exists between good dragons and
-good people. This bond is based on mutual trust, respect, and co-
-operation. When the bond is strong, both dragons and people
-flourish, able to function at the peak of their talents and abilities.
-Rut when the bond is threatened by doubt, disrespect, or dishar-
-mony, both dragons and people suffer and regress.
-
-Dragon Culture The dragons of Krynn have a rich cultural her-
-itage. Although this is not generally known to the human popula-
-tion of Krynn, brilliant dragon scholars have excelled over the
-ages in areas as diverse as astronomy, mathematics, history, and
-philosophy. There have even been a small but notable number of
-dragon artists who have created magnificent poetry, beautiful
-music, and stirring literature. Though the good dragons have es-
-pecially strong academic and aesthetic talents, the evil dragons
-also have produced scholars and artists whose works rival those
-of any other race.
-
-Dragons have an oral instead of a written tradition, and most
-of their philosophy, history, and literature is passed from genera-
-tion to generation by word of mouth. But like other races with a
-rich culture, the dragons keep much of their heritage alive by pre-
-serving it in sculptures, paintings, and other works of art. These
-art works not only enrich the lives of the dragons with their sheer
-beauty, they also serve as permanent records of important ideas
-and events. They are among the dragons’ greatest treasures.
-
-Age Categories and Die Modifiers: Like the dragons of other
-worlds, the Hit Dice and combat modifiers of Krynn dragons
-vary among subspecies and are modified based on age category;
-this information is listed on the following Dragon Table. Combat
-modifiers apply to both attack and damage rolls for each physical
-attack, but these do not apply to a dragon’s breath weapon. Sav-
-ing throws are also tied to their Hit Dice: each dragon saves as a
-watrior equal in level to the drgon’s Hit Dice.
-
-Krynn dragons’ Hit Dice bases are identical to those of other
-worlds, as described in the first Monstrous Compendium vol-
-ume. (For instance, a Krynn copper dragon and a Hit Dice base of
-13, the same as his counterpart on other worlds. A hatchling cop-
-per dragon subtracts 6 dice, for a total of 7 Hit Dice; it saves as a
-7th level warrior.)
-
-Krynn dragons pass through the various age categories at a
-slightly slower rate than the dragons of other worlds, as shown
-on the Dragon Table. Though Krynn dragons cause tear in other
-creatures much like the dragons of other worlds, their tear auras
-are not as strong as those of other dragons: their fear radii and the
-modifiers affecting their victims’ saving throws are summarized
-on the Dragon Table.
-
-Attacks and Defenses: Krynn dragons have the same defense
-and attack abilities as their other-world counterparts, including
-spellcasting, breath weapons, physical dttacks. and enhanced
-senses. These are detailed in the first Monstrous) Compendium
-volume.
-
-Traits: Krynn dragons have the same characteristics,
-physical appearance, and statistics as their counterparts on other
-worlds. These similarities include alignment, Armor Class, treasure
-type, and experience points given in the subspecies listings in the first
-Monstrous Compendium volume. Ecological details, such as those
-pertaining to their lairs, metabolisms, and families, are also similar,
-as are their general combat tactics. However, Krynn dragons have
-different attitudes and philosophies than dragons from other worlds;
-these differences are summarized below.
-
-The Evil Dragons
-
-Black Dragons: Impulsive and nervous, black dragons tend to
-act first and think later. There are fewer black dragon scholars
-and artists than any other subspecies of Krynn dragon. Black
-Dragons of Krynn
-
-— Prag INI TRICE Cae -
-
- 
-
-dragons are extremely independent and ally with other races only
-if it serves their purposes; hence, they are seldom used by evil
-forces in times of war. Black dragons move silently and _ strike
-quickly. Their favorite spell is darkness, which is used to cover
-their movements during attacks.
-
-Blue Dragons: Although blue dragons live in caves, they prefer
-to dwell in deserts and arid lands. More gregarious than many of
-their cousins, blue dragons serve as line quality troops in times of
-warfare. Blue dragons believe they are the gods’ favorites.
-
-Blue dragons are wise enough to see the importance of coopera-
-tion, and thus are valued allies in times of warfare. Most dra-
-gonriders are mounted on blue dragons. The loyalty felt among
-the members of a blue dragon squad can be so profound that loss
-of a companion can plunge the survivors into deep depressions,
-sometimes to the point of hindering their effectiveness on the bat-
-tlefield. Though highly adept spellcasters and skilled fighters with
-their teeth and claws, the blue dragons’ favorite attack is their
-lighting breath.
-
-Green Dragons: Green dragons are notorious even among evil
-dragons for their cruel natures and vicious tempers. Green drag-
-ons have few concerns beyond their own immediate desires. Un-
-abashed hedonists, they relish treasure, rich foods and sensual
-pleasures. They are clever and subtle combatants. Green dragons
-obey orders only from leaders whom they respect. A leader who
-loses the respect of a green dragon may soon find himself between
-the dragon’s jaws.
-
-Green dragons prefer to use trickery and magic on an enemy in-
-stead of an all-out assault, but they engage in bloody melee when
-necessary.
-
-Green dragons are rarely used in major offensives, but are of-
-ten used for assassinations and other sinister assignments.
-
-Red Dragons: Red dragons are the strongest and most fearsome of
-all evil dragons. Their intelligence exceeds that of blue dragons.
-They cooperate with other dragons as necessary, but they refuse to
-obey orders with which they disagree. Red dragons see no grand de-
-sign to the multiverse; to them, existence is a random mix of chaos
-and disorder in which only the strongest can survive.
-
-Red dragons enjoy nothing more than setting cities ablaze, and
-then rummaging through the rubble for loot. Though leery of most
-leaders, they are loyal to the Queen of Darkness. Red dragons work
-well together. Unless it is in their best interest to take prisoners, red
-dragons hunt down and destroy their enemies to the last.
-
-White Dragons: White dragons are the least able of all the evil
-aragons. They have little or no interest in art, and only a periph-
-eral interest in the grand schemes of their evil cousins. In most
-cases, white dragons would prefer to be left alone. In times of
-war, white dragons are used as scouts or are assigned to defend re-
-gions of the least strategic importance. Though slow to react,
-white dragons can be effective fighters, relying heavily on their
-breath weapons to weaken opponents before closing to attack
-with their teeth and claws.
-
-The Good Dragons
-
-Brass Dragons Brass dragons believe that life is a series of tests and
-designed to weed out the weak from the strong. Though
-benevolent and understanding of creatures they consider to be infe-
-rior, brass dragons believe that ultimately the superior should be al-
-
-lowed to flourish Generally considered to be the least sophisticated
-of all of the good dragons, brass dragons have little interest in art or
-culture, instead devoting themselves to developing strategies for-
-dealing with the unavoidable hardships of existence They are good
-fighters, preferring to attack with claws and teeth, reserving their
-breath weapons and spells for emergencies.
-
-Dragons: Bronze dragons are fond of war and fighting
-Bronze dragons are also extremely interested in the affairs of man-
-kind. In ancient times, bronze dragons were believed to take the
-forms of domestic animals simply to study the cultures of men.
-
-Though not particularly deep thinkers, bronze dragons believe
-that concepts such as good and evil can be understood intuitively.
-Logic can actually impair understanding, since the universe 15 not
-a logical place.
-
-Copper Dragons: Copper dragons adhere to no particular philos-
-ophy and are easily influenced by the opinions of other. They are
-extremely fond of wealth, almost alwavs demanding to know how
-cooperating with others will benefit them They seldom make deci-
-sions of consequence without first consulting other dragons In
-spite of their selfishness, copper dragons are basically kind-
-hearted. They are loyal to their friends, but distrustful of strangers.
-In combat, they freely attack with both breath weapons.
-
-Dragons: Because of their devotion to the intellect gold
-dragons have produced many fine scholars, particularly in the
-fields of mathematics and philosophy. Though gold dragons re-
-spect all Intelligent creatures regardless of their species they
-rarely associate with other races-the arrogant gold dragons con-
-sider such associations to be demeaning. Gold dragons are ex-
-tremely skilled in magic and prefer to attack with their spells
-
-Silver Dragons: Silver dragons believe that the purpose of life is
-devotion to the standards of good. They believe in the sanctitv of
-life and that all creatures are equal in the eyes of the gods. The)
-go to war only reluctantly, but they are fully prepared to give
-their lives for a cause in which they believe.
-
-Silver dragons are the dragons most beloved by the races of
-Krynn. They can polymorph into human or elven form and
-sometimes seem to prefer these forms to their own They enjoy
-the company of humans and help them whenever they can.
-
-Dragon Table
-
-Hit Die Combat Fear
-
-Save
-Category Age Modifier Radius Modifier
-1 Hatchling 0-7 yrs -6 +1 7 —
-2 Very Young 8-20 =A +2 _ ~
-3 Young 21-35 -2 +3 - 7
-4 Juvenile 36-70 “1 +4 ~ ~
-5 Young Adult 71-120 Nil *5 140 yards +4
-6 Adult 121-250 +1 76 45 yards + 3
-7 Mature Adult 251-500 +2 +7 20 yards +2
-8 Old 501-750 +3 +8 95 yards +1
-9 Very Old 751-1000 iS +9 30 years 0
-10 Venerable 1. 001-1200 +5 +10 440 yards “i
-11 Wyrm 1.201-1.400 +6 +11 40 yards -2
-12 Great Wyrm 1.401+ +7 +12) 45 yards -3
-Dragon, Amphi
-
- 
-
- 
-
-CLIMATE/TERRAIN:
-
-FREQUENCY:
-ORGANIZATION:
-ACTIVITY CYCLE:
-DIET:
-INTELLIGENCE:
-TREASURE:
-ALIGNMENT:
-
-Tropical subbtropical and
-temperate/Ocean
-
-Rare
-
-Solitary
-
-Any
-
-Special
-
-Very (11-12)
-
-Special
-
-N’eutral evil
-
- 
-
-NO. APPEARING:
-ARMOR CLASS:
-MOVEMENT:
-
-HIT DICE:
-
-THACO:
-
-NO. OF ATTACKS:
-DAMAGE/ATTACK:
-SPECIAL ATTACKS:
-
-1-4
-
-3 (base)
-
-6. Sw 24
-
-9 (base)
-
-11 (at 9 HD)
-
-3 + special
-
-1-8/1-8/2-20
-
-Tongue, breath weapon, and
-
-magical abilities
-
+}, {
+"Name": "Dragon, Amphi",
+"Climate/Terrain": "Tropical subbtropical and temperate/Ocean",
+"Frequency": "Rare",
+"Organization": "Solitary",
+"Activity Cycle": "Any",
+"Diet": "Special",
+"Intelligence": "Very (11-12)",
+"Treasure": "Special",
+"Alignment": "Neutral evil",
+"No. Appearing": "1-4",
+"Armor Class": "3 (base)",
+"Movement": "6, Sw 24",
+"Hit Dice": "9 (base)",
+"THAC0": "11 (at 9 HD)",
+"No. Of Attacks": "3 + special",
+"Damage/Attack": "1-8/1-8/2-20",
+"Special Attacks": "Tongue, breath weapon, and magical abilities",
 "Special Defenses": "Variable",
-
 "Magic Resistance": "Variable",
-
 "Size": "H (25’ base length)",
-
 "Morale": "Champion (16 base)",
-
 "XP Value": "Variable",
 
 Age Body Breath Treas. X.P.
@@ -2211,14 +1371,6 @@ solitary opponents, particularly ones smaller than itself. The am-
 phi dragon may intentionally prolong its attacks to savor the
 death throes of a doomed victim.
 
- 
-
- 
-
- 
-
- 
-
 Breath Weapon and Special Abilities: An amphi dragon’s
 breath weapon is a stream of acid 60 feet long and three feet wide.
 Damage caused by the breath weapon varies with the dragon's
@@ -2250,7 +1402,7 @@ ties, useable once per day:
 
 Adult: detect magic
 Old: suggestion
-Wyrm: darkness, 15" radius
+Wyrm: darkness, 15' radius
 
 Habitat/Society: Too lazy to construct elaborate lairs, amphi
 dragons live in sunken ships or empty underwater caves. They
@@ -2262,9 +1414,92 @@ Ecology: Amphi dragons eat virtually anything, but they prefer
 live prey, especially Dargonesti and Dimernesti (sea elves). They
 scavenge refuse from the ocean floor and also eat algae, seaweed,
 fish, and minerals.
-Dragon, Astral
 
- 
+}, {
+"Name": {"Dragon, Astral": ["Unmated", "Mated pair*"]},
+CLIMATE/TERRAIN:The Abyss The Abyss
+FREQUENCY:Very rare Very rare
+ORGANIZATION:Solitary Pair
+ACTIVITY CYCLE:Any Any
+DIET: Any liquid Any liquid
+INTELLIGENCE: Genius (17-18) God-like (21)
+TREASURE: Nil Nil
+ALIGNMENT: Neutral Neutral
+NO. APPEARING: 1 2 (1 pair)
+ARMOR CLASS: 5 -5
+MOVEMENT: 6, F1 18 (C) 15, F1 48 (B)
+HIT DICE: 3 35
+THAC0: 17 5
+NO. OF ATTACKS: 3 6
+DAMAGE/ATTACK: l-4/1-4/2-12 3-60 (x4)/l-100 (x2)
+SPECIAL ATTACKS: Nil Spells
+SPECIAL DEFENSES: Immortal Immortal, spells
+MAGIC RESISTANCE: Nil 95%
+SIZE: M (5 long) G (50 long each)
+MORALE: Steady (12) Fanatic (17)
+XP VALUE: 1,400 40,000
+
+* These statistics apply to mated astral dragons when considered
+as a pair, not as individuals. See text for details.
+Astral dragon is a general term for a race of ancient golden
+dragons to whom all dragons of Krynn can trace a common ancestry. The immortal astral dragons are the personification of
+neutrality in dragons.
+Among the first dragons ever created by the gods were two astral dragons named Deion and Procene. These dragons were directcd to give birth to a race of dragons that the gods would adopt
+as their own. Selected newborns were taken from their parents
+and transformed to reflect the personalties and philosophies of
+the gods who adopted them. Thus were created early archetypes
+of black, red, gold, silver, and other dragons. Deion and Procene
+remained neutral, in exchange for their offspring, the gods
+pledged to leave them alone.
+When the couple grew weary of the constant tension between
+the good and evil dragons, they appealed to the gods to be relieved of their obligations on Krynn. The gods granted their wish,
+and relocated them to an alternate plane of existence in the
+Abyss. In time, Deion and Procene gave birth to new generations
+of neutral dragons.
+An unmated astral dragon is dull yellow in color and about five
+feet long with human hands and long, slim fingers. It has huge
+black eyes. and its scales are covered with fine blond fur. Though
+a hatchling is slightly less formidable (AC 4, HD 2), an astral
+dragon does not progress through the various age categories as do
+other dragons; its statistics do not change significantly until it becomes part of a mated pair.
+When an astral dragon finds a suitable mate, the couple appeals to the gods of neutrality to sanction their union. If approval
+is granted, the mated astral dragons undergo a remarkable transformation. To symbolize the union, the gods create a 100-foot
+golden chain, each end of which encircles the mates necks to link
+them for all eternity. The mates grow to a length of 50 feet and become enveloped in a permanent aura of golden light. Their intelligence and abilities increase to god-like levels.
+Thereafter, the couple lives. tights, works, and plays as a unit.
+If the chain is broken and the mates are separated by a distance of
+at least 100 yards for 30 days, they will revert to their original,
+weaker forms; however, it requires the power of a wish spell or its
+equivalent to break the chain.
+Astral dragons speak their own tongue as well as the languages
+of good and evil dragons. All astral dragons have the ability to
+communicate with any intelligent creature.
+Combat: Unmated astral dragons are incapable of performing
+snatch, kick, wing buffet, or tail slap attacks. Though they have
+the special senses of a dragon (as per the very young age category), they do not radiate fear. They can defend themselves with
+their claws and teeth, but they are sluggish combatants, always
+attempting to flee instead of engaging in melee. They are essentially immortal, as they instantly recover all lost hit points. However, they can be destroyed by power word, kill, wish, or similar
+spells.
+Mated astral dragons attack as a unit. Though capable of performing snatch, kick, wing buffet, and tail slap attacks, as well as
+vicious attacks with their teeth and claws, they prefer to use spells
+to frighten away their enemies.
+Mated astral dragons gain the abilities of a 35th-level cleric.
+They have the special senses of a dragon (as per the great wyrm
+age category). They radiate fear in a radius of 50 feet (-4 penalty
+to saving throw) and have a bonus of +12 to their attack and
+damage rolls. Like unmated astral dragons, they are essentially
+immortal, instantly recovering all lost hit points; nothing less
+than the power of a wish, power word, kill, or similar spells can
+destroy them.
+Habitat/Society: Astral dragons live in immense keeps of black
+crystal built for them by the gods. They rarely leave their keeps
+and never voluntarily leave the Abyss. A mated pair must petition the gods for permission to give birth, a request seldom
+granted in order to limit the population. Upon reaching the age of
+five, a young astral dragon is dispatched from his parents keep to
+fend for himself. Astral dragons have no interest in treasure.
+Ecology: Astral dragons consume only liquids. Any liquid will
+domercury is a nourishing to them as water. They have no
+natural enemies.
 
 cumargreReAt.
 
@@ -2644,7 +1879,7 @@ As person or creature mimicked
 "Special Defenses": "As person or creature mimicked",
 "Magic Resistance": "See below",
 
-SPECIAL ATTACKS:
+"Special Attacks":
 
 "Size": "As person or creature mimicked",
 "Morale": "As person or creature mimicked",
@@ -4655,14 +3890,14 @@ Charisma 8 18
 
  
 
-CLIMATE/TERRAIN:
-FREQUENCY:
-ORGANIZATION:
-ACTIVITY CYCLE:
-DIET:
-INTELLIGENCE:
-TREASURE:
-ALIGNMENT:
+"Climate/Terrain":
+"Frequency":
+"Organization":
+"Activity Cycle":
+"Diet":
+"Intelligence":
+"Treasure":
+"Alignment":
 
 The Abyss (preferred)
 Rare
@@ -4681,19 +3916,19 @@ Lawful evil
 
  
 
-NO. APPEARING:
-ARMOR CLASS:
-MOVEMENT:
+"No. Appearing":
+"Armor Class":
+"Movement":
 
-HIT DICE:
+"Hit Dice":
 
-THACO:
+"THAC0":
 
-NO. OF ATTACKS:
-DAMAGE/ATTACK:
-SPECIAL ATTACKS:
-SPECIAL DEFENSES:
-MAGIC RESISTANCE:
+"No. Of Attacks":
+"Damage/Attack":
+"Special Attacks":
+"Special Defenses":
+"Magic Resistance":
 
 1-20
 4
@@ -4804,15 +4039,15 @@ nearby, but they are not the natural prey of any creature.
 
  
 
-CLIMATE/TERRAIN:
+"Climate/Terrain":
 
-FREQUENCY:
-ORGANIZATION:
-ACTIVITY CYCLE:
-DIET:
-INTELLIGENCE:
-TREASURE:
-ALIGNMENT:
+"Frequency":
+"Organization":
+"Activity Cycle":
+"Diet":
+"Intelligence":
+"Treasure":
+"Alignment":
 
 Any
 
@@ -4830,24 +4065,24 @@ Chaotic evil
 
  
 
-NO. APPEARING:
-ARMOR CLASS:
-MOVEMENT:
+"No. Appearing":
+"Armor Class":
+"Movement":
 
-HIT DICE:
+"Hit Dice":
 
 THACO0:
 
-NO. OF ATTACKS:
-DAMAGE/ATTACK:
-SPECIAL ATTACKS:
-SPECIAL DEFENSES:
+"No. Of Attacks":
+"Damage/Attack":
+"Special Attacks":
+"Special Defenses":
 
-MAGIC RESISTANCE:
+"Magic Resistance":
 
-SIZE:
-MORALE:
-XP VALUE:
+"Size":
+"Morale":
+"XP Value":
 
 oO Aw
 
@@ -5078,14 +4313,14 @@ little to examine or study.
 
  
 
-CLIMATE/TERRAIN:
-FREQUENCY:
-ORGANIZATION:
-ACTIVITY CYCLE:
-DIET:
-INTELLIGENCE:
-TREASURE:
-ALIGNMENT:
+"Climate/Terrain":
+"Frequency":
+"Organization":
+"Activity Cycle":
+"Diet":
+"Intelligence":
+"Treasure":
+"Alignment":
 
 Any
 
@@ -5102,20 +4337,20 @@ Chaotic evil
 
  
 
-NO. APPEARING:
-ARMOR CLASS:
-MOVEMENT:
+"No. Appearing":
+"Armor Class":
+"Movement":
 
-HIT DICE:
+"Hit Dice":
 
 THACO0:
 
-NO. OF ATTACKS:
-DAMAGE/ATTACK:
-SPECIAL ATTACKS:
-SPECIAL DEFENSES:
-MAGIC RESISTANCE:
-SIZE:
+"No. Of Attacks":
+"Damage/Attack":
+"Special Attacks":
+"Special Defenses":
+"Magic Resistance":
+"Size":
 
 1-6/1-6/3-18 or 2-40
 
@@ -5126,8 +4361,8 @@ Hit only by magical weapons
 
 G (30’tall)
 
-MORALE:
-XP VALUE:
+"Morale":
+"XP Value":
 
 Champion (16)
 11,000
@@ -5771,14 +5006,14 @@ ground exists, it certainly abounds with gems and magical armor.
 
  
 
-CLIMATE/TERRAIN:
-FREQUENCY:
-ORGANIZATION:
-ACTIVITY CYCLE:
-DIET:
-INTELLIGENCE:
-TREASURE:
-ALIGNMENT:
+"Climate/Terrain":
+"Frequency":
+"Organization":
+"Activity Cycle":
+"Diet":
+"Intelligence":
+"Treasure":
+"Alignment":
 
 Any / Battlefield
 
@@ -5797,19 +5032,19 @@ Lawful good
 
  
 
-NO. APPEARING:
-ARMOR CLASS:
-MOVEMENT:
+"No. Appearing":
+"Armor Class":
+"Movement":
 
-HIT DICE:
+"Hit Dice":
 
-THACO:
+"THAC0":
 
-NO. OF ATTACKS:
-DAMAGE/ATTACK:
-SPECIAL ATTACKS:
-SPECIAL DEFENSES:
-MAGIC RESISTANCE:
+"No. Of Attacks":
+"Damage/Attack":
+"Special Attacks":
+"Special Defenses":
+"Magic Resistance":
 
 1-8
 
@@ -5941,8 +5176,8 @@ a knight haunt spirit to rest and then use the haunt’s armor.
 "No. Of Attacks": "1",
 "Damage/Attack": "2d8",
 
-SPECIAL ATTACKS:
-SPECIAL DEFENSES:
+"Special Attacks":
+"Special Defenses":
 
 -1 initiative, crush
 Nil
@@ -6026,15 +5261,15 @@ best in the world at this art.
 
  
 
-CLIMATE/TERRAIN:
+"Climate/Terrain":
 
-FREQUENCY:
-ORGANIZATION:
-ACTIVITY CYCLE:
-DIET:
-INTELLIGENCE:
-TREASURE:
-ALIGNMENT:
+"Frequency":
+"Organization":
+"Activity Cycle":
+"Diet":
+"Intelligence":
+"Treasure":
+"Alignment":
 
 Tropical and subtropical Ocean
 
@@ -6050,8 +5285,8 @@ Chaotic evil
 
  
 
-NO. APPEARING:
-ARMOR CLASS:
+"No. Appearing":
+"Armor Class":
 
 10-40
 4 or 1 (in mist form)
@@ -7098,7 +6333,7 @@ swamp
 
 "Damagef/attack": "1-2/1-2/1-6 (claw/",
 
-SPECIAL ATTACKS:
+"Special Attacks":
 
 claw/bite) or 1-4
 (tail) or by weapon
@@ -7412,7 +6647,7 @@ and urban and forest
 "Hit dice": "1 Varies 1-6 hp 1-6 hp",
 "THAC0": "19 Varies 20 20",
 "No. Of Attacks": "1 1 1",
-DAMAGE/ATTACK:
+"Damage/Attack":
 "Special Attacks": "Nil See below Nil Nil",
 "Special Defenses": "Nil See below Nil Nil",
 "Magic Resistance": "Nil See below Nil Nil",
@@ -7421,7 +6656,7 @@ DAMAGE/ATTACK:
 "Morale": "Steady (12)",
 or higher
 
-XP VALUE:
+"XP Value":
 
 Champion (15-16)
 
@@ -9449,8 +8684,8 @@ or hypnosis (such as a gem of brightness.)
 "No. Of Attacks": "3",
 "Damage/Attack": "1d3/1d3/1d6",
 
-SPECIAL ATTACKS:
-SPECIAL DEFENSES:
+"Special Attacks":
+"Special Defenses":
 
 Surprise, jellification
 Nil
@@ -9879,7 +9114,7 @@ tam, and jungle jungle
 "No. Of Attacks": "1 1",
 "Damage/Attack": "2-12 2-8",
 
-SPECIAL ATTACKS:
+"Special Attacks":
 
 Webs, poison
 
@@ -10142,7 +9377,7 @@ Villages
 "Damage/Attack": "1-4 1-8/1-8/2-12 +2",
 "Special Attacks": "Spells Killing rage",
 
-SPECIAL DEFENSES:
+"Special Defenses":
 
 Immune to all
 Enchantment /
@@ -10629,7 +9864,7 @@ seo Jeet she. 1 etarm any ote pneabra
  
 
 "Climate/Terrain": "Any",
-FREQUENCY:
+"Frequency":
 
 "Organization": "Solitary",
 "Activity Cycle": "Any",
