@@ -1,7 +1,14 @@
-div + div {
-    text-indent: 1em;
-}
 b1 {
     color: royalblue;
     font-weight: bold;
+}
+
+.indent {
+    text-indent: 1em;
+}
+
+.box {
+    background-color: lightblue;
+    border: 2px solid black;
+    padding: 25px;
 }
