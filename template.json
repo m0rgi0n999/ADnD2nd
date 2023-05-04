@@ -1,4 +1,7 @@
 [{
+    "_id": {
+        "$oid": ""
+    },
     "Name": "",
     "Climate/Terrain": "",
     "Frequency": "",
@@ -26,6 +29,9 @@
     "Source": "",
     "Image": ""
 }, {
+    "_id": {
+        "$oid": ""
+    },
     "Name": ["", ""],
     "Climate/Terrain": ["", ""],
     "Frequency": ["", ""],
@@ -49,12 +55,39 @@
     "Morale": ["", ""],
     "XP Value": ["", ""],
     "Psionic Summary": ["", ""],
-    "Description": ["", ""],
-    "Source": ["", ""],
-    "Image": ["", ""]
+    "Description": "",
+    "Source": "",
+    "Image": ""
 }, {
-    "Name": "Climate/Terrain": "Frequency": "Organization": "Activity Cycle": "Diet": "Intelligence": "Treasure": "Alignment": "No. Appearing": "Armor Class": "Movement": "Hit Dice": "THAC0": "No. Of Attacks": "Damage/Attack": "Special Attacks": "Special Defenses": "Magic Resistance": "Size": "Morale": "XP Value": "Psionic Summary": ["", ""],
-    "Description": "Source": "Image": ["", ""]
+    "_id": {
+        "$oid": ""
+    },
+    "Name": ,
+    "Climate/Terrain": ,
+    "Frequency": ,
+    "Organization": ,
+    "Activity Cycle": ,
+    "Diet": ,
+    "Intelligence": ,
+    "Treasure": ,
+    "Alignment": ,
+    "No. Appearing": ,
+    "Armor Class": ,
+    "Movement": ,
+    "Hit Dice": ,
+    "THAC0": ,
+    "No. Of Attacks": ,
+    "Damage/Attack": ,
+    "Special Attacks": ,
+    "Special Defenses": ,
+    "Magic Resistance": ,
+    "Size": ,
+    "Morale": ,
+    "XP Value": ,
+    "Psionic Summary": ,
+    "Description": ,
+    "Source": ,
+    "Image":
 }, {
 
 }]
